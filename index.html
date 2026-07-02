@@ -71,7 +71,7 @@
   .entry .marker{position:absolute;left:0;top:3px}
   .entry .marker .flag{--fs:24px;transform:rotate(-4deg)}
   .entry.rumor .marker .flag{background:var(--amber)}
-  .entry.injury .marker .flag{background:var(--silver-dim)}
+  .entry.roster .marker .flag{background:var(--silver-dim)}
   .entry.news .marker .flag{background:var(--silver-dim)}
   .entry.signing .marker .flag{background:var(--green)}
 
@@ -89,7 +89,7 @@
   .tag.trade{background:var(--storm-red)}
   .tag.signing{background:var(--green);color:#04160D}
   .tag.rumor{background:var(--amber);color:#2A1B00}
-  .tag.injury{background:var(--silver-dim)}
+  .tag.roster{background:var(--silver-dim)}
   .tag.cup{background:linear-gradient(90deg,#C8962B,#F0D27A);color:#2A1B00}
   .tag.news{background:#333A4A;color:#C7CEDA}
   .time{font-family:'JetBrains Mono',monospace;font-size:11px;color:var(--silver-dim);letter-spacing:.04em}
@@ -192,65 +192,37 @@
   "use strict";
 
   var SEED = [
-    { id:"leb-carlson-walk", t:"2026-07-01T13:05:00", type:"rumor",
-      title:"Carlson and Carolina can't reach a deal — he's shopping the East",
-      body:"The two sides couldn't agree on a contract in the negotiating window. Carlson is now exploring other options, with a stated preference to stay in the Eastern Conference.",
-      src:"Pierre LeBrun", out:"The Athletic", players:["Carlson"] },
-    { id:"pag-carlson-phitbl", t:"2026-07-01T12:24:00", type:"rumor",
-      title:"Carlson in talks with multiple teams, incl. Flyers & Lightning",
-      body:"With Carolina unable to close, Philadelphia and Tampa Bay are among the clubs in conversation with the veteran right-shot defenseman.",
-      src:"David Pagnotta", out:"The Fourth Period", players:["Carlson"] },
-    { id:"dreg-buyck-live", t:"2026-07-01T08:34:00", type:"rumor",
-      title:"Carolina still in on Hellebuyck; Jets willing to engage",
-      body:"Nothing imminent, but the Canes remain a contender for the goalie. Winnipeg is focused on free agency today and will pick up trade talks if they intensify. Buffalo could circle back.",
-      src:"Darren Dreger", out:"TSN", players:["Hellebuyck"] },
-    { id:"round-rangers-niki", t:"2026-07-01T07:30:00", type:"rumor",
-      title:"Rangers' draft-day offer for Nikishin was turned down",
-      body:"Per the July 1 rumor roundups, New York's offer of a first-round pick plus another pick for Nikishin was rejected at the draft. He's drawing interest but isn't offer-sheet eligible.",
-      src:"NHL Rumors", out:"roundup", players:["Nikishin"] },
-    { id:"fried-niki-turndown", t:"2026-07-01T09:20:00", type:"rumor",
-      title:"Nikishin turned down a long-term extension",
-      body:"Carolina offered a long-term deal and Nikishin declined — likely in the range of Jackson Blake's eight-year, $5.1M pact. It's the trigger behind the trade chatter.",
-      src:"Elliotte Friedman", out:"Sportsnet", players:["Nikishin"] },
-    { id:"dreg-niki-six", t:"2026-06-30T18:00:00", type:"rumor",
-      title:"Six-plus teams in the mix on a Nikishin trade",
-      body:"Carolina is fielding calls on the RFA defenseman as it weighs a trade against a pricey long-term extension.",
-      src:"Darren Dreger", out:"TSN", players:["Nikishin"] },
-    { id:"fried-carlson-9", t:"2026-06-28T15:00:00", type:"rumor",
-      title:"Carlson seeking around $9M per year",
-      body:"Friedman pegged the ask near $9M annually — a number that would eat most of Carolina's remaining cap space, on a team whose top-paid D (K'Andre Miller) is $7.5M.",
-      src:"Elliotte Friedman", out:"Sportsnet", players:["Carlson"] },
-    { id:"leb-carlson-floor", t:"2026-06-27T20:00:00", type:"rumor",
-      title:"Carlson's floor: about $10M over two years",
-      body:"LeBrun framed the minimum entry point at roughly $10M across two seasons, with Carolina one of four or five interested teams.",
-      src:"Pierre LeBrun", out:"The Athletic", players:["Carlson"] },
+    { id:"niki-rfa-open-jul1", t:"2026-07-01T14:00:00", type:"rumor",
+      title:"Nikishin still unsigned; Canes weighing extension vs. trade",
+      body:"With Carlson's rights in hand, Carolina is deciding whether to lock up RFA defenseman Alexander Nikishin long-term or move him. GM Eric Tulsky called him \"a big piece\" of the team but left the door open. Dreger had reported the Canes shopping Nikishin around the draft.",
+      src:"Darren Dreger", out:"TSN", players:["Nikishin","Carlson"] },
+    { id:"andersen-edm-jul1", t:"2026-07-01T20:07:00", type:"roster",
+      title:"Frederik Andersen signs with Edmonton \u2014 1 year",
+      body:"The Cup-winning goalie leaves Carolina, agreeing to a one-year deal with the Oilers ($1M base plus up to $1.8M in games/playoff bonuses), per Kevin Weekes. The Canes are expected to open next season with Brandon Bussi and Pyotr Kochetkov in net.",
+      src:"Kevin Weekes", out:"ESPN", players:["Frederik Andersen"] },
+    { id:"canes-ufa-departures-jul1", t:"2026-07-01T18:30:00", type:"roster",
+      title:"UFA departures: Suzuki to Ottawa, Fensore to Colorado",
+      body:"Depth pieces move on as the market opens \u2014 Ryan Suzuki signs with the Senators and Domenick Fensore with the Avalanche. Mike Reilly remains an unsigned UFA.",
+      src:"NHL (official)", out:"", players:["Ryan Suzuki","Domenick Fensore","Mike Reilly"] },
+    { id:"carlson-open-market-jul1", t:"2026-07-01T11:30:00", type:"rumor",
+      title:"Carlson unsigned as market opens; cap crunch looms",
+      body:"Carolina has roughly $11.1M in cap space, with Sebastian Aho ($9.75M) setting the salary ceiling. Whether the champs stretch for a 36-year-old right-shot D remains the open question of their offseason.",
+      src:"Pierre LeBrun", out:"The Athletic", players:["John Carlson"] },
+    { id:"kk-trade-candidate", t:"2026-06-30T16:00:00", type:"rumor",
+      title:"Kotkaniemi named a trade/buyout candidate",
+      body:"After a down year (2G, 9P in 42 GP), Jesperi Kotkaniemi is back in speculation with four years left on his deal as Carolina looks to reshape its middle six.",
+      src:"Pro Hockey Rumors", out:"", players:["Kotkaniemi"] },
     { id:"trade-carlson-rights", t:"2026-06-27T14:30:00", type:"trade",
       title:"Canes acquire John Carlson's negotiating rights from Anaheim",
-      body:"Carolina sends defenseman Kyle Masters and a 2026 sixth-round pick (No. 192) to the Ducks for exclusive negotiating rights ahead of July 1. No deal was in place at the time.",
+      body:"On the final day of the draft, Carolina sent RFA defenseman Kyle Masters and the No. 192 pick (2026, 6th round) to the Ducks for exclusive rights to the pending UFA. No contract was in place at the time.",
       src:"Elliotte Friedman", out:"Sportsnet", players:["John Carlson"], oppNames:["Anaheim","Ducks"], oppColor:"#F47A38" },
-    { id:"dreg-jarvis-angle", t:"2026-06-17T12:00:00", type:"rumor",
-      title:"Dreger floats Jarvis as a possible Hellebuyck return piece",
-      body:"Noted that Seth Jarvis — a Winnipeg native — carries no trade protection, raising him as a name the Jets could target coming back in any Hellebuyck deal.",
-      src:"Darren Dreger", out:"TSN", players:["Jarvis","Hellebuyck"] },
-    { id:"srv-buyck-offer", t:"2026-06-16T10:00:00", type:"rumor",
-      title:"Canes offered Nikishin + a 1st to Winnipeg for Hellebuyck",
-      body:"Pre-draft, Carolina put Nikishin and a first-round pick on the table for the reigning-best goalie. The framework could be revisited, but more money would need to move to fit his $8.5M hit.",
-      src:"Frank Seravalli", out:"Daily Faceoff", players:["Nikishin","Hellebuyck"] },
-    { id:"cossa-sign", t:"2026-06-15T11:00:00", type:"signing",
-      title:"Sebastian Cossa signed — 2 years, $2M cap hit",
-      body:"Carolina locks up the 23-year-old goalie as cost-controlled organizational depth behind the NHL tandem.",
-      src:"PuckPedia", out:"", players:["Sebastian Cossa"] },
-    { id:"desl-sign", t:"2026-06-14T11:00:00", type:"signing",
-      title:"Nicolas Deslauriers re-signed — 2 years, $1.75M",
-      body:"The veteran fourth-line winger returns on a two-year deal, done at the Championship Celebration.",
+    { id:"desl-resign", t:"2026-06-16T19:30:00", type:"signing",
+      title:"Nicolas Deslauriers re-signed \u2014 2 years, $1.75M",
+      body:"The veteran winger's extension was announced at the team's Championship Celebration.",
       src:"Canes (official)", out:"", players:["Nicolas Deslauriers"] },
-    { id:"jarvis-surgery", t:"2026-06-13T16:00:00", type:"injury",
-      title:"Seth Jarvis undergoes shoulder surgery — out 4–6 months",
-      body:"Not unexpected given the lingering issue. Puts a timeline on the top-six winger's return heading into the season.",
-      src:"Hurricanes", out:"", players:["Seth Jarvis"] },
     { id:"cup-2026", t:"2026-06-14T23:00:00", type:"cup",
       title:"Hurricanes win the 2026 Stanley Cup",
-      body:"Carolina's second title in franchise history. Brandon Bussi posted a .931 in the Final and won three games to help clinch after Andersen was banged up.",
+      body:"Carolina's second championship, and its first since 2006. Frederik Andersen was brilliant through three rounds (.931) before a Final injury handed the crease to rookie Brandon Bussi, who closed it out.",
       src:"", out:"", players:["Brandon Bussi","Andersen"] }
   ];
 
@@ -259,13 +231,13 @@
     {key:"rumor",   label:"Rumors"},
     {key:"trade",   label:"Trades"},
     {key:"signing", label:"Signings"},
-    {key:"injury",  label:"Roster"},
+    {key:"roster",  label:"Roster"},
     {key:"cup",     label:"Cup"},
     {key:"news",    label:"News"}
   ];
 
-  var LS_SEEN = "canesWatch.seenIds.v2";
-  var LS_LOG  = "canesWatch.log.v2";
+  var LS_SEEN = "canesWatch.seenIds.v4";
+  var LS_LOG  = "canesWatch.log.v4";
   var activeFilter = "all";
   var deselected = {};   // rumor sources the user has unchecked
   var panelOpen = false;
@@ -360,6 +332,11 @@
     return d.getFullYear()===n.getFullYear() && d.getMonth()===n.getMonth() && d.getDate()===n.getDate();
   }
   function sortLog(){ log.sort(function(a,b){return new Date(b.t)-new Date(a.t);}); }
+  var ALL_LIMIT = 25;
+  // "All" = the 25 most recent (news excluded). Concrete moves then get a modest
+  // half-day lean so they edge rumors of similar age while staying intermingled.
+  var ALL_BOOST = { cup: 4.32e7, trade: 4.32e7, signing: 4.32e7, roster: 4.32e7 };
+  function allScore(i){ var t=new Date(i.t).getTime(); if(isNaN(t)) t=0; return t + (ALL_BOOST[i.type]||0); }
   function tagLabel(t){ return t==="cup" ? "CHAMPIONS" : t.toUpperCase(); }
 
   function render(){
@@ -374,8 +351,16 @@
     var empty = document.getElementById("empty");
     feed.innerHTML = "";
     var shown = 0;
-    log.forEach(function(item){
-      if(activeFilter==="all" && (item.auto || item.type==="news")) return;
+    var displayList;
+    if(activeFilter==="all"){
+      displayList = log.filter(function(i){ return i.type!=="news"; })
+                       .sort(function(a,b){ return new Date(b.t)-new Date(a.t); }) // most recent first
+                       .slice(0, ALL_LIMIT)                                        // the 25 most recent
+                       .sort(function(a,b){ return allScore(b)-allScore(a); });    // then lean concrete up
+    } else {
+      displayList = log;
+    }
+    displayList.forEach(function(item){
       if(activeFilter!=="all" && item.type!==activeFilter) return;
       if((activeFilter==="rumor"||activeFilter==="news") && item.src && deselected[item.src]) return;
       shown++;
@@ -577,8 +562,6 @@
     return "https://news.google.com/rss/search?q="+encodeURIComponent(NEWS_QUERY)+"&hl=en-US&gl=US&ceid=US:en";
   }
   function newsHash(s){ s=(s||"").toLowerCase().replace(/\s+/g," ").trim(); var h=0,i; for(i=0;i<s.length;i++){ h=(h*31+s.charCodeAt(i))|0; } return "news-"+(h>>>0).toString(36); }
-  var RUMOR_SIGNALS=["rumor","rumour","rumored","rumoured","rumor mill","linked","linked to","interest","interested","in talks","trade talks","talks with","reportedly","targeting","pursuing","pursuit of","eyeing","in the mix","sweepstakes","trade bait","asking price","shopping","suitors","on the block","trade candidate","speculation","kicking tires","market for","monitoring","could trade","may trade","would trade","open to","wish list","potential trade","possible trade","trade target","free agent target","expected to sign","expected to trade"];
-  function classifyNews(title){ var t=" "+(title||"").toLowerCase()+" "; for(var i=0;i<RUMOR_SIGNALS.length;i++){ if(t.indexOf(RUMOR_SIGNALS[i])>=0) return "rumor"; } return "news"; }
   function parseNews(xml){
     var out=[];
     try{
@@ -592,7 +575,7 @@
         if(!outlet){ var m=title.match(/\s-\s([^-]+)$/); if(m){ outlet=m[1].trim(); } }
         title=title.replace(/\s+-\s+[^-]+$/,"").trim();
         var d=new Date(pub); if(isNaN(d.getTime())) d=new Date();
-        out.push({ id:newsHash(title), t:d.toISOString().slice(0,19), type:classifyNews(title), auto:true,
+        out.push({ id:newsHash(title), t:d.toISOString().slice(0,19), type:"news", auto:true,
                    title:title, body:"", src:outlet||"Google News", out:"", players:[], url:link });
       }
     }catch(e){}
