@@ -1,5 +1,17 @@
 [
   {
+    "id": "news-1gspgw7",
+    "t": "2026-07-04T03:27:13",
+    "type": "news",
+    "auto": true,
+    "title": "Listen",
+    "body": "",
+    "src": "99.9 The Fan",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1ETmtnczVhNHFTNUpGbU1FQ2M3ZldUMGxXT2ZieVdScF9LNW1UOU13cGNvYnVhdDlTU0swOXh3eExDa3FSMzBr?oc=5"
+  },
+  {
     "id": "news-pxkro0",
     "t": "2026-07-03T22:07:00",
     "type": "news",
@@ -466,17 +478,5 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE80bS1nU3R2TzdsbXl0VXBTOHk3X3dCWGhsWjhTVV9jazl1dEFoLVFjODFCSVpMTWFGclh3T0d2Wlp4U18wdWw5T0FpZWlRN0x4MlVzRXEzd1Vtd0c2cEMwRlhpbjFmU3lpOGE3LXlKT25jXzZVcktOemtOUQ?oc=5"
-  },
-  {
-    "id": "news-i3ch6n",
-    "t": "2026-07-01T22:49:12",
-    "type": "news",
-    "auto": true,
-    "title": "Carolina Hurricanes Receive Final Zach Werenski Trade Decision Amid Latest Statement",
-    "body": "",
-    "src": "heavy.com",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVUhLYTBia3BQbHNfVFRUbDJNajZMU2dobEJzeUxPOENTRUZFSHJUZzRoOTlub0s2NGd4UG9fMHVzNklieWVrdHJvaDBwc2VtYnNPSl9Edi1uRVoydDFkT0xNUlo2bU1KZmQyX3FEM1ZHTmt4QzJkd1Izck1ZZTFwekRCZkdiNlBweFRGSmtDREo3bnIxeXdXSTV2UW9yeTZRT2M1ZTNoYllKUU53NzNWU2UtSmQ3Vmk0X0d6NG5hWDNQSUxvZ0lFaXBkLVp4UDA?oc=5"
   }
 ]
