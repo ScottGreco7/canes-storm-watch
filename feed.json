@@ -1,5 +1,17 @@
 [
   {
+    "id": "news-oe26p1",
+    "t": "2026-07-16T11:55:00",
+    "type": "news",
+    "auto": true,
+    "title": "A rule change gave the Hurricanes life before squandering it on the final day in 2011",
+    "body": "",
+    "src": "Cardiac Cane",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOWR4WGlwWnVaSk1qRVVSbFgtN2cyTDJQd3hmYzl4dzB2bHItVFpObi1pZXg3R1dzMnYxRUdoUGQ2QkZVS2p1Y2ppMUZ2QmFadWhfbzRhcmloaTFxUXBXLXNoM3JrUEgyTG9tWmRfVUxTUHBwdGtNMHh1TzBCRl9vbVZ1UFNNMWZjTDVMUDZjQXJYTE9WZlpWMS1vY3d1MEha?oc=5"
+  },
+  {
     "id": "news-102tydu",
     "t": "2026-07-16T03:39:37",
     "type": "signing",
@@ -420,6 +432,18 @@
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYUVTS2lodV9kRmZHTXFzTTJ1Sy0yakVMR2hHd2RaYzBhZGNLbjlqaTNWQjNOdjd3dGtMdnN1elVrZENDMlRwZW5HR3pub2NYdjZpNnhuWmlYOTZzZGhQZ3M4VS1yYmtkZ2tfME9uUFNmZ2dSVnl2QWVuY1JZb3hZdjduekdZcDI4VEJBWE9vcnRCVS12RjJoQUxnRXY?oc=5"
   },
   {
+    "id": "news-2ipik3",
+    "t": "2026-07-11T19:24:00",
+    "type": "signing",
+    "auto": true,
+    "title": "The five best contracts signed in 2026 NHL Free Agency so far",
+    "body": "",
+    "src": "Daily Faceoff",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRm9Ud2NLX3FZWGNDSFdMSWZLclBoUTFxdWlETWRyMGc0MzREdjdCY21uTWM1VURBMmQ4OUFadFhsdjlEM3JQQm5BWU8yN1dmTmNjZU9GMEhPUjlCMkg1cEY3RzZzYjhXUy00bm9odGZ1MjVrZGp1NW5ydXQyVXlObnMwOURtVGVRX21RQUJEeHR6VkNsdWJtU2dTTEVMUEpnVjdtankxelJ3UmpsWlEwbnBXYTdJNG9WSFVtMUlGSVA0c0M0Y05xemJLTGM?oc=5"
+  },
+  {
     "id": "news-1wsdp4e",
     "t": "2026-07-11T15:24:00",
     "type": "news",
@@ -454,29 +478,5 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQeGg2c2tsMU5IeFVGeDA1V2gycHFkVnZ3b010cGhhMEFGd3VwWGZuSkZndEFRUEFVZXIwZ3E2WjRBdVFnbkx2YXpxVXZtWk9HUGJuM2w5ME1neDVvSmc0SzNfaXFnWFZZSHh6R0FfQkhYUDd3TzZPQ0c2TGhWLW82c2FiRzBRTy01NUI5eXJvX1o1RGVSVzgwcFdRSThJMXNOazVrT2s1R09hbzc2TE5QVHBRRG5EWW9xN3FGeWpEVlRCaENLTzBFNEI4R0tWTVRaaEUwMy1XTnA4Yl9TOF85a0MxQnRxTkdUQTVV?oc=5"
-  },
-  {
-    "id": "news-1xkpmpw",
-    "t": "2026-07-10T23:12:00",
-    "type": "news",
-    "auto": true,
-    "title": "2 Trade Options For Flyers At Center After Losing Out On Carlsson",
-    "body": "",
-    "src": "nhltraderumors.me",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPLTRBMlRxbUtMUWhpZU5xbDNpeEN6UVFEY2hwaFlETUVZQUlqTEFscEFJOTVDT1ctX3Q2OUVqM0pXRXBoODk1VmFaRWdhbEtYRzhlVDFZbWlaNHRiY2RxNmhzRnlfQm9HbHFVU0duaXIxUWp0Z3JWazlXaC0xMUxDWVVLWjd4dw?oc=5"
-  },
-  {
-    "id": "news-i342lw",
-    "t": "2026-07-10T22:06:49",
-    "type": "news",
-    "auto": true,
-    "title": "Carolina Hurricanes' Stanley Cup engraving sparks debate",
-    "body": "",
-    "src": "99.9 The Fan",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4yRU1nN3c3UjJZWmc3UUhPNXd2bGh0MFpuZDRqMzd4b2dqZTk1UkM1TGM0OXZjQXBVLXBIY3RQYkNVbmpKYlF6UkRpanlUVDQ?oc=5"
   }
 ]
