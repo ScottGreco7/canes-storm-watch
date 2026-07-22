@@ -24,6 +24,18 @@
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPS1pZRnBsd3I0NjQ4VUxOMEkyNTVuZno2SXdaUjVIREROUURvTWRPY21CMWN6a29Ic1U2dm54c2JvVDBjWXo3LThrVnZFUDNaR3Y2YndEZGRMaTI3OHU4YU1lUTVlNHY0eFRtUXpMYzZLeGYxSmNGRGFwU09VY1V3UnZwU1RWYXVvNklJM2hHT3BjRk9UcDhxaFhldlJ5NVk?oc=5"
   },
   {
+    "id": "news-1gn976a",
+    "t": "2026-07-21T21:49:00",
+    "type": "rumor",
+    "auto": true,
+    "title": "Free-Agent Vladimir Tarasenko Linked To 4 Teams",
+    "body": "",
+    "src": "nhltraderumors.me",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWVluMl9Vd1h4dmp3WlZ4M0pqXzF5V2JpWXhnRDQ5Q3p0LVh5RDlSSENOczFCMlB1TnhZLXZLZl9jMkZyWDhZOWJoQlVfcU82Q19QS1BPNDZfQ1hRY3JvWmhaQ0dHcE9uMzJSMDJRajJBMlpNVkt4X1NsUXlnMlh6VFpyNkgzYko2VVE?oc=5"
+  },
+  {
     "id": "news-kp7jzh",
     "t": "2026-07-21T19:54:13",
     "type": "news",
@@ -34,6 +46,18 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5UeTh3b0ZJd3NUZFd2N2FMNm96Nkx1R1lpbzFzd2dYTm9jNFEwQ1J1OUd5NTVpTWd6emMtNTFublZWSXRjX2twRFZqbFYzdHBDZzdLQVNEam1wOTYyX3piTzZodldON21paXA1NTJ1YmFNMG1xZVBHNVJUMA?oc=5"
+  },
+  {
+    "id": "news-o3mmpk",
+    "t": "2026-07-21T19:41:01",
+    "type": "signing",
+    "auto": true,
+    "title": "Julien Gauthier Signs One-Year Deal With Brynas IF",
+    "body": "",
+    "src": "Pro Hockey Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNS1cxVHlHVVpVVmhVWkdpUF9fV1h4UHpIMmY3UGo5VzlyczB2b0JvUncxdEV3Tmg1T2xVNFRFSWJpRnljdWVGRVdBZElOOEE1aUw1V3MweGNjNVo3dERfX08ydFVWMER0UVJDZjc5TTJNaUlreE9ncThVa0lOeU5OZmRaMy1uV0RsYjZySGpzSk5yY2FhR0lZUmxHNA?oc=5"
   },
   {
     "id": "news-tulz3a",
@@ -454,29 +478,5 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQb09XRl9jam5MWGtEdTAtdUlzTmoxQkc4OEhKblN1cDJxYjFRdDNkTlJiTlJqQjdOVFE5aGh4Zm1JU3NMNGFqejNLM2lPSzN6NzgzRnpWbkZPVV8xOTYzUTlmbjdyQlZ4dk0yX1BPYUZBM1cxQTE0NXRMMWhSTUhpYXRDMzZmREdOc1E?oc=5"
-  },
-  {
-    "id": "news-1ho1k8v",
-    "t": "2026-07-17T02:42:32",
-    "type": "signing",
-    "auto": true,
-    "title": "Top 2027 NHL Draft Prospect Luca Santala Signs With OHL\u2019s London Knights",
-    "body": "",
-    "src": "Pro Hockey Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdmQ5dXR2dW5GSlJnbjFhRjFxYTl1TWQ3bTB0a2d2c28tY0F2Z25KZUhTZU41aGpyZ3JkNFZaalF3V0p6SGJjUGliWV9WbzJCZG1RZ2ZpTk9ZVUE0LUhNOWF3T3JibVM5Q1dKcDlsejZMa25hTy0yQXV5bHRaMjgxYUV5d3pPWTNDc0NfU0pRX1Z1MGZxSHBNNXc4TnRCYjFHbGJlQmpjR0VYZDNHbXVMcHNEbVlfNTg?oc=5"
-  },
-  {
-    "id": "news-1y088x",
-    "t": "2026-07-17T01:17:00",
-    "type": "news",
-    "auto": true,
-    "title": "Stanley Cup Windows 2026-27: Central Division",
-    "body": "",
-    "src": "Daily Faceoff",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQYW5meXhiZ2pGdm5FallZMnl4dFRtdDdCVUtOOVhlYzJDT3N6WS1jQ3o3ZXhqai1GTThVdFpiMjc2bzF3MDFuTl9yNVhOZ3pGZ1A5cmh3SmdzdWZXYVBzc0ViNUdkekg4NnNsc0NhNHBOakpYNjJmZFVZM2pWUGRsX0VEU2tWcTU3VV94OEJqZjVfZlJURVVpelVLZXoyR1FaN2RsdGFIN255WVZqS0hES0pzZDlKNGJBYnlyYlBwbzIyOTZodHIyaE51MnpyMDJxX0dENGh5bnhxOVI0VkxIQllLNWpSajRhbzZOTDlTY2piS3JkQUw4WC1DLWprb1M0X1E?oc=5"
   }
 ]
