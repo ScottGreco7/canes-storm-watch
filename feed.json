@@ -1,5 +1,53 @@
 [
   {
+    "id": "news-1rxd2a1",
+    "t": "2026-07-24T23:21:15",
+    "type": "news",
+    "auto": true,
+    "title": "Hurricanes could turn Alexander Nikishin into the NHL's next blockbuster trade",
+    "body": "",
+    "src": "Yardbarker",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOd09raG9aZXZqNVAyWFYxd2NHMWxGUVF5b3ozdy10Slc3SUhBb2pEaHg2WGc1Wi1kNlA5MzlTNWFoSkhfeHVwd0hBalZVcTJ1U3pyRmJETzhjbk52bS1fWGs3SVAwSnBZSnlFSXpybXZGSEpCVkEzV3czdENwR1h2N0ZtVW1CS2FnUjdtclNsX21Hc3ZrVUs3dG1WT3FxODVtS2VCQUdrbkg2Z3F5OUxvQ1FwaEkyS0gwR0gzUWM4UlRJanNzeEpKT1pTeFZJN2VN?oc=5"
+  },
+  {
+    "id": "news-jailzb",
+    "t": "2026-07-24T22:25:52",
+    "type": "news",
+    "auto": true,
+    "title": "Afternoon Notes: Tortorella, Gold, Zubov",
+    "body": "",
+    "src": "Pro Hockey Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObk14a1NUR2Zkc0pjUGVBYTlLWjBodC11ek1aM1RQSEF3QTFCb0U1YTFfTUQ2SFRQTDRRSnlTR1lGamo2andyUUZRaUVWUWlTcjIzQjVHd3VVRFp2MU1kODhiaHJEN1JmWUdkYWI0SjNPWG04QmlqWkRmX2VGRUJNcmRZc3prTHFnRkE?oc=5"
+  },
+  {
+    "id": "news-ww9qr1",
+    "t": "2026-07-24T21:48:00",
+    "type": "rumor",
+    "auto": true,
+    "title": "Metropolitan Team Linked To Canadiens RFA Arber Xhekaj",
+    "body": "",
+    "src": "nhltraderumors.me",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdEZhc25oUXVXbjY1Wk8xYUYxMm0zN3hzaV9MdlowRjZCWDFOMzVkUS1PRUxudmxGTlc3b0VxUDM3M0d3VERXakpYeU5HOEh6VlB2b1BYOWRzYTBnWDN4ZVBfd1p6MzlCQ253RXZ0eEQtbFppeHZlRG0zaHhFYUxoR0RxTWExd1E?oc=5"
+  },
+  {
+    "id": "news-1kr1t67",
+    "t": "2026-07-24T21:00:04",
+    "type": "signing",
+    "auto": true,
+    "title": "Panthers Sign Akira Schmid To Two-Year Deal",
+    "body": "",
+    "src": "Pro Hockey Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSGpGM2FhTFFiOXV2OFppSURkUXJYenNFVFJ3TXB5R0g1ZG50RndPdEZtZHBJeUxrZlBVVVMxWFFEY3RIMWVQbXFCQjgtWVZXa3RZSUtrenBnMTlueEpZM0VaWUlBekZFdTRZVUFRRGpXWnVPMmRtbHFfcm9mdDlWZXEzRUNEMjRDbDFnSkJoSXBZQQ?oc=5"
+  },
+  {
     "id": "news-xxdstt",
     "t": "2026-07-24T19:34:00",
     "type": "signing",
@@ -430,53 +478,5 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNSklJckJwUk9TdHozQ2ZtOGpoT2NVUXBoY00xNTlNYlpHZDRnUVRxdVFwS2FTU2gtaW9QNGdVNUVyV0tuTE5OeVVBQzZNRDF3bC13M1U4dkVHU1NOY1QyNkphZmVjSkU2YmNRZ241T3RQdXFELWN1MUh1SnJSaFd6RERzWHIwYW4zLWxicEY2THVxRHZwamUxMl9rX1RMZUgzVmYtLWgzV1ZjNDgtb0NuM3I1SzBlQ3VHWnROdDBvUXhTTDRVUVliNXFzUS1pRnQybV80QUFnNmR0and1RmZ4UTIyUzNqcjA?oc=5"
-  },
-  {
-    "id": "news-1mu9e0d",
-    "t": "2026-07-22T03:35:00",
-    "type": "news",
-    "auto": true,
-    "title": "Stanley Cup Windows 2026-27: Pacific Division",
-    "body": "",
-    "src": "Daily Faceoff",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQUzlfbFQyWWFyQ0lmQVdlMThpRVQyVGVvU1E0SEtzZ0JMR082d0lidEhEZlI2RjBwc0FDdkd6eUlKRGhmZmx1NnVJNkVTQWJZdS0yVmJvNk5YRTd3UjBTMzVnVUdsZWdXUUlIZkhHUHM3aEozekVKLVc3Wm00NzZ2bElEVGsyZnhybV9PdjBCa05yZTRpMElMc3VKS3VfcVdhTzh6TDN2UzB5T2NRZm9hZ0tPRTRFTnZlUVVnUk1jMEo3YlVKcGlYZ1pnV085b3ZXX0JlSENXYzVTbnRIUnhKXzh5QW82TmtYc2IzMWpYSFJaOVRjbUFlZmFKbVcyNkdnYTMwZg?oc=5"
-  },
-  {
-    "id": "news-1ds0u4z",
-    "t": "2026-07-22T03:27:56",
-    "type": "signing",
-    "auto": true,
-    "title": "Dallas Signs Jason Robertson To One-Year Deal",
-    "body": "",
-    "src": "Pro Hockey Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVEE2LTltc0x4LVgzekozdDM4WmNWeXB4R3FreVpWaWNpd3RWTE54LW5rdWU1cUQ3X2h0MXdnSzd6T1BGSks1ZElTMEg2aGZ3eDZNdlVBbkRRM0hCZWZkR0VWcWx2N0FwZEJVSHJSMlhKNFhGSk1PdFNxRnRFby1RMndkWXF6RFJId0NCd0VlU0lGZ28w?oc=5"
-  },
-  {
-    "id": "news-xos2h5",
-    "t": "2026-07-21T22:07:53",
-    "type": "news",
-    "auto": true,
-    "title": "Hurricanes announce new TV Network",
-    "body": "",
-    "src": "Canes Country",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbE9FVkJQM1VXbW9PRU1WWXFYYXJ0TW9GWmRsZ0Ytd25rOGtRclBodzlmNHFpeW9ubnZRQmNjbnVfc2pUenRjeGg5SXhiLWwtNTNLWk5fZE1NVUlqOWk1SEVidV9GQzQzQzZkUXJ5MVZQNERmYXhMbW5ob25SeEJUSjl2Yw?oc=5"
-  },
-  {
-    "id": "news-mbap91",
-    "t": "2026-07-21T21:53:53",
-    "type": "news",
-    "auto": true,
-    "title": "1 game each month that every Hurricanes fan should consider appointment viewing",
-    "body": "",
-    "src": "Cardiac Cane",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPS1pZRnBsd3I0NjQ4VUxOMEkyNTVuZno2SXdaUjVIREROUURvTWRPY21CMWN6a29Ic1U2dm54c2JvVDBjWXo3LThrVnZFUDNaR3Y2YndEZGRMaTI3OHU4YU1lUTVlNHY0eFRtUXpMYzZLeGYxSmNGRGFwU09VY1V3UnZwU1RWYXVvNklJM2hHT3BjRk9UcDhxaFhldlJ5NVk?oc=5"
   }
 ]
