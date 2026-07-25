@@ -12,6 +12,18 @@
     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNURjRlVoUXQwOW5JTWZBaVczZktlZG1CZk9uRnVIX2hSZWtDRDFGX2FsR3pVM2dpTUhLV1hOSjNhWFNIdEhKRWRJdm83dWc3dDlMWmNMN0djOUYyQ2VrM1RJTi1LaGpWclJjRGJvYmdGQnhiR25IWTBkMUUzd0Nid0t2V1hUMUJrbDBXcFQxMEdwQUZZNTJybktCQng2bnRiRmR5VHFGS3ZRM2FwdWoxU2taM08wWjd6ODNodkhJWV9fUmhkbmtZVQ?oc=5"
   },
   {
+    "id": "news-1ikvder",
+    "t": "2026-07-25T15:07:00",
+    "type": "news",
+    "auto": true,
+    "title": "Free-Agent Michael Bunting Signing With 1 of 4 Teams",
+    "body": "",
+    "src": "nhltraderumors.me",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZnVFQU54UkhQUnMtN1o5bU0xWGhENGIxSWlacXViUkN0YnZ3SXFPTHVZRGExUTYwellSTE5RQ2JqQ0FhNmdpQUtVYmxpcDVmb2xkVFRldVhveUdKUnlON1U1QUJzYjQ2ajdZMVRza2tZeUI5NDQwRWdsRnRidTVnQXlsZmJPdDNoMXc?oc=5"
+  },
+  {
     "id": "news-ic3dx5",
     "t": "2026-07-25T14:24:37",
     "type": "news",
@@ -142,6 +154,18 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPV3RjMEoybjZLeGIxdlQ0dDUxV24tNW1wcTVoQXRIY29sNWRCY2cxcXRjQUsxVHIyZDBsNlIzd0Y2ZFhURENzWVFDXy1jMU9COFd3am5hRnY5WTJzNnJqZGFqRHpvd2haTXRrQS00OVdVX1VaRmo4VVpDcnZDN092V0VRTjBwSGs0SGtpMmhhLU1wUzk2NU5rdE1BRVQyc3FOWGNoTmt6ZTN3VlVWQlNIOV8tdXRCRGozejhyVndFbF84RW15cHo0dFFXNDdPbDQ?oc=5"
+  },
+  {
+    "id": "news-1jmt4uh",
+    "t": "2026-07-24T14:00:46",
+    "type": "signing",
+    "auto": true,
+    "title": "Islanders Sign Alex Jefferies To One-Year Extension",
+    "body": "",
+    "src": "Pro Hockey Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSDQxWGwwajlQYTVoV0RtMkJhaFRlemZ4SUtqbk03VUpxVnQxeXBrWVQ1R3Q0V2ZLRjVQdnE3MW5vV1lWc1R5QWFGdFgyS0JSUHZEallUT1lTVlJVNVBBWEk0QzlzN0VlakI1cTdNMUVBRkQwTm9YYUNOM0pvVFhOSUE2QWg3MnUxSmI0Z2ZsSmV1dXhQYzloMm8tSy0?oc=5"
   },
   {
     "id": "news-1w20ykw",
@@ -420,6 +444,18 @@
     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZmFsdWRLUTJ2dlc0Nl9XdFcyNDlBNnNOSjBXZ052NXJpVlB6cXI0bVBCZ0Y2X0RUWWotTXpVVXktSXR1MnZfei1BMTRvQ1dZNHJrSEF4T25fSFU0UHdPYkNONWRlM0xqcTMxcTBPQUpqTDE5UUI1cldrSTBUeVp2aW8xTDdSZWhBR2daelVIemRZcXlV?oc=5"
   },
   {
+    "id": "news-ryw6v6",
+    "t": "2026-07-22T23:09:00",
+    "type": "news",
+    "auto": true,
+    "title": "2026-27 NHL Prospect Pool Breakdown: Florida Panthers\u2019 Top 10",
+    "body": "",
+    "src": "Daily Faceoff",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRzNpRzYxUzdhN29nbWpaMk95dDhSNFZXc0dpd25YZEdBTWJUcGVmTXdVZnI1T0g5ckRWQ2k5c3VEYWNldUN3aGxrdzFnMW1XdF9ybnE3YURLRWdZc0xkSTltV1BaU0ZRZS12RjRsRnJHWTNyM196bEhkRWg2Q0hERVNtZXcycUU4Rlc1bEhZWHV3aTNaeUE1LS1zbHdVNU9ialBlLV9mQVFYMW41aHVYaTlLUUx5U29EUE81bVJJYThqcWZiSHcwaHBn?oc=5"
+  },
+  {
     "id": "news-goup3e",
     "t": "2026-07-22T22:20:59",
     "type": "signing",
@@ -442,41 +478,5 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQmVRYlVEY1A3ak54akl5cmxBT1plVENheHRrOF92QkRiVUtPMjJDdWc3SjhuVjY1TTdhSTdTV1htYTNPc1E2LTlQMjhVcnZ4TjNYNUE4a2FPZFVpUGs2bkd2YWlyNWJpZERzcjFianlrY1ZhSUVtLXp4SzZzbzZuSUhDNkJjS0FjNEJIOTcxYVFPOVRKUW9YSHFJeWk4M0gxTTRLSnRuVkpFMEp2aXZPbTRTT1h6azIxX0RERE1LRnd3M0ZmYWc?oc=5"
-  },
-  {
-    "id": "news-dfnzcj",
-    "t": "2026-07-22T19:26:00",
-    "type": "news",
-    "auto": true,
-    "title": "Robertson contract a gamble for player and team",
-    "body": "",
-    "src": "Daily Faceoff",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQ2xlVjhhWlA3Qll0MFRvSmxTS2IzRHZrWEpCRVF4ZTZITXpSaTlqQmVfZE9fbGFkN3VoR25IOGJIa1pZUUpZQmw4VXNPY1BGR3VRcjJhMllfV29iUFM0MmJXc3dmT0t6WW1TOHV4WDJqZm1fX0NyTEY4eWZNQnFMamt3ekJsWjlxcVJPUWlvNWNlTmltMjJNM1ZYQzllQmY0?oc=5"
-  },
-  {
-    "id": "news-1i8tmm8",
-    "t": "2026-07-22T18:33:07",
-    "type": "news",
-    "auto": true,
-    "title": "East Notes: Larkin, Wahlstrom, Marlies, Robitaille",
-    "body": "",
-    "src": "Pro Hockey Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUFJoSmNpbnV0blZmanMwVVY0Yl9ocmZlSExFdEVGTkVQZl9ZTmxVXzBRSTB1YXZHY1hTWU1kRXdkbks1MU9WcjNjYkV5Rk1OSENUZW1wYWJ3ZHAzUVhNT29IRWxiTmRpTDhoSVBYVkpURmtLVEIzYldfVDZ0c2RKTThHZzgwNXJBYlBzYllzRHFQWENDenc?oc=5"
-  },
-  {
-    "id": "news-1qxg55e",
-    "t": "2026-07-22T17:22:51",
-    "type": "news",
-    "auto": true,
-    "title": "Carolina Hurricanes To Launch Own Sports Network for 2026-27 Season",
-    "body": "",
-    "src": "k1047.com",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQODdXTXJWck5DQUVfa29IWFU4SW1YNElxT2JvODVxUE54WTd0MDVndEc0U05ZTXFWdGNTTzdxbXBmeDY1X0ZPb3dCT0pJUEJDemV1eVBUWHFmZUFuWTZaM2hTMkZXUmNpUDBwYlo5c1Qzb1E4dm5TNXdERDIteWJvVVByWno4Q285WElFaWlGWWxiUjE3NU9ZT2JHdEkwdw?oc=5"
   }
 ]
