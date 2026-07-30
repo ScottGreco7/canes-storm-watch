@@ -1,5 +1,65 @@
 [
   {
+    "id": "news-19chcga",
+    "t": "2026-07-30T18:02:52",
+    "type": "news",
+    "auto": true,
+    "title": "2026-27 NHL Prospect Pool Breakdown: New York Islanders\u2019 Top 10",
+    "body": "",
+    "src": "Daily Faceoff",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQd0NkNlFrRUUyUDcxNzhaUkRwTER3V3BDUC1fMkFNQXllZUJHUDREVXlqVjU1ako5UjNHeVVJMVdZSVBvZDBFSWxkTlRLd3RNWU9BWDZJZzlFcTFCWE8yTWszb3VaN3ItUHlwNjhqYmJVMGNnZ2s1X2xaM2ZBZEZkaEFDTjlrVk9zNnBjZTJiTV9vdTJnaU16cUp4QmZjU3BuVEV1SDlkWkxwSXBqaTJ6d053UWRYdnJ6VGxzXw?oc=5"
+  },
+  {
+    "id": "news-fd5ejc",
+    "t": "2026-07-30T15:56:15",
+    "type": "news",
+    "auto": true,
+    "title": "Dan\u2019s Daily: Celebrini Cha-Ching; Nikishin Trade Talk; Penguins Complete",
+    "body": "",
+    "src": "Pittsburgh Hockey Now",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVE05VzBqemFfb0dlbURVWnZlaXNqaWxGbGV6ZEV0d1ViXzBRRXhVbGlNYnUydTdrVUFkeVJYdE9TaUFwajZYQkhFcjdGSm5nRDM3czd3VV90QjlEbDBDcFZCYmtVd0oySU4zZXg4cXR3OFh1aXl1bXktM3lBSDR1TDlsVFRvdTZiQi0wanlpYW1YSm54MVhGUE50YWVYZ3p0c0V6cHFOa0pEaVBUdFFVVml3ZFJqUjQ?oc=5"
+  },
+  {
+    "id": "news-jovnn1",
+    "t": "2026-07-30T15:39:47",
+    "type": "news",
+    "auto": true,
+    "title": "Hurricanes Star Reveals Huge Contract Demands Amid Trade Talks",
+    "body": "",
+    "src": "heavy.com",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYURvTmJuWkliNVFBa0xaZmNFZTZrUUVIa2JqZ2REbG1wSkU0bE80ZjlYbGVSVzJoYkkxWlE4X2VLVE9kdFo3cktvbUM0Z2w4WkxUaHJwQ0NnbU51dUlab0QxNGU0ZFo4OUl4YV9CaGhKclBvNU5iVTlQcXFZQ2otSXpfRzhMdENBR0dEc01Zek4zRTJNYVlGSjR5OGdsNGhtMWNMcV9sMWU?oc=5"
+  },
+  {
+    "id": "news-13ae4ap",
+    "t": "2026-07-30T12:51:00",
+    "type": "news",
+    "auto": true,
+    "title": "Matt Larkin\u2019s fantasy hockey top 300 player rankings for 2026-27",
+    "body": "",
+    "src": "Daily Faceoff",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcWZsbC0yZ093S3RGZlNENVd6czZMQjIydmJzUW81ZDJ4T3JmSkVfRUVoU19EeWdZbW90MXZlRTlydE1vaFRRVUhQVmlRVHR5WHRPMFNKUXBHZEs2bWc4MGpzdHB5a3RKTDlYZmdXZUM1X0FDZ2JURmZsbEJGNjBzU1RlNHN1SG5jYVc3V3FpUnhkb3ptNy1vZW16aUtkbGUzQkFYLW4ySnF1N1ZhTlNGSi1R?oc=5"
+  },
+  {
+    "id": "news-1pwonbe",
+    "t": "2026-07-30T12:17:47",
+    "type": "news",
+    "auto": true,
+    "title": "Nikishin Talks Contract, Trade Rumors After Winning Stanley Cup",
+    "body": "",
+    "src": "rg.org",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUTdQdlNTdzFIX1RHcHRfOHBVeDNzcG1DbldlLVR6ZUV2alFIMXp2X2FnUHhIY0lta0FEMHBVaXZZVUtyeURmZmtHNk5vQzA4SVNZODFNS3V0TTlLRF9UWWRGajlBZ21EelZtUm9OaGxOMV9WRnVIanZoX0I0ZU9WOHp0dm1iZkpm?oc=5"
+  },
+  {
     "id": "news-qg17mw",
     "t": "2026-07-30T11:55:00",
     "type": "news",
@@ -22,6 +82,30 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZ2V1eUo4SjA3NF9zMV9faHpUblhDUnE0WDdXZWp4U0ZTbG1IWWpIanBUdDg2Z0wzVjNBX0E4OVdVYzQ3QnRMUXFVUlBxZ1RURE9TUlpCQVl0MXdNU2ZEMDFiN2d0RzlhTWdTVm9wSGRIb2pnMjgzdHJpUXVyOEdmeEIxZ3Vkcjg4bXlvWUM2eEtGTVhLMUNkRkpfZzMtM2dQa05weWRNa0VuYVY2WG5MQTlsVmI1MjJESUVWNFU4N1Y?oc=5"
+  },
+  {
+    "id": "news-mlqrb",
+    "t": "2026-07-30T00:44:31",
+    "type": "news",
+    "auto": true,
+    "title": "Carolina Hurricanes' contract efficiency ranked best in NHL",
+    "body": "",
+    "src": "99.9 The Fan",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1DZ2VlUlJpeUxNc1k1WXgzdlkzSlhHbnYyeUNjOWY0U0ZJZHI4MVp3NHByWElYTjJvTUswdDlVYWRCZGZxZVJIYmk1Ykgza1U?oc=5"
+  },
+  {
+    "id": "news-su1c5q",
+    "t": "2026-07-29T22:36:30",
+    "type": "news",
+    "auto": true,
+    "title": "What has Rod Brind\u2019Amour done with his time \u201coff\u201d since winning the Stanley Cup?",
+    "body": "",
+    "src": "99.9 The Fan",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ZU0E3R3U4OVA2ZWE0OEpKc1BTTnc4UUhHMG1NbHFrMWZSQkd4UzNNMjVzU0FpY0pmSG9SYllFM2lpdUVLRzJpSmxKVU1uUU0?oc=5"
   },
   {
     "id": "news-jax87e",
@@ -394,89 +478,5 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWFREVk5iUzNzdXFqU0ZjWG02Q0x1SF9VWEV6N3U0M1RwRG15SmRmRHV0b2ZzTXhXVGx4MHVlVEtkaFVGXy1qbmllSWJzamo3UDdtTUVJWGVtZ09zcUNqaVlTd1AzZDh2dWNxSDNOWDlCSnE1b3VoRzJzaTNTeGJvaHZMTQ?oc=5"
-  },
-  {
-    "id": "news-3wua2x",
-    "t": "2026-07-25T01:57:13",
-    "type": "news",
-    "auto": true,
-    "title": "Pacific Notes: Gulls, Granato, Petrov",
-    "body": "",
-    "src": "Pro Hockey Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQXVpbm0xOFM1cTd1M0R2VmNNVWNlUUF3Rk11c0VLNllSbzdZYjlaTWxwLWZ1Q0FremZYMUprOUlaaTFOSkRMc0xnWm1jZ0hTQTBicHpTaW9Bc0NvSzdqaUVRLUhHVUlsYnBDTHBNZE53UE1QbDBFNi0ycnFjeGpOajFybV9Edw?oc=5"
-  },
-  {
-    "id": "news-1rxd2a1",
-    "t": "2026-07-24T23:21:15",
-    "type": "news",
-    "auto": true,
-    "title": "Hurricanes could turn Alexander Nikishin into the NHL's next blockbuster trade",
-    "body": "",
-    "src": "Yardbarker",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOd09raG9aZXZqNVAyWFYxd2NHMWxGUVF5b3ozdy10Slc3SUhBb2pEaHg2WGc1Wi1kNlA5MzlTNWFoSkhfeHVwd0hBalZVcTJ1U3pyRmJETzhjbk52bS1fWGs3SVAwSnBZSnlFSXpybXZGSEpCVkEzV3czdENwR1h2N0ZtVW1CS2FnUjdtclNsX21Hc3ZrVUs3dG1WT3FxODVtS2VCQUdrbkg2Z3F5OUxvQ1FwaEkyS0gwR0gzUWM4UlRJanNzeEpKT1pTeFZJN2VN?oc=5"
-  },
-  {
-    "id": "news-jailzb",
-    "t": "2026-07-24T22:25:52",
-    "type": "news",
-    "auto": true,
-    "title": "Afternoon Notes: Tortorella, Gold, Zubov",
-    "body": "",
-    "src": "Pro Hockey Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObk14a1NUR2Zkc0pjUGVBYTlLWjBodC11ek1aM1RQSEF3QTFCb0U1YTFfTUQ2SFRQTDRRSnlTR1lGamo2andyUUZRaUVWUWlTcjIzQjVHd3VVRFp2MU1kODhiaHJEN1JmWUdkYWI0SjNPWG04QmlqWkRmX2VGRUJNcmRZc3prTHFnRkE?oc=5"
-  },
-  {
-    "id": "news-ww9qr1",
-    "t": "2026-07-24T21:48:00",
-    "type": "rumor",
-    "auto": true,
-    "title": "Metropolitan Team Linked To Canadiens RFA Arber Xhekaj",
-    "body": "",
-    "src": "nhltraderumors.me",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdEZhc25oUXVXbjY1Wk8xYUYxMm0zN3hzaV9MdlowRjZCWDFOMzVkUS1PRUxudmxGTlc3b0VxUDM3M0d3VERXakpYeU5HOEh6VlB2b1BYOWRzYTBnWDN4ZVBfd1p6MzlCQ253RXZ0eEQtbFppeHZlRG0zaHhFYUxoR0RxTWExd1E?oc=5"
-  },
-  {
-    "id": "news-1kr1t67",
-    "t": "2026-07-24T21:00:04",
-    "type": "signing",
-    "auto": true,
-    "title": "Panthers Sign Akira Schmid To Two-Year Deal",
-    "body": "",
-    "src": "Pro Hockey Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSGpGM2FhTFFiOXV2OFppSURkUXJYenNFVFJ3TXB5R0g1ZG50RndPdEZtZHBJeUxrZlBVVVMxWFFEY3RIMWVQbXFCQjgtWVZXa3RZSUtrenBnMTlueEpZM0VaWUlBekZFdTRZVUFRRGpXWnVPMmRtbHFfcm9mdDlWZXEzRUNEMjRDbDFnSkJoSXBZQQ?oc=5"
-  },
-  {
-    "id": "news-xxdstt",
-    "t": "2026-07-24T19:34:00",
-    "type": "signing",
-    "auto": true,
-    "title": "The Last Ronan! The Carolina Hurricanes Re-Signed Ronan Seeley to a One-Year Deal",
-    "body": "",
-    "src": "WUSA9",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPUEpVVnYyNTRpdFhqSXF1Wk9XdkJIMTREQlByV1N4WkdCSWZGa2oyQkxrQUdtNTVsU3lGejA3YlBfQTJYUHIzVFhLRjZNWEtWc3ZOZnotU2NaNm83MF9HNS1xN05WblNNa29YTEtKcV9NMTRXekJkNUdLUjFlTUJXLS0zemtTdThMUzJ2cnZzUzY3MFgzb1Iyd3pibU5uUkNmOVdlU3hIc0d3SEdMRFY4SlFTZENNRGJIM3FyZUszeWp3amxhSW1sT0dONUdILTJtWkJWRjJ5dGpOWEZ3OHRrLTluOTV3VjY5VDZ6cFNsbEhKSHRHbVQ4V1dLOWw5eXpJS1YwVEtFZGRXSWQwY05IckNIaXViTlRVelNpR1plLXE?oc=5"
-  },
-  {
-    "id": "news-gkt57u",
-    "t": "2026-07-24T16:07:05",
-    "type": "news",
-    "auto": true,
-    "title": "Minor Transactions: Denisenko, Hejduk, Didier",
-    "body": "",
-    "src": "Pro Hockey Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUmNwa3puU3oxaWZPazAxeF91N2NMRnB2a3dGclZaLW9RODRMbmVBXzJvSVU2bTd6eTI5MjhhWURRZnFSdGdnSFlPNDdia3FpZVo1SVd0TEpZVERNRUdPZGlQM2FYRUlHVGRGWmRBelFETU1EOGJGUHcyYUcyX2V3MTBGVVpTMWZwN1gzbk5wVWc?oc=5"
   }
 ]
