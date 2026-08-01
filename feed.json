@@ -1,5 +1,17 @@
 [
   {
+    "id": "news-16i4wp8",
+    "t": "2026-08-01T15:17:39",
+    "type": "news",
+    "auto": true,
+    "title": "The Devils have many unanswered questions heading into 2026-27",
+    "body": "",
+    "src": "Daily Faceoff",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMGVXeTdFWllpcjB3VlhwalJPY3puYmJYZUNBVG01OFZQRHNUdzhMU3ZXRW1tbFlQZWhTM3BrTW5NU1FRNWFZQXZWTTItX1Rtbnk0bC04d2txYVJTTExsVThlU3gzWWhHREJ1WkZVNklGRmRlakQ2WVZqekVCbkdtakFZa1FQNHhBVEVqdi1UZkJ3dmwydW14QWpyRlRySDh6dVZFVUdvcTlaSW5uRVFiN2lPUGhlRGRIamY3WTNKMXZpZw?oc=5"
+  },
+  {
     "id": "news-1xabrqm",
     "t": "2026-08-01T12:27:48",
     "type": "news",
@@ -58,6 +70,18 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQc3AwT0RCNmZVWnZkdkh0ODdjOEdOWnV4TTUxdUlaMG9BTy1WLThPVFgtTlE2OGxEM18xTmNodHB0bE9GQUdERDFzenBGZnItUkJiczhPWVNrN3RtZHViMG1HcHRfcHVkcjZWakVtMlFBMll0TTZ4d0J5ZFE0WE5MbzFn?oc=5"
+  },
+  {
+    "id": "news-ubnamz",
+    "t": "2026-07-31T18:48:02",
+    "type": "rumor",
+    "auto": true,
+    "title": "Blues Remain Interested In Hurricanes' Alexander Nikishin; Plenty Of Complications Exist",
+    "body": "",
+    "src": "thehockeynews.com",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOOFQycF9BTERMa0pwYUl3STNmQWpyTF9ZSnJXU1pfZjdVZHdFOVZGcV9vZlBCN05yU1pkLU5Xd0J0WE5mUDF3dzhla1Nmd0RsbUpHaDBheGJnaWhvMVc2cXd0N2drYzNTTjByVlVRZlRBVkRsazFJX3V4QjZnUmI5RGtPRXFnOGNnMEVSem14NmJSUEV4Nmx3a0FXV05NcHdGdTJ5Rkg2eElFVExseUVWaWxJTVp0a2RpbW9Zd3VCOWF5U0lpVm84YzNzZURJNTEtWm5SZG15ZWxMdEE?oc=5"
   },
   {
     "id": "news-1w29b2m",
@@ -454,29 +478,5 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVE5fdUV4NklFeWFqNFo5bnkycUMwOXVJQWNQRjJVcXptRV9ieEdXOUpSaXhDN0xkNzFqQ19GV2NnVE9xUWFiS3dpU2Q0Nm1UZXY0N3NrYXRYMGljbElBU0VLOTc3djk4d0VkdEhJWjUwc2l0Z0NFY0t5N3d4bXF6LXRFYVJsX1BUUVVKREJfanFobEJUWWZXcXRHX05BX01mTjI3SWNCS0pFalc2STlEUFAyd3U2QUpUcWw1TDZn?oc=5"
-  },
-  {
-    "id": "news-zf4x5w",
-    "t": "2026-07-27T23:19:00",
-    "type": "news",
-    "auto": true,
-    "title": "2026-27 NHL Prospect Pool Breakdown: Montreal Canadiens\u2019 Top 10",
-    "body": "",
-    "src": "Daily Faceoff",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWEpRdjNBeGdSbDBkZzR1RmlfaldMdVRmVkZlUkVXODNqbm9YQ1lhYndEM2xiQW1Bc213dmlUeTNLaU1oc2FIUVRBOWRVeEFWbUx2N0dxZ0ljdnNFQXJFaWhyR2JfNXo3b2VsYVA3SkZ2SFIzcHo4ZGs0YXpsTlF1TVlCZTllNWlCLUt6enVEelhta1dZTElCcWlQR3JmSjNLU2k1ZzNpcGZKeW1vUDBsT3VWLTNTdE1pLXBtdg?oc=5"
-  },
-  {
-    "id": "news-24qxy7",
-    "t": "2026-07-27T21:19:00",
-    "type": "news",
-    "auto": true,
-    "title": "Montreal Canadiens & Anaheim Ducks Complete 1-for-1 Trade",
-    "body": "",
-    "src": "nhltraderumors.me",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYjExeUhaZ19udnV6MDVTTHc4c0Q3YVc5c0pIdkN6VkFpMV83MWJBQi1tSm1zOVROS0VwYmNjYV9zQ2JPRXNrejVOcjlsMGlpUUl5UGpxQjZ4dk9iS2lKQlBPTjFLMkx4MDYxMDdNN3ZYZFZIV3lhVzkxYmIwYzlLRw?oc=5"
   }
 ]
