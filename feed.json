@@ -1,5 +1,17 @@
 [
   {
+    "id": "news-163h0pz",
+    "t": "2026-08-05T08:05:59",
+    "type": "news",
+    "auto": true,
+    "title": "The Drive with Tim Donnelly LIVE - 08/04/26 | Carolina Panthers | UNC Football | Devonte Graham",
+    "body": "",
+    "src": "99.9 The Fan",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOeUlfeDFHWW9QaFZTUjdHc2hUcGhUWHNvelhITVNlUmlFS1BBSWsyQ2RHUlkwN2JySVhWRWU3NVNnaGZ1aFZFWWJMeTZqZVhmN1pfSU9oa0k1Q3BRdjFVNXdmQ0hxRk9ISDZGMVVORWhPNWxvMG1PY1J1b2cyNlE4RkRUSkRaTWczTUNnOC1JMjMwWVJJTU8wYjh6NFEzckdNbFZla2hWNFlSZUlUcWFzU1U4RlZCRXV1N1hTUDlyallqeURmeVJ1VTFZMExtVXV1NHpTejVR?oc=5"
+  },
+  {
     "id": "news-1xi82n3",
     "t": "2026-08-04T21:36:00",
     "type": "rumor",
@@ -240,6 +252,18 @@
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQU0tfR2RVNTRxYVY2OGx5YmJpMmVGeGtuaEpuVVhpZTdncEk0ZjFYR2FPTnhlTVNFT3BJU0J0X0RfNktBV3NUNDBrTzRuTnhITUxBQTdzNldJb0NEajBHbWRmWE5xVFBKUDR3UGZOMUhVYVBNT1dQaTZ4VHByY2NTUnZTMA?oc=5"
   },
   {
+    "id": "news-18pxrre",
+    "t": "2026-08-01T23:05:32",
+    "type": "news",
+    "auto": true,
+    "title": "Hurricanes\u2019 Alexander Nikishin breaks silence on trade rumors, winning Stanley Cup",
+    "body": "",
+    "src": "ClutchPoints",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTVJvNnd6UzZZRWZnMklHMnJuRDBBdE4zQjBnUFNNajBzMGtEUHk4SzZkUGJnaWRkU282RUZXYU5ITDFZR0RENGtQaDl2T0p5NGRwNm9lY25GdHE5LUFSOWZPbG1zU0RpbzljcFU5c0VyMUU4OU5qbU1VSGdMSHZXdEpOWHVId3A3aE11QTNtVUw5SUNpeHZlM3E1X1VjaFByYjVYT1l5OXpoQ1VUNVpvanEzc2lHODdfT2hhZ3FzZFBySFJ2YUNiZFd6WQ?oc=5"
+  },
+  {
     "id": "news-1lbsrgm",
     "t": "2026-08-01T22:59:00",
     "type": "news",
@@ -454,29 +478,5 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZERKRlBqTEtWVlFhWmdMQ05FMUR0eXU5WjYxN21BNWN0OFBxR3RDN2ZuSWVsZXc1MjVpTzMzQ2ZGQjNScTBGWldxbzhVZjJMUEQ2NFEteUNYUWxxVWk4WDVzVVFRVlQtTTA1V19zczN6SVIxZk5ObWJpYU1CYW1ZT1I0MWxrOTFBaGJNaEFaR3JrQQ?oc=5"
-  },
-  {
-    "id": "news-19chcga",
-    "t": "2026-07-30T18:02:52",
-    "type": "news",
-    "auto": true,
-    "title": "2026-27 NHL Prospect Pool Breakdown: New York Islanders\u2019 Top 10",
-    "body": "",
-    "src": "Daily Faceoff",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQd0NkNlFrRUUyUDcxNzhaUkRwTER3V3BDUC1fMkFNQXllZUJHUDREVXlqVjU1ako5UjNHeVVJMVdZSVBvZDBFSWxkTlRLd3RNWU9BWDZJZzlFcTFCWE8yTWszb3VaN3ItUHlwNjhqYmJVMGNnZ2s1X2xaM2ZBZEZkaEFDTjlrVk9zNnBjZTJiTV9vdTJnaU16cUp4QmZjU3BuVEV1SDlkWkxwSXBqaTJ6d053UWRYdnJ6VGxzXw?oc=5"
-  },
-  {
-    "id": "news-wo8unn",
-    "t": "2026-07-30T17:36:48",
-    "type": "news",
-    "auto": true,
-    "title": "Latest On Red Wings GM Search",
-    "body": "",
-    "src": "Pro Hockey Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5BSVNlZG9NOE5FbjlZcWp4Y0xmaHZFTlM5bnhBQXlrVWItZ1libFU5QmF3ZTJyQWVEVzF6eDE0N1VlTnRQelMyMk9rWVhjc0FHcm9xU0c1NzJkdU5zVFZxVVNoSlZTZ21nbzdOaHVrSUNxdFczRVlBdmtJOXlNMzg?oc=5"
   }
 ]
