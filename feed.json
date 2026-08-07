@@ -1,5 +1,29 @@
 [
   {
+    "id": "news-1rmncj3",
+    "t": "2026-08-06T16:00:00",
+    "type": "news",
+    "auto": true,
+    "title": "2026-27 NHL Prospect Pool Breakdown: San Jose Sharks\u2019 Top 10",
+    "body": "",
+    "src": "Daily Faceoff",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNc1M3UWwtZVpjek85QllmaE04dWo4YlhjOU15R3loTE4xbHhSRlpkeno4WjJoOXBqR25kcVlYOURqX3BQM09fUFVLdGVyQUJBU1FuUkd0NlBtNktkRWdmbmc4TUhiN3BWZFkwLUcxaUtTaENGYUtlVFpkVGhaQUhFQmx6LWs2U3ZBVFVxVm1UaDI0M2k2MFRDelZ5VE1rVUxORDVZRS04OGxNdzNuVXg2R2pabjBTMVRC?oc=5"
+  },
+  {
+    "id": "news-wb49sa",
+    "t": "2026-08-06T15:00:18",
+    "type": "signing",
+    "auto": true,
+    "title": "Penguins Sign Ville Koivunen To Eight-Year Extension",
+    "body": "",
+    "src": "Pro Hockey Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdXlKVUpGQ014clNSa25YYUpLT0tib2Jfa3RGODMtS3V4dFJ3MjJnV2lkT0ZxT1Fwei1ueTdEZTFLZDRTSFBIYXRJeGZodG9kLVNoa1pMYThEYkl3TVVpc1ZtVUJST0NLX3lYcHlCaFFhdDVCbGNMb0F6NDFPNTNobDlLbmxqQVVOTjh3WUVkOFZUR18wOG5fUjUtcU9GUQ?oc=5"
+  },
+  {
     "id": "news-1jope2r",
     "t": "2026-08-06T14:35:36",
     "type": "news",
@@ -22,6 +46,18 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPM1Q5UVQ5NWEyc3hPenRudm5TcmJOa3o4MHdBT2xhQmEtTkVKMVBFNGdxQlBzclF5VWhWOXdkeXNTeGNaZ25RZ3RZVXVmTldLRU1yM1FzbERJcFZFY0wtSm5hX1JhSFRpRi1lalBzTUFtV2g0WDVqS1BqMmN6a1h6OGkyMlA1SGN6QlU5aC1mUHZuOTQ1NE5MaDVPdmNJS29NQWJn?oc=5"
+  },
+  {
+    "id": "news-1enwzca",
+    "t": "2026-08-06T12:23:00",
+    "type": "rumor",
+    "auto": true,
+    "title": "3 Pittsburgh Penguins Trade Candidates As Changes Continue",
+    "body": "",
+    "src": "nhltraderumors.me",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQU3JFclFtOGV5WncwVFAtMGJrdE9tS3hnVngxUndsd1BEbXFJUncxWV92cFVQZVJVclFiU2hlb0FuMnpXM0M5MF9QODBmYm1pb3Q3cUZraXRvRjllU2dWeHRoeGZzNDY1SHQwekc4OTlyZXYyYTBNcXVua2FteUtzd0YydE45UjBm?oc=5"
   },
   {
     "id": "news-6f2p8e",
@@ -348,6 +384,18 @@
     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBaYWRVa2JkaUFzM2F6d2twWXZCSmVld2VNalhJT0xyVGpRWllQTWd5cmFYaGQ5bEpoLURoX3FObWxWeHRudmRLRTdhMHlGYzQ?oc=5"
   },
   {
+    "id": "news-1sfm8a1",
+    "t": "2026-08-03T20:00:34",
+    "type": "signing",
+    "auto": true,
+    "title": "Golden Knights Sign Juho Piiparinen To Entry-Level Contract",
+    "body": "",
+    "src": "Pro Hockey Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRmNrMG5HNTluY1JlTlNxeFUwa2swVnE1SDhIaEhJbUgwNGUxYWJkTno0OGlYN3c1Ymd0RXVhcFduQ0JuQTliNmVmUTBOc29EQXVXVFlvTmV6VGYxRTZXenVoUjNOMVJKbHJ1Y21fV1l0aFR6TDdwYV9uOGRxSkZkMnZwQldXNFplOVRFM0NXbFdiT2hqaGJZdk9vTEhCNUlVaXpIQXVWZw?oc=5"
+  },
+  {
     "id": "news-zd7li5",
     "t": "2026-08-03T18:01:05",
     "type": "news",
@@ -420,63 +468,15 @@
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSE9GVmlGeW50VGtVT3FrOUE5dS12WUVPaHg2SF90ZXJJR0dPSXVWc0RRWHNCR05xN3dHOTNoSm1jRm1YV0huS0hteEowYmtPRG9IQmdWMTNoSENpSGxyQ0ZkcUhvQmZYaG1USWFWbE55VnBEam0tMGJWc3FZSnZBdlcyNVM5cGExUWdaNjAtT2pZTTRtSWhXTGZn?oc=5"
   },
   {
-    "id": "news-u4ld9z",
-    "t": "2026-08-02T21:02:00",
+    "id": "news-1hms94l",
+    "t": "2026-08-03T03:46:00",
     "type": "news",
     "auto": true,
-    "title": "NHL Free Agency Rumor: Pittsburgh Penguins emerge as potential landing spot for ex Carolina Hurricanes $1",
-    "body": "",
-    "src": "timesofindia.indiatimes.com",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPSkVxc3YyT1FWV3k1QTVwZF9jNXpsZGw0S09oc3pjMk54czEtTHRfV2VxS09qeWFVYUduWTQwS25Fa1BhTVk0aHZoSmJHUmsxWURhNXBEZ2JINW9UYUpNVzAtT2ptYWZ2WWxlZUZ4WEZvRHE0N3hkOVVuMDJDdzVHY2g2RGVaNEhyRkY1OGtBMmlBUE03VU51LXBxUTQ3aTZTT0c2X0M0ODJLS08wYVd0ZEJISURtT3UwcW5jektDQXlnVkJVVURXQ2dCenFNS1JZdlBIRzRfMFFlYjhucVJPUjBGU29KVk9SNlV3LVRFMUdsU09iX1hiRHdXMFhRNW1LZDVSbExWalFRckhvU0ZCd3g5Q0tfMDNxOUVlTFNHSnY2d9IBpwJBVV95cUxOSGk0R1hwMlNfQWZ4MHBvUVNRY0p5Z19rM1ZoX2VDcXdIUTIzVHBpcG9CY29GQmpiQjJiX05MLVRRNTV3TklLNjNCMzlHMGJ5bzM4dHZjM21YY3ZqaXp5WTZWMUloLU1yN1Bjb2xOT2NmdnFvQXpzMzBZUzNRUGt1XzRNLXlVRUNOOGMwQU4xUEZydjBvU1lLc1Y0c2ZtWVJpQUlNclNiMW9GQ2cxdzlEM1hrVzlGZjhxQy00RGlFV1AtYzNOSGZJTVNsa0RzeU5YTWxHQlpITjBsZTZUVFFOT2J0WlRnVVRfVGNGWmFhdTZSMlJPYzhFYmRXWjlzZnJicER3Z3J0V05PUEJ3Wkt2UzBXbjVHVnBDcUtYRWZDWnJHdjJLOFM4?oc=5"
-  },
-  {
-    "id": "news-1lwmshq",
-    "t": "2026-08-02T13:00:00",
-    "type": "news",
-    "auto": true,
-    "title": "Top standouts from the 2026 World Junior Summer Showcase",
+    "title": "2026 World Junior Summer Showcase: Wyttenbach, Reschny highlight top standouts from the final day",
     "body": "",
     "src": "Daily Faceoff",
     "out": "",
     "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZm5DNW5uQS1hWmthNUc1a1pvREVBaEhkLUR3S3h0T1JzZHVMV2NkYmJOTFg2OG5hVmVidFFjdU9odEhWRk9kazk2cTNoQ21Pc25xemRhU2NVOHE1Q0RMR1FwZmgwdDRuTHR1VEVndndsMTVwRENCSy1MUzRJVDJfWFBzYXlpVk45TUNCUjZEd1hSOHF5WXpEVm5rdGRWLUliTkN2aWZWNm9yM3FWMVdBM1oyaGRyUUhrMmZFc1g5Tm8?oc=5"
-  },
-  {
-    "id": "news-1oxftrz",
-    "t": "2026-08-02T12:26:32",
-    "type": "news",
-    "auto": true,
-    "title": "The Hurricanes tried dancing with the Devils in 2001, but they were badly burned",
-    "body": "",
-    "src": "Cardiac Cane",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVDY1VFd1eUttd2FCT05WMGp6b3V3alNZcXpJSmd0R0NpV3kyUEJhZlR0ZTZmRXhXTW5BNmRfVlFEaWdBYXIwYkxEYnQxTEp2LWlNb01SUlJXR1NXYkotb09MZVhBSG9EYXNEYTZleGVfTTJFR3pLUTNkSzMxWU5fRkRIeWhJQXVOMml5U1BodnJHcmVU?oc=5"
-  },
-  {
-    "id": "news-mitwyw",
-    "t": "2026-08-02T12:10:00",
-    "type": "rumor",
-    "auto": true,
-    "title": "3 Potential Trade Destinations for Devils' Dougie Hamilton",
-    "body": "",
-    "src": "nhltraderumors.me",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQU0tfR2RVNTRxYVY2OGx5YmJpMmVGeGtuaEpuVVhpZTdncEk0ZjFYR2FPTnhlTVNFT3BJU0J0X0RfNktBV3NUNDBrTzRuTnhITUxBQTdzNldJb0NEajBHbWRmWE5xVFBKUDR3UGZOMUhVYVBNT1dQaTZ4VHByY2NTUnZTMA?oc=5"
-  },
-  {
-    "id": "news-18pxrre",
-    "t": "2026-08-01T23:05:32",
-    "type": "news",
-    "auto": true,
-    "title": "Hurricanes\u2019 Alexander Nikishin breaks silence on trade rumors, winning Stanley Cup",
-    "body": "",
-    "src": "ClutchPoints",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTVJvNnd6UzZZRWZnMklHMnJuRDBBdE4zQjBnUFNNajBzMGtEUHk4SzZkUGJnaWRkU282RUZXYU5ITDFZR0RENGtQaDl2T0p5NGRwNm9lY25GdHE5LUFSOWZPbG1zU0RpbzljcFU5c0VyMUU4OU5qbU1VSGdMSHZXdEpOWHVId3A3aE11QTNtVUw5SUNpeHZlM3E1X1VjaFByYjVYT1l5OXpoQ1VUNVpvanEzc2lHODdfT2hhZ3FzZFBySFJ2YUNiZFd6WQ?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUmxSQ2Ywazg4cUE4NWxHZlBuOVA3SThRRWdMeDVtdmlSaXg3VlBNMEoyTWFfa0NlM29YVU1lQTVGQmZSU2w1OUluWTJ2bVlySWZ6X3BBNUtzM3hlZkVJNjkyUnVuZFNaR1ZBaEFyclBJNDBpTks3U3FudEtzTEhhZE5qQTBOOXZBWGpSemI3aDBiWUFUa0Y4b040VjZTVGxyQ05uTE9JcVpNOGR2N0VxZlcxaS01cHJzellteU9fM1NOWVdNSDJlWmhqUUo5WjJLWnc?oc=5"
   }
 ]
