@@ -12,6 +12,18 @@
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdWRudEZUbFdPUjlmWlpFdy1sNWFhU2o1Z2VYaDhwWlR4cC0xWDRMamlreS1NX1pCaGtyTUFuam1palg0YkxHTGJzY0RDc013TXh4NHVhdmJLWlpHVkVMb2lmTlVwREQtZERmX01BMTBIQ2p0NTFJWGpCSkZURzl6RFdVZEY3bFV4cUxYeHF1OEMxZw?oc=5"
   },
   {
+    "id": "news-10gowrd",
+    "t": "2026-08-07T22:53:00",
+    "type": "rumor",
+    "auto": true,
+    "title": "UFA Patrik Laine Linked To 5 Teams",
+    "body": "",
+    "src": "nhltraderumors.me",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTWczSS1ZQ2NzemtnSG1VTzBWdHNOdGpmX3dtWHp2aFJyNmhPaVFHbUxPVmlqdjVGdnplQUdZbXZDVjRjbk1hWW1MQ25GZ3IxUkpJazI5bkdyc3phZUFhMlk0WjliQkFXOTFJUVNlLUpCM0RxRUR5T2tFQjdPelhSdG1URQ?oc=5"
+  },
+  {
     "id": "news-iajf47",
     "t": "2026-08-07T20:01:20",
     "type": "signing",
@@ -420,6 +432,18 @@
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAxQ3pvV052b041Zkw5X2J1cXE1TjBkdGZIQl82Q1FpNlVLRDZQbHhNZU1RMDZKQXh2RGtTWDBmaVV3WkwwOGsweHZhcGJzQVRRdXU3VGFZakszVExJa1FkdkQ1QmRLVFhrR3RITDVHTmlVYjFRMHVmU01WQjFoY00?oc=5"
   },
   {
+    "id": "news-1no2rq",
+    "t": "2026-08-04T23:18:00",
+    "type": "news",
+    "auto": true,
+    "title": "The top five remaining NHL goalies in free agency",
+    "body": "",
+    "src": "Daily Faceoff",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaDd0SFJuTWNyMW5OM1JWUmZsQ0ZjbWdKMjRQbTBDNm45WkpvWF93dGI1d1dxX0RwYWVCZXVNZFc2NFUwRzVZdzhzMDRwTS00QzVVd1dzUVcwZnEzaVF4bElFRy1fa1lmbFNaR3g2M1M5YndYVm5UcXlsVFh3eS11MTRySzVac0FVbU12MmNJZWNWbWNYVHQzbjM4WkxxMXZBTGRSVUh4M1I0eUdkRDNsbkRQbUU4UQ?oc=5"
+  },
+  {
     "id": "news-ghih3d",
     "t": "2026-08-04T23:00:20",
     "type": "news",
@@ -454,29 +478,5 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPU0s4U21LNklHS1FIcUNLaTdocTVuWFIzaHlLcC14TFZpY1Y1a2tkR085NzFwS2ZwMDN2LV9PNXdBVXZsS081MXRoZktybW1EeHJyUWxkVElQNGE2dkV6cGRPbVhCMTVGM09jcTFNOFBfOXR0NmNoVl8yc2xmRk1tUjB3?oc=5"
-  },
-  {
-    "id": "news-1eew297",
-    "t": "2026-08-04T19:10:35",
-    "type": "news",
-    "auto": true,
-    "title": "Transaction Notes: McGregor, Juntorp, St-Hilaire",
-    "body": "",
-    "src": "Pro Hockey Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQR0hsUkRDclJsaUU5Yl9JSFBoYi0tQnVJMkpiM3BvTkIxaDhkV1ZReENXRGdtRTBjR29pamNvbkMxRnp3VTJ1LVZlLVJ0S3NCSkZNd2EtODVPSGk3cmNnTnROWU9WdUZnT1VrRU9vUDhiYUxTRWVYS0pidkliTjJ5anN5ZldzeUZ0NmNYaG5PYzhOeFBL?oc=5"
-  },
-  {
-    "id": "news-blkx9b",
-    "t": "2026-08-04T18:47:44",
-    "type": "news",
-    "auto": true,
-    "title": "Pay him or trade him: The Summer of Nikishin",
-    "body": "",
-    "src": "99.9 The Fan",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE12X25ob3hFaXBMbmNxRDRuOVlqLUp3bUczMkV1Y2JqMTg1RjlqdXJ6ckd0RnQweEx3RmJiQzFQTlZsaG5XdTFibmpwUzN1M1E?oc=5"
   }
 ]
