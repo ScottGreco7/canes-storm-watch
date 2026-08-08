@@ -396,6 +396,18 @@
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBnbXNsSFg0eGY0WGFrTXBoZTE2d192dFNQZWdNNmhiMnQ4ZVdpeU9YTXExaHJST1FHeHcwNTlSYmRoM21zRWNhVGNEODYtNEhIc3ZnT1M5Z3pCUnluUWxDU2g2RWhwako5ampCOElIWVJiTloxVHdDWEY0QnQzc1k?oc=5"
   },
   {
+    "id": "news-v836nf",
+    "t": "2026-08-05T07:00:00",
+    "type": "news",
+    "auto": true,
+    "title": "Season tickets sold out for the upcoming Hurricanes season",
+    "body": "",
+    "src": "99.9 The Fan",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdlhaMGNoU2lkYlRENF9iSjdVV29yWG52SUVKblh4UllXZWE4Yk5BbVhnWldfamtjbFYtUFlRajMyQS1FV1N4LUVmVG9pX1l2MGRrdW1kdE81ZEs2elNBUDJNeWZEYXo1aFhWMW94MTU3OFJOQUlaSUttRjd4T19IckpOQi1pT3lSemFlMVBVbi1PRGxVRnl3NWh0UTdyNF9qcjZNSlJqS2FFNHAxV0wwT2Vn?oc=5"
+  },
+  {
     "id": "news-hz5kxi",
     "t": "2026-08-05T04:32:00",
     "type": "news",
@@ -466,17 +478,5 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQajB2LTczaldweU43N1hDLU9RRXZrcHVQVFlNY0djaTMxRHpVTUo4Z2ZTRDRwOG5NdHF0LXNBT1BvOHdyT1pxQVo1QlRTZUVIWU5FT09zNXl6TUJNS0RwZUNIMkpVektuSFRyYzBIZzVyM09FUTF5aDduNlB0aXREWFBrUnEzVnhqTWc?oc=5"
-  },
-  {
-    "id": "news-1pr58cc",
-    "t": "2026-08-04T21:32:28",
-    "type": "news",
-    "auto": true,
-    "title": "Free Agent Profile: Patrik Laine",
-    "body": "",
-    "src": "Pro Hockey Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPU0s4U21LNklHS1FIcUNLaTdocTVuWFIzaHlLcC14TFZpY1Y1a2tkR085NzFwS2ZwMDN2LV9PNXdBVXZsS081MXRoZktybW1EeHJyUWxkVElQNGE2dkV6cGRPbVhCMTVGM09jcTFNOFBfOXR0NmNoVl8yc2xmRk1tUjB3?oc=5"
   }
 ]
