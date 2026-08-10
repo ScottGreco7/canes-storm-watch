@@ -1,5 +1,29 @@
 [
   {
+    "id": "news-1xvezd3",
+    "t": "2026-08-10T01:40:00",
+    "type": "trade",
+    "auto": true,
+    "title": "Red Wings Blockbuster Trade Pitch Sends $8.6 Million Star to Hurricanes",
+    "body": "",
+    "src": "heavy.com",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTkNvWDJLeGxzOWRkYWVSaXl3VlFwTDZNMDM5WUszUmF0SGFiZjRzMzNJZFBzcFZ0bzZCTjFyUnlvNHRnTFRoaWkxYWY2bm9HaWpQdnVrZldrc0hTMkV3emJmZW1EMFlxNmRyckJqa3RaRzhYMU9XLXhTM2ZpR2JUUE1hTEo5bnFkZGFPTXl4WVl6R1V1WE5V?oc=5"
+  },
+  {
+    "id": "news-gdpxc0",
+    "t": "2026-08-09T22:55:00",
+    "type": "rumor",
+    "auto": true,
+    "title": "Canucks Insider Reveals Update On Elias Pettersson Trade Talks",
+    "body": "",
+    "src": "nhltraderumors.me",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdHFSWVJJU2pfdTdWZlhLNU1vZGM0S3NLRW5tTm05bUJadWZEcnJXTE9PQVdLYXF5bnM4VVI2U0I4c05SVWZXVWpTWmJNTzhxWXBuaV9PUFRKakxYNmRyOU0wQWlJYVZ3MnJ2T3BYR3NzTl80SXlPZlA0c21kT3ZVeVZxYm9GQnl1M1E?oc=5"
+  },
+  {
     "id": "news-1munsi3",
     "t": "2026-08-09T19:38:00",
     "type": "rumor",
@@ -454,29 +478,5 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQX1k3VE1Ub2ZtQldQcm9zbkJXVVJ4N05VbWlQMklmdVhXSlhNOXpVV0FJbE9GVnE5aURxZ0tHT0Y1M1pfRjdEYjVULW85RC1VNzRRRGlacXQzT1pQbmdTX2twbmdaMzZZc2hRYWxNeG9JdzNzRkZjOEx3WGFiMDR2RFQ2QnIzZDFIOXVDS3haMy0xZlBRQUhtZmJ3UlZiajFBRFZsWERXdkpxZDhYYnBTNl9yQnhoV3M?oc=5"
-  },
-  {
-    "id": "news-17lkwzn",
-    "t": "2026-08-06T12:58:25",
-    "type": "news",
-    "auto": true,
-    "title": "Goaltending, special teams put the Hurricanes in a bad spot against New York in 2024",
-    "body": "",
-    "src": "Cardiac Cane",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPM1Q5UVQ5NWEyc3hPenRudm5TcmJOa3o4MHdBT2xhQmEtTkVKMVBFNGdxQlBzclF5VWhWOXdkeXNTeGNaZ25RZ3RZVXVmTldLRU1yM1FzbERJcFZFY0wtSm5hX1JhSFRpRi1lalBzTUFtV2g0WDVqS1BqMmN6a1h6OGkyMlA1SGN6QlU5aC1mUHZuOTQ1NE5MaDVPdmNJS29NQWJn?oc=5"
-  },
-  {
-    "id": "news-1enwzca",
-    "t": "2026-08-06T12:23:00",
-    "type": "rumor",
-    "auto": true,
-    "title": "3 Pittsburgh Penguins Trade Candidates As Changes Continue",
-    "body": "",
-    "src": "nhltraderumors.me",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQU3JFclFtOGV5WncwVFAtMGJrdE9tS3hnVngxUndsd1BEbXFJUncxWV92cFVQZVJVclFiU2hlb0FuMnpXM0M5MF9QODBmYm1pb3Q3cUZraXRvRjllU2dWeHRoeGZzNDY1SHQwekc4OTlyZXYyYTBNcXVua2FteUtzd0YydE45UjBm?oc=5"
   }
 ]
