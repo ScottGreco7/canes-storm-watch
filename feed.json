@@ -1,5 +1,17 @@
 [
   {
+    "id": "news-1c2jgtd",
+    "t": "2026-08-11T01:10:34",
+    "type": "news",
+    "auto": true,
+    "title": "Arena Updates: Stars Select Design Firm For Plano; Senators Reach One Year At LeBreton",
+    "body": "",
+    "src": "Pro Hockey Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeVZMdEt4dUdVd1ZjMXpCTFZrZ014amQtTUVydS1nZUg1MEVucnBhLVF2WTFmY3prTDk4N2Z4blFtZDlVMFRkOXNocXhUeFoyOUJnbjRiejA4R2pZWFJuU3NoMmxaSFBfQXRZQi04dDV2Q0tfOUdUdmdkcUV4XzdHcmJCd1FXR3dvZ2RmVkI2YTFEWE9ud0NUQkhweDRlR3dDaE9DTlg0RGxfck12LW9yYk5DLWRLLUhkV05MQlJxb1dycnR2VXBkZQ?oc=5"
+  },
+  {
     "id": "news-1bkogek",
     "t": "2026-08-10T23:43:23",
     "type": "news",
@@ -24,6 +36,30 @@
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUS1ENTBwRGVfMmIzd2FTU2JjYnBGaDNzSy1hQjFDX3VGTThsX0dubmx6Sm5XM2htVHpaSF9ma0NNTmM5V2JQV1BIU0N5QXFteFp0OWl6Q3ljdUkwWHpaTm13SGZLVEdOODZ2WmJidTM3b1FXcDBOa3hLallCXzJ3a2pyVlM3X0tnMXlJLQ?oc=5"
   },
   {
+    "id": "news-15s1d8f",
+    "t": "2026-08-10T21:50:00",
+    "type": "rumor",
+    "auto": true,
+    "title": "Carolina Hurricanes Advancing On Trade Talks Involving Alexander Nikishin",
+    "body": "",
+    "src": "nhltraderumors.me",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdkkyaTNaUXg5MUVrem9ESGxjXzFLcjNVMkxYaDNuOFpIbEtpWkhzN1ZMbFEwQXE4UUFUSDRGRmowVVFUM1A0MnBMWkd5dGEwNTBjTUE2MldFN3FYZGxmTE9vSTNnVUR1WHRZSkkwcEJGQ2ppblZha3ZnR2dnS3VMTkhvaWhZREtW?oc=5"
+  },
+  {
+    "id": "news-1d3isuz",
+    "t": "2026-08-10T21:44:09",
+    "type": "news",
+    "auto": true,
+    "title": "The Adam Gold Show LIVE - 08/10/26 | Carolina Panthers | ACC Football",
+    "body": "",
+    "src": "99.9 The Fan",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5NUDMwcDBDOHpXQlhSa2FxZ2hxMzFDVF9oSl9hOHFCVXljRFJYeDBWTnQ0aFJCVXVvdVFQc2pyX2g5WktkQ2RPczJ4WVZieUE?oc=5"
+  },
+  {
     "id": "news-j4gqs8",
     "t": "2026-08-10T20:26:19",
     "type": "news",
@@ -34,6 +70,18 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSXdSNUhIbjI3d0lRY004cjIzLTN5U1ViU1lMcWdZa05wcDlEMG9xYzFzWE9adVNNZGpyVmk1TTM3VjNMRG9uSzhtdGNIZ3lJWTZjMmJQTXByZkloTVhuSHhlclEzUm8zTTdZQXFTbEhVaGpfRktFOTJIUG9TMWZaanhRYkp3bGx0TWtzeHFzSzlfYU1tVWx6NHpLdl9hVGFKUHBGdS1NblRXRTJZeE9R?oc=5"
+  },
+  {
+    "id": "news-1ts3a4v",
+    "t": "2026-08-10T19:30:28",
+    "type": "signing",
+    "auto": true,
+    "title": "Jets Sign Tyrel Bauer To Two-Year Deal",
+    "body": "",
+    "src": "Pro Hockey Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRlFjNnFCVlRuMVctRElJbjRBMlRtX081TFFEM2J2NEFlUEJFQzQ3ZzNaTG9RbVNLVk9vZzdKNF9BQXFkaGI0RkFTM1lmRkhrWUNuYjdvcTE1R0FlRWFhNHc1M1dRWmtwQkFWZXNqVVMxTTdMZGp1ZlR6akViUnpRTlkxYXljNksxVWNF?oc=5"
   },
   {
     "id": "news-1p3nyon",
@@ -430,53 +478,5 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeTdUa1plaWZNWWMtQWZRZGUtOC1UX3RxVUs5TjB3OG1mVDlod3BNSHctYl84X2VTNmJ5bXNldzdKR2tXeGZyUTJ3TTJNUU01RGFrRUc4dE1PZFBxZ1F1bzAtbi1PeHpkVDBOMHZyenRsUU9Jd291Xy1iTDhEalhNYUVNeS1Yb2xHVVFDeW10LUF5d2E4?oc=5"
-  },
-  {
-    "id": "news-1rr05o8",
-    "t": "2026-08-07T17:11:52",
-    "type": "news",
-    "auto": true,
-    "title": "Carolina Offseason Tidbits: Volume 6 - Prospect Showcase Comes to Raleigh",
-    "body": "",
-    "src": "canescountry.com",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNnd1cEtMc09keDBycEQ4cm5JaElzWlAyZ0xDQVNTTkpacEVocVpURW5UWEJxd2EwS1o0QzBaNDJKRko4bzNaRGNWbUhGTmZTQkZxWTRDMUZGN0JrXzljcUdqU1U2Tl9wa1pSZWE2VWdaYVk5ODdTRFRxenNOT3hBVHVvaU1PZ2otZ3dwZTVQWVRNY0h6WkpJaDZWcGR3V3BoNW0tUGpJbF9oR3RUd3RIZ3V5VQ?oc=5"
-  },
-  {
-    "id": "news-3h9e4a",
-    "t": "2026-08-07T17:03:19",
-    "type": "news",
-    "auto": true,
-    "title": "Five Teams That Should Target Alexander Nikishin In A Trade",
-    "body": "",
-    "src": "The Hockey News",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZHRPaktuUUlHdk1LRVdSN2FOYzU4emFRLVEtQ0VWUkFTWlhoNjNaVlRjQU1iRVNIaEV6WG41MjlRLUR5RXhlckRUOGxVZ3lFS3dIbzJPSVdkQnJMRFdYc1RRb09naGlPLVJSRzluVmZpa1laTW5kaV9GU2l0SjdUX3VtSjR3NDJjczRncnBDMGx0N1ZkbThMNEU4NWt6NkNkNkt4eg?oc=5"
-  },
-  {
-    "id": "news-1p3456y",
-    "t": "2026-08-07T16:41:56",
-    "type": "news",
-    "auto": true,
-    "title": "Turning back the clock, the Caniacs' playoff appetite began with a big clash in 1999",
-    "body": "",
-    "src": "Cardiac Cane",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObEh5MzA0NDlveEJ2eUdGS2FsUmFlS2hKanBWZnlBeWtFWXNtTWctRkV4Mi1KVkFabm9WWXhFbnRrT240VjNEeHJOVXlyRXMtU0YyaURuajY4SjJ5aXROb3RZMDFzaHMxeXFlQkFuQ1hwZDFrVDhsS1JWdVVPQTdzaF8tSzA1Wno2MXVMWTRhTnBTdGs2bFZub2dXc2FGN1lvN0E?oc=5"
-  },
-  {
-    "id": "news-zssj75",
-    "t": "2026-08-07T16:00:34",
-    "type": "news",
-    "auto": true,
-    "title": "Noah Philp Retires From Professional Hockey",
-    "body": "",
-    "src": "Pro Hockey Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUUwtQ3JsbE5fUmg2M0YwODAyU1JudWdTZ2NwSHMzcFpJak1BdXdNVXpMbnB5OTdxRlJsTDlZTzVYSzJyY2NTRUU3V0FzX1YtM2F1bGpfN1ZzUWJVSUh6dWNFVThjX01jSnA2V0xEWjd0eTlEVDB2S3NCU2psZWZ1ZnpBVXRMXzBrekRrWXhGZWFJUQ?oc=5"
   }
 ]
