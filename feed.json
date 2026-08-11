@@ -1,5 +1,17 @@
 [
   {
+    "id": "news-1tmp4m",
+    "t": "2026-08-11T17:39:06",
+    "type": "news",
+    "auto": true,
+    "title": "Teams",
+    "body": "",
+    "src": "999thefan.com",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4tcDBEa042V3RTU3pKTFpiR1pvTmhEWm1MOWNycnhsdUd5WDRubnNSU3ZUQ3gxd1k2a0FSM2R4OC15YTAySC1WdzkwRUlmUQ?oc=5"
+  },
+  {
     "id": "news-1gb51mx",
     "t": "2026-08-11T17:09:37",
     "type": "news",
@@ -58,6 +70,18 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNWhKY0NkcnA1VlJ2bkhUT2pFNjA5M0xiekNjM3FHZ0RmVEtyWlpiTy1ZTTJRcW9iR2ZXVkxXbkdvY3lVN2ZTenZQY2FOZUY5QkZ6R21YSm9aU3BPRmg3YjZ4QU43SnNoMl84Um5uckttdGdNbGxXbU94TVNCWHdZV1hrQ25tOEt3N2YzZVRSWjZFYklhbldKejBseHItV2Jqdmp4RTRkYVk2eEhPTGotSHdBbTg3TDRkTXdSSzdR?oc=5"
+  },
+  {
+    "id": "news-6qid0u",
+    "t": "2026-08-11T11:42:00",
+    "type": "news",
+    "auto": true,
+    "title": "Detroit Red Wings Reject Multiple Trade Offers",
+    "body": "",
+    "src": "nhltraderumors.me",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcWRtemxMQXMyeVZMM2JHc01zTTVrVGQyeUFycTJRZV8yaXpUekp4Q0UxZG1vZHJDckFPcTU0eGkyYUVwaEw2YWpVS01QUklqT1F1T0RQVDBGTjFVVWdfM3h6RUxmQi1yeG0tdWNaNTc1YkN3Q3JBRmpvZVVqYnVockp4Z2dES3ZGTXc?oc=5"
   },
   {
     "id": "news-jrqfpb",
@@ -454,29 +478,5 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbEFIR0xBVFNRRkFKalAxYjM5aTQ0RFJ1NXU1Q3FlYXVSYjdYa1pDOURQS3NnUzBMd0c2bEVfcXN4SmM4ZGR6YVd1NVJFUHpOcUlLWnU3RE5wNkhiU1N1TktoakVUeG10MmhqeXFUNTI4anM5U1g3allWRTNUZlBIeS1NeHpScGhnclVsRU93?oc=5"
-  },
-  {
-    "id": "news-1ggcdie",
-    "t": "2026-08-08T17:38:15",
-    "type": "news",
-    "auto": true,
-    "title": "Central Notes: Hughes, Makar, Snuggerud",
-    "body": "",
-    "src": "Pro Hockey Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdG5OWDdNWnU5eEdEbU11ZHUtZ1NWUXhEaVBMMmcxRnQtN29pUnc0Vk9CQklGaU1GMHp1SGpYX0ZhYjVzWno1MTBsUm1sMWtXTzlVOEM5UTJwRWE5TEVlOHRIRUNPTGdMVFA3MnBBaUtkbGRYYzNuTHpoUW1hX3B1NXRNdEc5U3hU?oc=5"
-  },
-  {
-    "id": "news-87o0bc",
-    "t": "2026-08-08T12:54:00",
-    "type": "rumor",
-    "auto": true,
-    "title": "3 Vancouver Canucks Trade Candidates Heading Into Next Season",
-    "body": "",
-    "src": "nhltraderumors.me",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObFR5RUwtUGdZOHZrQm5iNTMxZ2xMT1FTbVRsdXlwSmtFXzI5REIycjI2V3MwdDlSSmFKYUtNbXpNamFTRzJfM3hOQnhFMXp1TWhkUE1lSVFwb0xGeVpDWFBDTzJKOElKWFZWUFRoZERlSHJjbmxWWFdxUldfYzJJOFNscDhHQQ?oc=5"
   }
 ]
