@@ -1,5 +1,29 @@
 [
   {
+    "id": "news-1visca6",
+    "t": "2026-08-12T01:09:45",
+    "type": "news",
+    "auto": true,
+    "title": "Carolina Hurricanes\u2019 Jaccob Slavin ranked the 12th best defenseman in the NHL",
+    "body": "",
+    "src": "99.9 The Fan",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE85ZnJ3czh4T2JyN3Y0S0g1X25MaGRnUi1vRVNUUVNSck9HbnI4ajJMeG5yeko1V3ZkZzdrV0NZbmxyT0UyMkpOelBMNFBLV0k?oc=5"
+  },
+  {
+    "id": "news-met2qs",
+    "t": "2026-08-12T00:59:18",
+    "type": "news",
+    "auto": true,
+    "title": "The NHL\u2019s Best Bargains Of 2025-26: Cheapest Cost Per Win Among Goaltenders",
+    "body": "",
+    "src": "Pro Hockey Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNlIzT0Zyb3VNbEdoeUxDMDlvZWV0WUVyM3dyMUVhOC1fRXV3UHpfRFVwcDJtTExYSEVSZzBuWENXc05tY0h3SDJGMG41VGpvU3MxNlFfbEM0QzZUNDBJSkNvX2NTQWxZRVcxR2xrR2lpTnR1YlBITlhkb3hoWENwbjZZdjVOMEZReDF5MnZHUmlpSUJDOWVIYTZHSm1CbTFpa2ZHQWtuZUJ2YkFvVTFVdFhad1J1aW1OR2c?oc=5"
+  },
+  {
     "id": "news-1tmp4m",
     "t": "2026-08-11T17:39:06",
     "type": "news",
@@ -106,6 +130,18 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcWRtemxMQXMyeVZMM2JHc01zTTVrVGQyeUFycTJRZV8yaXpUekp4Q0UxZG1vZHJDckFPcTU0eGkyYUVwaEw2YWpVS01QUklqT1F1T0RQVDBGTjFVVWdfM3h6RUxmQi1yeG0tdWNaNTc1YkN3Q3JBRmpvZVVqYnVockp4Z2dES3ZGTXc?oc=5"
+  },
+  {
+    "id": "news-1g1em2x",
+    "t": "2026-08-11T11:30:00",
+    "type": "news",
+    "auto": true,
+    "title": "3 Los Angeles Kings Most Likely To Be Traded",
+    "body": "",
+    "src": "nhltraderumors.me",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQaVR5WlhhSHhJOFhjSm5XalY1WmtMMExOM0xLcHV6ZlowUnZURXJfbFNnd2FuV0M1M2tTbTVLVlI5V01QMHFwaXRJZVZCWmhiMVJnWWlKR1dYZUlyS3lGR1hWbVF4UVdZZEdjUGd0X0pBc3ZaYUNBVGZoWGxXZGtnZnZtRjRZQmc?oc=5"
   },
   {
     "id": "news-jrqfpb",
@@ -442,41 +478,5 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1IdkJ5RlMxRFlVaWM4d3dBRzFZTFFuTE5qSmdncmM2WEs4LXlsWkU2X3pEd3dWUEdhcEZiT3ZydXo1MFJZUk9MeVNoRUhXaFVvVTh0bVlfd2lCcXc?oc=5"
-  },
-  {
-    "id": "news-162pda2",
-    "t": "2026-08-09T00:32:56",
-    "type": "news",
-    "auto": true,
-    "title": "Former Hurricane announces his surprise retirement after signing overseas this summer",
-    "body": "",
-    "src": "Cardiac Cane",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMHlKTzNfRV9MdXprQWxVOEFEd1N6N2JmQ1FJeFFNcktLUHFiZ182ekRXajZlblBobVdqYkgxOHkweGlLVzNfaV9LUkpDTGU4MkJMN1FHbHNyX1ZxRlBNVWlIODVqa0xtVnY1dUJKdFVYVkRIMmgzQUpJRVgxQW5kbl9YLTJ1eDBNdVhIdzlENTI0RElJY3A3OHRVNFJBN05QaXMwUzBsYnQ?oc=5"
-  },
-  {
-    "id": "news-10rcisl",
-    "t": "2026-08-08T23:42:05",
-    "type": "news",
-    "auto": true,
-    "title": "Before winning it all, the Canes felt the sting of defeat in the Stanley Cup Final",
-    "body": "",
-    "src": "Cardiac Cane",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxON2pTbGE3NWVGdGdEZDhBajhRSFRqLXY1VWtjb19JeEZEbWdCSmV5a1k2VzMzYXdWRjdOb0E4MV9pNmZNWXc0SnVyVDhRaFMwNzZObnVXN1lzMndHWHpuVG1GNk52c1FmR3h1dnpPRFFROWxZLXhyM2RCa190QTBuRUZiWURaWklwSEdGVmRHNk9jem1UX3ZvTkp4dEpJdw?oc=5"
-  },
-  {
-    "id": "news-77g23g",
-    "t": "2026-08-08T23:31:03",
-    "type": "news",
-    "auto": true,
-    "title": "Evgeny Kuznetsov To Remain In KHL",
-    "body": "",
-    "src": "Pro Hockey Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOM2diemVCRlZGWGV0blVMRU9TT2FqLW02eERGckhfNFgxSVRmcXJ1NWNQT2NPU3N2dVpDYUUwSDNTOHJ6TjVTQ3FsRGhRZmV5cUJGMDJ0ZXdiSFR0M09xRFRrUGsyMmFfWllyZVNNdldNay1UTndxTW1hRnVfcFYwNWdmNkI?oc=5"
   }
 ]
