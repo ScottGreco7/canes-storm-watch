@@ -1,5 +1,17 @@
 [
   {
+    "id": "news-1r7ppf3",
+    "t": "2026-08-15T15:00:00",
+    "type": "news",
+    "auto": true,
+    "title": "2026-27 NHL Prospect Pool Breakdown: Vegas Golden Knights\u2019 Top 10",
+    "body": "",
+    "src": "Daily Faceoff",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVXkxaWMxOGxvVjZhTEZobE5sblE4MkMwNzBKMnBoRWFsLVRXSENOR3l1ajA4TjJTcVBhb1d6cHFQNmdldGdhbFdoekRUYlVtWkZqOC1OeGZXN0hkM0x3MUU0eVpuQklFMXppRzhZXzA4ZjJjdVVlOFhjZkZPZ1IzTDlPbXV4VWxpbXF1MmVmc0F2dDRsaTBxWGUtMjg0RVl5MnhfY1Y5TUVaU1E5WVNoVFh1ZUZkR2ZXT2Y2OVI3OEZUZw?oc=5"
+  },
+  {
     "id": "news-1otoj5c",
     "t": "2026-08-15T13:41:15",
     "type": "news",
@@ -466,17 +478,5 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQaVR5WlhhSHhJOFhjSm5XalY1WmtMMExOM0xLcHV6ZlowUnZURXJfbFNnd2FuV0M1M2tTbTVLVlI5V01QMHFwaXRJZVZCWmhiMVJnWWlKR1dYZUlyS3lGR1hWbVF4UVdZZEdjUGd0X0pBc3ZaYUNBVGZoWGxXZGtnZnZtRjRZQmc?oc=5"
-  },
-  {
-    "id": "news-jrqfpb",
-    "t": "2026-08-11T03:54:01",
-    "type": "news",
-    "auto": true,
-    "title": "Elliotte Friedman provides major Flyers trade update involving recent Stanley Cup-winning defenseman",
-    "body": "",
-    "src": "Markerzone.com",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4wSUxZeGxTaVlhamJFQUxjbUthd191UGJFMVdmcUpSV2JrNXhwMW4tTW5WSnFLMmVvNGl2Wnp1WDBHS2RRZDBJWFp2LTg2R09oVWxPcUhnX0xGMmhsWUhNOA?oc=5"
   }
 ]
