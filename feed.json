@@ -1,5 +1,17 @@
 [
   {
+    "id": "news-13ae4ap",
+    "t": "2026-08-17T18:33:26",
+    "type": "news",
+    "auto": true,
+    "title": "Matt Larkin\u2019s fantasy hockey top 300 player rankings for 2026-27",
+    "body": "",
+    "src": "Daily Faceoff",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcWZsbC0yZ093S3RGZlNENVd6czZMQjIydmJzUW81ZDJ4T3JmSkVfRUVoU19EeWdZbW90MXZlRTlydE1vaFRRVUhQVmlRVHR5WHRPMFNKUXBHZEs2bWc4MGpzdHB5a3RKTDlYZmdXZUM1X0FDZ2JURmZsbEJGNjBzU1RlNHN1SG5jYVc3V3FpUnhkb3ptNy1vZW16aUtkbGUzQkFYLW4ySnF1N1ZhTlNGSi1R?oc=5"
+  },
+  {
     "id": "news-1e3d90c",
     "t": "2026-08-17T17:33:59",
     "type": "trade",
@@ -34,6 +46,18 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQkN2SEZiaDhFMjZzNmtpbldPZkhONnJsSGZVazI1VTgzU0ZBY3Vpa21PSUdqSksyT3hRSmVEWUdnQjI2TUJPX3pJQkp4anhySUFPeDRLQmtFWUZocElfSkZtN0JnQUx5ZlVJZFV5RFdBMlp4clV2R2pQTEVJR2N4WDRDTDVZNWs?oc=5"
+  },
+  {
+    "id": "news-1mxtpeu",
+    "t": "2026-08-17T17:06:09",
+    "type": "trade",
+    "auto": true,
+    "title": "Hurricanes acquire Stiven Sardarian from Sabres",
+    "body": "",
+    "src": "Daily Faceoff",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaE9NWjA1dHFXTWp4MXFYVjNGUEVtZGdkTDlGMlJzU052UU9YMlEwVnpfWW1iRzNUUmxwTlBrTnkwNUZQUE9lYWl1dE4wRWh6ZU1XR2xnanRyVHBtdzBJTTh2X1FpMlFSQVJxeEFQaUdJNFhhVU44YnVhcmZyUnVvQUV2Mnh1OHVSMHJSc05FQVVacVdEcVh4QThSY05BX0pUUkdzZ3ZFYkwzSFE4?oc=5"
   },
   {
     "id": "news-5niupj",
@@ -454,29 +478,5 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVmhQR3UzcXZPMVFLQTlPMG4tM3V2bHFZT29MQTlFZzExTFdxTGZYdE9uV2lXR0ZEOEpEejBpN1R5ZEJzMENWel92aDF0UVNWV19PWTBVWmhsMDhBTW9JZEdFQkQ5NWtTNjhjMEhESFpRYmxTSm5seldIb2RLY1RQNExwbjFyQjRuQUkwZFJVdDR1NnFNRk5NNzZ1Rnd4S0NxRE5MWTJnb1FYVEpmZTJxZUdfbm42T2dmVTBvc2lR?oc=5"
-  },
-  {
-    "id": "news-1nnh0ij",
-    "t": "2026-08-12T03:58:37",
-    "type": "news",
-    "auto": true,
-    "title": "The Drive with Tim Donnelly LIVE - 08/11/26 | Carolina Panthers | ACC Football",
-    "body": "",
-    "src": "99.9 The Fan",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5DRFppVFVtWHdQSkJLYzBqMWdfZ0Z3dGlibVBLTzUxS2hvQWdHODFoM0lkdXRSbWFoQnRDMG4wQjJ6UmhXejFYNXAwLUpyakE?oc=5"
-  },
-  {
-    "id": "news-xu6hng",
-    "t": "2026-08-12T03:16:13",
-    "type": "news",
-    "auto": true,
-    "title": "The Adam Gold Show LIVE - 08/11/26 | Carolina Panthers | ACC Football",
-    "body": "",
-    "src": "99.9 The Fan",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9CTjRvcl9iRkQzbC04QS0tX1VVdTZqMmxGa0hjZ0gtZjUxNk1ySEhrVWJWMHUzdk9aQUNwQnQyTGU4MmwxSWpycHhkNktsbVk?oc=5"
   }
 ]
