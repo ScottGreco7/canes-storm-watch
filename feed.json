@@ -1,5 +1,41 @@
 [
   {
+    "id": "news-1e3d90c",
+    "t": "2026-08-17T17:33:59",
+    "type": "trade",
+    "auto": true,
+    "title": "Sabres trade Sardarian to Hurricanes",
+    "body": "",
+    "src": "NHL.com",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE80RVJIajBPcXcxemN1RndHLTRfN21RUUFjQzlLcUFVMXFvT0FSc2xqdFdxTlpJMnN4cW15UWQ5WlBEbXpnUkR6cHZsY1RWS19YRXdXaHNJVzU5NUdvZHR3OFJsMURjYXJmQUVhMUltSUhhWjZab3gxbQ?oc=5"
+  },
+  {
+    "id": "news-dft1z7",
+    "t": "2026-08-17T17:25:00",
+    "type": "trade",
+    "auto": true,
+    "title": "Hurricanes acquire Stiven Sardarian from Sabres for future considerations",
+    "body": "",
+    "src": "Sportsnet.ca",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdE5WOFotU2pHbFBfT3ZpRzRXaHMxYzFPR0Nsa3B2eU5uU3A1LW5LZC1EREpxZnJCSkQwXzJyUDRSVWlaNEtNQnBFbWsxYmZLajN6NG9Ib25ydnVlbDRwVHQzWVZEZnhuUFI4UVlLdDBDMzF6N1l1ZGlZSjVmZkdFd1p2S2Z4V1oyLUlHMGduaVZ6NU11MFVQUUtac0pudzFvWUpuSHBxbXZTYjJNd0xtVw?oc=5"
+  },
+  {
+    "id": "news-iq441w",
+    "t": "2026-08-17T17:19:06",
+    "type": "trade",
+    "auto": true,
+    "title": "Hurricanes Acquire Stiven Sardarian",
+    "body": "",
+    "src": "Pro Hockey Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQkN2SEZiaDhFMjZzNmtpbldPZkhONnJsSGZVazI1VTgzU0ZBY3Vpa21PSUdqSksyT3hRSmVEWUdnQjI2TUJPX3pJQkp4anhySUFPeDRLQmtFWUZocElfSkZtN0JnQUx5ZlVJZFV5RFdBMlp4clV2R2pQTEVJR2N4WDRDTDVZNWs?oc=5"
+  },
+  {
     "id": "news-5niupj",
     "t": "2026-08-17T12:37:00",
     "type": "news",
@@ -442,41 +478,5 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNlIzT0Zyb3VNbEdoeUxDMDlvZWV0WUVyM3dyMUVhOC1fRXV3UHpfRFVwcDJtTExYSEVSZzBuWENXc05tY0h3SDJGMG41VGpvU3MxNlFfbEM0QzZUNDBJSkNvX2NTQWxZRVcxR2xrR2lpTnR1YlBITlhkb3hoWENwbjZZdjVOMEZReDF5MnZHUmlpSUJDOWVIYTZHSm1CbTFpa2ZHQWtuZUJ2YkFvVTFVdFhad1J1aW1OR2c?oc=5"
-  },
-  {
-    "id": "news-118y8dk",
-    "t": "2026-08-11T20:00:00",
-    "type": "news",
-    "auto": true,
-    "title": "Cale Makar Extension Questions Emerge",
-    "body": "",
-    "src": "nhltraderumors.me",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNV3c1Wi1uTV9zb3EzUF84RzJHdGN3UGw2S0VXNUF1aGpzZ2hhcWRITEZaTDh2MzlESmZhTHdTcGZzY3FnWnZ5REw4TTkxQ2JzWTVFTV84b1RONmQtSU9tMjl0UzB6VXgwSF9SR2MyTmMxUGZvT21aTUpfMGVoTXFzMWU2M3M2ZlE?oc=5"
-  },
-  {
-    "id": "news-1tmp4m",
-    "t": "2026-08-11T17:39:06",
-    "type": "news",
-    "auto": true,
-    "title": "Teams",
-    "body": "",
-    "src": "999thefan.com",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4tcDBEa042V3RTU3pKTFpiR1pvTmhEWm1MOWNycnhsdUd5WDRubnNSU3ZUQ3gxd1k2a0FSM2R4OC15YTAySC1WdzkwRUlmUQ?oc=5"
-  },
-  {
-    "id": "news-1gb51mx",
-    "t": "2026-08-11T17:09:37",
-    "type": "news",
-    "auto": true,
-    "title": "The top five remaining NHL restricted free agents",
-    "body": "",
-    "src": "Daily Faceoff",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWU9BSXZDb21kWG1GWk54VWZFaWNQSkUzQk80cUwxOHN3TXlMRDRQSXMwTWEwZ1lqeVA4dENGN0I4ejNXWlNnb29sRUxkTUJpc1Vla3NISkJlN3lOZnc4Q1JqQUt5SXpNb0pkUlk2b1JVdktZNzlRVWpNOVE4RXpfbUZqdUZ5eFlWWjRuOXpNZHBzQi1LQkJrMS1Od2F6aERzMU1sTTdtZFBBVFZGb2QxVUJQNTdFdVRHcTU1VVVqN2lQQ2ZDZFE?oc=5"
   }
 ]
