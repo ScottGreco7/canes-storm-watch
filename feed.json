@@ -60,6 +60,18 @@
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPa2JkNGRpaG9KVUVkbnN0Nm9hV0ZUVzBoMnpXZ0dyQ0ZVOTY2WEtZNy1WbC1WbEFvZm9JQmdqaXVUUkpwdUUxZVRGSHRXTFRobDJZV0J1Z2llLUEzOHd6LW1mMllvb1BQN0VoTHg5MFpHRTRjRUhZdHB2NjZPTnFfODZoNDJFTmlINDU2dnl6TjF3QnlVb01rY0JfaWpxTG1FenBUNmlsVVhBWTVuM1E?oc=5"
   },
   {
+    "id": "news-zqgkk2",
+    "t": "2026-08-17T21:15:00",
+    "type": "rumor",
+    "auto": true,
+    "title": "New Atlantic Div. Team Linked to Patrik Laine",
+    "body": "",
+    "src": "nhltraderumors.me",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPN1NZMTN5T3VNNm9pdXEyVGR0SWZ3UjY1aDA4STdUZ3cwYTllQ2hKcVZBSWZ6U3FYc2tqcVZPUjZpcXN5a2REcThSQW0tYUlESExUNXBIRElfUWE1MmI3clpGU2F4WUdDcmVVbkFRbmxaRmxsbUpGNUhwVjdEdFhEWnY0VHJ0M2tI?oc=5"
+  },
+  {
     "id": "news-10xz999",
     "t": "2026-08-17T20:25:53",
     "type": "signing",
@@ -466,17 +478,5 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9KcGlrRHFqV19vVFJDbkFoeUNPSDNacDJHbFpacjhHNFZ0QXIxTmNCZVU0YjhJaGMySTlSWGFRT2k4VkhuNFE?oc=5"
-  },
-  {
-    "id": "news-15lp26u",
-    "t": "2026-08-14T06:56:07",
-    "type": "news",
-    "auto": true,
-    "title": "The Drive with Tim Donnelly LIVE - 08/13/26 | Carolina Panthers | NC State football",
-    "body": "",
-    "src": "99.9 The Fan",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5oeXVxYzZZZTROZ3VIUG1vR0N6Slk2RXh1b3dXbW8yeGlaSTk0Y2tmZ0JjMEE1aEpNS09jZHNvRlc0V1c0UHUzNFFab292M00?oc=5"
   }
 ]
