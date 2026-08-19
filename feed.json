@@ -1,5 +1,17 @@
 [
   {
+    "id": "news-1m2iybu",
+    "t": "2026-08-19T12:16:00",
+    "type": "trade",
+    "auto": true,
+    "title": "Carolina Hurricanes acquire former Michigan Tech standout",
+    "body": "",
+    "src": "Upper Michigan's Source",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOd0szV1JjOFJic0IyT05GT0YtQWRkSldTUUZqSjE2c2lGZF9aemVZdHlnSWtrRFhobW9aVGVNQkNFcVVHLVc0aFlpUHU1enhsdVJWdTZoYmxWX0tUeHRUZm1YRTcxcGJmOHYwTTlhNVZMb1BuMEM2WnVDSE8tNE5wdEVUUm5xWkJDRnhWdlU4dlBVdWtkTm5XTHhoRDFJaEg1LTlEN25wb01SOV9VLXJxOW1B?oc=5"
+  },
+  {
     "id": "news-1hd34of",
     "t": "2026-08-19T11:55:00",
     "type": "news",
@@ -466,17 +478,5 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOXlpOFFkTEdKTTlLaUtDeXM1MU9zUVkzbkxhQnRqa3FDT0QzY2VPb0NaLWh5SEdJdDNfT1p6TnlZQ3ZhcFc4SjU5LWdKak5ndVRFbHlPZE0xOUNjSEluUHRVSkl0aTVoSzV2RXAzNXY4cGFmNFk0TnJaeklhR1JOQzhWWHV5YWdJaXVYY2dTRVRuaFpVcFl4NjZrdk1VSW40eUVJUWF1dDA4TFNnV0phWnhGRC1nU0VVMTBhSmp3?oc=5"
-  },
-  {
-    "id": "news-9c8sde",
-    "t": "2026-08-17T00:04:31",
-    "type": "news",
-    "auto": true,
-    "title": "Flames passed on stunning Matthew Tkachuk trade and Elliotte Friedman reveals the details",
-    "body": "",
-    "src": "Markerzone.com",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBraTdEMlpMcGV5V3AxbzFYZFl6MEVCZ3JnSFNfaG1XRkh2dlRET3p1VXJKc0MyOEdSQm8yeFcydG5feGhMVFROV09HTkZjZkVZZmV5WC1OS1U5aHA5alJGTw?oc=5"
   }
 ]
