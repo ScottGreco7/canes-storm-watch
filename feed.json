@@ -1,5 +1,17 @@
 [
   {
+    "id": "news-1742ieh",
+    "t": "2026-08-20T17:57:00",
+    "type": "news",
+    "auto": true,
+    "title": "Sketching out how the Flames can (eventually) trade Jonathan Huberdeau",
+    "body": "",
+    "src": "Daily Faceoff",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZW5oSzdUZUlEeV9GeUd5anBZLUZiVVFaT2lfeUNyelIyYmRqTFR1YnR0MEhvNDhGTVhwWUQ3TV9nZlJpTVZKekY2bTlIYlZ6Sk5lZ3R0TVlKcUxEVTdUR3RyYTRBMklnc1BoRFUxb1pqd21OVndFeFVlWlpxd3RFXy1zUkJUQWIwVkhuRFZZamtKbS1HdlpQNUJaano2TWpIek01VGZqbEZrcGd5c1JzYWk2SlNzaXM?oc=5"
+  },
+  {
     "id": "news-b81x4h",
     "t": "2026-08-20T14:43:05",
     "type": "news",
@@ -686,17 +698,5 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcWZsbC0yZ093S3RGZlNENVd6czZMQjIydmJzUW81ZDJ4T3JmSkVfRUVoU19EeWdZbW90MXZlRTlydE1vaFRRVUhQVmlRVHR5WHRPMFNKUXBHZEs2bWc4MGpzdHB5a3RKTDlYZmdXZUM1X0FDZ2JURmZsbEJGNjBzU1RlNHN1SG5jYVc3V3FpUnhkb3ptNy1vZW16aUtkbGUzQkFYLW4ySnF1N1ZhTlNGSi1R?oc=5"
-  },
-  {
-    "id": "news-1e3d90c",
-    "t": "2026-08-17T17:33:59",
-    "type": "trade",
-    "auto": true,
-    "title": "Sabres trade Sardarian to Hurricanes",
-    "body": "",
-    "src": "NHL.com",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE80RVJIajBPcXcxemN1RndHLTRfN21RUUFjQzlLcUFVMXFvT0FSc2xqdFdxTlpJMnN4cW15UWQ5WlBEbXpnUkR6cHZsY1RWS19YRXdXaHNJVzU5NUdvZHR3OFJsMURjYXJmQUVhMUltSUhhWjZab3gxbQ?oc=5"
   }
 ]
