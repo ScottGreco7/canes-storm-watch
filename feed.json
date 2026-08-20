@@ -1,5 +1,17 @@
 [
   {
+    "id": "news-1kurmzf",
+    "t": "2026-08-20T09:45:00",
+    "type": "news",
+    "auto": true,
+    "title": "Duke football still needs to name a starting quarterback",
+    "body": "",
+    "src": "99.9 The Fan",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBaaXJTNDR3d3Nya3prZVdZbzJoUjJUcVpYcGo1QjF4bHlCaW1lZW5FUXNtMUI4Yl9mX1A0aU9nWHBaZ1NOY2JzWGhIcnRheTg?oc=5"
+  },
+  {
     "id": "news-1fs2xy",
     "t": "2026-08-19T19:31:32",
     "type": "trade",
@@ -686,17 +698,5 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQkN2SEZiaDhFMjZzNmtpbldPZkhONnJsSGZVazI1VTgzU0ZBY3Vpa21PSUdqSksyT3hRSmVEWUdnQjI2TUJPX3pJQkp4anhySUFPeDRLQmtFWUZocElfSkZtN0JnQUx5ZlVJZFV5RFdBMlp4clV2R2pQTEVJR2N4WDRDTDVZNWs?oc=5"
-  },
-  {
-    "id": "news-1mxtpeu",
-    "t": "2026-08-17T17:06:09",
-    "type": "trade",
-    "auto": true,
-    "title": "Hurricanes acquire Stiven Sardarian from Sabres",
-    "body": "",
-    "src": "Daily Faceoff",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaE9NWjA1dHFXTWp4MXFYVjNGUEVtZGdkTDlGMlJzU052UU9YMlEwVnpfWW1iRzNUUmxwTlBrTnkwNUZQUE9lYWl1dE4wRWh6ZU1XR2xnanRyVHBtdzBJTTh2X1FpMlFSQVJxeEFQaUdJNFhhVU44YnVhcmZyUnVvQUV2Mnh1OHVSMHJSc05FQVVacVdEcVh4QThSY05BX0pUUkdzZ3ZFYkwzSFE4?oc=5"
   }
 ]
