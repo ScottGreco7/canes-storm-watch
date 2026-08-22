@@ -12,6 +12,18 @@
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUGtmQ3RoZWpsQ1RCUTVyS1phZ3Q4OVZ3V0hDM2s4bnJFNVk0YkpTLUwxcl9NVC1mM0lhemxwY1k1eEE5QUdYREI2bzlqWkdEZG9YZFhzcUtnRUFVS2dmakdwZHZ3QTRVbkdaN09YZzkzWmtweFBGRlZvQ2JIRnZpMTFkUk1veHFCWHpSeTJ5anMyY2VQMFo3NQ?oc=5"
   },
   {
+    "id": "news-igip6n",
+    "t": "2026-08-21T21:44:26",
+    "type": "signing",
+    "auto": true,
+    "title": "Rangers Re-Sign Vincent Iorio To One-Year Contract",
+    "body": "",
+    "src": "Pro Hockey Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUGtmQ3RoZWpsQ1RCUTVyS1phZ3Q4OVZ3V0hDM2s4bnJFNVk0YkpTLUwxcl9NVC1mM0lhemxwY1k1eEE5QUdYREI2bzlqWkdEZG9YZFhzcUtnRUFVS2dmakdwZHZ3QTRVbkdaN09YZzkzWmtweFBGRlZvQ2JIRnZpMTFkUk1veHFCWHpSeTJ5anMyY2VQMFo3NQ?oc=5"
+  },
+  {
     "id": "news-co38w3",
     "t": "2026-08-21T21:00:22",
     "type": "news",
@@ -70,6 +82,18 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORmJiQ1JkUTAwRmRNdkt0Q2NRWlRWYlp2N1FGUmZWUFpISTViSEdEVDRvYzEyVndNOUMxVUpCMDNNYXZ0RkUwUVNFY3htVmJDZDZCUDN1RFJ0NWswV0VkTldRUFU2OHlWWEtBYVZhU05EY1dPckR2TFYxaGpPV3haMTI4d0toUHVpRUprd0ZrYTBwckU?oc=5"
+  },
+  {
+    "id": "news-17dxbzr",
+    "t": "2026-08-21T11:31:00",
+    "type": "news",
+    "auto": true,
+    "title": "Philadelphia Flyers Continue To Make Trade Offers",
+    "body": "",
+    "src": "nhltraderumors.me",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNc2FhV3hjYXdSNTA4Ymp2NTNWYms3bG9qT0RTb3gya0FCand4YjZiOGxrRVRLOXd3MHNSTE56TG1FdTFCU1MyREFkaTlLVlRwS21fcW5WY1ZRWVp0TEtVTDE1X05HTVdpVDVxZmx4MG8wa2RYQWVFeU1JZDdnbG5wUnozRzM2Zw?oc=5"
   },
   {
     "id": "news-4kxpaw",
@@ -674,29 +698,5 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9rZnZlOXBDYWs4c0dMQnVsWVdIa0Q1RGdtdHl4bVc0NmRwRWJxdUlRYUlleDR5b29wcG9BcFJ3bDdFMUlyUy1YaGNqSDVOMXM?oc=5"
-  },
-  {
-    "id": "news-ujdmzj",
-    "t": "2026-08-18T06:29:25",
-    "type": "news",
-    "auto": true,
-    "title": "The Drive with Tim Donnelly LIVE - 08/17/26 | Carolina Panthers | ACC | Carolina Hurricanes",
-    "body": "",
-    "src": "99.9 The Fan",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1oS0FUMl8wVGFyOXpjeXRXQmZIT1B4VjZwY3dvLXFFMVJsVFZfbjV0YnVzV2JKNy14VEtFVllqdU9STVZQdWlBbWNOeG5nakU?oc=5"
-  },
-  {
-    "id": "news-1vxh4l7",
-    "t": "2026-08-18T00:42:48",
-    "type": "news",
-    "auto": true,
-    "title": "Players Nearing Milestones Heading Into The 2026-27 Season",
-    "body": "",
-    "src": "Pro Hockey Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNR0lvYjRwVE5rbWRWQ2xfUm8zdXFnR3UtSkF6V2JBWEZ6elljaUoxLTVrdHNZamZfR0pQeGcyMWRtV04wd3FubVlIOXhoalhFb0VuODFEZmJPUEs3bzBmZ1ZQRDdvWEJHWnpmZENvdy03bFU1TGw1RTRLVWhkRWFNMnl6LXU2THJzd2JaajNmcEFDR2xfVHJSWEJNbXpHQlkxbWJZemd3?oc=5"
   }
 ]
