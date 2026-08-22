@@ -1,5 +1,17 @@
 [
   {
+    "id": "news-1p73fa4",
+    "t": "2026-08-21T21:44:26",
+    "type": "signing",
+    "auto": true,
+    "title": "Rangers Sign Vincent Iorio To One-Year Extension",
+    "body": "",
+    "src": "Pro Hockey Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUGtmQ3RoZWpsQ1RCUTVyS1phZ3Q4OVZ3V0hDM2s4bnJFNVk0YkpTLUwxcl9NVC1mM0lhemxwY1k1eEE5QUdYREI2bzlqWkdEZG9YZFhzcUtnRUFVS2dmakdwZHZ3QTRVbkdaN09YZzkzWmtweFBGRlZvQ2JIRnZpMTFkUk1veHFCWHpSeTJ5anMyY2VQMFo3NQ?oc=5"
+  },
+  {
     "id": "news-co38w3",
     "t": "2026-08-21T21:00:22",
     "type": "news",
@@ -10,6 +22,18 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZXRBbGx4T3RLTG90eVNaSmJ5emt0YXBGV2VIRDBjRzRHcXMtd01MZF9NUWJreTZ4cW5SYjE4MGd6d3c3eHg3YUcwUXlRcWJRLXdHaXVkNXIzTDduem5XalNScDBBN2IzZ1Y2QU1nUFBacWY2NGdJYjVFZVI4MzdybHRrN1M?oc=5"
+  },
+  {
+    "id": "news-atoj6a",
+    "t": "2026-08-21T20:00:58",
+    "type": "signing",
+    "auto": true,
+    "title": "Wojciech Stachowiak Signs In SHL",
+    "body": "",
+    "src": "Pro Hockey Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSERrMzhuX0dtdHR4bU53alFaUC1xN0RKeHZHUGRWMzZEUW1FWVZJMWRFVDB4S1BfdGdnSVFadko1OWNpbm5nOS15MGRqUDZRMmM4d3JOc0VfbXpyMUtUakVTbDFCZ2Etck9VN0JJMGRDNzRxYnlVeHhLOUtvYzJqRDFabw?oc=5"
   },
   {
     "id": "news-6ufdgo",
@@ -674,29 +698,5 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNY09seE0yWGVfVnk5ZVFXb3VvWjYzWVBtY2xhRWN3Mk9Wb01CN2NlbTJObFFrbUhhSzRfWFhEMDBORFlaSTJXcEVpNzl6eVNTN2JvZ1dNX00tLXVCUXU3M2cxWWlUbVFsLUYxVFh4UVpZenFBSGgyWmIxOEJoWGlkbHdqVEVnZ3ZZZlBhWDZ3?oc=5"
-  },
-  {
-    "id": "news-1ve4gos",
-    "t": "2026-08-17T23:25:00",
-    "type": "rumor",
-    "auto": true,
-    "title": "5 Teams Linked To Kirill Marchenko Trade",
-    "body": "",
-    "src": "nhltraderumors.me",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdkdLQXhCVkxyN3pBSzRQcm9NMXU0RFpqU3haQThOYVlKaU02eXN2cWpuNHd5Qm9HZi1uNmMyN0pOWWhXYnExWlhPMUtZUjVJWVN4d2NjOV9KMFFmcFVxdVpoWUcwWnotVC1KTTdfeDg0Ui1WTzhlWHBvTWQxRGhYWVBQZ0tiTndHblFj?oc=5"
-  },
-  {
-    "id": "news-z8mwnl",
-    "t": "2026-08-17T23:05:54",
-    "type": "trade",
-    "auto": true,
-    "title": "Hurricanes Acquire Russian Collegiate Forward",
-    "body": "",
-    "src": "Yahoo Sports Canada",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVnNYNGdaUERUekhYdzk4RDdScUZ2YlpqUno5UFpNLW5wandxVXEzSEdGM1M4dzR5ZTFpdEhuZG1PNU5rR2VJUEVIdE9aQlVLbGgtRF9ycnZKWTZZek52aU9DNUpEa0FEekZPVDlXSnpyQkM4a1g4Uk9FS3VUWHEwSWxNd1NZbkVpLXBYUFloVDh5cFdMRlN2dg?oc=5"
   }
 ]
