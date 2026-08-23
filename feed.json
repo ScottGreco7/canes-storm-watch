@@ -432,6 +432,18 @@
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQLTM0SlZJRFRMMWhWUzZyVmtNV1doTG5ROVd6RlFPSzBrcDVCRktrRlpUS2tla2N6ZVFUcjBKZWZ4cTg3RGpSZUpIU1ZUMVcwVVVlbG1VVUdLVkRMWk1HNnNFa3VBM1NvSEp4bjVRT1pGQXJCOVFJYy02SjE5U2hMc2VNODVDSU16NGs1NQ?oc=5"
   },
   {
+    "id": "news-puzuop",
+    "t": "2026-08-19T19:30:00",
+    "type": "news",
+    "auto": true,
+    "title": "NHL 2030: Projecting the standings from 32nd to Stanley Cup champion",
+    "body": "",
+    "src": "Daily Faceoff",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaFI2OHFMVnBudWk3VF85RFAtcnkyREFBM0JnZ0tjZGJGQ3ZBTTZtbVhOeldPQldJSlkyOGlRUDNueXlYVnRhVlNlQ0tySUVfMVhfbFRJb3Z5MGc0VVJQNUhIN0ZWVGhYRUdEanU5WW5saG5ZenE4UDRTQWNLMWIxQ01ybXpVNlplS0tWRTk4MkJuT0h2TGJNY3JVTnN6SXJGb3NveFJ4VnFSa09WcnprYmk2aUl3dmhY?oc=5"
+  },
+  {
     "id": "news-146s08e",
     "t": "2026-08-19T18:38:02",
     "type": "trade",
@@ -686,17 +698,5 @@
     "players": [
       "Zach Sawchenko"
     ]
-  },
-  {
-    "id": "news-15iuvth",
-    "t": "2026-08-19T13:20:37",
-    "type": "news",
-    "auto": true,
-    "title": "Could The NHL Expand Back To Arizona?",
-    "body": "",
-    "src": "Pro Hockey Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSmlqWXdWa1QzTEZjakZLVDlsT2RmWUJUYnRXUXJjWk10ZFJKUTV3aTNOMUMtNC1rVWZxcGRIRmU1eUc2czAwSHVWOGZGNkVJejRqNk5LODRtZm0tMkpCWVpJVEdJUlh3cXgwSjZFa3EyaEdkV0IycTZiYjNicG8zRnZmUXdxT0V1?oc=5"
   }
 ]
