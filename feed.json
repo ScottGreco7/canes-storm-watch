@@ -24,6 +24,30 @@
     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQelJLMXBJN1IxaDNWQXlUQkxiMXZsNG9adkVwMzRaZC14VmdvZVBEc2hoRGNJZFZ2UURGTmNpTEJsbjZLckd2V2ZweTNtQXZrcmVTU2VoYzJiT3JUQ1RUM25NNXV5SE1EX2xkN0ZBVDgxQWZJNHFBNjg1aV9BRU40OExsTXVHRmIybElJZjRPWEE?oc=5"
   },
   {
+    "id": "news-g38xcw",
+    "t": "2026-09-04T14:13:00",
+    "type": "news",
+    "auto": true,
+    "title": "Ranking every NHL team\u2019s 2026 salary cap situation: #24-17",
+    "body": "",
+    "src": "dailyfaceoff.com",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPT2pna1BaSXl5eVpQeUFSX3VfaHl1Z0xhMVZLNDVOdWJUVXRUTHR3dnlOcGZwemNIenkyeERzSUNOek9aNGt6WjUzMmpzX2RHWFpOSWc1MGtHMllVbGo5UjZnUUROcW44bVktS3pmZFJtMGVZaVQxOS1JZkg3dDZ6WkQtb29zUV84TVNSbzlNSVBrSmkwM1lNeGpiYkZQNlIyUEVjYVl2czNuUVpUY2lILUdiSWo3TlR3X2Z1M2U2MTRyekdrbXRNSUR2TEJRTVMwWHNMTjVPTjcybGhNUlAtTXE3Wlo4bUFrTGEw?oc=5"
+  },
+  {
+    "id": "news-invbz3",
+    "t": "2026-09-04T12:45:00",
+    "type": "rumor",
+    "auto": true,
+    "title": "Free-Agent Michael Bunting Linked To 3 Teams",
+    "body": "",
+    "src": "nhltraderumors.me",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRVZYMTNXREFCWnVMcDR0UFBjYl8zQ0xtcGwzU1lFNlV0OXhBd3VyODZPVjJfSWJ1eWlzRW1jTVFMLTluaGFxRnAtSXFNLW5Fak9nNWdQR1pFODFxWHZVcDFOeTRYU3Jrc2hLaXR1VVB3bklKMTlCR09YOWZIS3dsV3p4Z2FxOHdX?oc=5"
+  },
+  {
     "id": "news-tqb4fx",
     "t": "2026-09-04T12:22:35",
     "type": "news",
@@ -34,6 +58,30 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBmZS1wUHczNFM0Uk9POVMyUzUwUlJ0U0ZFNGQ5c2VLcXBLa2xSX0RSUzBBcG5seGVTVjVvaTQ2bkpCMmRrVWs0Qy1ZYjNIUGhfMFBVdTJseVlBcUg4SlE2Sg?oc=5"
+  },
+  {
+    "id": "news-h3687t",
+    "t": "2026-09-04T12:10:00",
+    "type": "news",
+    "auto": true,
+    "title": "Utah Mammoth Making Strong Push For Connor Hellebuyck",
+    "body": "",
+    "src": "nhltraderumors.me",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaEZzRDdma19qaU12Vk5vY2FxbW9qNnhYMzY4TmhZUEpEUnFQTG1XQndoQ3F5VW9TVjVVVFk1dDh4V3VyUW9TRkUwN1prcDRya0lDaGJlMUxvZ0czeEc5dUNuMFdRT3pyVHo3X1VfOU9CaGEtOVI3T01aanh3dUxKZVl5Ym8?oc=5"
+  },
+  {
+    "id": "news-y9jbfk",
+    "t": "2026-09-04T00:30:47",
+    "type": "news",
+    "auto": true,
+    "title": "Should The Carolina Hurricanes Run With A Bussi-Kochetkov Goaltending Tandem?",
+    "body": "",
+    "src": "The Hockey News",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORFluTDVqT2I0UmJqVmZiaXN6dlRZSUctNUFyUGMtZWJuQk95LXl3amxKU0xIOGcyOEIxWTNBQWk5eTN4Wk1KWmt3V25xU2NQV1NCOVBKb0QtNjE0QXZzcmJsYXZxRC1HOXNGTmYzcFM0ckY4RmZjQmRDRkNLWHc3OHR4VHdDd2pQVEgxdkRsVkktckdxUHRXV01oLWluUk9EN2tsN3NUWG9TWmVJSGZVZDFhQlVTYXdlZ2VB?oc=5"
   },
   {
     "id": "news-1xul92s",
@@ -430,54 +478,6 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWDJ2U0hiVVQxcG4wMlNkekJYY0hKeFV3dlJiSEhmSmZReGFpSVJOTlVPaHlBMFR3MllZY1JlNWtRUnpSZHpYWU90WF9aSEhzY3h1dDBGUmpwVnJTc21oSEdUR2VJYU54VE1yNmw2WEljZHA4TF9kTW54dmhVRGUwSDg1SlAyQk8zdXplMnVXVllGWWZQRXc?oc=5"
-  },
-  {
-    "id": "news-9psfut",
-    "t": "2026-08-30T13:34:00",
-    "type": "news",
-    "auto": true,
-    "title": "5 Teams Who Won't Be Trading For Jets' Connor Hellebuyck",
-    "body": "",
-    "src": "nhltraderumors.me",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONXFvVktab2dGMWFuMmRqbWdRcEFGLWlpU3pFNmRZZ1Z5ZDFjczlnUGZzcGpoMnBIUDNSOWFuN1dGOTF1QVBucEYzZ1g3aFU0M3lYbzl4bHFmQlJUeVJvZFBnNXZpd3VjUlg5RGJXRVdGSWpHQmcxc0xjbG5QMThyV2hWUUx5UQ?oc=5"
-  },
-  {
-    "id": "news-i23nok",
-    "t": "2026-08-29T20:00:33",
-    "type": "news",
-    "auto": true,
-    "title": "Stan Bowman Provides Injury Updates On Matthew Savoie And Frederik Andersen",
-    "body": "",
-    "src": "Pro Hockey Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaUltSktyQk1MeV90YWd5eWttQkFkSjQ3VFlrVUptYXoza29obExDN01jX0RDZldneXBsQ0YyeXNUa3N0czVqV2VlY0JlNUc0TnhoTkdMWDIyRExsMF8zQ2kxSDU2X095SG9DU1g3YmhPZktkNzF2NEN6MzZNSUFOVU9ZOTdJcG5OMUtjYTRELVVkMlRXNWlaNkl1eWMxME16VXNndmk4ZDBkREYxbnFzdVNKN1A3OVJPdE1Xbg?oc=5"
-  },
-  {
-    "id": "news-vgjqoz",
-    "t": "2026-08-29T20:00:33",
-    "type": "rumor",
-    "auto": true,
-    "title": "Stan Bowman Provides Injury Updates On Matthew Savoie And Frederik Andersen - NHL Rumors",
-    "body": "",
-    "src": "NHL Rumors - ProHockeyRumors.com",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaUltSktyQk1MeV90YWd5eWttQkFkSjQ3VFlrVUptYXoza29obExDN01jX0RDZldneXBsQ0YyeXNUa3N0czVqV2VlY0JlNUc0TnhoTkdMWDIyRExsMF8zQ2kxSDU2X095SG9DU1g3YmhPZktkNzF2NEN6MzZNSUFOVU9ZOTdJcG5OMUtjYTRELVVkMlRXNWlaNkl1eWMxME16VXNndmk4ZDBkREYxbnFzdVNKN1A3OVJPdE1Xbg?oc=5"
-  },
-  {
-    "id": "news-hgj5po",
-    "t": "2026-08-29T16:23:19",
-    "type": "news",
-    "auto": true,
-    "title": "Metropolitan Notes: Smits, Ryabkin, Blue Jackets",
-    "body": "",
-    "src": "Pro Hockey Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPd21zbUVnZTBrNkZ4aTV4ZzVaTlNPM3hySWNsM1J4RU1naGljcXBIQldsaURvaFVBZGNBQVc4UkwyQ29VYkdIWGNwaEc2M0FPQkdKaTdpSHJfd0QzazRjUERvMVUxX3FuenVnbWw4aUlsOGNwXzlQRmdjMWN0U2pZWTByS2EzQlM1TF85TnNUMXozakNZ?oc=5"
   },
   {
     "id": "auto-rem-8482100-20260819",
