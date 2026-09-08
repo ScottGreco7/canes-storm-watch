@@ -1,5 +1,90 @@
 [
   {
+    "id": "auto-add-8480058-20260908",
+    "t": "2026-09-08T20:17:04",
+    "type": "roster",
+    "celebrate": true,
+    "title": "Pierre-Olivier Joseph added to the Hurricanes roster",
+    "body": "Pierre-Olivier Joseph now appears on Hurricanes' official NHL roster. Auto-detected from the league roster feed \u2014 could be a signing, trade, or recall.",
+    "src": "NHL roster feed",
+    "out": "",
+    "players": [
+      "Pierre-Olivier Joseph"
+    ]
+  },
+  {
+    "id": "news-18tztur",
+    "t": "2026-09-08T18:12:42",
+    "type": "news",
+    "auto": true,
+    "title": "Carolina Hurricanes Announce Signing of 6-Year Defenseman Ahead of 2026-27 Season",
+    "body": "",
+    "src": "heavy.com",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMndTV1dDSFdfMDBUTEVPNy02cURWVE1HdmktOUI1UTZQakZNazQ0cW55QjBMQzZUUzZuS2taaDBLOFNxMGZEUUR5MmNoOUJYaG9adTJiTUhNNmtYS3E4Wkl3QlRPaUpDUUUwZXFEb0JXbUxBemdKMTN5c0FONFhYN2xzd0dkaFVvZFdESDZKRGhfNVN1LUtPTVpFUDUyZUh3?oc=5"
+  },
+  {
+    "id": "news-zwuuc7",
+    "t": "2026-09-08T18:00:03",
+    "type": "signing",
+    "auto": true,
+    "title": "Hurricanes sign Pierre-Olivier Joseph to one-year contract",
+    "body": "",
+    "src": "Daily Faceoff",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSnF6Vkhndi05bVQ1WnAzcENxM2hzbVlXU3pVR2hqX0JfU3ZjS3JrOWd1cUFqdTdhRjNaelgxQ2FQelg5T0ZtMHZNVzJJaXI0aVowNVVsOFFmN2ttMlctdTlkUjFtQmQ4dmdIdTVPTFFiMTNZSTV3ZGRXNnFfRURvRGtCdGJiV1NSaVF3cDFJNk1pcEJUaTd3c1BLU25GUnJIUHJvY1pQOHhGRXc?oc=5"
+  },
+  {
+    "id": "news-1kzqvbe",
+    "t": "2026-09-08T18:00:03",
+    "type": "news",
+    "auto": true,
+    "title": "Quinn Hughes Undecided About Extension With Wild",
+    "body": "",
+    "src": "Pro Hockey Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTEtRSWtjRGgxSkNNMHB4ZFBBTG8xUzZwc0NqMHpONnFvcWR2YWJuRVl3Vmh1dDNuZWNLeGlHNmdIWXpwdUY2TjVHM1FMcGIzOXlaQW15c0tfSGsycTF5VUpBMFRaWkluMGZOV19kaWdoZ2ZTdFZsZ0ktTzk3QXZKY25IdHloMDZwMnJpZGRJYzBSQXdNeHpqNQ?oc=5"
+  },
+  {
+    "id": "news-bj99bl",
+    "t": "2026-09-08T18:00:03",
+    "type": "signing",
+    "auto": true,
+    "title": "Ex-Canuck PO Joseph signs one-year deal with Hurricanes",
+    "body": "",
+    "src": "Canucks Army",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObWVKOWdITnVWcVBQR0ltOFpQWTljMnNhSWhKREpTMFFzZzdOWl9CY1ZRU2JWVlFNVzVPenpMWlpIeU1QSHFVTEJTSnpoZXVWSTlYNmEwcjk5aWVDYmVZektsZzlzZ1lJTEFCR09Tc0RZb3BlOVIwR3ZabkY1cmpZbmJobW52QWo3UWN3QWI1NXA1U1dUTnhrcG1BbjRNSlE?oc=5"
+  },
+  {
+    "id": "news-edqrjo",
+    "t": "2026-09-08T15:57:46",
+    "type": "news",
+    "auto": true,
+    "title": "Senators Notes: Batherson, Stutzle, Chabot",
+    "body": "",
+    "src": "Pro Hockey Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOTAyWlFrcTYtSGctbHgyY0VSeDVnM0NPQlB0ekV4dWNwV0FiSW9yclZMY2JfVU4zY1pIYm9NWVpTa0ZwT1JpYk5MS2N5X2E1enNaMnI0dldScU1rVThhWlY2TzR5cUFwVGtSOG1xbXV3d0ZCUEFYRVlJYkNMbTNpTkU4VjVFV2tjeGVCWQ?oc=5"
+  },
+  {
+    "id": "news-8kzhf6",
+    "t": "2026-09-08T15:01:53",
+    "type": "news",
+    "auto": true,
+    "title": "Simon Edvinsson\u2019s Contract Talks On Hold Until Red Wings Find New GM",
+    "body": "",
+    "src": "Pro Hockey Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSW9rTWV2WEVWQUNORkhxbTVYRklhd0RpOGpqTTZGTEZ0OWpDNV9temUwblU3dm5meDdJOWx2QmU0OFZKMzc2bHVqdVJKdFM2Z0tKaExNZGFGT0EzanZhVUs0Q2w3c3BsTDh1bjYyX0JyNkN5WjJOZGhKMWNfVGdjcFZOTGNJaTJfenRjc3ZueEhzTVpqNVNieVFaUTBDRjQxVEtNRTE3Vm5sRExnZm1VeS1R?oc=5"
+  },
+  {
     "id": "news-mju7br",
     "t": "2026-09-08T14:56:11",
     "type": "news",
@@ -406,78 +491,6 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQelJLMXBJN1IxaDNWQXlUQkxiMXZsNG9adkVwMzRaZC14VmdvZVBEc2hoRGNJZFZ2UURGTmNpTEJsbjZLckd2V2ZweTNtQXZrcmVTU2VoYzJiT3JUQ1RUM25NNXV5SE1EX2xkN0ZBVDgxQWZJNHFBNjg1aV9BRU40OExsTXVHRmIybElJZjRPWEE?oc=5"
-  },
-  {
-    "id": "news-47ioa8",
-    "t": "2026-09-04T14:35:19",
-    "type": "news",
-    "auto": true,
-    "title": "Red Wings Moving Forward With Candidates For New GM Position",
-    "body": "",
-    "src": "Pro Hockey Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZXFyaWlVREZiTjBMbVlpa3A3clJRNklxbFh1d1dub3k5aGY0N25lbmhycWRJNGZwc1M1MjFFSjhDd0U1X0dNS2R6VWxnYlB0bEhIcW5YNWVSTGZXMEY3dHlOaUhBaGUtWmVMRVZyRTZudVN1Z3VhYklUZEV6QTZZdkpLdENtT3dsQzJSajJWM1g1UkNySEI5QU95YmdmT1A2djhidnhGM2M?oc=5"
-  },
-  {
-    "id": "news-m3b1uc",
-    "t": "2026-09-04T14:15:00",
-    "type": "news",
-    "auto": true,
-    "title": "Connor Hellebuyck: 'Majority of NHL Doesn't Want To Play In Winnipeg'",
-    "body": "",
-    "src": "nhltraderumors.me",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSEVxRVFHR2VHTTFLdDRzM0lnNEtwcTZDakJGTTlFVVdBbWJ6NHRYbGM0elVraV9TTUNxekJERE13X0dWaGl0eUlfS3NEdVZLNlIxZUVWX2JkYml0dTlqQVpXVW5mQVBJc1BUZmdKblczUmdMWllJaFJ0MmJHTFBNTDR3?oc=5"
-  },
-  {
-    "id": "news-g38xcw",
-    "t": "2026-09-04T14:13:00",
-    "type": "news",
-    "auto": true,
-    "title": "Ranking every NHL team\u2019s 2026 salary cap situation: #24-17",
-    "body": "",
-    "src": "dailyfaceoff.com",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPT2pna1BaSXl5eVpQeUFSX3VfaHl1Z0xhMVZLNDVOdWJUVXRUTHR3dnlOcGZwemNIenkyeERzSUNOek9aNGt6WjUzMmpzX2RHWFpOSWc1MGtHMllVbGo5UjZnUUROcW44bVktS3pmZFJtMGVZaVQxOS1JZkg3dDZ6WkQtb29zUV84TVNSbzlNSVBrSmkwM1lNeGpiYkZQNlIyUEVjYVl2czNuUVpUY2lILUdiSWo3TlR3X2Z1M2U2MTRyekdrbXRNSUR2TEJRTVMwWHNMTjVPTjcybGhNUlAtTXE3Wlo4bUFrTGEw?oc=5"
-  },
-  {
-    "id": "news-1kg7pk6",
-    "t": "2026-09-04T13:14:49",
-    "type": "signing",
-    "auto": true,
-    "title": "Maple Leafs Sign Brendan Brisson To One-Year Contract",
-    "body": "",
-    "src": "Pro Hockey Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZ2laTVY4OW1DWWVqNm0wclR5UXNJMXQ4eWc2QnlNYVpTc2luOEF6QzdsYVNiNlQ5bVNnaldjbVdxS0Jpb1IwMDc5dUstOVhuUVk3YUtIYXlVVGFIZGxfWnJLTW5nVlJscFpLbVJMdUMyZjhTVjlBalVxWWNaQ25rQVVWWTA2dWdEaXF4eWt1bEtwVzNoUktpRzZyVm83YjA?oc=5"
-  },
-  {
-    "id": "news-invbz3",
-    "t": "2026-09-04T12:45:00",
-    "type": "rumor",
-    "auto": true,
-    "title": "Free-Agent Michael Bunting Linked To 3 Teams",
-    "body": "",
-    "src": "nhltraderumors.me",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRVZYMTNXREFCWnVMcDR0UFBjYl8zQ0xtcGwzU1lFNlV0OXhBd3VyODZPVjJfSWJ1eWlzRW1jTVFMLTluaGFxRnAtSXFNLW5Fak9nNWdQR1pFODFxWHZVcDFOeTRYU3Jrc2hLaXR1VVB3bklKMTlCR09YOWZIS3dsV3p4Z2FxOHdX?oc=5"
-  },
-  {
-    "id": "news-tqb4fx",
-    "t": "2026-09-04T12:22:35",
-    "type": "news",
-    "auto": true,
-    "title": "Hurricanes could lose Alexander Nikishin as Blues trade rumors heat up",
-    "body": "",
-    "src": "Markerzone.com",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBmZS1wUHczNFM0Uk9POVMyUzUwUlJ0U0ZFNGQ5c2VLcXBLa2xSX0RSUzBBcG5seGVTVjVvaTQ2bkpCMmRrVWs0Qy1ZYjNIUGhfMFBVdTJseVlBcUg4SlE2Sg?oc=5"
   },
   {
     "id": "auto-rem-8482100-20260819",
