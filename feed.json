@@ -1,5 +1,104 @@
 [
   {
+    "id": "auto-add-8480291-20260909",
+    "t": "2026-09-09T17:58:55",
+    "type": "roster",
+    "celebrate": true,
+    "title": "Skyler Brind'Amour added to the Hurricanes roster",
+    "body": "Skyler Brind'Amour now appears on Hurricanes' official NHL roster. Auto-detected from the league roster feed \u2014 could be a signing, trade, or recall.",
+    "src": "NHL roster feed",
+    "out": "",
+    "players": [
+      "Skyler Brind'Amour"
+    ]
+  },
+  {
+    "id": "auto-add-8482785-20260909",
+    "t": "2026-09-09T17:58:55",
+    "type": "roster",
+    "celebrate": true,
+    "title": "Justin Robidas added to the Hurricanes roster",
+    "body": "Justin Robidas now appears on Hurricanes' official NHL roster. Auto-detected from the league roster feed \u2014 could be a signing, trade, or recall.",
+    "src": "NHL roster feed",
+    "out": "",
+    "players": [
+      "Justin Robidas"
+    ]
+  },
+  {
+    "id": "auto-add-8480051-20260909",
+    "t": "2026-09-09T17:58:55",
+    "type": "roster",
+    "celebrate": true,
+    "title": "Cayden Primeau added to the Hurricanes roster",
+    "body": "Cayden Primeau now appears on Hurricanes' official NHL roster. Auto-detected from the league roster feed \u2014 could be a signing, trade, or recall.",
+    "src": "NHL roster feed",
+    "out": "",
+    "players": [
+      "Cayden Primeau"
+    ]
+  },
+  {
+    "id": "news-1ovy7d4",
+    "t": "2026-09-09T17:48:26",
+    "type": "news",
+    "auto": true,
+    "title": "Hurricanes Agree To Terms With Multiple RFAs",
+    "body": "",
+    "src": "The Hockey News",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZmZVclZGdkd2RWVPdlU4S0dWc0QyaF9IcnpORlhPeWdla0lVbE14N0ZZMm95RTRWSGZyMkJURENGdFlkZ21WQ0NONmVYek1LZm5WVElaYjkwV2E1MVNYWWJ2UFdvMkhvS1FPUWJuWWNodEhfd2lhRTZIcnNlMzJOT3hsMlBUc0cyVE82R1kyUHc4M3JNU3RQWjNBMVBpVzk3Qm9nSjBZdzRhZw?oc=5"
+  },
+  {
+    "id": "news-1es6ien",
+    "t": "2026-09-09T16:22:00",
+    "type": "signing",
+    "auto": true,
+    "title": "Hurricanes sign three RFAs to contracts",
+    "body": "",
+    "src": "Daily Faceoff",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNNGRtbEVRbEh0TTk2ZFQ2OU1VRHJVRlZVLW1RRHBjS3VDdUNabjZFZEVwaGtrQy1tS2Y2amdmRWdWLXV5Rm9hWExaSEpPRnUzb0I2bFdTLTZ4YzAzNDdvSHZWVjVMN2hYLUpyOWN2YkxWQlVHbjNWelBOdzROZ19MeVhEOWthWmxvLVM4UTM0eExaU1ZuRzc3SHBzLTFHaXVzcGU4NmNmdE1NVjNHcWczVFpKZzVGZERlQVVsbGR3bllrYUtqMld4aXdLWHFhaXppY0U0UXdMLVRYTGNoak1aaXBaLXJGQQ?oc=5"
+  },
+  {
+    "id": "news-pn7a1z",
+    "t": "2026-09-09T15:13:56",
+    "type": "news",
+    "auto": true,
+    "title": "Carolina Hurricanes \u2018Bold\u2019 Trade Prediction Lands Jets\u2019 $59.5 Million Goalie",
+    "body": "",
+    "src": "heavy.com",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOWZKV2l5YVZ0X2JIVXY4NHBvcGtrVmxqbnRWRzVYbWNzR1BGd0JBY2RiempKbklUbkQzVUk3Tjg3anZHNXAtSXVvN0l2ejg1Qlo2VmJQNEw2dzM3U3lMdmJWSHVrc2s5Mk9FVHJydWUxNGN2U29GZmJoN3EtZWhhcl9PUHgtQjZHWXB6ZVZUY1lnUVZHbHZ2S1ZOc0YtLVpGTnc?oc=5"
+  },
+  {
+    "id": "news-2krghm",
+    "t": "2026-09-09T14:30:06",
+    "type": "news",
+    "auto": true,
+    "title": "Latest On Connor Hellebuyck Trade Talks",
+    "body": "",
+    "src": "Pro Hockey Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOM2laQlRQbUVod2o3dFA5S0xaanJ6bndkQi1FU0FQN3pHT2ozdFJEVWxBbEtIRVoxUTE1VERibzI3RkZ3Qjg4Yjdxc0FqdTYxc1BXVHFoYjJ2VUhtdTlWcnRaT19IQWJpdDhHeVBKaV8wWUtCVGZEY3BHaW0xNXF6RzdPNlMyeUFkVF9rNQ?oc=5"
+  },
+  {
+    "id": "news-140feau",
+    "t": "2026-09-09T14:00:49",
+    "type": "news",
+    "auto": true,
+    "title": "Snapshots: Kucherov, Gauthier, Schairer",
+    "body": "",
+    "src": "Pro Hockey Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcE83LWNHakthZDNybDZwQ25kc01rRHRPZVVjdmhGUzJ2YVJuNDFYa1NITWtURFhTaDAyMEllRmtHUHRlbU9TNl9RTUtpN1QwQWpYNGhpdzlDUmpHczdFWVNUMEdEUWJlMlpuNXFOVXFNcmc1V09ub1oxX0owOVZiYWVySVFacF8z?oc=5"
+  },
+  {
     "id": "news-181o6h0",
     "t": "2026-09-09T13:35:00",
     "type": "news",
@@ -10,6 +109,30 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTUtBdXd6Q2xxdTBEUEdOeW9FekRvUUpRVmVqSzRXYzZDclJSVldIQk9KcTRpN3VteFAwd0dvTFBTb1lJcWszOGpBeW5KLXFXV25sU0JKMU1vNXVPeFBDcmloOG1sZjZmT0x5X2lxQndPVDdQR2ZTTExiNzBZdUlQWHVNM3FTaUFERDVmNlBIckNrSzczNll4SkUwNzUyNFNTbnc3YXQwbnk2TXhOSktGQVVTQlhqdFlCNkN0cGZ3ZkYwT0E?oc=5"
+  },
+  {
+    "id": "news-1er71o8",
+    "t": "2026-09-09T13:00:00",
+    "type": "news",
+    "auto": true,
+    "title": "High Noon 2026: Ranking the NHL\u2019s top 40 defensemen",
+    "body": "",
+    "src": "Daily Faceoff",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOM3JkaEV2ZEpkdHd3OWZ0ZFZWSW5pSXJxN3lwdGxzRkJBZGVQdFlGTXpiZnBfMG5oSVBTeVV1bEdrVVJ0ZGdFRVVoWkh5NXQ2Wjh1T1J5dzEwWVBwbVZLZUVDZlYwNFZQWWVJbTZWSU9iSFRIMUpaRk1ZZUdUa2hfcWdfTUc3djFSc0hn?oc=5"
+  },
+  {
+    "id": "news-1lz3m3f",
+    "t": "2026-09-09T11:46:00",
+    "type": "news",
+    "auto": true,
+    "title": "3 Teams Make Significant Trade Offers for Connor Hellebuyck",
+    "body": "",
+    "src": "nhltraderumors.me",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcmpaZnNjSGVhUlVoajBwTnJyS1pMZDFnVk93aThDdVV4M000NC1Hck1EeE9PSmFfY1NSMzc0Vm5wRlhtd3ZIekdyUXVpaTR5WGczVWRuQU41U2lRcGtJRjQ4Tkc5QlVtOWl2LUNVZXFzZ0NEQnUxeXdKNXNDVjEtZU80T2lpWGc?oc=5"
   },
   {
     "id": "news-qqxsug",
@@ -229,6 +352,18 @@
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObWVKOWdITnVWcVBQR0ltOFpQWTljMnNhSWhKREpTMFFzZzdOWl9CY1ZRU2JWVlFNVzVPenpMWlpIeU1QSHFVTEJTSnpoZXVWSTlYNmEwcjk5aWVDYmVZektsZzlzZ1lJTEFCR09Tc0RZb3BlOVIwR3ZabkY1cmpZbmJobW52QWo3UWN3QWI1NXA1U1dUTnhrcG1BbjRNSlE?oc=5"
   },
   {
+    "id": "news-1ful7zf",
+    "t": "2026-09-08T16:25:21",
+    "type": "news",
+    "auto": true,
+    "title": "\u2018CANES ANNOUNCE 2026 PROSPECT SHOWCASE ROSTER",
+    "body": "",
+    "src": "CANES PR",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNHVQQjFfeno0Y0ZhcGE1VlllXzlNenNZNThjOGtGbGE0NG5qMWg4QmZTMy1IMWZBNURGR0JuRk5JeVdranNrcWluZzZPR004ZVdKOUF4VGNEdDVKaHBGeS00SnBNb2tjeGJWQTRoMWJoUWUxMnNZUjE0bXVGTDdNWk9B?oc=5"
+  },
+  {
     "id": "news-edqrjo",
     "t": "2026-09-08T15:57:46",
     "type": "news",
@@ -395,102 +530,6 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNX2ZaZVE2NVR2TkkxdE9aNElkQ3llUFN5dWFoaEh6RzNQQmhkZzZ1TVVKTjRuTTBPM0k1UUxEdTJmUzhQOXF1bnJ5QTZPY05pbWxGSWFrNzBSRWY3TVkydklXazcwZjF3WVRodEUwMnRyaHBRcmtiRHJLRU9jdGtJSUJUZkxaQjlqYmtCVQ?oc=5"
-  },
-  {
-    "id": "news-1pchz4u",
-    "t": "2026-09-07T09:46:36",
-    "type": "news",
-    "auto": true,
-    "title": "THE CAROLINA HURRICANES CUP FAVORITES??? Carolina Hurricanes Trade For Shayne Gostisbehere Bill Pullman (RCrLhqVCyg)",
-    "body": "",
-    "src": "Mshale",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4azliOUplYkNFc0NzN0FVLXo5RWdOcUxwam9RR0FRS3NIUUFjMEtNRzRTYS1JVnJ1WVI2MVZsSTI2RllfMzkxZlg1QXFrQzl2RkRlakt3TzZSUmc?oc=5"
-  },
-  {
-    "id": "news-166bgrc",
-    "t": "2026-09-06T22:18:16",
-    "type": "news",
-    "auto": true,
-    "title": "Eastern Conference Veterans Entering Pivotal 2026-27 Season",
-    "body": "",
-    "src": "Pro Hockey Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZk4zcktYREpUTkg3b3NaUkcyaG9ZNkRFUHN6eWFycEotYkFSbkw2NDlJWDhhLVJ6X3l0UWM2SWhNT1ZhazlJb2EySDQ0dXpKOFhPUHVSNGdhbTBVQ0FNTFJxUF9CdElxbWVadEpOcGp3Yzk5ZzRsRkNhMDVxZ293ZHNwcm5yWXFjYml6MWYwdTFqNkN1SmhhbUNGdGJFdUhtS2R5ZkxPaw?oc=5"
-  },
-  {
-    "id": "news-1163jev",
-    "t": "2026-09-06T16:30:04",
-    "type": "news",
-    "auto": true,
-    "title": "Snapshots: Howard, Reideborn, Veitch",
-    "body": "",
-    "src": "Pro Hockey Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNd2JKM1FWaFVGWm1QbFRSdkM4QmNTNVB3UHVkMXVyV3A1dWxUWUlzVWdLRUJBbnNFWTdIN1pmc3ZYcnZSZWs1dzJmLU4xTkQ3OFdmMVRIZXk0a3BBOFZVRE9iaW1kdl93Vm00QTB5aFV1R2R5R2p2M3NxdmRuSHBwM1l4blY?oc=5"
-  },
-  {
-    "id": "news-153grnc",
-    "t": "2026-09-06T15:15:46",
-    "type": "news",
-    "auto": true,
-    "title": "Jonathan Lekkerimaki Entering Pivotal Year With Canucks",
-    "body": "",
-    "src": "Pro Hockey Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZ2dXS3dKRmZuNlNhWTdsb2FROURpTVBnSWxuR0U4Y1hQazRMMVppcWNyVEhORlFiU3VGM2ROVmhkZk9GVnBkbkZWdkNIR01uUVowUzlzVktrV0VTUkF6clpxejlxY3Y2M2FKeEljYnBoRnMwaWhIRndKRTZ6S09iVFFkMkVkZTM3U1o4SVJjNzQ3N1h1cmdxN0tUVk5qSkhLclE?oc=5"
-  },
-  {
-    "id": "news-47ioa8",
-    "t": "2026-09-06T14:35:20",
-    "type": "news",
-    "auto": true,
-    "title": "Red Wings Moving Forward With Candidates For New GM Position",
-    "body": "",
-    "src": "Pro Hockey Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZXFyaWlVREZiTjBMbVlpa3A3clJRNklxbFh1d1dub3k5aGY0N25lbmhycWRJNGZwc1M1MjFFSjhDd0U1X0dNS2R6VWxnYlB0bEhIcW5YNWVSTGZXMEY3dHlOaUhBaGUtWmVMRVZyRTZudVN1Z3VhYklUZEV6QTZZdkpLdENtT3dsQzJSajJWM1g1UkNySEI5QU95YmdmT1A2djhidnhGM2M?oc=5"
-  },
-  {
-    "id": "news-1jwqxjl",
-    "t": "2026-09-06T13:30:54",
-    "type": "news",
-    "auto": true,
-    "title": "Morning Notes: Davidson, Sucese, McGuire",
-    "body": "",
-    "src": "Pro Hockey Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQR1FrUm9iM3pYWDRMZlRWNFlsZzA2Qi1qZ18zZDZPZ29WdzZwMXJPdHJNdzJxU2JCZENYOEFnY1dfM0F6dWphUS1nSURhbjF5OHVmTnU0QlU2UlJrV3I3N3pYV0JmUEVBdjFkVzlidzAzbE5SMzd4cjZOX3RlVkd3S0l1WTdRbFQ1Wmc?oc=5"
-  },
-  {
-    "id": "news-btihjw",
-    "t": "2026-09-06T12:14:00",
-    "type": "rumor",
-    "auto": true,
-    "title": "Free-Agent Connor Ingram Linked To 3 Teams",
-    "body": "",
-    "src": "nhltraderumors.me",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMWlPWTVTRnZveFRyRG94U191eUdOVWVHTkkyNDhqendmOW5PQmZuaWxfcnoyZUl0WDBwMU5CcU0tZ0VGckZNaTA2WFVoSnZIcHpZS3Nua2ktVTFjREthb2cwelpPX3p5bjM1RDFoVFFoSHQ1Qmt0UjdURE1BaGgwZEVpdW1GQQ?oc=5"
-  },
-  {
-    "id": "news-11jgu7e",
-    "t": "2026-09-06T00:20:56",
-    "type": "news",
-    "auto": true,
-    "title": "Shane Wright \"Fully Committed\" To Kraken Ahead Of Camp",
-    "body": "",
-    "src": "Pro Hockey Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQX2F2clQ3Z1NCaFFfMXBsREFhZlBvYXR3elkweE4welBTbGtuNTJWSHB2V2lBblRqWmE3OTVjZXNuOW9GVDVobHpHa2xiM09ES3pNSm5yYkwzM0FhVnktdjhqcE5OVmprdmUxQWtuLXRQSjRlb2h4QnFFMEJ5dlR0OTA1RG1OWVNQdjFtNFA4TndLaEdWMWc?oc=5"
   },
   {
     "id": "auto-rem-8482100-20260819",
