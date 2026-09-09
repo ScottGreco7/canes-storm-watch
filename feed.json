@@ -1,5 +1,17 @@
 [
   {
+    "id": "news-v9ipi4",
+    "t": "2026-09-09T00:30:30",
+    "type": "news",
+    "auto": true,
+    "title": "What Hurricanes Newest Signing Means for RFA Alexander Nikishin",
+    "body": "",
+    "src": "Sportsnaut",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPS3NVOTVXYTdhM0hqSzNMSDZPZzlkdGNsOWM0UXVoZTUta2NtVlJZUTF1aGVJaTlVcXZfVzZfdmhHSWNSR3Fzeko4SkJ1TU44bWVSdmF0bjVkYkI5TU1wTXQ0amtwbmY3bjFUOVVxUzJaVlIwRXp1UHdIOXRKc3FrRW53QVFHTnlyOUpWbWI4NTRqcTZUaDdycF8taHhxclJqRXZxd01JbnN4aXFUR0g0?oc=5"
+  },
+  {
     "id": "auto-add-8480058-20260908",
     "t": "2026-09-08T20:17:04",
     "type": "roster",
@@ -11,6 +23,54 @@
     "players": [
       "Pierre-Olivier Joseph"
     ]
+  },
+  {
+    "id": "news-15z9eli",
+    "t": "2026-09-08T19:05:27",
+    "type": "signing",
+    "auto": true,
+    "title": "Hurricanes Sign UFA Defenseman Pierre-Olivier Joseph",
+    "body": "",
+    "src": "Yahoo Sports",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRHFXTkl3eDlDVGkwbDViMzlOb2hCSmdtblUxeHZGeVlqaTZseUlTd0NZaXY4TUl4aWN4Wi1qTjQwaFdOMXFwRUg3V0pNc082VVJvSDlSUG5OcTZCSUR1US1lOWtNbnJpTi1pVjlCOFlMNUNNV0hVSnU5Mnd0WDFoelNZTVpkeHpldW45eU90Zw?oc=5"
+  },
+  {
+    "id": "news-1v7xphu",
+    "t": "2026-09-08T19:00:10",
+    "type": "signing",
+    "auto": true,
+    "title": "Hurricanes Sign Pierre-Olivier Joseph",
+    "body": "",
+    "src": "Pro Hockey Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZURfSjE1d19NLXJDWE9sQnZ0QjFBcjhMcUdibVZFdktudnJnY3hfckVOTEdhN21uaE8tVFVtVzdsdEx1TzZsaVNSN2h2aVFrbjJkWmFkUHlCZDM2Tm1hRy1TMXNRRUZkVWFLOExERWd6dDZYcWxhUzloOF90QWNSNm1hVnczMnJWR0NiTHJqZTUwSUJyRFE?oc=5"
+  },
+  {
+    "id": "news-1hi0tkc",
+    "t": "2026-09-08T18:45:02",
+    "type": "signing",
+    "auto": true,
+    "title": "Canes Sign Joseph To One-Year Contract | Carolina Hurricanes",
+    "body": "",
+    "src": "NHL.com",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1IQ296UWZkeDcxS3pXamNzRDNsT3NtbDZqclIwT2pVUGswZHpjY1FhSE9YZ0VTYmVXTXBmQUNGaHd6QUdxLUhCUHBuTHJTNUdXa3R4R1h1LWljSWhqNlNJVG94NFV5S1lLaUE3a2htT1NQcjBRTGk5cVF5Z3JnYTQ?oc=5"
+  },
+  {
+    "id": "news-1ko8knl",
+    "t": "2026-09-08T18:30:07",
+    "type": "signing",
+    "auto": true,
+    "title": "\u2018CANES SIGN JOSEPH TO ONE-YEAR CONTRACT",
+    "body": "",
+    "src": "CANES PR",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9RNHAtWWFXVU8xV1FGcENLVGhEbmJvM2p1N0N0OFRqVVNLbWcyNE4tREJwZEwtOTdQQWpWTGpfelJEdW1vOHNxMGlVR1RCVEpILU4wbUN6cEJsaWQ1ZlNFQmtYWGhvbTlDQXhnanRwVjBJcGU5NXpQcWZR?oc=5"
   },
   {
     "id": "news-18tztur",
@@ -119,6 +179,18 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSjBMcjdPdndqSFNDby1EMWVfc3JMYlk4MjRmS0xXeXdxSG4xd0VwSFcyZTBQTFZYbE9oSjkxdThteWhsellBZ08zRFpLYndMbUlSZXJSQ2dOSUNhenFwRUhCNDhfWHpXNlRxaVI0X0IxZGw3ZkRUd3VLTi1GV3FBNjJEWnBBd25qWF8tM1NfdEJGelk?oc=5"
+  },
+  {
+    "id": "news-1yhng82",
+    "t": "2026-09-08T12:40:00",
+    "type": "rumor",
+    "auto": true,
+    "title": "Winnipeg Jets Struggling Through Connor Hellebuyck Trade Talks",
+    "body": "",
+    "src": "nhltraderumors.me",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOGM1RjFZbkRacXdoSlcwVThZM3JNWVlpTlNwOFdOb0VMMXdzUnZrZXZJQTJzOE5KbXBtbGRZZ1V2dVRpeEJLS3hDWWZmbEVzMG90OXUwTk53RndVNVAxMkk0QmhUMktxbDBQR0tFcVFLZFN5bUwzT3VRRWxOUWUyLXNFRjVOWGtsZWc?oc=5"
   },
   {
     "id": "news-1meoky8",
@@ -419,78 +491,6 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOU5WbHhQNnpIdHNkWkYzMnlsbHMzV1JWV2RyWHMtUDRxX1VORVM2a3QwNWFvdUstVGdQdEttNGU0WXNJVnhRWDEwTlkzMXJSZTBhMzBLNWREUWNNSUV4cW4tVVhMY3lRN05pNlVBaV9WU3V3WG15TlpvaGppTUxjSkdXUzgxaXVSc1Z1MU84bVBZVDRKSjFZRVR3M0lxclpDRzJHNG1GSjRHRUt5ZHhoRjFvWlQ?oc=5"
-  },
-  {
-    "id": "news-14q42to",
-    "t": "2026-09-04T19:15:11",
-    "type": "news",
-    "auto": true,
-    "title": "Afternoon Notes: Huberdeau, Kruger, Nickel",
-    "body": "",
-    "src": "Pro Hockey Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQX1JJN2hlNm5qNkw4TjdLenUwc01KSWJZdVkxenVjYjR2cTFaT1dobHhfaHFQYWpHeW1EUWpnMXNjNEJ5bFJSaWZOalFoN2tLZGtqUEUzWUlKTXRzeV8zaFFyaTluODNTeEJ2Zk5rVDlmenA4OGRzVlk3QS14alJWT0pRbnFGVWpIY2JhLQ?oc=5"
-  },
-  {
-    "id": "news-1jgk1oz",
-    "t": "2026-09-04T18:42:00",
-    "type": "news",
-    "auto": true,
-    "title": "Daily Faceoff\u2019s 2026-27 NHL team preview hub",
-    "body": "",
-    "src": "Daily Faceoff",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbmw2NzVJYkxlc3FndHZCRmNsNnlMYzMyem92emJvcm5pZDNhMGNqaU1Tby1UeVR2dmtyN1RhSUZfRjhEdU9KdHZsVlV1Q1BHcFVMOUtaN2c3TkFvY1lkZlNJOXhlbndWM2NTZEVEZk5yU1pUOUNRaG5pY21qVHVzbFMzVmxfaW0wZHVDSkdvRGhkellMdlgtUEF1enFNZw?oc=5"
-  },
-  {
-    "id": "news-194s2q3",
-    "t": "2026-09-04T18:00:57",
-    "type": "news",
-    "auto": true,
-    "title": "Nikita Kucherov Contract Situation Could Define The Lightning\u2019s Next Era",
-    "body": "",
-    "src": "Pro Hockey Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTmkwcmRsMmd6WmNkb09fV2h4LVNkOWlTWDd0cmZRRUF1UWUxSmhDNGF3NUt6NUZfbXl5ekVLTV85NFlRamlTdnp2RFFtWHdiTWdxY1poSG0yckZmZkFLM1JWZzZHbUlhWlFoLUF6ZTlBVTBYZnNJN0QyRTcxYkphSmZrT1RHNUMxYXlSZlNTUUhDOU9QSXo1Q3FxZWZjMV9UNUJReFFHaHhSMmdvbHpNUk9zMGJKSGs?oc=5"
-  },
-  {
-    "id": "news-emr4t7",
-    "t": "2026-09-04T17:37:04",
-    "type": "news",
-    "auto": true,
-    "title": "\u2018CANES ANNOUNCE STAFF PROMOTIONS AND ADDITIONS",
-    "body": "",
-    "src": "CANES PR",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTnQ0YXhoQUoxcEtrS1d6aENwaUg4SDVmY0xKUnRfZ0FQS04tQUtSM2VfcjFmUHJXTEdmRE1XT192Q1ZBeXR4aDd0RElBYi1aREtDbklYRS1pNElzTHV1Q1RQWjJOcmV6T1RTTS1QMXNsU1RLREVvUnZsNVdSM3dvX2d2RGJYUQ?oc=5"
-  },
-  {
-    "id": "news-12upkb6",
-    "t": "2026-09-04T16:30:00",
-    "type": "news",
-    "auto": true,
-    "title": "2026-27 NHL team preview: Los Angeles Kings",
-    "body": "",
-    "src": "Daily Faceoff",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOM1JxR1BEZHNPVGloeTltT2hWMVJzaENKNVh0aVJCNG9XbmdpbnBqX2M0NzJpUTZvQjZIR1ZlVjBMUHZVZUZ5SmNONDZRYlg0QjNWbHBtODJKUGRKdl85Z3o5TmFkZS05QmxEVFBGUlJnUkxxVG9qZXpabG9NMDNvbXZTQ1oyeUJvMUJlMGprRW44bWVwTTNjcDY1QzU0LVVOd3diWW10MDlSQmZpWmk4Y1AzdGIyT0FqNlZidW9PZDc?oc=5"
-  },
-  {
-    "id": "news-i39q61",
-    "t": "2026-09-04T15:44:50",
-    "type": "news",
-    "auto": true,
-    "title": "NHL Rumor Roundup: Nikishin To The Blues? Will Xhekaj And Bolduc Stay In Montreal?",
-    "body": "",
-    "src": "The Hockey News",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNcmNfUWNBVmcwQnkyVFcwTzdvLV9IZUM1OXVESnZMQ09sVVV3dTFQNnE1dzVVd1FkcDJmVlNPNE8zb0I4OEgxZFQzb25kUklVTnlYSUNEdGY2VmxpdVR0OE9XQkFBbUdOTU1ENmszYjVLN1JUYW1GTHBMQUk1LXQxcm9vMjNoQUk5eHM2U3JpNEhTTDlJUEZXOG1sLVpzZEpxXzNQSjF6RldIY1M2bGI3eXdGeHJvaVBEVnE4cmdTV0ZkZlFzRmxHWDVkX181ZXpkOXEzSWMydENEM2M?oc=5"
   },
   {
     "id": "auto-rem-8482100-20260819",
