@@ -1,5 +1,42 @@
 [
   {
+    "id": "auto-add-8476422-20260910",
+    "t": "2026-09-10T22:17:28",
+    "type": "roster",
+    "celebrate": true,
+    "title": "Mike Reilly added to the Hurricanes roster",
+    "body": "Mike Reilly now appears on Hurricanes' official NHL roster. Auto-detected from the league roster feed \u2014 could be a signing, trade, or recall.",
+    "src": "NHL roster feed",
+    "out": "",
+    "players": [
+      "Mike Reilly"
+    ]
+  },
+  {
+    "id": "news-ay0n6",
+    "t": "2026-09-10T21:23:27",
+    "type": "news",
+    "auto": true,
+    "title": "2026-27 NHL team preview: New Jersey Devils",
+    "body": "",
+    "src": "Daily Faceoff",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNk9hUzZpTWlNdHJRZzNHaENBY0hNRUdQemFVam9rOXY4bXZxZzY2NG8xMERkU0JGQ1UteDBfeUNTcjBPQlU0U3A3NmlVVm0ydlJhcVYzTkZhOGZPR3hoakd2WGtJU1VpbjZJbTBmYWh1WXlMaWNVWUlSTlg5eHRmYXZUSk1HaXowY0Z0RzNMX2l6WUtSeTNvUUNmZmtOQ2w4d09ORGM2YmNTVHJBY3ZHOXVDM0o4Zm9rVWZxUnZKNTU?oc=5"
+  },
+  {
+    "id": "news-1jrpajl",
+    "t": "2026-09-10T20:17:18",
+    "type": "signing",
+    "auto": true,
+    "title": "Hurricanes sign Mike Reilly to one-year contract",
+    "body": "",
+    "src": "Daily Faceoff",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWENUZS0xU0hLckt5bzktYjBYWFpUSElfME5LalNnTVRWdmtES2VaZkdUeUJUbHRjbkNJWmkxRkpjbnZ5S21VNmd5MTUzNzl5amhSbFBmVExYME5qemt6bXNTQlhWcXNBel91djZEakFKMXF3SXNwRWtEcDlReG1JVlRXeGU3SzZreU1fNkxYTGRkQ2s5VkY5VFBhVkFfdw?oc=5"
+  },
+  {
     "id": "auto-add-8484428-20260910",
     "t": "2026-09-10T17:29:46",
     "type": "roster",
@@ -519,30 +556,6 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1IQ296UWZkeDcxS3pXamNzRDNsT3NtbDZqclIwT2pVUGswZHpjY1FhSE9YZ0VTYmVXTXBmQUNGaHd6QUdxLUhCUHBuTHJTNUdXa3R4R1h1LWljSWhqNlNJVG94NFV5S1lLaUE3a2htT1NQcjBRTGk5cVF5Z3JnYTQ?oc=5"
-  },
-  {
-    "id": "news-1ko8knl",
-    "t": "2026-09-08T18:30:07",
-    "type": "signing",
-    "auto": true,
-    "title": "\u2018CANES SIGN JOSEPH TO ONE-YEAR CONTRACT",
-    "body": "",
-    "src": "CANES PR",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9RNHAtWWFXVU8xV1FGcENLVGhEbmJvM2p1N0N0OFRqVVNLbWcyNE4tREJwZEwtOTdQQWpWTGpfelJEdW1vOHNxMGlVR1RCVEpILU4wbUN6cEJsaWQ1ZlNFQmtYWGhvbTlDQXhnanRwVjBJcGU5NXpQcWZR?oc=5"
-  },
-  {
-    "id": "news-18tztur",
-    "t": "2026-09-08T18:12:42",
-    "type": "news",
-    "auto": true,
-    "title": "Carolina Hurricanes Announce Signing of 6-Year Defenseman Ahead of 2026-27 Season",
-    "body": "",
-    "src": "heavy.com",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMndTV1dDSFdfMDBUTEVPNy02cURWVE1HdmktOUI1UTZQakZNazQ0cW55QjBMQzZUUzZuS2taaDBLOFNxMGZEUUR5MmNoOUJYaG9adTJiTUhNNmtYS3E4Wkl3QlRPaUpDUUUwZXFEb0JXbUxBemdKMTN5c0FONFhYN2xzd0dkaFVvZFdESDZKRGhfNVN1LUtPTVpFUDUyZUh3?oc=5"
   },
   {
     "id": "auto-rem-8482100-20260819",
