@@ -1,5 +1,42 @@
 [
   {
+    "id": "auto-add-8484428-20260910",
+    "t": "2026-09-10T17:29:46",
+    "type": "roster",
+    "celebrate": true,
+    "title": "Charles Alexis Legault added to the Hurricanes roster",
+    "body": "Charles Alexis Legault now appears on Hurricanes' official NHL roster. Auto-detected from the league roster feed \u2014 could be a signing, trade, or recall.",
+    "src": "NHL roster feed",
+    "out": "",
+    "players": [
+      "Charles Alexis Legault"
+    ]
+  },
+  {
+    "id": "news-1my6t1k",
+    "t": "2026-09-10T15:55:34",
+    "type": "news",
+    "auto": true,
+    "title": "Hurricanes Star Raises Asking Price as Predators Eye Trade",
+    "body": "",
+    "src": "heavy.com",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZTV2OTYzT3R2T210ZE5NWFg0bGxlRFViZ3I0VGZZNHFaeXktZ0hjeUxNQ3dtWjJ3Y2tWa3dyaW40S3hBVUw5WTlvZGtvMjIyNENycGltaUdhTzUtZXpuQ3ZwcFVIc3U3QUQ5c2lQUmxhbDdBdm5nLVZKejVZT0drdnZLZFpBUXMzQjlxNERsLVZIN3dmbWtLUDNCWUVrZGp1VXM1TA?oc=5"
+  },
+  {
+    "id": "news-7uhzre",
+    "t": "2026-09-10T11:37:00",
+    "type": "rumor",
+    "auto": true,
+    "title": "Report: Carolina Hurricanes shopping Jesperi Kotkaniemi on trade market",
+    "body": "",
+    "src": "nhltraderumors.me",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV2p3MDdTLWc2bkQ2M2xyQ1o3VmFuNjBQSmhpdFZId2ZTVlozWFpaOGNHRlNYdFBkYzFmR2I5aDZXRFh6N3FvWnJGVFl5eUo4V2o1dzlOQTRpc0xLV293MEFxRWFIV3I5MGRJYmY0NkdWLVlGOUFrelZmaWNUaG50MFQxOEo?oc=5"
+  },
+  {
     "id": "news-uq45er",
     "t": "2026-09-10T03:18:01",
     "type": "news",
@@ -10,6 +47,18 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPLXpxQ2phbzJ5OVE0RC1KaUcxeVJaOTVmWUd4X0VCTGpwbkhpM2lqdWpkeFJZRXIyMXRqTk1jQlRkdlJCcWluV0xJYlBFQlc1Um5kME1ndDdXUU1lZjRwQnVvcFl1TDJpc1VaR1o1RW5fQTllYUdzNTVaR0NIS2V3MTFteWwxTG14QkNjcklXdnpSZkRUUThIWWkwQ1pyd0hBWmF4MnlRazh4dG5lNkFDYl9TVmdRSU03UndaVHJrTXBnVHpWUGM3TWpadVdzYjQz?oc=5"
+  },
+  {
+    "id": "news-e1k3hu",
+    "t": "2026-09-10T02:00:21",
+    "type": "news",
+    "auto": true,
+    "title": "Barry Melrose Passes Away At 70",
+    "body": "",
+    "src": "Pro Hockey Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdXM1N2tqWnFnbG9CN2NEYUhiYndTMm5fUl9NeGhpeEFBUzJrbDlRSDRkandDVHVRU0Vlb2FDN1c1OGFrTkdnSktCVlRpVDdsZnEyUUdKQzVrdUdTZGhPR2JYRGNSM2xEenViYktkdHd2SWtYZldEeGhtX3pILWdJUVNR?oc=5"
   },
   {
     "id": "news-xcsj8i",
@@ -494,42 +543,6 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTEtRSWtjRGgxSkNNMHB4ZFBBTG8xUzZwc0NqMHpONnFvcWR2YWJuRVl3Vmh1dDNuZWNLeGlHNmdIWXpwdUY2TjVHM1FMcGIzOXlaQW15c0tfSGsycTF5VUpBMFRaWkluMGZOV19kaWdoZ2ZTdFZsZ0ktTzk3QXZKY25IdHloMDZwMnJpZGRJYzBSQXdNeHpqNQ?oc=5"
-  },
-  {
-    "id": "news-bj99bl",
-    "t": "2026-09-08T18:00:03",
-    "type": "signing",
-    "auto": true,
-    "title": "Ex-Canuck PO Joseph signs one-year deal with Hurricanes",
-    "body": "",
-    "src": "Canucks Army",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObWVKOWdITnVWcVBQR0ltOFpQWTljMnNhSWhKREpTMFFzZzdOWl9CY1ZRU2JWVlFNVzVPenpMWlpIeU1QSHFVTEJTSnpoZXVWSTlYNmEwcjk5aWVDYmVZektsZzlzZ1lJTEFCR09Tc0RZb3BlOVIwR3ZabkY1cmpZbmJobW52QWo3UWN3QWI1NXA1U1dUTnhrcG1BbjRNSlE?oc=5"
-  },
-  {
-    "id": "news-1ful7zf",
-    "t": "2026-09-08T16:25:21",
-    "type": "news",
-    "auto": true,
-    "title": "\u2018CANES ANNOUNCE 2026 PROSPECT SHOWCASE ROSTER",
-    "body": "",
-    "src": "CANES PR",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNHVQQjFfeno0Y0ZhcGE1VlllXzlNenNZNThjOGtGbGE0NG5qMWg4QmZTMy1IMWZBNURGR0JuRk5JeVdranNrcWluZzZPR004ZVdKOUF4VGNEdDVKaHBGeS00SnBNb2tjeGJWQTRoMWJoUWUxMnNZUjE0bXVGTDdNWk9B?oc=5"
-  },
-  {
-    "id": "news-edqrjo",
-    "t": "2026-09-08T15:57:46",
-    "type": "news",
-    "auto": true,
-    "title": "Senators Notes: Batherson, Stutzle, Chabot",
-    "body": "",
-    "src": "Pro Hockey Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOTAyWlFrcTYtSGctbHgyY0VSeDVnM0NPQlB0ekV4dWNwV0FiSW9yclZMY2JfVU4zY1pIYm9NWVpTa0ZwT1JpYk5MS2N5X2E1enNaMnI0dldScU1rVThhWlY2TzR5cUFwVGtSOG1xbXV3d0ZCUEFYRVlJYkNMbTNpTkU4VjVFV2tjeGVCWQ?oc=5"
   },
   {
     "id": "auto-rem-8482100-20260819",
