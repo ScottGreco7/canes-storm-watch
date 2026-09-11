@@ -12,6 +12,18 @@
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPc2pXdmRYUXBnNnE4WjlGd0FkNm5NWnRfZWJJYTVoMGlWckluQ3EwNk1Qd3llRlh3Z2pjRXJKajhKY1BvU0lFVEVJYXd4UnB1aG1tV2R5dWtRbGV0eWlBRjFjeTNQU2Q0blZLT2E5UHNhRjB1NnZPOURNMXlwTEhNVDRsREE4T1pYMHVEQmxnU0g3SjZReEtvc0FMZVl3Z2t2bHpfU3ctOHJHVmhfWkE?oc=5"
   },
   {
+    "id": "news-yt95kd",
+    "t": "2026-09-11T19:39:16",
+    "type": "news",
+    "auto": true,
+    "title": "\u2018CANES ANNOUNCE TRAINING CAMP SCHEDULE",
+    "body": "",
+    "src": "CANES PR",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAwZGVlbnBUbUEtMXljR3ZHdzltVUFPRjhpUmNydjJabEt1R3hfU190SDFxLUduZ2liTDdJMUkycG5HUUhQU2dVRkRTaTFVSnY4blJhWGg5bXdidm1FalF2R0FpOEtkZDh4U3Jwb2dQYWJFYmZxNHN3SjYwOA?oc=5"
+  },
+  {
     "id": "news-1jgk1oz",
     "t": "2026-09-11T18:42:00",
     "type": "news",
@@ -22,6 +34,18 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbmw2NzVJYkxlc3FndHZCRmNsNnlMYzMyem92emJvcm5pZDNhMGNqaU1Tby1UeVR2dmtyN1RhSUZfRjhEdU9KdHZsVlV1Q1BHcFVMOUtaN2c3TkFvY1lkZlNJOXhlbndWM2NTZEVEZk5yU1pUOUNRaG5pY21qVHVzbFMzVmxfaW0wZHVDSkdvRGhkellMdlgtUEF1enFNZw?oc=5"
+  },
+  {
+    "id": "news-1bfb2hk",
+    "t": "2026-09-11T18:21:39",
+    "type": "news",
+    "auto": true,
+    "title": "Did the NFL overplay it's hand serving up a vanilla game to Australia",
+    "body": "",
+    "src": "99.9 The Fan",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOczFpQWc0RjYxUFE5TjFrMWw0bkIzQUt3ZTVCLTVwaHI1dDlYMmE3NmdNMHQzalBETzY4RGs2Y2NsRWVfQ2xobGoyanZkbU5zSGhhZmt3cFdFelVYSFdjZHJROHY0Y3FKT2ZUU0pnYjFIbnNYbExpYlRFeUdDa2NISWdINGloN2Y2YVZnQ1A2a3ZjYU9nN2tQR3FhUjdpVnpGTVJzRXNLQUQ4RjRTSjRDYkdGTXE?oc=5"
   },
   {
     "id": "news-nrzhsw",
@@ -46,6 +70,18 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNV0FYMjhkSDZUVDA2eWFpTHN3Uk5SQUpnZnVRRldfN2xHczQwdGtzWlZtVXB1TWpuQlpNRjc3OE1KT3ZvVWZkSUJhZW5uWm0tckRabWQ5NTdEb0NoMVRDV2tBYi1DcVBTa2VoVUFlbHduMmJIVUdDcXRTckNCbTlpU3Y0SklJVWJFSy1XNEJCT1Zqcng0MEQtWUswS2xCRXdTeGpPMjR3VTUzRWF2dV9XaE5RVHZkYmtLWmc?oc=5"
+  },
+  {
+    "id": "news-deat1p",
+    "t": "2026-09-11T16:25:10",
+    "type": "rumor",
+    "auto": true,
+    "title": "Predators Reportedly Interested In Alexander Nikishin",
+    "body": "",
+    "src": "Pro Hockey Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVWVNaE5jVHBUZnV1a1VycGdxU0Zmb3hCQnRVYlFZTjNfUjVXM3hXWEZvVjlucmliREZCRFpidWpJQTZRak1FTkEzRlk5d3Bydy01NGZFQW45TE9XUEZHTExVajcwWlNJYmZQQ0NVdE5DZGdKUEYzcGlKekdoUFo3X1hNSm5nNHdLUlRWX2JvcXgtODRDV1BvbG1TWHhWa1E?oc=5"
   },
   {
     "id": "news-15xhgqz",
@@ -468,42 +504,6 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeGg4YkQ3RjhocWtubVdCRVFJbW44X3NXVFMwTUd3Wml0YVhFeU9YMUJyUDNseDItMk9iekh0d2Rqc2VVMlNaZXRfS1laVlpzR0s0Q05MU2pNTmQ4LVRJalJHNmVsOGZPYUVIU1NzdXlOWnRHTmVNM2ZnUU54Q29jU213QXQ?oc=5"
-  },
-  {
-    "id": "news-vgraqu",
-    "t": "2026-09-09T19:42:53",
-    "type": "signing",
-    "auto": true,
-    "title": "\u2018CANES SIGN PRIMEAU, BRIND\u2019AMOUR, ROBIDAS",
-    "body": "",
-    "src": "CANES PR",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA0VmNGNkJaM2pLZUVGT2xLTm1HNUhjTWcya1hSY1ROclEtTzFtQ0RKUllLMDBkV2wtZGM4Q3RyWGE0MURycHBxY2RYWHRmcFRSSzhmTHJKRXI3QzFpeVM1Z05nblVrUzRGSHFmejYyUERIT3NpUk1UcA?oc=5"
-  },
-  {
-    "id": "news-1vncg1u",
-    "t": "2026-09-09T18:32:41",
-    "type": "signing",
-    "auto": true,
-    "title": "Zach Werenski Hoping To Sign Long-Term Extension In Columbus",
-    "body": "",
-    "src": "Pro Hockey Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZzRoQmt6UU01X2Q0YWVVbEFjZUxHajF5UTk0RUsxbDFFdU9jU0Zkc2k4ck11NFladGR3ZmFlWDJqeHk3alQ2a2tPZmdMcmtRbWp4djNhOENYX2VxdjM0U2F1MlFmUW5sUlNFZjRSWV9kUnVtV3VLdlhrRzZYdzBqd19ORXpOVE5zR2xwZHNyZlBUZGFERnJJMHdBVE81cE9sMDJYRmt1VGg?oc=5"
-  },
-  {
-    "id": "news-pn7a1z",
-    "t": "2026-09-09T18:07:55",
-    "type": "news",
-    "auto": true,
-    "title": "Carolina Hurricanes \u2018Bold\u2019 Trade Prediction Lands Jets\u2019 $59.5 Million Goalie",
-    "body": "",
-    "src": "Yahoo Sports",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYVh3bjlZZl9wcTFpTDZYdWlVME1rT1dsdmRsLVZ2dnd3U3RxVTNFMzF3bjd1ckR0MXZxUTU1SWNqVXlabjhZNjg5S3d3dUhYV0J2b3lKM3M5N0FHWkJvay0xMlhpc3I3Z3JPVlB5Q2VzbzExdWV3clNYMnlUX3ZCU19hczZXYmdfM3ZoaEdLNGtySWxa?oc=5"
   },
   {
     "id": "auto-add-8480291-20260909",
