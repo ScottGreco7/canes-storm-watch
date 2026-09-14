@@ -1,5 +1,65 @@
 [
   {
+    "id": "news-1r31yzh",
+    "t": "2026-09-14T19:11:00",
+    "type": "news",
+    "auto": true,
+    "title": "Report: Hurricanes' Nikishin requested trade in offseason",
+    "body": "",
+    "src": "theScore",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMGh4bnlsYV9WanJ0WldURExqRFZ0bk9jTnd1ZzFqc09OUG05Qjk2RVp4NDFWN290eU9YRUVtamlzOXR5WmNoWEFwcDJpYl9yeTFKMml5VllOY3RTcmRGZjF5ZlJFRzZYQU10ek1JWGczT1dCSnhFSzJBUXNxLXU1TDFqb2xjOEZHOXFldnYwVDUtS1g5ZVNvVF9Ecm1NUQ?oc=5"
+  },
+  {
+    "id": "news-1xrx2aj",
+    "t": "2026-09-14T19:04:00",
+    "type": "news",
+    "auto": true,
+    "title": "Report: Hurricanes\u2019 Alexander Nikishin requested trade following 2025-26 season; request remains in place",
+    "body": "",
+    "src": "Daily Faceoff",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONE01cG1zX19rNVVoTHZRUEk3ZVpZODVXUTdSZ3FxdkM4WTVvalduWElhYkRrUXdMWW9PQlk0WTMyWGp3YndSMkNLVVlwZnFoV0pKa0MzM2xmdkdlcEotVUU1Wnh2dE51c0k3RzJEOGRDcEk2MWMyVEdmd1UyaWpEUFNQOXRHcXZrOVF5QVJwTmNLZzV1dnhaLVpsQTEzNmJDUFprOUphTFRfTkV4YzZzdmJGelF6WWItOGc?oc=5"
+  },
+  {
+    "id": "news-sa0meu",
+    "t": "2026-09-14T18:59:02",
+    "type": "news",
+    "auto": true,
+    "title": "2026-27 NHL team preview: New York Rangers",
+    "body": "",
+    "src": "Daily Faceoff",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNa2w3ZkxPQWMxQTBhREs0REY1TkxWS2ltNlJhSnBiV2dDaWRGVTBqTWhKdUZjSkk1aVdkcUZzZl9KS2lFU09MRF9ObFlCaUxxRzlpQXdCTG9JSDdtanQzODloRjIyRXRBZ09IVnNwd3JXT1ZudjRmVWlLZFd6X2o1R3hJcGZ5ODNySFVOV2FfU2Radk5TeExUUnR1NWRWWDZOYUsySzh4MDBBamE3WVZKWS15R0xLMlBUUGpWMEZZRQ?oc=5"
+  },
+  {
+    "id": "news-1h5g7ll",
+    "t": "2026-09-14T16:45:20",
+    "type": "news",
+    "auto": true,
+    "title": "NHL Rumors: Florida Panthers, and the Carolina Hurricanes",
+    "body": "",
+    "src": "NHLRumors.com",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNmMwQkY4eERDWURUcVlLeHFQd2FObEZTLWJkRFUzbHJNWnBJOW1KRzE2VmdqQVRRdDJyVER3VlhpZ01JM2l6d1NBdWI2NWNlNnNQM3BvaUJxaVJ4dTZFQXRsQTJ4SWtSR19HekFleG9YWkRneGgzblhweDhVVEZYQTRObXAzZWlNNTdiZ2pJb0lITVnSAZgBQVVfeXFMTWhqTGZiNDMyWVpXMkRzOVdMUGdEMmF1amtsWFlSRG5lTXdfdnV6ckEwQmVleHFZQTJPa1NmWkFmVEtuRmF2NmgzSS1FM250MlI4aGNObzVVMGd5N2xLYmtVaGJSQWxyWW4tUmd5R3ZFRjRHU1hjN1NKQXloWjNLeTRMbC1zY2hhSUo3REtSckVSNElhX0tvbjQ?oc=5"
+  },
+  {
+    "id": "news-wa1br9",
+    "t": "2026-09-14T15:39:53",
+    "type": "signing",
+    "auto": true,
+    "title": "Sabres Sign Noah Ostlund To Eight-Year Extension",
+    "body": "",
+    "src": "Pro Hockey Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOVdXbGlPNWpIZUEzcmNuS0FNV29GVFhxcHI2UHFrXzRUYTlNY1JzUlZ3d0dmWFczWTZFUHJQNWd4WmxIcWdhYldKanFpSkR0RTVoM0xTUkwtYkI2bDVGY2tYWVlRSUZvTFNfLUxxS21rSEYyaU5kM0pBMHFvWGFCSkdseU5PcVphT3l3R2QwSEJ0WHdhcmJSVg?oc=5"
+  },
+  {
     "id": "news-mf66k4",
     "t": "2026-09-14T14:29:27",
     "type": "news",
@@ -418,66 +478,6 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUEh6MmNrREU4TV9femZJNDhPYVVBdVJTZE8ybk15NnRCVjRCanItUkItbTBPRHYxLU9peW1PUmYwLTFuRXdtdHE2RUZnR3BBaThRQ3JKMlhzNXNXSExjdGJvajhIWmFsS3ktclFlXzBrWm5qc0VKYTRGOVNZakZsMUl2eE9zams?oc=5"
-  },
-  {
-    "id": "news-1sxi8ds",
-    "t": "2026-09-11T14:22:27",
-    "type": "news",
-    "auto": true,
-    "title": "Dylan Larkin No Longer Captain Of Detroit Red Wings",
-    "body": "",
-    "src": "Pro Hockey Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeHFlVjlsQjA0cC11Y1ZfazNwTGpKYTNYUTY5dngtZFdCTzdrd2JnOXRHVHpNMDZpY21vQ05VOVlTMHU2MnEtUEFKNThiRFJwMDZpb1N0dnpYNlRnMGlpY1pKdllqYWZtakZ1WGphTUh2anNtWl90Y2NLTWlvR2o0SXZ6SVJUQnlSMzNua3QwZDJxa2VtR2hlRklHNWg?oc=5"
-  },
-  {
-    "id": "news-mwl6rh",
-    "t": "2026-09-11T13:52:55",
-    "type": "news",
-    "auto": true,
-    "title": "Latest On Drake Batherson Extension Talks",
-    "body": "",
-    "src": "Pro Hockey Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRzlmeWNlUS1mcF81VWh1T1V5NmZ0cmhEcU5yRjdZaHlnZmlEd25IenJYb2tLLXFIVXdlS0IxY0cyZkRBZVZHdGNPT2dUTFRfM2plOURGMUFrR0tJT0VOa0tDTlczMlFETEdGcngwRnZ6aTJrVEZEZURhbl96cFQtSWE1eWdHN0VJVkN1QVAtVQ?oc=5"
-  },
-  {
-    "id": "news-6uuiir",
-    "t": "2026-09-11T13:45:00",
-    "type": "signing",
-    "auto": true,
-    "title": "Hurricanes News & Rumors: Mike Reilly Re-Signs and Friedman on Hellebuyck & Nikishin Rumors",
-    "body": "",
-    "src": "The Hockey Writers",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNN3ViNFdoTmpHZERuaHNFR2g3SFVpRjJFMkdaazN0WkhDLUYtSV9HcXIyT2JMVUt3cHFPTjZhbjhPQjZSbmljS0RzRlZ6OWNsOENaNTJ4SnJWLURDelFDdWRXQk41dzcwTEl3Rk1sUlRWMGxHTjZzdnBtMEM0blFvdGZGOWVIaVZnS2VEajlLb0dKT28wUzFKVTdtNGFTYWhpTFBOS2RsdjRGTTVKZnVFRGVQVnFQYlk?oc=5"
-  },
-  {
-    "id": "news-zpjdrx",
-    "t": "2026-09-11T13:00:00",
-    "type": "news",
-    "auto": true,
-    "title": "One prospect to watch on every NHL 2026 rookie tournament roster",
-    "body": "",
-    "src": "Daily Faceoff",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVnllRkNhSXRha3J1R1hNYW90YVliLVl3VDlndGs0SUtIMGlIN0RwczktUHFPU3B5eEpyY0pBelh5UWpDWkc5aG1MWWZkYk93ME56ZF8xYU9CUzhRZ2c5VnM4bmlWRW9tSkc4MWlscm1JZmRWT01zSGxwSFlxanpsajZxdXlYY0o4YXlFYUNxR2RDc1dyZFlUZmR3NkVMdnc?oc=5"
-  },
-  {
-    "id": "news-514sgl",
-    "t": "2026-09-11T06:05:00",
-    "type": "signing",
-    "auto": true,
-    "title": "Golden Knights sign Braeden Bowman to six-year extension",
-    "body": "",
-    "src": "dailyfaceoff.com",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOXJGblhVZ2VESWtJY0lGODhoT2tVNEFCb1VqZWVLc2Zpa0Z0MTBsQkx5Q2phZVp1YV9KMG1WN2dwVHl4MEJiMEp4X3B1aV9WcWt0N0FPazFsYzJMQjB3SzNIS0stRldaaFBNemZBenBlZlRpbFpNU2x5SnZCS1RSM0xZZ2Jlc2g0NVkzUGtuZ2Myd3dEUmhleXBrdVYyRUZ6RWVicFNNNG5HT2tEREFpaQ?oc=5"
   },
   {
     "id": "auto-add-8476422-20260910",
