@@ -1,5 +1,41 @@
 [
   {
+    "id": "auto-rem-8486043-20260917",
+    "t": "2026-09-17T18:23:46",
+    "type": "roster",
+    "title": "William Hakansson no longer on the Hurricanes roster",
+    "body": "William Hakansson has come off Hurricanes' official NHL roster. Auto-detected \u2014 could be a trade, release, or assignment.",
+    "src": "NHL roster feed",
+    "out": "",
+    "players": [
+      "William Hakansson"
+    ]
+  },
+  {
+    "id": "news-153xcr2",
+    "t": "2026-09-17T16:18:05",
+    "type": "news",
+    "auto": true,
+    "title": "Latest On Jets\u2019 Connor Hellebuyck",
+    "body": "",
+    "src": "Pro Hockey Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRnJEdFBLR3FONm1LdGFGY2dXeHJjZUpCUEFJVUE0RDRNYmNpZVczalppSm9TUGwxNkZxemFJbGQwUjNWLV85UlRreDdKWU1jaWZoak5vLVNobkgzRHlnMVgyRFl5MmNkSFFOUVUxQ1FmRUs5Umc0TGxaVWR2X213cA?oc=5"
+  },
+  {
+    "id": "news-q63don",
+    "t": "2026-09-17T15:28:49",
+    "type": "news",
+    "auto": true,
+    "title": "Canucks Named Top Trade Fit for Star Eyeing $8 Million AAV Deal",
+    "body": "",
+    "src": "heavy.com",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUE5pYlZfdzBQUG5McmF0MXpGQVNVcElKb2t6V01jbkdhZTVpbjU2cUlJM05WWmthNEpSYlJGZGZfQXlZY1g1LUJQX1VOY2gyN3NNZXVaS280Vkc5eVp2cVVHbGtqTTU0SVY4akRNbGFEbHJTTFBjdjNmWFhaaFdhdjRIQUttWEpoX0RxNGhNNFVsYlMyWnRLdEp3?oc=5"
+  },
+  {
     "id": "news-asvfiq",
     "t": "2026-09-17T11:55:00",
     "type": "news",
@@ -24,6 +60,18 @@
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSGRlN2RqaGpLbUhndVoteUhSSWFidTFPS3d4RUN6Y093SnIzbTEzd0JnNDF4Q05RVXBGb3hmNkJ0V1ZXQ21OM29lV0dwbUhmVFBvdXhwMmYwLWN0SF93aC1rMV92blpZOUlHQW0tQmV2NkJMOS1fc3ZjSjMxY3FwY1FPYWlfTVVtNk1BSDFJenpUMjI2bEtHV052NVlnbk8wd0lXUXpYcmREazJMY3c?oc=5"
   },
   {
+    "id": "news-yqv2b2",
+    "t": "2026-09-17T02:49:00",
+    "type": "news",
+    "auto": true,
+    "title": "Maple Leafs Trade Pitch Lands Alexander Nikishin For 19-Year-Old Prospect, Picks",
+    "body": "",
+    "src": "Yahoo Sports",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPX1B5RWhIVE9qd1hvUTFvVEIteG1UZFBtV2k4MWg2YXUtSWJGRTRGd2FnZ3JPNVVWU1ZGM1R1OUFhdGdTTXBQbDZ4ZDA5b0RsYW9hMmRlMTlJdVFyZVNLNXpqMW5zTTlndnFOQjk3anJ1MFd4eVVhaUE1UlZ3Y2stOUtvcDM?oc=5"
+  },
+  {
     "id": "news-1d8qir9",
     "t": "2026-09-17T02:24:26",
     "type": "signing",
@@ -46,6 +94,18 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTWJhbFZvX0JVRC1xRVEzbV9IQ1ZZelBKbl9LdTJDLWl1cjVfUE9zUjc4OERuUWdyQnc0VDEwYktNOVM5bktET1lvNUNlb2FUaG5fVzBFX2N3RFVjZU4tSkU5YVZ5THRYeTFXaTZRaTdKSktTMm5BNXp4R2F0R2JfeWFaWkYzb1NtZXZrYUNYaWJTTDZQZ1dqMU9tNXFva3ppR1NZS2dDOVQwVExGaThNMWFScWQ?oc=5"
+  },
+  {
+    "id": "news-tet5hl",
+    "t": "2026-09-17T02:24:24",
+    "type": "news",
+    "auto": true,
+    "title": "Carolina Hurricanes extend Jordan Staal, but Alexander Nikishin wont be at training camp",
+    "body": "",
+    "src": "99.9 The Fan",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPc0lRNHNrZXBCbTA3R090cWdjTU1VMzVWeEhEUDR5STdIMmtUT3RQTElLaU4tcmc2c3FuRFVHX193TUY4ZF9xNFY2ZWZwdHVzY3phYXBudjRScFdFZ2ZtU1ZnR19BTFhyZE56Y0xBcDJSaU9OSUp6ZUtXa2lOdEtOMlZYVTZEOXJESzBOUzc5WWR3SUo4SjMzc25nQzNILUdWc1FFVlVZQUVNMzd5NE1pYVpKeU8?oc=5"
   },
   {
     "id": "news-1wq3jk2",
@@ -430,54 +490,6 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdnlWRE1VWGhHYmprdlFYMjN1ZHF2MnVWS2E1cmtQUzVTQnlQMkpBRVJ0ZmliUE4zQlhrUldjT2ZkR1owNDZzTVpreUs0aG5vQ3FNTEsxMUJLdk9aSFJ1Mno4Q3dUTkRaTTJYd05PSzRXY0syckhOQWhIMWI5Qks0LTVCSkNvQV9VT0tuUG43dHpLZVNyZTJkM0t3?oc=5"
-  },
-  {
-    "id": "news-cenbch",
-    "t": "2026-09-16T12:27:36",
-    "type": "signing",
-    "auto": true,
-    "title": "Hurricanes Captain, Conn Smythe Winner Jordan Staal Signs One-Year Extension",
-    "body": "",
-    "src": "Yahoo Sports",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTnVFNGxIYmdXQTBXNnBvZW9CWi1LbkY2Rlp4UjkzaElCbTlqdzdkYkVNTWxKTGdlWm1ZNFUya3JEZC0yR0ZjaXJOSk4xcnFTWng4ZTl3RElKVGJqUzBnbUhvNmdMWEJQWllXOTVOeUQ5cjBEekg5N2VjWHlQZU5zYlAwcm13YkZCeThkMTNhNA?oc=5"
-  },
-  {
-    "id": "news-1ldw1ep",
-    "t": "2026-09-16T11:55:00",
-    "type": "signing",
-    "auto": true,
-    "title": "Jordan Staal pushes back retirement talks after signing a one-year deal with Carolina",
-    "body": "",
-    "src": "Cardiac Cane",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWnNPMk9UaVVYNGRRdVFYdjI4eTNhSWFma1lrYTdSbEdoZDVpYlAzcVQtZkVUWXZ4MzFnS0QzTlQ0VVFIMzJGZkFTRU5CNUhBbHA0aDVpQWRVSFRRSHQxc0hudmM2dVpMOXBteWQ4X01kOHRJcVlsQTU3aHFHU3RjQXBwbmJMYUozbFk2UXFTRnVoYTQ3QW9XN0tLcXk2ZU1nZTdkMFJDamxFZ0k?oc=5"
-  },
-  {
-    "id": "news-kc0ar8",
-    "t": "2026-09-16T10:33:49",
-    "type": "news",
-    "auto": true,
-    "title": "Hurricanes\u2019 Alexander Nikishin Situation Shifts & Suggested Maple Leafs Trade",
-    "body": "",
-    "src": "Substack",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdnVXSEFqdVZVTmxXQ1JUVUJTbTVsVktxdG9HS3luSlNHeWVST3FkdXlWcmZKSEZXdWN2amhjZUIyRWQ5UFNhWVVOTVlZTVQzR0VxaEdiRGh3eS1QVjAtbU9ZX1FuTDVBc1FTRkRodDREZXVsVDBxaGtJMy1Tb3R3YVllbzZOUQ?oc=5"
-  },
-  {
-    "id": "news-1238ug1",
-    "t": "2026-09-16T06:12:00",
-    "type": "news",
-    "auto": true,
-    "title": "Every NHL team\u2019s top prospect heading into 2026-27",
-    "body": "",
-    "src": "Daily Faceoff",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeWoxOHU0OHFEMmRVVnBTNGp2UWdaX2xwMXZka0NybjlBLXJHNWIyTHF1VElieHFtN0M4X1ZIM1pRMkNPeXZWNG0yaTRQX2tuOEN3QjYtTGNrS0pnQTZudXB3VXAyX2h2T19IN1ZXS3IzUnM2MWY5ZW4xdjJqRDJWYXhRbkFvc1EwMjlkZk1jNmZheEdQclRPTE9xSjRhVUFlOU5rT1Uzb1BlU0dBUHloRmRhM1VlNGhfTVJGOGN0MEo3dw?oc=5"
   },
   {
     "id": "auto-add-8476422-20260910",
