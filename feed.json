@@ -1,5 +1,17 @@
 [
   {
+    "id": "news-uarbap",
+    "t": "2026-09-17T22:24:47",
+    "type": "news",
+    "auto": true,
+    "title": "The Hurricanes need Sebastian Aho to return to the game breaker they know he can be",
+    "body": "",
+    "src": "Cardiac Cane",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdzFJUGl1bmZCLTh3N2tOb1Q3d2p3NVphOFJFZzZDRGJyemZkMGFWZWwwN19OVzZlTm5IUXFVNF9GYThwY3NJcFJ5TWdpZFVidk4wMjB0NmQ4ZlRqTjFBamJDakNXRmhsaUtiY2VCVXpWZWtfeHBlNTkzdVVieUUyTGdsYjVBemsxWHptcHZLZE1fVUlIRHpMd016NlB5dEp3?oc=5"
+  },
+  {
     "id": "auto-rem-8486043-20260917",
     "t": "2026-09-17T18:23:46",
     "type": "roster",
@@ -82,6 +94,18 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPX1B5RWhIVE9qd1hvUTFvVEIteG1UZFBtV2k4MWg2YXUtSWJGRTRGd2FnZ3JPNVVWU1ZGM1R1OUFhdGdTTXBQbDZ4ZDA5b0RsYW9hMmRlMTlJdVFyZVNLNXpqMW5zTTlndnFOQjk3anJ1MFd4eVVhaUE1UlZ3Y2stOUtvcDM?oc=5"
+  },
+  {
+    "id": "news-1gg9f2h",
+    "t": "2026-09-17T02:24:29",
+    "type": "news",
+    "auto": true,
+    "title": "Tune In For Live Sports",
+    "body": "",
+    "src": "99.9 The Fan",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNR254dWRzbkZwM1J1ZkZXM1A5X3hxLUd2dWRTbXE5MHliWGpTY2J3aWpGTmZzbUhYTFdjNjdBOVp4X3hEV0YxRUNZOEhPdlU3UHhmdU1fcFg5RU5zNGVsRmhfWnFSbEJXM2pacDFYSnJIcXc2NVVVNkhGanFTTGVnQ09tTQ?oc=5"
   },
   {
     "id": "news-1d8qir9",
@@ -466,30 +490,6 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOM2ZxZjlUb0Rqb3AtOGYwRy0zNlZLQlpEb1RDZUd3NDdqS3I1dTZxTTBWYy1hMlNEWDZIMncwYTFrYU5nYkRQUzJ5cXNuYnBXQTZudjVzV2s4RXZYSnhLdHA2UmRheEdQaXkwcFBnZmREQjFFZmlNbmlCUmhiQl9UczRYbWpna2JZa0xIUE1VQ2dOemswMWdTRndfT3lsSzI5OE91WThJRDE1eHBLV2RiR1dB?oc=5"
-  },
-  {
-    "id": "news-ch7vrf",
-    "t": "2026-09-16T15:19:46",
-    "type": "news",
-    "auto": true,
-    "title": "Leafs\u2019 Max Domi fails physical, out indefinitely",
-    "body": "",
-    "src": "Daily Faceoff",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTmg0c3o3S1JmbUhjZjFzUVdxeFJualpsS2RGam1mM1RVZ1AxMGRLaUp3OWpBcnQwS0xvT19NTlRNRzN5XzNqeWREV3FfWmhJUTJZUE5PYWp1X21SbzNZSDNOR2JDSGtzZUJBRjhXSjRuNEtsUGd1SVBWM2dDVWtVRjBZSWs0cjF0RDgwU3pTcHVka3lxSktDcWRyMDlaRVdjMGFmLXpfUlNrdTg3b2stejV3RmFIQnM1TTFBMQ?oc=5"
-  },
-  {
-    "id": "news-1i7ngtr",
-    "t": "2026-09-16T15:00:39",
-    "type": "signing",
-    "auto": true,
-    "title": "Bruins Sign Matthew Poitras To One-Year Deal",
-    "body": "",
-    "src": "Pro Hockey Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdzItd2RpV0tIdGphVHBhMzNZNFVqQ04wX011R00xQXU5RDNaWWRhQkNudVZtMDYxR1ZJRkhjWTN0UnJmRDgya1owSTM2bVpOc2N6am5uLXZxb3M2ZkF1SUpKaGVJaVFHZ2ptQXNVMFA2dWQ3X25uWjM3dC1RYXp0bnQ0NnF1UmJZbm5pSFoxSS1nd0k?oc=5"
   },
   {
     "id": "auto-add-8476422-20260910",
