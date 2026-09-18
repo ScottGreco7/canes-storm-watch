@@ -1,5 +1,29 @@
 [
   {
+    "id": "news-tas9hl",
+    "t": "2026-09-18T19:57:09",
+    "type": "trade",
+    "auto": true,
+    "title": "Carolina Hurricanes submitted offer to acquire Connor Hellebuyck revealed by Elliotte Friedman",
+    "body": "",
+    "src": "Markerzone.com",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA5UUp5d1VEQTI5WTFkVFRMRllKbWJIQVM2ZnA0SDlOaEIzdXZIX0tvSkN6SnFKdTRpbHFiMDZNb1o5eUxFZ3QxSWFoX1BjYldZeWR0LXVDX3BPRmUzOVVfTA?oc=5"
+  },
+  {
+    "id": "news-16b8tlt",
+    "t": "2026-09-18T18:31:07",
+    "type": "news",
+    "auto": true,
+    "title": "Carolina Panthers hoping to exploit Atlanta QB chaos; Carolina Hurricanes' preseason starts Sunday",
+    "body": "",
+    "src": "99.9 The Fan",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5CRWtENHkxT1hGSGQ0UlhDUGp0cF9GNE5STVNaVnVBV0FGZS0zNkExLTdFeEpzX1JhYXdPQTd4bFVGLXY1aFdCSHFsRmJLdjg?oc=5"
+  },
+  {
     "id": "news-qw8v5v",
     "t": "2026-09-18T16:26:29",
     "type": "rumor",
@@ -142,6 +166,18 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdzFJUGl1bmZCLTh3N2tOb1Q3d2p3NVphOFJFZzZDRGJyemZkMGFWZWwwN19OVzZlTm5IUXFVNF9GYThwY3NJcFJ5TWdpZFVidk4wMjB0NmQ4ZlRqTjFBamJDakNXRmhsaUtiY2VCVXpWZWtfeHBlNTkzdVVieUUyTGdsYjVBemsxWHptcHZLZE1fVUlIRHpMd016NlB5dEp3?oc=5"
+  },
+  {
+    "id": "news-148xfo2",
+    "t": "2026-09-17T21:00:12",
+    "type": "news",
+    "auto": true,
+    "title": "Is This The Year We See A September Blockbuster Trade?",
+    "body": "",
+    "src": "Pro Hockey Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVkhhT2lnbzFnUG9XS05yX0daeVpwSC1LemdrQm5iVUZLS0hrVU9GRmdTUk5HMjZYZDlSaXpEeDhibDN0a0lBMGJybGNGRlI0N1R0U0c2elBjRk9tRUVOY243bTlJcVNLUExaZi1OazhKdFlFLXNWT0tsS1FRb2E5RFFGZ1c5V1M3My1HSXB0ZkJLWFNlZVExc2Jjblhac2c?oc=5"
   },
   {
     "id": "news-1iatov3",
@@ -454,42 +490,6 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQThrU2VZbzZLVWZWVmwyZUFILTRYd3NFRDNkRFJPazVRaXdibk93YlRtWTkweWgzRkF0bnc4OUc0aFp5LThQbHRWNm9QaExESzk0U0FPWEFUVnBBVWdCT3owdV9tZUZEVU1xLWZwMnBBNWZTN0NESjktQnZpaWdqbENfakY3NGl3QUdCZEpzbTg2eWlBX0RnR1RNZmc?oc=5"
-  },
-  {
-    "id": "news-142zg8q",
-    "t": "2026-09-16T22:30:53",
-    "type": "news",
-    "auto": true,
-    "title": "PTO Signings: Glendening, Gleason, Delia, Zherenko",
-    "body": "",
-    "src": "Pro Hockey Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdUdiV2tNMUo3NXlueHNKeFhHbW1oU0dVc3lmUTZORHkyR044dnpjbTBFYVY4ckhXVXJCWHlPUXVjeG40dmQ2RkNMV09lNEtyR0d0WExGRnRZc2d4V0syeUtwa3doMFc3b1B6ME14eG9janQwcmVYLTZhLTJ1Zmlkc09mZzBUYTNoX1lOak05dDVvdE1RUGc?oc=5"
-  },
-  {
-    "id": "news-k1zz3h",
-    "t": "2026-09-16T22:26:16",
-    "type": "news",
-    "auto": true,
-    "title": "Nikolaj Ehlers is scratching the surface as he enters his second year with Carolina",
-    "body": "",
-    "src": "Cardiac Cane",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTFVCNEc0WDZybGFZdlJtUk5uRHB5OUZ3Mzc5WWRkY1JNdS1oLWxra2g5S2gzbkQ2bHNSQTVRN0dMUU9fak96NzZpcEt1ZDdXNDhXTXl5ZW1aT0ZnRGFpWWlzSGFYaW00TkYwYlV5LWQ2QUxvb2xSWGlMSG16SnlEY0xsMDhBWnAtLXNvOEZsVHVUd3pVbjdVa2pWNzU?oc=5"
-  },
-  {
-    "id": "news-2tbwzx",
-    "t": "2026-09-16T21:42:58",
-    "type": "news",
-    "auto": true,
-    "title": "Ryan Reaves Announces Retirement",
-    "body": "",
-    "src": "Pro Hockey Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSkxEWTJDbDE0ejJGbUxkbWdfb2pkMEtuV29ra2tva3QtWVpZektpVHItY1N5dHpKX2ZwS1lOR2JHLVRRU1ZZVVFWdUMtNU5CaFdUeF9QRW5mbTdHMlhvOEp0N3Z0endvT3VWRG9MYU0wSW56MFJueW9zSXdTTDd0SnhMSQ?oc=5"
   },
   {
     "id": "auto-add-8476422-20260910",
