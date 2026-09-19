@@ -1,5 +1,29 @@
 [
   {
+    "id": "news-1rdm0a9",
+    "t": "2026-09-19T15:52:52",
+    "type": "news",
+    "auto": true,
+    "title": "Hurricanes Notes: Extensions, Nadeau, Hakansson",
+    "body": "",
+    "src": "prohockeyrumors.com",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcVl1OXJKZDVyRW5ud2RMX0l1bjh4TXhzQ2NsaEV6b3o3dmxoY2oxMGhkWXhFUlhCZmxvbWU1ckJjZS03NFljb3AyRFpabW5ZT3dfd0w0ekRybGZLME1QXzdOak1oUjZxR3IxcFREenhmUkpmMGhEaWlPSmhzX3Bsbk80d1dNZVR5VUh2RUEtV3pQZ0E?oc=5"
+  },
+  {
+    "id": "news-bfy235",
+    "t": "2026-09-19T13:03:00",
+    "type": "rumor",
+    "auto": true,
+    "title": "Report: Montreal Canadiens Forward Becoming Prime Trade Candidate",
+    "body": "",
+    "src": "nhltraderumors.me",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOW4tVC0zN3ItMHBxTnlBN0h5UmFQY1FqQy12VjdrQm1zRlpiWlluVERnU3J1a2wxNXFXTlQ2aUx5TFJmS3g0bkYwVmhtOUJTLW94akxmdy1HbkRZVWVuLTlobzVOVHp3Z0RsZ3A3TGhuSWlIZGUwVTJQX3BuWDh2VDF3?oc=5"
+  },
+  {
     "id": "news-ts7rms",
     "t": "2026-09-19T02:30:07",
     "type": "news",
@@ -10,6 +34,18 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNV1EwUDFNNF93YURSdWZNLU1ac3h2WXBwSFN0SFN5d0dfTUxEenZrSVJRcUFHSkt0RVdac3U4TVEyVTlQTGxjUkNZVHdRaGhFRVF2WHgwT2Q4N0RmQ19Eb3ZtZTRkNkVIVDZEanNBVG5rLVB1NFVsWUdYa0FISGNFcW5CSkRBanljQTlwaEx4TkwwVkgwZUJxWUJYQnhnSDBNVUtJSFFhcXg0ZFEwNW9WSnJNenk?oc=5"
+  },
+  {
+    "id": "news-1ugyop",
+    "t": "2026-09-19T01:00:01",
+    "type": "news",
+    "auto": true,
+    "title": "Kirill Marchenko Noncommittal About Future With Blue Jackets",
+    "body": "",
+    "src": "prohockeyrumors.com",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdnY5c2hPVkVoc1ZEZHU4elZtM3RnWWRmYkV6UHItMGRxSTMyNG1VSlNmRVVuTXZaS0p1Tjg4V21Ga0NZTzJhWVNkeXZjRU9YVHJhN3VxYzN0ZEhRcDByaE9HU0dLVHFGYmZxRVFJTFYyeV9OYXQtMEJwRzVBODNTSUNadVdocHhyeXVCa0IzNUFOQ1phOVVybTg3dHhHcFZBUlUyTWhJdGY?oc=5"
   },
   {
     "id": "news-1d8b9v3",
@@ -240,6 +276,18 @@
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVkhhT2lnbzFnUG9XS05yX0daeVpwSC1LemdrQm5iVUZLS0hrVU9GRmdTUk5HMjZYZDlSaXpEeDhibDN0a0lBMGJybGNGRlI0N1R0U0c2elBjRk9tRUVOY243bTlJcVNLUExaZi1OazhKdFlFLXNWT0tsS1FRb2E5RFFGZ1c5V1M3My1HSXB0ZkJLWFNlZVExc2Jjblhac2c?oc=5"
   },
   {
+    "id": "news-1ktkwkw",
+    "t": "2026-09-17T20:32:54",
+    "type": "news",
+    "auto": true,
+    "title": "Minor Transactions: Lazar, Regenda, Man",
+    "body": "",
+    "src": "prohockeyrumors.com",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdDdSakJHOHlVZHlxRFNLbENQZThOZFp3aVlMQWJ1VVJNX29wVEVSMXV6MGZqNk5HNldmM0d0N0NYUlM4R3hIWlNHTl9Rek5hMXVQYnVFYUdyOGdOTDNnUVV6c0h5UVVsSXRoeVI5MFl6ZlRuTjc1NEttbk9FLXZxVEQ5d1Z2bmp3?oc=5"
+  },
+  {
     "id": "news-hlm98e",
     "t": "2026-09-17T19:46:55",
     "type": "signing",
@@ -442,54 +490,6 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPc0lRNHNrZXBCbTA3R090cWdjTU1VMzVWeEhEUDR5STdIMmtUT3RQTElLaU4tcmc2c3FuRFVHX193TUY4ZF9xNFY2ZWZwdHVzY3phYXBudjRScFdFZ2ZtU1ZnR19BTFhyZE56Y0xBcDJSaU9OSUp6ZUtXa2lOdEtOMlZYVTZEOXJESzBOUzc5WWR3SUo4SjMzc25nQzNILUdWc1FFVlVZQUVNMzd5NE1pYVpKeU8?oc=5"
-  },
-  {
-    "id": "news-8ddovx",
-    "t": "2026-09-17T02:23:00",
-    "type": "news",
-    "auto": true,
-    "title": "Unsigned RFA Alexander Nikishin to miss Hurricanes training camp",
-    "body": "",
-    "src": "Daily Faceoff",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPc2d1RThGZUFTWkVjRUZabUlzRkxDcmtKRnlNVWRRaEdsS3dUOS13ZHdBUFdiYTZBRnB2Mm1Ld2lVdWl0RldkY0tqVWxPcEVLbjFRQm00M0U5dGhVdi03TlluVkQzQnJRUnl5VDZabTlPbDV0Ri1DZ3NQWEEwRlN0bWtZZUtsWHItVW5OMHZYUVFybWRGMmVVN3gxUXptUVVHOVFBYUU5anBoMkt2WWhBWU1VQQ?oc=5"
-  },
-  {
-    "id": "news-1wq3jk2",
-    "t": "2026-09-17T01:47:56",
-    "type": "news",
-    "auto": true,
-    "title": "Drew Doughty Named 15th Captain In Kings History",
-    "body": "",
-    "src": "Pro Hockey Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRWpaMDRweWEyZmNjYm5xdVJDcVdxVnB6bDZESUtDZ0R0azRYbkduNDdFb25EaUZEYmptMV9uN0Q0Y1lFTW1GVm5YaGZFaXFHSWwzbGFURVNpOGZ4WVhZa2pXNERvcFBGS1NONzl1ckVPaUFZVTBYbWNIZzluX0dSbHBtcFJ2WjUzR1pZSW5oU0xqek1VNFQ1aA?oc=5"
-  },
-  {
-    "id": "news-2hc4nc",
-    "t": "2026-09-17T01:34:00",
-    "type": "news",
-    "auto": true,
-    "title": "Carolina Hurricanes Get Major News Regarding Top Trade Target",
-    "body": "",
-    "src": "heavy.com",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaHBNeFlXUWZhVGVaaTZ3SjRWM1JoN1BXN2ZKRHFvZlZMdFN3RnE2UWRLQkNMd1V0YXhwQ0FhNHpFV1hEaDE4bEhmMWh0Sk9UVGg4RmxtdHJYYXczUlZYemQzOFZpWUlKZjJVRVF1LVdNQWNEMTBQQUFORXV1Tnh6dUd4QV81bmVURkVHN05hRnRTaUpXODBybkdSLVBoVzBoSTVaQUhuZDhjdlQ5NFM4NWQ4anZtUQ?oc=5"
-  },
-  {
-    "id": "news-69wkad",
-    "t": "2026-09-17T01:33:00",
-    "type": "news",
-    "auto": true,
-    "title": "2026-27 NHL team preview: Philadelphia Flyers",
-    "body": "",
-    "src": "Daily Faceoff",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVVdUYXJTQlhkTkViVkFsbXNyN2Y0eXM4a0xhTE1VZ3FqakRIWU5tdVdLZV85MVRuMXhWcERfS2RyMG9qaklaWjBzeWRaY3VfalZjc0FZVDgzbk5Vbk54R2tiZ05fcTRIbDNXbUp6UTRuX1ZQS3Jja0NTUVFfMVgxV3ZuWkhhdU5nZ1JMd2FCNU1yMzlWQURkVmFuSmRLclJNaGoyY0NCMVFycHR1ekk1YVAyY1E3cTRLNy1aMnoxNmNFTDg?oc=5"
   },
   {
     "id": "auto-add-8476422-20260910",
