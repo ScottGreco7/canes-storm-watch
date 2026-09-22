@@ -1,5 +1,53 @@
 [
   {
+    "id": "news-1a2etpy",
+    "t": "2026-09-22T01:37:51",
+    "type": "news",
+    "auto": true,
+    "title": "September 22 \u2013 Game Notes vs. Florida Panthers",
+    "body": "",
+    "src": "CANES PR",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNjd3NVBXVGhMT2IwMlI4RWNlbW5hYUNUd2o5ZW9rR0JOMFFCRTZpU0FNT3Bsb1ExQUhmNWhpUjZ0QW5lbVVjQ1RkM1VrNWotTW9LbWl1TmU0NEJLa1dVa3lUTVRURnRuUGJQaHRQVFVTdmt3MDRpSXZsNjc3X0hCbQ?oc=5"
+  },
+  {
+    "id": "news-1262p2i",
+    "t": "2026-09-22T00:43:49",
+    "type": "news",
+    "auto": true,
+    "title": "Evening Notes: Kindel, Sykora, Fabbro, Koivunen",
+    "body": "",
+    "src": "Pro Hockey Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUFdOaGhEU0dxOE8ySl9FYTF0UlRkMjlEYVdYbklndnpHVzdTWmdZaWwwQzhfVzczejJScGZaMlBoQk9EOUk5d3RoM0NWWnF4cmVoR25vdjhrX0R2RnlhS2h0WXBMWnVZblBxSmFyR1FxRFBrZkRKNFBVdWt5ZW9STEpOMS1PeXhQdXpXMndPcjhPZw?oc=5"
+  },
+  {
+    "id": "news-1pkot8h",
+    "t": "2026-09-22T00:14:36",
+    "type": "news",
+    "auto": true,
+    "title": "The Adam Gold Show LIVE 9/21/2026 | Carolina Panthers | Carolina Hurricanes | CFB",
+    "body": "",
+    "src": "99.9 The Fan",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBCSnh1MUJJbkpXQVhLenZLVm5QQmtiaWl2YlJtV1NGRFUwRVRfOGlITDc4cnNRYjRRRzNDNjB1M1FrdFltQ0hXTEYtd2gzU1U?oc=5"
+  },
+  {
+    "id": "news-15ocdbs",
+    "t": "2026-09-21T20:33:09",
+    "type": "news",
+    "auto": true,
+    "title": "Blackhawks Place Derrick Pouliot On Waivers",
+    "body": "",
+    "src": "Pro Hockey Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQXzExZlpzOW45YmxyS0NZWEZQaHNIcUE2dkhUV3k0TTZCMms5ajBlTzV0eVRRaVNhd3NaSWtLZzFxUkQ1WVBtUl9lOTRZU2lpbFVTeUVhcDI2bzBjcTJfN3JQRUZ0Zl9UdXBncnptX2pKZThLUkVyeFg1ekNiNHlwVDlwVTRNMEplN1piTG05SHJyZw?oc=5"
+  },
+  {
     "id": "news-cq1xo4",
     "t": "2026-09-21T19:29:23",
     "type": "news",
@@ -430,54 +478,6 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBzMFlJLUlGdWs4REl1RmJSbGd2Y2NPYS1zeDZwX0JQTGtSZmRmRnlhZEszWGlkRnA5SFdOckZjX2o1Umw4ODFweVlIYmM?oc=5"
-  },
-  {
-    "id": "news-1rdm0a9",
-    "t": "2026-09-19T15:52:52",
-    "type": "news",
-    "auto": true,
-    "title": "Hurricanes Notes: Extensions, Nadeau, Hakansson",
-    "body": "",
-    "src": "prohockeyrumors.com",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcVl1OXJKZDVyRW5ud2RMX0l1bjh4TXhzQ2NsaEV6b3o3dmxoY2oxMGhkWXhFUlhCZmxvbWU1ckJjZS03NFljb3AyRFpabW5ZT3dfd0w0ekRybGZLME1QXzdOak1oUjZxR3IxcFREenhmUkpmMGhEaWlPSmhzX3Bsbk80d1dNZVR5VUh2RUEtV3pQZ0E?oc=5"
-  },
-  {
-    "id": "news-khzvtn",
-    "t": "2026-09-19T15:00:00",
-    "type": "news",
-    "auto": true,
-    "title": "2026-27 NHL team preview: Seattle Kraken",
-    "body": "",
-    "src": "Daily Faceoff",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTlVpTlJtZDdPWmtLT3dzMmdZbmZwbFdzOEVFdDIzVVVlQWlEankwNnFsWUpWN0ptVUxYMW5FMHgzS0puOXBpX2k1cDhwRzBmdWlKeFpsc1VLel90Sy1oRW9pamhIcnlGTmM2WU45RnpMdlR4NURVYkdlWDAtLVpFaHZSQjVabjVLOTZwWXNabmx6NVF0TkNBX0N0TVdsd0VUZ2U2U0tFbkJzMkdBQlhlU3EtbDdYanN4aDdUeQ?oc=5"
-  },
-  {
-    "id": "news-1el4msw",
-    "t": "2026-09-19T14:43:57",
-    "type": "news",
-    "auto": true,
-    "title": "Lightning Notes: Kucherov, Glendening, Konin",
-    "body": "",
-    "src": "Pro Hockey Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZTdkU1M1TTUtWlVZX3hCVURoT2lnVF9neWxfRVNVMTlXVG9PRUF1VkN5UUJPUVFNLTZEZ3FyT2ZiTUV1S1lDajNkYkFybzVGZzZfel9iZzBIcy0yRVMyNW4yMUw5UG41ZDQtWEloblByZmR5NVVEX3lMb3VjUENZMm9pSnc2UFQ0Z3duTnpIQQ?oc=5"
-  },
-  {
-    "id": "news-bfy235",
-    "t": "2026-09-19T13:03:00",
-    "type": "rumor",
-    "auto": true,
-    "title": "Report: Montreal Canadiens Forward Becoming Prime Trade Candidate",
-    "body": "",
-    "src": "nhltraderumors.me",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOW4tVC0zN3ItMHBxTnlBN0h5UmFQY1FqQy12VjdrQm1zRlpiWlluVERnU3J1a2wxNXFXTlQ2aUx5TFJmS3g0bkYwVmhtOUJTLW94akxmdy1HbkRZVWVuLTlobzVOVHp3Z0RsZ3A3TGhuSWlIZGUwVTJQX3BuWDh2VDF3?oc=5"
   },
   {
     "id": "auto-rem-8486043-20260917",
