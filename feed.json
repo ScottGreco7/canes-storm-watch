@@ -1,5 +1,65 @@
 [
   {
+    "id": "news-1c5au0",
+    "t": "2026-09-23T20:03:43",
+    "type": "news",
+    "auto": true,
+    "title": "Flyers' Dan Vladar Exits Game With Upper-Body Injury",
+    "body": "",
+    "src": "prohockeyrumors.com",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNmVsYXB6TGViVnFBYUc3RVpwQlZlXzAyV01uX3ZuV2REMlZMUkJuSWUwVU5wMVQyc2p0Z2tha2JVbmQ5MkRIZ256YnRjWVNibm9pT3ZKZEFLdnNQTE1qdi1vU3IyNVNYcmx3WGpfaDAzZkNQSi1xMy1PalNoMWFWdjZlQm5KeGNkNjhwRF92MlhwY2dTTWJnOERNbjI?oc=5"
+  },
+  {
+    "id": "news-fclgko",
+    "t": "2026-09-23T17:41:00",
+    "type": "news",
+    "auto": true,
+    "title": "Flyers\u2019 Dan Vladar day-to-day with upper-body injury",
+    "body": "",
+    "src": "Daily Faceoff",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMXNOa25TaXVGVWR5OWRma3dmWG1rWFdHZmxHYVlpR2hzMld3dXo2Q1RCYlJaWnpPZXFKT0RxUGFmQ096dFFETkF6bEtjM04zcERyRTFUc2ZTTlU0d2NleUFXbzFDdmpLNjFFVzhDT2QwTTB5cXdBR1hDTkt3VlU3cFZXeXlLc1FyM09NMzFaZHNhOExmLTVlaGY5Qk1NaUF0OEhMNzFyRUxNaXAtdkM4QQ?oc=5"
+  },
+  {
+    "id": "news-ejl7tq",
+    "t": "2026-09-23T17:00:00",
+    "type": "news",
+    "auto": true,
+    "title": "2026-27 NHL team preview: Utah Mammoth",
+    "body": "",
+    "src": "Daily Faceoff",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMjRPdXMySFRSdlNVa0trTDJfQXoxSlZ4Z3Y4NUZCUHMySUFLYjN5Q1FwRGFQdWpibFo4RXNuaGxweEZPUml6S3dDM042RU5JMFFYS1BIRnlSbmZjcTdaU2lpNUllUFloZzZkRzFkTTg1alYyN1F5YUdRYzVmdGR6dzZHcU5QbnFpbkFyVFlSdERzanJUUjljR2l4YXBSaDRDMHR4aTU1NTJ4WG9JaEZmcnV2YzdvU3UtcHc?oc=5"
+  },
+  {
+    "id": "news-15gasl5",
+    "t": "2026-09-23T14:38:00",
+    "type": "news",
+    "auto": true,
+    "title": "The 10 best value contracts in the NHL for 2026-27",
+    "body": "",
+    "src": "Daily Faceoff",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOal92WXlQZkVoTW4wcmdKb3cxdlpYOXowSy10cGV5Rk5fX2psa0dkRzRkTlE4TGlWWVVXNENUbXV1bGdraTJ5Z1VWU0lTVEhyZlhMeWk1LTVuZG56RjZ3SUgwaXFFV1NlSW9wWjQ2bmViMDNtbGoyWlF1YU5NelBoTy1OSkdhamNjUlN4RTRKbWZGUGRxdU82MVIzWXFqQWR3Z0xUaWJGTHBKcUpFVjFZVkZqSGh3Zm9YSkViMHk5dGNNOENWS0oyd1hGS1NhWmVrVDR4Q2lqWk42NEE?oc=5"
+  },
+  {
+    "id": "news-ixjejm",
+    "t": "2026-09-23T10:33:00",
+    "type": "news",
+    "auto": true,
+    "title": "Devils Reveal Stance On Trading For Connor Hellebuyck",
+    "body": "",
+    "src": "nhltraderumors.me",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOY0VldXNseTF5ZFFaTmJTNjVkUTlVXzRmalB0a0VWRlU3ZUZIa19NU3BCVmx1R1d4bjRpRFZQanZxaEpQb282Q2oxUkh1OTVRTUFtN0Q4MHVXV2xWamcydnpUbm1obS1FQjJKanIyZGptb3NMMlBUUjhneUtTQnZ1V1UzUEktMkRDRkU2c1R3?oc=5"
+  },
+  {
     "id": "news-7kt17t",
     "t": "2026-09-23T03:50:35",
     "type": "news",
@@ -10,6 +70,18 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYXVtMmF3YXB0STQzWjV2WTJqNmE5TmxZejN3SF96OWJlOU9uYmJaQ2lWWU15OUhZci1KNklKdGlndGdCSFlkaklkWXVuZHkzcFdlRXg2R25uY2FuSG9ITC1HRHZ6SlhOVEUzYTFyS2JxRy04SC1YdFNncWRMdHNGRk8tVQ?oc=5"
+  },
+  {
+    "id": "news-byj859",
+    "t": "2026-09-23T02:49:00",
+    "type": "news",
+    "auto": true,
+    "title": "Buffalo Sabres NHL Line Combinations",
+    "body": "",
+    "src": "Daily Faceoff",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE12NDJnQUVFNlBLUW9iZUVyWXMxcm03LVdxN3ZUMHBfRXpZaXhqREJiLXIzUGdWS0pJQ1pJbFJlNUZjU1VGWTBoUTBMbC1VbVRlN1d1bThsZWFqLWVZV09XR0J2UmtwV1hBUU1KZlAyU2J2S0I3Ukhn?oc=5"
   },
   {
     "id": "news-wxfx91",
@@ -406,78 +478,6 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPck9uaUtYdFd4Z25fSWJPUnFJS3JFNmZ4OFJqZXpkOTU2OTdtOThjU1hSNkFQUWotUzZIcWJVanByNXJhYm84ZTNfWVJ4OUs4LVUzdk9qbzl5UDlOZmVoQ1Rldy1nWUFsb3F0WHJ3M21ScXd1MzhJOU9mV0MxYzRmZ21tSDdGWmpNbmtFTnFzRHF0UQ?oc=5"
-  },
-  {
-    "id": "news-z7z31u",
-    "t": "2026-09-20T23:59:53",
-    "type": "news",
-    "auto": true,
-    "title": "PHR Mailbag: Breakout Players, Draft Lottery, Finnie, Playoffs, Rangers, Expansion, Inflation",
-    "body": "",
-    "src": "prohockeyrumors.com",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbXZKcHR3aEVVVE83bDdITU9VQkRFS3FOWG9LajZOcU5TcmJNSnd1R24wQkNsNzhPUEdNRWc0N01aS0tlWGV2REwtXzA4UHZ3NXRaOHhOM0ZCenoyRzh4NDRYLVFjUElVRTBrNFRtYnUxN3pUVl9tUXo2MkdPb293RUtvUUdKV0JrNGZxM2I4NUFjOUhKMWNual9HZzl3YTZMdG5LN01vM21uYklpMzY1WnBIM2czSUw2bU4xMVJkNUxEdWM4WnEzZXRnWQ?oc=5"
-  },
-  {
-    "id": "news-1f2f4i1",
-    "t": "2026-09-20T23:07:59",
-    "type": "news",
-    "auto": true,
-    "title": "Islanders Weigh Goaltending Options Ahead Of Roster Cuts",
-    "body": "",
-    "src": "Pro Hockey Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPd05hT3FibkFRRVNfeUhfeWF0bFdwMVlWNjBoc19JNFRSaUJJdWlvVkgxRmtxaWxhU3UxQ2g2SUtJbThqekZjUUNJWlFrQXRUR2hTamFQREthM0MxYnRmUC02RjVFTXdqdl9kd1Z5VlY5SGJYQ214X2dwNXJEZ2I1WFZGc2lOMlg3bFVXelhLTzN4WW1BRU5Ca0pzZ3dMOWVUVnpB?oc=5"
-  },
-  {
-    "id": "news-u6o6vj",
-    "t": "2026-09-20T22:04:00",
-    "type": "news",
-    "auto": true,
-    "title": "Training Camp Cuts: 9/20/26",
-    "body": "",
-    "src": "Pro Hockey Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9NR09HY2ZRQ1J4cmg2YTlMSXltMUdaU1FyME9Vb0IyVVdaaFQwclFGaXNtbzRkdC1KbEFpQ0xKb0lXR3c4cDU3dlJuWmdqcVd3cHA5dlZkLWxSZUhiSG5HX1A4V2lOYnhqZ01ESjgxc0Q0Q3pBRnpkS0Fkcw?oc=5"
-  },
-  {
-    "id": "news-nr7dnb",
-    "t": "2026-09-20T21:31:00",
-    "type": "news",
-    "auto": true,
-    "title": "2026-2027 NHL team preview: St. Louis Blues",
-    "body": "",
-    "src": "Daily Faceoff",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWWRSMUlOUkt5bUZ2ZXNfVk5iT1RBVVlxdUxsUXRyZVh6Q3g4YmNuQUduX01za0dpUUgwT1dpYlVoTmtiQmNnMGN5RVNPeExqUjRFM1VobkJJcmJSZWNDWENFeWdEVktjZmk0NTBXX3ZneGp1bTB6eXg3Z2g0RllkTlExQWo0S2pfbU1CWW55cDBuTUYzYVJXRHhWdUM3NHhiaERRV05nTWg5ZVZnNEllOHg1cEZ6T2RvYldhTg?oc=5"
-  },
-  {
-    "id": "news-1w6rgph",
-    "t": "2026-09-20T21:03:00",
-    "type": "news",
-    "auto": true,
-    "title": "Red Wings' RFA Simon Edvinsson in camp ... on a PTO",
-    "body": "",
-    "src": "nhltraderumors.me",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTUc4RjQzU181NTlaR1FfOGd0QUd6M1JsX0pUV3pNbENhOFdpZDdfWFMtX2l5SW9sZklLX2wxWHZoNWR2d29SRWJnUmJkRFJZelN1aVlwU2RtRXVHcjVLU2FyUUhhX2d2V2lwRHZjdE1jTjFnakJUV1J1dTlFSzI1VDVBbmQxSEE?oc=5"
-  },
-  {
-    "id": "news-4sk9xx",
-    "t": "2026-09-20T19:39:00",
-    "type": "news",
-    "auto": true,
-    "title": "Insider: Red Wings' Projected Demand From Canadiens For Larkin A 'Non-Starter'",
-    "body": "",
-    "src": "nhltraderumors.me",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeHRmX18zWFV6X1lKaVdOSlFBQkxwR2dHblI2LVJZeEpYUDllVXc4dHBRdXltWnhwSXNWNnhvaE80QVUzQXdYNTM1TjkwU2pqblhKbkticFNsTzFEN1F0LU85S2hZQnNXdlhuRGQzS3RhWERQanlqUDJOUml4SVkxWUxTdFZnOUVteEE?oc=5"
   },
   {
     "id": "auto-rem-8486043-20260917",
