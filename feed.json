@@ -1,5 +1,65 @@
 [
   {
+    "id": "auto-rem-8485368-20260924",
+    "t": "2026-09-24T20:30:05",
+    "type": "roster",
+    "title": "Ivan Ryabkin no longer on the Hurricanes roster",
+    "body": "Ivan Ryabkin has come off Hurricanes' official NHL roster. Auto-detected \u2014 could be a trade, release, or assignment.",
+    "src": "NHL roster feed",
+    "out": "",
+    "players": [
+      "Ivan Ryabkin"
+    ]
+  },
+  {
+    "id": "auto-rem-8483519-20260924",
+    "t": "2026-09-24T20:30:05",
+    "type": "roster",
+    "title": "Gleb Trikozov no longer on the Hurricanes roster",
+    "body": "Gleb Trikozov has come off Hurricanes' official NHL roster. Auto-detected \u2014 could be a trade, release, or assignment.",
+    "src": "NHL roster feed",
+    "out": "",
+    "players": [
+      "Gleb Trikozov"
+    ]
+  },
+  {
+    "id": "auto-rem-8482888-20260924",
+    "t": "2026-09-24T20:30:05",
+    "type": "roster",
+    "title": "Bryce Montgomery no longer on the Hurricanes roster",
+    "body": "Bryce Montgomery has come off Hurricanes' official NHL roster. Auto-detected \u2014 could be a trade, release, or assignment.",
+    "src": "NHL roster feed",
+    "out": "",
+    "players": [
+      "Bryce Montgomery"
+    ]
+  },
+  {
+    "id": "news-bfpe0f",
+    "t": "2026-09-24T18:16:18",
+    "type": "news",
+    "auto": true,
+    "title": "30 NHL players placed on waivers for Sept. 24",
+    "body": "",
+    "src": "Daily Faceoff",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOLWFjSjlmRFF5VklpTlI3UnFCYW0zb0pvTDdNU1lYYTE0RG1YejNjNEg1dlZjMGhTbTZWRVJBQ2ZqTzByaUF5LW1UeFlEUjRfLThTMkdmWmtJZ3hPMDBoSzdyaFhibTQxOWpWeEl4NFJLWnRXS1l2X25iSS04VVk2RTZuWDE5R2xnNkkxYXhQRmlyZ01aTU1sM2tWWjNJZFBzM2JpV3ZCaDFUVF9uRkZFc2VRQktpd29VMF9WOXVWYUJObUhhajdfbnlZdWtFT1pEZ1N6R1RCWnlIdw?oc=5"
+  },
+  {
+    "id": "news-uqheir",
+    "t": "2026-09-24T17:41:00",
+    "type": "news",
+    "auto": true,
+    "title": "Pittsburgh Penguins NHL Line Combinations",
+    "body": "",
+    "src": "Daily Faceoff",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA3RERXZU9NQmt1Q3pPSDFqTzllc0E3MEdPXzVyV3VSQU9mMkV4b1BOcXBNLW5iakNKSTM1Mm5rZXZXbkgtUmFGTG5ZYVIzUFdxeHJZZ2tDSkhSUUEtRWpiT0JPOWZwenFjdFhTeXl3NmVsQS1yVlRXOTdOd2xFQQ?oc=5"
+  },
+  {
     "id": "news-176iok1",
     "t": "2026-09-24T16:52:53",
     "type": "news",
@@ -22,6 +82,18 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaUNNMTRIaFBBUi01b0sta3FzanRwekV2ZXFxbk9XNE53UV9oZWRPNnBQbGtIdFl1WHRKTVRaMGtkcmR2UTEtU3hNMlBxYWlLRmZOV19Rb3lnZGtwbldZRS0wZE9uNlRDaUpHMmswYkREQlBqWHFQOFM1NzVjaDR4czVoeURvMUJwR0YwWV9HSndSUEpnTUxnT1o2el9IZFdMdTIwY0ZPMA?oc=5"
+  },
+  {
+    "id": "news-qkzbgd",
+    "t": "2026-09-24T03:24:00",
+    "type": "news",
+    "auto": true,
+    "title": "Toronto Maple Leafs NHL Line Combinations",
+    "body": "",
+    "src": "Daily Faceoff",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBsVVlqNVpLWG40Tl9Ma3RqWUFEZDN5ZkNJRVA3bEl2MTRsVHYtM2lVZ1hINEJZWmxkaFREUDZ0M0tCVXMyNjZpaExKNldkRmlQM1YwQURlVU1oVVVVNURsUDFOQTlhbk5aVmstVG9pYVd6cTVrRjhOQk9Md2Y0Zw?oc=5"
   },
   {
     "id": "news-cwt4ui",
@@ -130,6 +202,18 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMjRPdXMySFRSdlNVa0trTDJfQXoxSlZ4Z3Y4NUZCUHMySUFLYjN5Q1FwRGFQdWpibFo4RXNuaGxweEZPUml6S3dDM042RU5JMFFYS1BIRnlSbmZjcTdaU2lpNUllUFloZzZkRzFkTTg1alYyN1F5YUdRYzVmdGR6dzZHcU5QbnFpbkFyVFlSdERzanJUUjljR2l4YXBSaDRDMHR4aTU1NTJ4WG9JaEZmcnV2YzdvU3UtcHc?oc=5"
+  },
+  {
+    "id": "news-1ts2phb",
+    "t": "2026-09-23T16:04:00",
+    "type": "news",
+    "auto": true,
+    "title": "NIKISHIN TRADE CHATTER PERSISTS",
+    "body": "",
+    "src": "The Fourth Period",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9hQmRkZkhVMmZ0T3BxaURBZnhFcnBFRmpIMHBkc1NLREV3X0x0TTk5UU9BS2tKZEZ5Yl9sWmdEVXRIZXFNWDNiY1dtcUZYREpyMVJ3OTVjODNqalhQeS1hVFRRYjBYdmFMWmVDeTdtWFN6amdwZkZRZHppdlg?oc=5"
   },
   {
     "id": "news-15gasl5",
@@ -430,54 +514,6 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAyek5WMkRsYXdIRHVNMjhCSUhzeWVaaEl1em45NmZ5WUh1NHBGWVgxc2oxYXZFX25zbHhwZGhPN2ZaUGxuWU1XdktITVV6ajJJZGpORFdIcDNUWWJTbUpOUQ?oc=5"
-  },
-  {
-    "id": "news-1ynzekw",
-    "t": "2026-09-21T18:45:35",
-    "type": "news",
-    "auto": true,
-    "title": "Bruins' Navrin Mutter Placed On Waivers",
-    "body": "",
-    "src": "prohockeyrumors.com",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZGszenNBYk5sQmJFS3JyOTlPd3o4amlwVk5BSnlkYmM1ZlVmRE1iYU16dXNLODB6NVNxanJlQlpNb1Z6am5UV1dQaElQX2NjVkdkZ25PZ3JpOFg3TEZJZTZNUGNLQUplV3R1ZkROTkZGZGR2X3FaTzk0ZWNKME9nRmVSRkdrYUdJLUVj?oc=5"
-  },
-  {
-    "id": "news-8qmnt5",
-    "t": "2026-09-21T18:19:07",
-    "type": "news",
-    "auto": true,
-    "title": "Penguins\u2019 Blake Lizotte Out Week-To-Week",
-    "body": "",
-    "src": "prohockeyrumors.com",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdXBZWmM4NGo3dEkxd1l2RDlOQVlGZUNyQmNtaWQ2UzdLMkNPeG5IM2h5Q1BoNkVELTFpRFhiY2hQQlVRWWNTWFJYZmZWTFlCalplbEh6eURma0w5MWw5VHBvdGg2X1VIVkdLNkZfc3NGWEZGdTN5aXBORGRGZDJxaGNRRVM4QUZYWjdEQQ?oc=5"
-  },
-  {
-    "id": "news-1r0qy3b",
-    "t": "2026-09-21T17:56:20",
-    "type": "news",
-    "auto": true,
-    "title": "Preseason Game 1: Panthers 6, Hurricanes 3",
-    "body": "",
-    "src": "canescountry.com",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOFBVbnBVY1phcDlSd3lRSXpfSllWSmZuUFpJbHJlQ25CTTNWSThYSFhrNGE0LVlTQS1zM2tvbjlvbzNuUzEtTEtMVzc1VXF6eExxWWJYZDloQk1kT2FNT0JyQUJZOVhyUlAwZEZySUZ0M3JxWnpTQkN1RGhUeWR6eUEzY0tKbk9KWHR3VWF3ZVZDUExwU3lpbEpISTFSejV1a0ptUVR5UE1Kd1pLWHpreUZLU1M4QQ?oc=5"
-  },
-  {
-    "id": "news-ra5zsj",
-    "t": "2026-09-21T16:36:20",
-    "type": "signing",
-    "auto": true,
-    "title": "Stars Sign Sam Steel To Four-Year Deal",
-    "body": "",
-    "src": "Pro Hockey Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRkozblQzVlhQR2F4NXlISU5QakV4YzA5V3ViZ01yckdITnVOS3RmTjhteHRFTWo5VDRfanNlVmhPV1RvYXdvSlV6ck5NZkh6Qmp2SVJzNE1BSG42OFRTY2pKVkJ0Um1NUUdlVGFteHkzTkgwYzJLZ1VaeEUzYUZuMDR4VUlvVjl0U0FZ?oc=5"
   },
   {
     "id": "auto-rem-8486043-20260917",
