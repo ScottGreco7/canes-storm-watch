@@ -1,5 +1,17 @@
 [
   {
+    "id": "news-17r9te6",
+    "t": "2026-09-25T22:01:09",
+    "type": "news",
+    "auto": true,
+    "title": "2026-27 NHL team preview: Vegas Golden Knights",
+    "body": "",
+    "src": "Daily Faceoff",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUzVlUV9JQlNnbmpqQXE0N1NGYVNVVGFDRHAxTmt6Z1dTWkRxZ28yQ2hUb2JWTDZHMF8yMHdYNlFHTXRxTUIzUi1YOWRVb0l0eXlCNTJYcFY2dzVBYlFfX3Q0S1NIcEcycVpuWFY2akJpeEN0enMwWFoyaEVLdUFFS3U2YkJMY3VEbDR6MlBRVTYwREtMQzBicUJNZmx3UVVwY3ZBX1NPYkprQnJVREJVcV93MlVGM1Y4VlNRY3hSdTB5c0ZX?oc=5"
+  },
+  {
     "id": "auto-rem-8483496-20260925",
     "t": "2026-09-25T20:28:13",
     "type": "roster",
@@ -72,6 +84,30 @@
     ]
   },
   {
+    "id": "news-9dz7tf",
+    "t": "2026-09-25T20:22:55",
+    "type": "signing",
+    "auto": true,
+    "title": "\u2018CANES SIGN KOCHETKOV TO TWO-YEAR EXTENSION",
+    "body": "",
+    "src": "CANES PR",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2MTJodS0yd3FKM0ZBbHlJcWkzcG1mVlpNakx2TG41TGtwVVAzcWp3bnNzTFlmUFhvZ0FzYmREWGZieExLOV9QTFJNZFFaek45UUljNk5PS3ppTDREVGxQNWswV0pvWjNfaGZpTWpyWnlIb0VrVXV3V252OElvaTA?oc=5"
+  },
+  {
+    "id": "news-1gnkxcc",
+    "t": "2026-09-25T20:22:55",
+    "type": "news",
+    "auto": true,
+    "title": "\u2018CANES TRIM ROSTER TO 28 PLAYERS",
+    "body": "",
+    "src": "CANES PR",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42NUwzYWlhTnJIVEk2am9GYlk5OWUtWXFySmdvV2wtT1UwemJtel9jSWd1dmVHUHdBWk1ndzNWMUZiMXh6dDFjZWQ2OVhSN01udnNKTGlzX3NUbl9XQzdEdUltU3ptRkZ5cGdhR1N0bXQ?oc=5"
+  },
+  {
     "id": "news-u6rdt6",
     "t": "2026-09-25T19:37:45",
     "type": "news",
@@ -82,6 +118,18 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5DZE5fRlBFaVZWN0VqSGI0Z2ZVdFZnWU9OQlg2NUNtUkVZcUNzcExqd1pfWW44NEJqaURGd2hBa1JGSjNsbFZqWElIQU56RVlELThRdGJIU1Q1NVRCUGZjZnBXaU5ISWp3UTRZVm5PWHlZSmlFSEtoVXRVOA?oc=5"
+  },
+  {
+    "id": "news-gz7vl1",
+    "t": "2026-09-25T19:14:37",
+    "type": "news",
+    "auto": true,
+    "title": "Waivers: 9/25/26",
+    "body": "",
+    "src": "Pro Hockey Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZYmhuVWhrOGZoWHZ6TmcwUU5UZTJaTmtzSjFQN01FODcwSkhXUkVCdURHSHpibWc5NVFDWU1ydW5IZzFDc2VYbDE4ME9MZFFzaGdxcndIT1hfMUtTb0RpaHZPT2g4LVdMeXpQVQ?oc=5"
   },
   {
     "id": "news-8jux8e",
@@ -96,6 +144,18 @@
     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMFNJR3JlWnROckRXLU43MkZRT1JYeHJ0VGl0Y0M0T3N6NVBfVk1FQ1V0Y3JBVDFBOG1wUHVKQWE1R1hhamkzYVdkMHpCVHg4czNaU1dZLWhhaVIxeGh0a0VYNVNJYjBWck1nQkR5OGZBR3ZrVjI1eHU1OEQ1Um9Sb2hqdU5RZ2phWHN5b1dRQlM?oc=5"
   },
   {
+    "id": "news-1oocnzc",
+    "t": "2026-09-25T18:32:08",
+    "type": "news",
+    "auto": true,
+    "title": "Canucks Claim Leevi Merilainen From Senators",
+    "body": "",
+    "src": "Pro Hockey Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSWxScnJRdXlVNlJFbE90MGVrYzd3WmlaMlpKMG81eG5jTHhoazItNzVSZUM0MDNfU19pZVVMSDBSYUUwejNnNkFrZS1veGNUYlNLaVA0OExocXAyZnA4NXVRdmZNbl8zeUZDazd5S21pekNGSFhoa2dEMFpNSWVPZ2ZtVEtNa25sbUZ0ajlnUXU2TGc?oc=5"
+  },
+  {
     "id": "news-1g64fte",
     "t": "2026-09-25T18:24:10",
     "type": "news",
@@ -106,6 +166,18 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbFRGeTMtZzM2U0tFTlB5YTIwcTFjZnJ4amNBNUQ4RldxdHJPTlNGTFoxRHpqV0lXOGI4MDc2MlNsU1NHakNvRE1ETWJ1T28teG9lWjRFeHNfLUtjendoell0ajZRdTFCZnNxalpyYjZkWUVWaUNtMERfdHZQdlo0bUpCTkw3dDhhTFQyYzBua3BlSlFuQmZoV2l5Q3FQYk9wX1dCZl9yb2dBOTh2ajhwekoxQk9VUGdZaHhDa3hPbkU?oc=5"
+  },
+  {
+    "id": "news-1lleisv",
+    "t": "2026-09-25T18:24:00",
+    "type": "news",
+    "auto": true,
+    "title": "Sharks Name Macklin Celebrini Captain",
+    "body": "",
+    "src": "Pro Hockey Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYnFJdDBMdEZkclUxQjBTYnRIOGRybHdJZXpybEtCeFZRYmN6bTFmUWUxU3hVTGN0NWtZV053bnRveURkUmN3amkxbGNPckpPVTVPVjVJTFdsR0puRW9BTVd0TkpaWHpYX2N4V2trQnN3WUtwRExqamM5VFVqNDI0eUJKV2dsN3BZM3c?oc=5"
   },
   {
     "id": "news-twmhtl",
@@ -480,6 +552,18 @@
     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMXlHek9ZZ1k2cDFnZ0duWEJmcHBCcVRQbW1oaDRYdnR0Nlp0OWlpWU9tSFFCZW5uaWItOE1GWURSZS1sNnJIcDN6YjZiWVhtU3pDUm1yNzZIT2FfLUFhUW5La3hpMlNCa1EzTkY2RHhJaGFINEZmR3I2X1FWS3AzWDZqSVVwZkdLWmxjOVhaVlRGV0hVeWtUbkphQQ?oc=5"
   },
   {
+    "id": "news-1byzue6",
+    "t": "2026-09-24T16:02:28",
+    "type": "news",
+    "auto": true,
+    "title": "Preseason Game 3, Nashville @ Carolina (Greensboro): Preview and Game Thread",
+    "body": "",
+    "src": "Canes Country",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOSXpESWkzUjZ6Z0FJZHNuMHNwWVNfeFpUaFdVaHpWbGhGVHRJYWcwQl9XanlmN0xRSkZHZ0Vpd0RwekxSNGFQUm9PaTJUaVk3aVJRUXFKM093dkgta0FxT0ZzdEw2QVdYUDhNSmwtMlhZRlFXUjh1cm5IcVd0ci0tNUJZT0VUeGhfZ2ZXajlQVk15RUlYQXNEbzRqbnBEMFRKRHo5SjJvUDZQd1BrLTZOaTd0Xzk0aXI3YVg4Z3AtMGlEZVp5bmtRZVNZNDUtNjdSUXVzUkNZYjdTQVk?oc=5"
+  },
+  {
     "id": "news-2mv1ft",
     "t": "2026-09-24T14:30:00",
     "type": "news",
@@ -502,90 +586,6 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaUNNMTRIaFBBUi01b0sta3FzanRwekV2ZXFxbk9XNE53UV9oZWRPNnBQbGtIdFl1WHRKTVRaMGtkcmR2UTEtU3hNMlBxYWlLRmZOV19Rb3lnZGtwbldZRS0wZE9uNlRDaUpHMmswYkREQlBqWHFQOFM1NzVjaDR4czVoeURvMUJwR0YwWV9HSndSUEpnTUxnT1o2el9IZFdMdTIwY0ZPMA?oc=5"
-  },
-  {
-    "id": "news-1vxqooi",
-    "t": "2026-09-24T09:00:00",
-    "type": "news",
-    "auto": true,
-    "title": "The Carolina Hurricanes have a Bradly Nadeau problem. Here\u2019s how they can fix it",
-    "body": "",
-    "src": "newsobserver.com",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSlZzaWJGY0tnaXB2ZmMwb2xQTTItMFRtMVFxUkNrS0c4MkhwcllfUVRNUGZZT1JFUy1vQzV0VWppeEVSYzFwVmxfczlaVjhyc08ySFBqUk96NTJPaGN2MFJBM2NhU1VpQ3BtVUF4VklNMkljMFpsMEh1eGl2OTZ0VmhVa0NkVVBv0gGIAUFVX3lxTFByS1M2WHhJYXJ5OEt3OWF6NGJXZGlMNC04bnZLbXUzdGNWd2wyNV9UUHVNRVlITm1PRWtwSXIwSWNzTkQweTduLWV2eHNydno2U3ZHNjJIVTR5aUtTdjd6RDMyZ3FmN0g2RWpKNDcwc3hCcnRzZC0xWlJGaFhGUFNqVExpV3pnQk8?oc=5"
-  },
-  {
-    "id": "news-1wea0o0",
-    "t": "2026-09-24T08:37:11",
-    "type": "news",
-    "auto": true,
-    "title": "The Drive with Tim Donnelly LIVE 9/23/2026 | Carolina Panthers | Carolina Hurricanes | ACC",
-    "body": "",
-    "src": "99.9 The Fan",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUElaUmRacEVrazNIbDhXLW9CN2FaUGRWTlQwRHJlVnUwOUVfN2dQWmw4UkJjaS1TbmI3WXdLWXA2bDBwNDR5UXBRYlBmV1lZVmJTRUU3WXFCUWswSTBzbVpwdEZ6OWRtdDRqUF9vN0hEZmV2SWdLZGFfVmJsazExbWxEY215VFNva0NUVXpEREpZcFRURms1V2xJLU51LTRRak4taGUwTm95TDVfaFFlRkxNYjQ?oc=5"
-  },
-  {
-    "id": "news-15gasl5",
-    "t": "2026-09-24T06:32:00",
-    "type": "news",
-    "auto": true,
-    "title": "The 10 best value contracts in the NHL for 2026-27",
-    "body": "",
-    "src": "Daily Faceoff",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOal92WXlQZkVoTW4wcmdKb3cxdlpYOXowSy10cGV5Rk5fX2psa0dkRzRkTlE4TGlWWVVXNENUbXV1bGdraTJ5Z1VWU0lTVEhyZlhMeWk1LTVuZG56RjZ3SUgwaXFFV1NlSW9wWjQ2bmViMDNtbGoyWlF1YU5NelBoTy1OSkdhamNjUlN4RTRKbWZGUGRxdU82MVIzWXFqQWR3Z0xUaWJGTHBKcUpFVjFZVkZqSGh3Zm9YSkViMHk5dGNNOENWS0oyd1hGS1NhWmVrVDR4Q2lqWk42NEE?oc=5"
-  },
-  {
-    "id": "news-qkzbgd",
-    "t": "2026-09-24T03:24:00",
-    "type": "news",
-    "auto": true,
-    "title": "Toronto Maple Leafs NHL Line Combinations",
-    "body": "",
-    "src": "Daily Faceoff",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBsVVlqNVpLWG40Tl9Ma3RqWUFEZDN5ZkNJRVA3bEl2MTRsVHYtM2lVZ1hINEJZWmxkaFREUDZ0M0tCVXMyNjZpaExKNldkRmlQM1YwQURlVU1oVVVVNURsUDFOQTlhbk5aVmstVG9pYVd6cTVrRjhOQk9Md2Y0Zw?oc=5"
-  },
-  {
-    "id": "news-cwt4ui",
-    "t": "2026-09-24T02:38:00",
-    "type": "news",
-    "auto": true,
-    "title": "Are the Devils smart to not invest too much money into goaltending?",
-    "body": "",
-    "src": "Daily Faceoff",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU2d5OEl1Zy16QWVTeFVObk91TGlPRGVjZnZBQ3pSeThtWFRrYUNQN1ltazQtSTZNXzI0T3c2eGo2TnplTVYtN3F4NmdySmExbjI4YXdKZWhaVzlTYWltT1lHeVBSVkQtRUtma3pncnZwYmRuS1UzMUZfcFBtU3JRTXdkdFdmYXVKWTRQR0RRSE5PZFBMWnB2UWFqV3dFS0twTk5UQkRFbWlERE5JNU1nZDU2d0hQdHYxb3dFWS1RekdJZw?oc=5"
-  },
-  {
-    "id": "news-ejl7tq",
-    "t": "2026-09-24T02:36:00",
-    "type": "news",
-    "auto": true,
-    "title": "2026-27 NHL team preview: Utah Mammoth",
-    "body": "",
-    "src": "Daily Faceoff",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMjRPdXMySFRSdlNVa0trTDJfQXoxSlZ4Z3Y4NUZCUHMySUFLYjN5Q1FwRGFQdWpibFo4RXNuaGxweEZPUml6S3dDM042RU5JMFFYS1BIRnlSbmZjcTdaU2lpNUllUFloZzZkRzFkTTg1alYyN1F5YUdRYzVmdGR6dzZHcU5QbnFpbkFyVFlSdERzanJUUjljR2l4YXBSaDRDMHR4aTU1NTJ4WG9JaEZmcnV2YzdvU3UtcHc?oc=5"
-  },
-  {
-    "id": "news-1e9egkx",
-    "t": "2026-09-24T02:00:21",
-    "type": "news",
-    "auto": true,
-    "title": "Snapshots: Anderson, Cleary, Formenton, Sharks",
-    "body": "",
-    "src": "Pro Hockey Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNY045UVA4SFVYdGRwbGJYeFZKaEthVXk4R01MWkJPZTRBU2pQN1pHbmMyRFJlOWtCZWliUlZTa2RrdXh0X2puenBaR3Z5cWVOVm1xUXpmRGlFOVg0UlBrLU9yeTd5TVJCTnJfTS1NcDNIVnFLTUoxU1NiTmVNSUZLWHZxOXU1a3VGRHU3cDlWeWk?oc=5"
   },
   {
     "id": "auto-rem-8486043-20260917",
