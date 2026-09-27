@@ -1,5 +1,77 @@
 [
   {
+    "id": "auto-rem-8480291-20260927",
+    "t": "2026-09-27T15:17:34",
+    "type": "roster",
+    "title": "Skyler Brind'Amour no longer on the Hurricanes roster",
+    "body": "Skyler Brind'Amour has come off Hurricanes' official NHL roster. Auto-detected \u2014 could be a trade, release, or assignment.",
+    "src": "NHL roster feed",
+    "out": "",
+    "players": [
+      "Skyler Brind'Amour"
+    ]
+  },
+  {
+    "id": "auto-rem-8484929-20260927",
+    "t": "2026-09-27T15:17:34",
+    "type": "roster",
+    "title": "Juha Jaaska no longer on the Hurricanes roster",
+    "body": "Juha Jaaska has come off Hurricanes' official NHL roster. Auto-detected \u2014 could be a trade, release, or assignment.",
+    "src": "NHL roster feed",
+    "out": "",
+    "players": [
+      "Juha Jaaska"
+    ]
+  },
+  {
+    "id": "auto-rem-8482785-20260927",
+    "t": "2026-09-27T15:17:34",
+    "type": "roster",
+    "title": "Justin Robidas no longer on the Hurricanes roster",
+    "body": "Justin Robidas has come off Hurricanes' official NHL roster. Auto-detected \u2014 could be a trade, release, or assignment.",
+    "src": "NHL roster feed",
+    "out": "",
+    "players": [
+      "Justin Robidas"
+    ]
+  },
+  {
+    "id": "auto-rem-8484998-20260927",
+    "t": "2026-09-27T15:17:34",
+    "type": "roster",
+    "title": "Noel Frans\u00e9n no longer on the Hurricanes roster",
+    "body": "Noel Frans\u00e9n has come off Hurricanes' official NHL roster. Auto-detected \u2014 could be a trade, release, or assignment.",
+    "src": "NHL roster feed",
+    "out": "",
+    "players": [
+      "Noel Frans\u00e9n"
+    ]
+  },
+  {
+    "id": "auto-rem-8482860-20260927",
+    "t": "2026-09-27T15:17:34",
+    "type": "roster",
+    "title": "Aleksi Heimosalmi no longer on the Hurricanes roster",
+    "body": "Aleksi Heimosalmi has come off Hurricanes' official NHL roster. Auto-detected \u2014 could be a trade, release, or assignment.",
+    "src": "NHL roster feed",
+    "out": "",
+    "players": [
+      "Aleksi Heimosalmi"
+    ]
+  },
+  {
+    "id": "auto-rem-8480058-20260927",
+    "t": "2026-09-27T15:17:34",
+    "type": "roster",
+    "title": "Pierre-Olivier Joseph no longer on the Hurricanes roster",
+    "body": "Pierre-Olivier Joseph has come off Hurricanes' official NHL roster. Auto-detected \u2014 could be a trade, release, or assignment.",
+    "src": "NHL roster feed",
+    "out": "",
+    "players": [
+      "Pierre-Olivier Joseph"
+    ]
+  },
+  {
     "id": "news-bikw5n",
     "t": "2026-09-27T04:22:52",
     "type": "news",
@@ -142,6 +214,18 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBzcXYyMkpIbGlMc3hLT3RMWUpwN01RWVM5akpmcjZySEwwRk1uRUZiN0tEb2N1SXRjMlRUM0h6bVllWkEtRTM3RTZTOFpPczg?oc=5"
+  },
+  {
+    "id": "news-13ae4ap",
+    "t": "2026-09-26T02:43:00",
+    "type": "news",
+    "auto": true,
+    "title": "Matt Larkin\u2019s fantasy hockey top 300 player rankings for 2026-27",
+    "body": "",
+    "src": "dailyfaceoff.com",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcWZsbC0yZ093S3RGZlNENVd6czZMQjIydmJzUW81ZDJ4T3JmSkVfRUVoU19EeWdZbW90MXZlRTlydE1vaFRRVUhQVmlRVHR5WHRPMFNKUXBHZEs2bWc4MGpzdHB5a3RKTDlYZmdXZUM1X0FDZ2JURmZsbEJGNjBzU1RlNHN1SG5jYVc3V3FpUnhkb3ptNy1vZW16aUtkbGUzQkFYLW4ySnF1N1ZhTlNGSi1R?oc=5"
   },
   {
     "id": "news-1mndbbb",
@@ -538,18 +622,6 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQ1dnclN1dlA3bERTdGFvbDlGd2R1d3NkdDZQTXctWFg2dHNVRkdZX3IxZFdvMTJYY2JGOXZTTk4zcC1TWWQyYXczbXBLVGJOcWt6b2JsU2UzSWRYZmUwSHJKSGZuQlRPYmZzeGZTWWRaWG5WOTRpM000U1NmcUp4TWIyTFVXV1QycFByYWFGY2k2TU0?oc=5"
-  },
-  {
-    "id": "news-swv4gr",
-    "t": "2026-09-25T15:56:45",
-    "type": "signing",
-    "auto": true,
-    "title": "Hurricanes Sign Pyotr Kochetkov To Two-Year Extension",
-    "body": "",
-    "src": "Pro Hockey Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbmNIZG80c3NOTDloTHc1T2g1T3c4R2t5aC1aNW5EWTZUZ05kVGY3YUlvWnl0Y0VqRlk1dlh6c1JqLUtUZzVSZi1oaTVST1FNdXpTbU95X1VJU2Q3WGUySXlXY3BJZldaN2JvR1FFbkw2TXFLUHFWSDY0Z1FJTEQzSmtXV2xCRF9WNlhFR3l2Y2dOZDhVMEZ4dndSd1ZYVWM?oc=5"
   },
   {
     "id": "auto-rem-8485368-20260924",
