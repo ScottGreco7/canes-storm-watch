@@ -1,5 +1,65 @@
 [
   {
+    "id": "auto-rem-8482093-20260927",
+    "t": "2026-09-27T19:07:10",
+    "type": "roster",
+    "title": "Seth Jarvis no longer on the Hurricanes roster",
+    "body": "Seth Jarvis has come off Hurricanes' official NHL roster. Auto-detected \u2014 could be a trade, release, or assignment.",
+    "src": "NHL roster feed",
+    "out": "",
+    "players": [
+      "Seth Jarvis"
+    ]
+  },
+  {
+    "id": "auto-rem-8484203-20260927",
+    "t": "2026-09-27T19:07:10",
+    "type": "roster",
+    "title": "Bradly Nadeau no longer on the Hurricanes roster",
+    "body": "Bradly Nadeau has come off Hurricanes' official NHL roster. Auto-detected \u2014 could be a trade, release, or assignment.",
+    "src": "NHL roster feed",
+    "out": "",
+    "players": [
+      "Bradly Nadeau"
+    ]
+  },
+  {
+    "id": "auto-rem-8484392-20260927",
+    "t": "2026-09-27T19:07:10",
+    "type": "roster",
+    "title": "Felix Unger Sorum no longer on the Hurricanes roster",
+    "body": "Felix Unger Sorum has come off Hurricanes' official NHL roster. Auto-detected \u2014 could be a trade, release, or assignment.",
+    "src": "NHL roster feed",
+    "out": "",
+    "players": [
+      "Felix Unger Sorum"
+    ]
+  },
+  {
+    "id": "news-u6sns8",
+    "t": "2026-09-27T18:56:15",
+    "type": "news",
+    "auto": true,
+    "title": "Training Camp Cuts: 9/27/26",
+    "body": "",
+    "src": "Pro Hockey Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA2dTdScnV5MThINXRnSXhmQTlDeVpVblVSRUQ1emtXVUszX0JrSF8wak9JeGVUX2hOdTZNSU1MMVQ4NGpvUUxPM2p5cHRWeFNET01PQnBZYjFwSjkteHA2M2NwRGV6UHJ0SzFmUU1Cb2c5S3ZaeTRQRkJNVQ?oc=5"
+  },
+  {
+    "id": "news-1jk47hc",
+    "t": "2026-09-27T15:45:30",
+    "type": "news",
+    "auto": true,
+    "title": "Hurricanes 6, Predators 0",
+    "body": "",
+    "src": "Canes Country",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdXlsaWhxWmFudU94Nnczamw2Nm83UzhRSTFCTTdqcGdRazllamJDY0JFYThuRHFMZnctelpuVEEzMGVKSy1rSDREeU0tX0M3Q2ZoMmFNekRfcXFqeG9xQjVWOUFhdnJyeTMzT2RCdXdvRHo3cUMwY21TVHZaSUVteFJsSGJMZGlPNmhiUWtoQTRSbDZRNnBhQ2R1alFqTkVN?oc=5"
+  },
+  {
     "id": "auto-rem-8480291-20260927",
     "t": "2026-09-27T15:17:34",
     "type": "roster",
@@ -286,6 +346,18 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWHUxS09rdHdoRzl4TndOTVJ3TWFRNEkxRkRRNWVKZ2pJRWtjVVZkVV9UbTZsLXZCWDBIcDBlWDdzTjVUWEZVN2FFWG9rbUpMSjQ2ZllBTC13TmNBcExSMnFUZGo0ZFNUOE50WjVqUlNpZ2RFWmF6U1NsZjcwUk5BSkExS2Nwa3pRc1hZZjB0OVJPUQ?oc=5"
+  },
+  {
+    "id": "news-qyevhl",
+    "t": "2026-09-26T00:11:58",
+    "type": "news",
+    "auto": true,
+    "title": "And that is a preseason wrap",
+    "body": "",
+    "src": "99.9 The Fan",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5rTWE0b1RPYklsdHV6RmV4QnQwZVAtaW5fSm5aRjdWa29vTWZSQmlVOVpydzlXNUFzdW9Mb0tiQ3h0eVA5aDJZMXJqQmlPbFU?oc=5"
   },
   {
     "id": "news-uqheir",
@@ -586,42 +658,6 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUzNkUGl6WlZuc3o3TGdkeUxsVmJmbXQycDQ5YTlKRDdyU2lrMnVDN1djaU82YTJOeWk1dVE3UThEUC1ENVFxQnZpRWY0U1JfYnZ5Nml6ZU9XVEZ6VWtvWWJYcFhZZllpbHVjN19jM3JVWmJTb090a1B2OVVyc2ZRZlowWnNMQWk0U2p3ZG5lOFlUeFoxUVUxNzJxWQ?oc=5"
-  },
-  {
-    "id": "news-tkfdj7",
-    "t": "2026-09-25T16:46:00",
-    "type": "news",
-    "auto": true,
-    "title": "Hurricanes, Pyotr Kochetkov agree to two-year, $7.9M extension",
-    "body": "",
-    "src": "Sportsnet.ca",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNc1d5aVJoUnBucUV4c1R4bXdsbkFQYkFlbG8yZURiQ1ZsVjdIOTNGbXdZRm1laEpVay13RHRaMngxR1RjLUZ5YVFGa1RTLWlJdWxWaHhPQVNDOW0yZmpncExXVGVxUkZfVlpQZHpCTEhqNk5OdzRBSHZfM3lOdFFFRGFDT0s4WmJKNWZQZ1J5Nkp5VEMyM3pGQ3VmYTluUQ?oc=5"
-  },
-  {
-    "id": "news-1ca08i1",
-    "t": "2026-09-25T16:45:00",
-    "type": "signing",
-    "auto": true,
-    "title": "Carolina Hurricanes sign goalie Pyotr Kochetkov to two-year extension",
-    "body": "",
-    "src": "CKPG Today",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNDl0ektlT1VlNVJPdWFIa1kyeHo3ZmtFekh0a1Bnd3BmMjJBb3pLSnBWUHNqNkdRTThkd09VZnR4NWtVaUctWTVfYUYxbVRSV1FHT243VTRqOEJFTmtQdVBfcXVKQ2tQZlFpWC00NmR2bnFZMHBpQld0cTl1UFdBUG8xbWNieWxWYVlrTjN2TzI0LXBkX0N0dmIwRjcwblo2R3dPNw?oc=5"
-  },
-  {
-    "id": "news-c199fs",
-    "t": "2026-09-25T16:09:34",
-    "type": "signing",
-    "auto": true,
-    "title": "Kochetkov signs 2-year, $7.9 million contract with Hurricanes",
-    "body": "",
-    "src": "nhl.com",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQ1dnclN1dlA3bERTdGFvbDlGd2R1d3NkdDZQTXctWFg2dHNVRkdZX3IxZFdvMTJYY2JGOXZTTk4zcC1TWWQyYXczbXBLVGJOcWt6b2JsU2UzSWRYZmUwSHJKSGZuQlRPYmZzeGZTWWRaWG5WOTRpM000U1NmcUp4TWIyTFVXV1QycFByYWFGY2k2TU0?oc=5"
   },
   {
     "id": "auto-rem-8485368-20260924",
