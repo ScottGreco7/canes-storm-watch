@@ -1,5 +1,101 @@
 [
   {
+    "id": "news-1p6l1ly",
+    "t": "2026-09-28T18:03:07",
+    "type": "news",
+    "auto": true,
+    "title": "NHL power rankings: Hurricanes, Avalanche, Lightning top starting list of Stanley Cup favorites",
+    "body": "",
+    "src": "Daily Faceoff",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVDlrOHFqWG9GXzE0eHBKSkxod21vMFpONmQ4ZWNNYi1MTW80aU5LVnRfYmU1WUFtVVdscElCY2JLVDNkRldwOFE4UktPUFhYZzlMb0FpZFZYdm1oNXFqSWZMWGJIaHR6WEJfYTBZSm1pQXVDYzV0bjh3TGVZOFlUNkJCZnVMa2xtZ2g0UW5GUVJ4U1dFOGFMMnVLZkVtQ2lzRks3dVVHNVdva255S1FKaG9xc1lkaXU4MUVyMllPZFJKUWJkeVBSdEFfZzNOd2M?oc=5"
+  },
+  {
+    "id": "news-1cqqtrz",
+    "t": "2026-09-28T16:54:46",
+    "type": "news",
+    "auto": true,
+    "title": "Hurricanes Name Asking Price for Alexander Nikishin Trade",
+    "body": "",
+    "src": "heavy.com",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPT2tDWkx6NS1rNjhnWDR6V0RDNzdrUzM0WTRXbkMxTDkxeXpSNzN5RDBQcjJNMWRLWndheWctMEVZQ1BZbW1NWURtU3FZNkJSZG1lQW5VMVVvWUFodDVtQXB3bmRuakhUaFFkaTAxcGdIc1VGNld2M0xiZll2Nk9hNU16clpQS0tYTTFLX09oYXM5RkdYZ3dXX2ZiYWlZc2JfNk1N?oc=5"
+  },
+  {
+    "id": "news-klqeu9",
+    "t": "2026-09-28T16:30:00",
+    "type": "news",
+    "auto": true,
+    "title": "NHL predictions 2026-27: Playoff teams, division winners and Stanley Cup",
+    "body": "",
+    "src": "Daily Faceoff",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNakMxYTNPVUdVS29tS3d3eFV5U1piQm5jYkItalpwQ1BtMU5LbUxsVWRyM24tSWVqR3ZybnpqbWxEX2FIYjAyZTJvR0REamJuLUUzV0dPZk12YWRjSTVMYmU3YlM5bXA5M1VUQ24xMEo3X05CekFycW9JWGwtcGJvSWl3Z0U0SkNPUm5ZYkhNRVR5MjV0YUFUSkY1M2dXY0JXOFl0enlDMGdSRmc?oc=5"
+  },
+  {
+    "id": "news-1u9mr7p",
+    "t": "2026-09-28T16:13:43",
+    "type": "news",
+    "auto": true,
+    "title": "Carolina Hurricanes\u2019 Trade Proposal Lands $47 Million Norris Trophy Recipient",
+    "body": "",
+    "src": "heavy.com",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQV25fbFJaVm1mMHFucEI1Z3ZHdE1KeXRoVWJ6WTVVeWlORFU0aHR0azZBVC1WejBMd240TmhhN3laOU5RUDZSaDZKTU1EVm5EVm9fQXg1d25TX3lUcmFIdU15RmhuZC0wVWJlY2tGU0gtZFZ5YVdpbjl0ZlVIV0I3aVBnRXQ3ZVlRSHhOUEkxVWUtTDh5TzZkYV9R?oc=5"
+  },
+  {
+    "id": "news-1eq8x04",
+    "t": "2026-09-28T16:01:00",
+    "type": "news",
+    "auto": true,
+    "title": "Is Alexander Nikishin\u2019s contract ask too much?",
+    "body": "",
+    "src": "Daily Faceoff",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOY0k2N0dmbGV1NDJwc1V1UnhHYVAyMVVNdUZCMXFRajJ5NC04VEk0X1VBUDg0WHhzNnpWRWFsWDlpVkU2aG1hZnpJX0psRXNNcTBPYjN1SkRXcWZmc0VmOWZMVjE4R0pxbUJ5VmdIejZEWERRV3dMeTlhMnM1aDZmNHZnT1h2TzN6dVdxQ09sWXVzbWVVZndjOXoweWQ?oc=5"
+  },
+  {
+    "id": "news-qkzbgd",
+    "t": "2026-09-28T15:38:00",
+    "type": "news",
+    "auto": true,
+    "title": "Toronto Maple Leafs NHL Line Combinations",
+    "body": "",
+    "src": "Daily Faceoff",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBsVVlqNVpLWG40Tl9Ma3RqWUFEZDN5ZkNJRVA3bEl2MTRsVHYtM2lVZ1hINEJZWmxkaFREUDZ0M0tCVXMyNjZpaExKNldkRmlQM1YwQURlVU1oVVVVNURsUDFOQTlhbk5aVmstVG9pYVd6cTVrRjhOQk9Md2Y0Zw?oc=5"
+  },
+  {
+    "id": "news-8aj31",
+    "t": "2026-09-28T13:50:00",
+    "type": "news",
+    "auto": true,
+    "title": "Los Angeles Kings NHL Line Combinations",
+    "body": "",
+    "src": "Daily Faceoff",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9fRm1rMnhwLWY1VUxSZG9FS0hhVVl3QktPVXBSWFRXcnl2V1VSZERYRHA2V3d6MGs0SkNWLWFhLWltUjh6eEowVDYtdHFnYTRoa1JoRDU5Qm5TY2c2WXF4Ylp0WC0ybFNjaGstdVJiLTlzRnpLTjdZc1I5MA?oc=5"
+  },
+  {
+    "id": "news-1hgg5ef",
+    "t": "2026-09-28T13:08:26",
+    "type": "news",
+    "auto": true,
+    "title": "Update on Alexander Nikishin",
+    "body": "",
+    "src": "prohockeyrumors.com",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5lekRpcFotejVIX3IwN1poN0psNTlUOTk5X3h6NExLaWtkb1VnODRGMi12Nno1UnRRNmV4X283SFVVNkt3bGZkRFZJUENxS1U5dlh6S1lwWW1fMjVfZFVkYUpEZjE4dzhpQlp1SldPaWdhZXl5cTJLdkVzN3VJQQ?oc=5"
+  },
+  {
     "id": "news-1y6hn7p",
     "t": "2026-09-28T11:55:00",
     "type": "news",
@@ -24,6 +120,18 @@
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcHl1OXVENHViYzUzb2NPWmJ0UzNQWkl2a2pUa1ZTNkpDd1RsbmtEd0FiR2RzcUlURkp3NVZYb2FNMTNrV2VYNmRBNkZUbEp3RFFJNkdTNUM5Z0ZSMzNzQWlhY3VUbGNaVWN0ejNweGFwWExYNXJhdldZRm1NVERveVRCWlNUX1ZyY0hnN2tKTEpZMGwwNXhNNzl1YTdRTUtqMVJPamw0WlRGYS02ZGZ0V0pB?oc=5"
   },
   {
+    "id": "news-1pnldhd",
+    "t": "2026-09-28T06:53:00",
+    "type": "news",
+    "auto": true,
+    "title": "Are Hurricanes talking three-way trade involving Nikishin and Hellebuyck?",
+    "body": "",
+    "src": "sportsnet.ca",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeG1VNnpqcDVrQUttbkJQTG9nN0l1c3NPdmhFdm5kd3B2NHgwRlROQ054RXRqV0NmRGxiOTVoaXNYWE10V2xRU0pvZHZPWGFZU1ZXUUJpMzVBVzctckxxcDhjREdBcHNXQmZ4QldzSnEtOE1ZT1V0SDE3c09MLVF2R0Z1bW9CekU1aGlEdmZfd3B5T3R6SThvNU1wQVFSM3BMSTNCNDFuTF8zbENu?oc=5"
+  },
+  {
     "id": "news-1gu2nxa",
     "t": "2026-09-28T01:52:00",
     "type": "news",
@@ -34,6 +142,30 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbFc4d3FkeXVNcUV0Ty1WQlVDdVFRMlBhTkZ5U3lHNW1nX0dzTVlIdGxSZW9BaFBCNklDVEs5elQ2VXVJZ2RZZEQtajdWc1hsTkNseDY4N0NocGZmZ21fMnhoTVdEVmJyOEx6WHIwNjlLbFV2VjlaNFRRbEd0RVNEZ0s0S2NGXzgx?oc=5"
+  },
+  {
+    "id": "news-gz95k3",
+    "t": "2026-09-27T21:40:46",
+    "type": "news",
+    "auto": true,
+    "title": "Waivers: 9/27/26",
+    "body": "",
+    "src": "prohockeyrumors.com",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZcFowQ2hFS3Vkb0thLUU3cWx5aURlaklSeUNlX0hJU3lZa2JDMFZDa0VCcHdrSmxleFBZZ1dfd2syZG1NaVBDT0I2RDVLN0wwamxnUmNnWXNLakpZU2RUdG9EOE1QY1JTN29SYw?oc=5"
+  },
+  {
+    "id": "news-lfj6et",
+    "t": "2026-09-27T19:54:52",
+    "type": "news",
+    "auto": true,
+    "title": "\u2018CANES TO ASSIGN THREE PLAYERS TO CHICAGO WOLVES",
+    "body": "",
+    "src": "canespr.com",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQd3NBRWZkSkVkNDJFQUg5T1NmZVhGQUREZXFRclZ0dFRJWm1aaWRlWnNveENCNXRSNWYxcmNWd3BlLS1hLWRWNnV1SGc0b2EyUmNxQU5wZk5XWDJQdDUwNzFDSFZIYm5xUmZkeEVoMnRRbHVGaEZUbERNbE5XTUJUOXZlbFZrUQ?oc=5"
   },
   {
     "id": "news-tin21m",
@@ -456,126 +588,6 @@
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOFhWVF9ILVJVcHAycWlYa3lybm5oazJzRVhZbUk3d0dWcHZ6VXo2LThpdGNmMDVxM2Q4aVl6NHNrMEVBd3RwVElyZjRrWlh3WUpXdlNIR0JhQU56Q1g1b3RaRnBhVWtsOTNmQlJGM3MyQjdtdGt1bkZzZFVTdnI4ZHVaanlaN0Njd21hcHdySnJLZmh2cG5SYWxLc1lRLWF1a0EtTG5OMkhCQ3lxbU5tR2hhaw?oc=5"
   },
   {
-    "id": "news-jioyvz",
-    "t": "2026-09-26T01:13:28",
-    "type": "news",
-    "auto": true,
-    "title": "The Adam Gold Show LIVE 9/25/2026 | Carolina Panthers | Carolina Hurricanes | ACC",
-    "body": "",
-    "src": "99.9 The Fan",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5mTzYtekhYWEVINGpvdjVBdGJBYzIxVG5oNXc2b3RYYi1zS2tWdWJVR1Zxa3NPWFk1YUQ0MWp2WEs0b2tubnJfWUcwV2VXakk?oc=5"
-  },
-  {
-    "id": "news-12qk2j1",
-    "t": "2026-09-26T00:23:00",
-    "type": "news",
-    "auto": true,
-    "title": "New Jersey Devils NHL Line Combinations",
-    "body": "",
-    "src": "Daily Faceoff",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5lTnMxOGdCRVlldFJraVpyVTlBdWJIXzFOeUlVcTZkY3RjdkMtWHo4azFldGxNQk5xdzNnNkVhUC1QQjR2VE5nd0VhWFNGd3ZBV2k1M3Fzek5TNHZwa0R6bk9TRkxQRmMyWEZrcGhBS1VpUk9acldaUHdVQQ?oc=5"
-  },
-  {
-    "id": "news-zxxp5q",
-    "t": "2026-09-26T00:22:56",
-    "type": "trade",
-    "auto": true,
-    "title": "Lightning Trade Jonas Johansson To Senators",
-    "body": "",
-    "src": "Pro Hockey Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWHUxS09rdHdoRzl4TndOTVJ3TWFRNEkxRkRRNWVKZ2pJRWtjVVZkVV9UbTZsLXZCWDBIcDBlWDdzTjVUWEZVN2FFWG9rbUpMSjQ2ZllBTC13TmNBcExSMnFUZGo0ZFNUOE50WjVqUlNpZ2RFWmF6U1NsZjcwUk5BSkExS2Nwa3pRc1hZZjB0OVJPUQ?oc=5"
-  },
-  {
-    "id": "news-qyevhl",
-    "t": "2026-09-26T00:11:58",
-    "type": "news",
-    "auto": true,
-    "title": "And that is a preseason wrap",
-    "body": "",
-    "src": "99.9 The Fan",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5rTWE0b1RPYklsdHV6RmV4QnQwZVAtaW5fSm5aRjdWa29vTWZSQmlVOVpydzlXNUFzdW9Mb0tiQ3h0eVA5aDJZMXJqQmlPbFU?oc=5"
-  },
-  {
-    "id": "news-uqheir",
-    "t": "2026-09-25T23:34:00",
-    "type": "news",
-    "auto": true,
-    "title": "Pittsburgh Penguins NHL Line Combinations",
-    "body": "",
-    "src": "dailyfaceoff.com",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA3RERXZU9NQmt1Q3pPSDFqTzllc0E3MEdPXzVyV3VSQU9mMkV4b1BOcXBNLW5iakNKSTM1Mm5rZXZXbkgtUmFGTG5ZYVIzUFdxeHJZZ2tDSkhSUUEtRWpiT0JPOWZwenFjdFhTeXl3NmVsQS1yVlRXOTdOd2xFQQ?oc=5"
-  },
-  {
-    "id": "news-1xuz9zk",
-    "t": "2026-09-25T23:27:47",
-    "type": "news",
-    "auto": true,
-    "title": "Shaking Things Up: Alexander Nikishin Makes Agent Change Amidst Contract Battle with Hurricanes",
-    "body": "",
-    "src": "sports.yahoo.com",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdTFsb25FR2JJbS1oRjlQUVBJVER0XzRRYkdKZTR6UkFqNmZPd2FYV3JDcEY2NVZhVmh5TTE1RVdVMm1HVmxNdkNOcXBlWEpjZ2xoQ2NxbGxONF8wQ0psUGZoRHkyb2FaLV8xdnQ1cXdKZWFraWgzSUtrUTFyVnFTUi1DalEwTVQwWUYtSjhYOFFkQQ?oc=5"
-  },
-  {
-    "id": "news-969acl",
-    "t": "2026-09-25T23:24:00",
-    "type": "news",
-    "auto": true,
-    "title": "Vancouver Canucks NHL Line Combinations",
-    "body": "",
-    "src": "dailyfaceoff.com",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ON2dXcERoOS1QZDN2Z2txcC1XOTZaQ3RxeWY0S3lvWWZwTTBtLUVvRG9iVjZ5V20tNkRqSnkzZkRYbldmdnNEcENaaFhId0hlOHFzZk45ZnhlOE4zQUVzOFp2bFZOenhHZGpMQnNoVzNySnBDXzNkWVdVOA?oc=5"
-  },
-  {
-    "id": "news-4bp3au",
-    "t": "2026-09-25T23:23:02",
-    "type": "news",
-    "auto": true,
-    "title": "Canucks Place Filip Chytil On Injured Reserve",
-    "body": "",
-    "src": "Pro Hockey Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNS2c3X2F6TTJMRjRVTDktbXNCXzRLYVpZckRRel9DQlNGYWt2OXJ3TzRZeE1Kc3lHOG1HUmlvT1E1X1E5WlFKb3FUSVZnd3ZyZ2JVTjR2TzhvdmI4Q2k0NUZNZE5DX2t2MGxtU1BBaXhDODJkSWgwQnNHVWx1MVJWTUJCb2xVQVpkYldTV2NLdW0xSFZY?oc=5"
-  },
-  {
-    "id": "news-17r9te6",
-    "t": "2026-09-25T22:01:09",
-    "type": "news",
-    "auto": true,
-    "title": "2026-27 NHL team preview: Vegas Golden Knights",
-    "body": "",
-    "src": "Daily Faceoff",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUzVlUV9JQlNnbmpqQXE0N1NGYVNVVGFDRHAxTmt6Z1dTWkRxZ28yQ2hUb2JWTDZHMF8yMHdYNlFHTXRxTUIzUi1YOWRVb0l0eXlCNTJYcFY2dzVBYlFfX3Q0S1NIcEcycVpuWFY2akJpeEN0enMwWFoyaEVLdUFFS3U2YkJMY3VEbDR6MlBRVTYwREtMQzBicUJNZmx3UVVwY3ZBX1NPYkprQnJVREJVcV93MlVGM1Y4VlNRY3hSdTB5c0ZX?oc=5"
-  },
-  {
-    "id": "news-df1bve",
-    "t": "2026-09-25T21:23:00",
-    "type": "news",
-    "auto": true,
-    "title": "Blue Jackets Place Dante Fabbro On IR",
-    "body": "",
-    "src": "Pro Hockey Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQczdqZjdOSzlGeU1vY21kOFdWeEV3QnlWaW1hck5nRW9zak51bWI4NThiQ2d5V1gzQUxJQTNRWHRKRjdOeEZNbjJ2RDdDV1FCU3drMkhuWDJ1NnhtRHRodjNVV0VhbVJDUTRZNVF0YjY0Z1BWM3pfNEFzQ3k0QnpJN3JaU0prdEc5Unc?oc=5"
-  },
-  {
     "id": "auto-rem-8483496-20260925",
     "t": "2026-09-25T20:28:13",
     "type": "roster",
@@ -646,18 +658,6 @@
     "players": [
       "Zach Sawchenko"
     ]
-  },
-  {
-    "id": "news-9dz7tf",
-    "t": "2026-09-25T20:22:55",
-    "type": "signing",
-    "auto": true,
-    "title": "\u2018CANES SIGN KOCHETKOV TO TWO-YEAR EXTENSION",
-    "body": "",
-    "src": "CANES PR",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2MTJodS0yd3FKM0ZBbHlJcWkzcG1mVlpNakx2TG41TGtwVVAzcWp3bnNzTFlmUFhvZ0FzYmREWGZieExLOV9QTFJNZFFaek45UUljNk5PS3ppTDREVGxQNWswV0pvWjNfaGZpTWpyWnlIb0VrVXV3V252OElvaTA?oc=5"
   },
   {
     "id": "auto-rem-8485368-20260924",
