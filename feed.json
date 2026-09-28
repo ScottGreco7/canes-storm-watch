@@ -1,5 +1,17 @@
 [
   {
+    "id": "news-tin21m",
+    "t": "2026-09-27T19:11:25",
+    "type": "news",
+    "auto": true,
+    "title": "Hurricanes Designate Seth Jarvis To Injured Non-Roster List",
+    "body": "",
+    "src": "Pro Hockey Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOV0NoUy03YkktdXZ2OEQxeERSb1lzMHZpaVJpSVA3ZVA0RXJxSmxiUlVGNFVxS1Ywd3NEcHlLN0VaZy1EcElkNHJOQkxUY193TWlwYUJVZHg2dWRyRVpYbGJoRzB2N0w5MWVYZmhkZm5lT2VBTzhGVjlaQTBkdi1WM0VoTlNPSEtBMkt3cy0xOUZDWWxMZFRGS1lFRVdSNTQ1?oc=5"
+  },
+  {
     "id": "auto-rem-8482093-20260927",
     "t": "2026-09-27T19:07:10",
     "type": "roster",
@@ -46,6 +58,30 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA2dTdScnV5MThINXRnSXhmQTlDeVpVblVSRUQ1emtXVUszX0JrSF8wak9JeGVUX2hOdTZNSU1MMVQ4NGpvUUxPM2p5cHRWeFNET01PQnBZYjFwSjkteHA2M2NwRGV6UHJ0SzFmUU1Cb2c5S3ZaeTRQRkJNVQ?oc=5"
+  },
+  {
+    "id": "news-3qfc6",
+    "t": "2026-09-27T18:40:45",
+    "type": "news",
+    "auto": true,
+    "title": "Blues Claim Justin Barron Off Waivers From Predators",
+    "body": "",
+    "src": "Pro Hockey Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNlZrTExhem9TczhSNGI5OGNtZlU2QmlBdElHODRRWlBNS3V6WUJBSXVKSUpLTWNtQWFQdkF4d0ZDaGJRTXk4TG1jODVYaW9fSURaLXNoMjIxb28xbE9IU3JsY1Q1UGhIN0tVWVZhTDZpZkVtMzhoOVRHZ2xqVTFFN3hqcm5VZzRNb0RpWGlZeC15ZVJKZWpfQUNQbnNEZw?oc=5"
+  },
+  {
+    "id": "news-1qfhxjp",
+    "t": "2026-09-27T18:29:09",
+    "type": "news",
+    "auto": true,
+    "title": "71 players placed on NHL waivers for Sept. 27",
+    "body": "",
+    "src": "Daily Faceoff",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRHJFZDZpd3FvWVNNWUJUZ1BoZ090bnNZWDJWcmpvUWt4UkZWVUxRYnd6YUxUQWdZZUJyaU5pLTdvWElkR1hXVGMxMFY0Smt0aGRYaGNfNURJVHBQNDRhQVNaWnJVX3lEQWx0MHRMeGhOcUFyaGxodDN3LTFOQ3ZxMUtNZTJCSjAyc1VUSlZoUkZRMmFCeDlvRDR1NW9jX3c0S2dCSWd1a3B4dktMUkVPOTYxWEtrZnl4OTJ6Wk5iUThkUVpXbnlN?oc=5"
   },
   {
     "id": "news-us8gvq",
@@ -226,6 +262,18 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWkdtdGo3NEFLOGdlRk8wajNhb1FaM3hNQWs4aHd6OEVMd0F4WjZwRGFSaF94SDFUNUlXV0FiUnA2a1FSQTB2VC1lWUgyUDB1b1I3OFZnTTVOSUMtUHlteWoyZkdsbUxGVlRGS3hfQTlVTFdueEFfUXdEQUFVWERRRl9UQ2w?oc=5"
+  },
+  {
+    "id": "news-c199fs",
+    "t": "2026-09-26T17:34:59",
+    "type": "signing",
+    "auto": true,
+    "title": "Kochetkov signs 2-year, $7.9 million contract with Hurricanes",
+    "body": "",
+    "src": "NHL.com",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQ1dnclN1dlA3bERTdGFvbDlGd2R1d3NkdDZQTXctWFg2dHNVRkdZX3IxZFdvMTJYY2JGOXZTTk4zcC1TWWQyYXczbXBLVGJOcWt6b2JsU2UzSWRYZmUwSHJKSGZuQlRPYmZzeGZTWWRaWG5WOTRpM000U1NmcUp4TWIyTFVXV1QycFByYWFGY2k2TU0?oc=5"
   },
   {
     "id": "news-16hxn6b",
@@ -610,54 +658,6 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZYmhuVWhrOGZoWHZ6TmcwUU5UZTJaTmtzSjFQN01FODcwSkhXUkVCdURHSHpibWc5NVFDWU1ydW5IZzFDc2VYbDE4ME9MZFFzaGdxcndIT1hfMUtTb0RpaHZPT2g4LVdMeXpQVQ?oc=5"
-  },
-  {
-    "id": "news-8jux8e",
-    "t": "2026-09-25T19:08:39",
-    "type": "news",
-    "auto": true,
-    "title": "NHL waiver tracker: Best players on the wire throughout 2026-27 preseason - The Athletic",
-    "body": "",
-    "src": "The New York Times",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMFNJR3JlWnROckRXLU43MkZRT1JYeHJ0VGl0Y0M0T3N6NVBfVk1FQ1V0Y3JBVDFBOG1wUHVKQWE1R1hhamkzYVdkMHpCVHg4czNaU1dZLWhhaVIxeGh0a0VYNVNJYjBWck1nQkR5OGZBR3ZrVjI1eHU1OEQ1Um9Sb2hqdU5RZ2phWHN5b1dRQlM?oc=5"
-  },
-  {
-    "id": "news-1oocnzc",
-    "t": "2026-09-25T18:32:08",
-    "type": "news",
-    "auto": true,
-    "title": "Canucks Claim Leevi Merilainen From Senators",
-    "body": "",
-    "src": "Pro Hockey Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSWxScnJRdXlVNlJFbE90MGVrYzd3WmlaMlpKMG81eG5jTHhoazItNzVSZUM0MDNfU19pZVVMSDBSYUUwejNnNkFrZS1veGNUYlNLaVA0OExocXAyZnA4NXVRdmZNbl8zeUZDazd5S21pekNGSFhoa2dEMFpNSWVPZ2ZtVEtNa25sbUZ0ajlnUXU2TGc?oc=5"
-  },
-  {
-    "id": "news-1g64fte",
-    "t": "2026-09-25T18:24:10",
-    "type": "news",
-    "auto": true,
-    "title": "61 NHL players placed on waivers for Sept. 25",
-    "body": "",
-    "src": "Daily Faceoff",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbFRGeTMtZzM2U0tFTlB5YTIwcTFjZnJ4amNBNUQ4RldxdHJPTlNGTFoxRHpqV0lXOGI4MDc2MlNsU1NHakNvRE1ETWJ1T28teG9lWjRFeHNfLUtjendoell0ajZRdTFCZnNxalpyYjZkWUVWaUNtMERfdHZQdlo0bUpCTkw3dDhhTFQyYzBua3BlSlFuQmZoV2l5Q3FQYk9wX1dCZl9yb2dBOTh2ajhwekoxQk9VUGdZaHhDa3hPbkU?oc=5"
-  },
-  {
-    "id": "news-1lleisv",
-    "t": "2026-09-25T18:24:00",
-    "type": "news",
-    "auto": true,
-    "title": "Sharks Name Macklin Celebrini Captain",
-    "body": "",
-    "src": "Pro Hockey Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYnFJdDBMdEZkclUxQjBTYnRIOGRybHdJZXpybEtCeFZRYmN6bTFmUWUxU3hVTGN0NWtZV053bnRveURkUmN3amkxbGNPckpPVTVPVjVJTFdsR0puRW9BTVd0TkpaWHpYX2N4V2trQnN3WUtwRExqamM5VFVqNDI0eUJKV2dsN3BZM3c?oc=5"
   },
   {
     "id": "auto-rem-8485368-20260924",
