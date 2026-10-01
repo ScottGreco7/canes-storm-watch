@@ -1,5 +1,29 @@
 [
   {
+    "id": "news-19qzuaq",
+    "t": "2026-10-01T21:00:12",
+    "type": "news",
+    "auto": true,
+    "title": "NHL Rumors: Alexander Nikishin and Carolina Hurricanes Waiting for the Right Trade Package",
+    "body": "",
+    "src": "NHLRumors.com",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSHpBeDlpNzZSLXRIYmVmNXRKeVB3UE9vaGR2ZnhrdDFhUnYtNjM2NlRTekw0Vmx2eE9FNkxuWS05Y01nVGg4cmdETU5IeFhFX2NQZUVlREp1ZDlZVmY4OHdzZjJleDBsMnZnS0xJeFZBWFp0eEI4TDNDdTBKc0x6WlJSRllJUkd3STlGdHNrc09sbDBfT3JVMVpoNFh5S25PR0ZZYi1nelRHTDNZcGg4NWRhbEZHTEJSbFJuVHhiOWvSAcYBQVVfeXFMUDE4WEQzNFcwZ1hnbTNPRDZ0UUszWm1zWHBfaDIyVkczdlRYaHk4aWcxNE5yZ05CR3loRzZJZklFYlFaenhBX2RFZmd2dlBNb29FT2UtUnY4NXJqdGwwc0dPLUdDZ0dOQTU3emg5WmhxWE1hMUsyWldGZmt3cnlFM0pYWF81SklRalVSUlY4OHA0Z3h1NEJ3anFCcFNTOXV4b21EYlFWYy1KUGM2UlowRzRxdjI0RnY5QVFkZEZHenVFaE9vZWZR?oc=5"
+  },
+  {
+    "id": "news-16zkxg8",
+    "t": "2026-10-01T20:13:50",
+    "type": "news",
+    "auto": true,
+    "title": "\u2018CANES ANNOUNCE ADDITIONAL AFFILIATES FOR \u201cSATURDAY NIGHT HOCKEY\u201d PACKAGE",
+    "body": "",
+    "src": "CANES PR",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNR0F3Y1NVaHdwQTE5Yzl0M0RxeU05MFZOSTlwczI5TXMtSVJ3ZFBvOU0xNnE5b0daT2NzenQ5U0o2ZFlodndVTG1kSUpLNmRLN2NITFdya1lLVzRuQUUzdElEcUt4X292UWlkMzVWc09GWm9FYU9ZRWhybmV4a2xManlja0ZEcjdrMExWeUF2Nl9iT3hRRXAwMWZDU2RnUGVhZ3lwZg?oc=5"
+  },
+  {
     "id": "auto-rem-8480051-20261001",
     "t": "2026-10-01T19:10:12",
     "type": "roster",
@@ -10,6 +34,18 @@
     "players": [
       "Cayden Primeau"
     ]
+  },
+  {
+    "id": "news-uqheir",
+    "t": "2026-10-01T19:09:48",
+    "type": "news",
+    "auto": true,
+    "title": "Pittsburgh Penguins NHL Line Combinations",
+    "body": "",
+    "src": "Daily Faceoff",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA3RERXZU9NQmt1Q3pPSDFqTzllc0E3MEdPXzVyV3VSQU9mMkV4b1BOcXBNLW5iakNKSTM1Mm5rZXZXbkgtUmFGTG5ZYVIzUFdxeHJZZ2tDSkhSUUEtRWpiT0JPOWZwenFjdFhTeXl3NmVsQS1yVlRXOTdOd2xFQQ?oc=5"
   },
   {
     "id": "news-1nphxz6",
@@ -34,6 +70,18 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYUNhSnJUVGc4SEhNVXZyREpUOGlIaTVtMnpZaDFkdEQzbldVSEpvMjBISlZkaFIwWk81MzdUb2JxQUxXS3c2eGpDdldOYnIwU2xIcmpvaUNIUTVsRnlPT3lpZ0lsV2JvUmZEVVE0RThwRjN2SHF0YVlkQ212WjNRa0NXODllYUI5bXhtQ1NtSjJPdEF2MkcwS0wxWkMxRm9sdEhQRg?oc=5"
+  },
+  {
+    "id": "news-1x582x5",
+    "t": "2026-10-01T17:30:00",
+    "type": "news",
+    "auto": true,
+    "title": "Frost, Zacha lead an NHL center market that is thinner than ever",
+    "body": "",
+    "src": "Daily Faceoff",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPN1ZJek91NVkybUdoaGlYVFFBcXhUMzhkRzdXY2FaWlFCRXNMdmVXQjRzQ2g5OVlMMXJSQXNZelNKdXp3MlVVSmRTTWpHeVhJSmxzcXNnRzVJemc3ajczTHJBUUZmZVVINWFRVnVMakVXd2h2ekRuSXg4STZiSUMzbkQ5RmNNQ29PcE1BUmNWNGJyd2laU0VBRE9fUFRVa0RTNkRleC16TUpJcDRsSUNHdFRxcTRjMGhH?oc=5"
   },
   {
     "id": "news-1ausgyq",
@@ -442,54 +490,6 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNV0hYRXBqTk5zZTBtOGtXRF9mQS1rc3pYWDRDMFY1d0hTWWtfTjNzckdRWDlBd0xEVm5FczExNjZXblZqMVRfQWNMeUxLU25uWU53dlEydkxzQWdTYVAybVpTT0diZGVDTlVoNGszU2k4blpnaFMtT0Q5S2FmTEp0aFVfX0NWZGwtR3p5M0NwZ2VuZEdiZWZLbm13?oc=5"
-  },
-  {
-    "id": "news-e67jnx",
-    "t": "2026-09-29T21:43:21",
-    "type": "news",
-    "auto": true,
-    "title": "Will the Carolina Hurricanes home opener vs the Florida Panthers be a playoff indicator?",
-    "body": "",
-    "src": "99.9 The Fan",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPb2d5d21tcUdndnFfbzdiRi1FN05meWRPb29CU1lYSlNNV0xzTzQyTHBMWVJUX1JkZ3VWUXlubWEzRHNCcUhrSU5XX0NiZlNIMllhWkktVm50NWxwR3RwLVJMeUhhLXMtQm54X3ZoUTl6UTJzV0ZObkE4RWtQanFJaFRhWFFrZGNremZmRFVwVml1UkxWYzJmUlNnczU1R3dONG5BOXVFVnd5bTctbVpOUW5FM0E?oc=5"
-  },
-  {
-    "id": "news-1disqqf",
-    "t": "2026-09-29T20:26:00",
-    "type": "rumor",
-    "auto": true,
-    "title": "Report: 3-Team trade could land Hellebuyck in Carolina",
-    "body": "",
-    "src": "nhltraderumors.me",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5OU2VUSWNZcm5EdlE3U0o2RXhPZDRyN3hVYVd1N2p6aUNwZnpCVzZ6OGZrYU5XXzZQR29jcmpUeEQ5Tk94Um4wbUJCXzhPRHlSNzBjWHo5eDZzenRRUjJ3MnpCSDlCZDlxanZDcFZQZGpqN0poZ29Sb0pGSW1kZw?oc=5"
-  },
-  {
-    "id": "news-8lublo",
-    "t": "2026-09-29T20:24:35",
-    "type": "news",
-    "auto": true,
-    "title": "The Hurricanes are the team to beat in the Metro, but there will be stiff competition",
-    "body": "",
-    "src": "Cardiac Cane",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTFQwSUlkZWo1ZGZrRlBNa1pmNU1oSmx1NjBad1BnYjJ0YkFDY21seVJzUFh6ejhNX1lsSjZJcjVzalN4WWM1RzNnQks2TVhYMnlNSXBJQ1NBS1ZpeWZHbE84R2NJS2xidloyWU5BT3RxaHIzM19XcU4teEo1cnNCcElhX0toNGkySUJrc2VzaVhPUFI5alAxMTlLZDM?oc=5"
-  },
-  {
-    "id": "news-hpcqgq",
-    "t": "2026-09-29T20:15:10",
-    "type": "rumor",
-    "auto": true,
-    "title": "Report: Blues pursuing Hurricanes' Nikishin",
-    "body": "",
-    "src": "theScore",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQLTFsUU5ydGZ3alk2ZlQ5WFg2M0M3aEtWZkFMRHpOQXZHT3ZhOWVuODR6eTJiaS1hSG5OblVGcUZ4eWx2OUFHdnQ4SHU3YmZxLTRCYkRBLVQ5bElJeFVTTGZLZjNCLTZ5cmtHWW93R2J4OUpkUTZlcUtRSzlrdjdmUk93YlJSLWpzTEE4?oc=5"
   },
   {
     "id": "auto-rem-8479976-20260929",
