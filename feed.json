@@ -1,5 +1,89 @@
 [
   {
+    "id": "auto-rem-8480051-20261001",
+    "t": "2026-10-01T19:10:12",
+    "type": "roster",
+    "title": "Cayden Primeau no longer on the Hurricanes roster",
+    "body": "Cayden Primeau has come off Hurricanes' official NHL roster. Auto-detected \u2014 could be a trade, release, or assignment.",
+    "src": "NHL roster feed",
+    "out": "",
+    "players": [
+      "Cayden Primeau"
+    ]
+  },
+  {
+    "id": "news-1nphxz6",
+    "t": "2026-10-01T19:01:56",
+    "type": "news",
+    "auto": true,
+    "title": "Storm Advisory: Newsy Thursday with Primeau and Hurricanes TV coverage",
+    "body": "",
+    "src": "canescountry.com",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRXhVamZCQ3B3azFXaGIzSXktcGdpTFMyQ1JxbzVDUGgyeVJuY3JxYWNQUEp1Z3dGZ1F0V1lwR1V3M1FfanBnckJfVU5MOWdPb1NtRWNvcExxVjhlWG10enRZb21LSi04VE5DUTg0M0F3Y3dpVGNlSTNhN25RMHl2V0VIM1p2dWdSa3M4RmhETng3cUpYb2NqbkJibEF0elM3czFTSHNOTDVPYXdvMUxzd0lnaFlSSnBhWGg0bUN4aXlLMms?oc=5"
+  },
+  {
+    "id": "news-orxqcd",
+    "t": "2026-10-01T18:22:09",
+    "type": "news",
+    "auto": true,
+    "title": "Hurricanes Learn the Waivers Fate of Seven-Year NHL Veteran",
+    "body": "",
+    "src": "heavy.com",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYUNhSnJUVGc4SEhNVXZyREpUOGlIaTVtMnpZaDFkdEQzbldVSEpvMjBISlZkaFIwWk81MzdUb2JxQUxXS3c2eGpDdldOYnIwU2xIcmpvaUNIUTVsRnlPT3lpZ0lsV2JvUmZEVVE0RThwRjN2SHF0YVlkQ212WjNRa0NXODllYUI5bXhtQ1NtSjJPdEF2MkcwS0wxWkMxRm9sdEhQRg?oc=5"
+  },
+  {
+    "id": "news-1ausgyq",
+    "t": "2026-10-01T16:27:37",
+    "type": "news",
+    "auto": true,
+    "title": "Carolina Hurricanes Unveil Stanley Cup Championship Rings With 900 Stones and Hidden Details",
+    "body": "",
+    "src": "foxy99.com",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbkF0R2Nlc2d4cENfOU1RbW8weGlPR3Q2T1BXcVZSRlExZlJ4YlZfM2hZcFhWb0QtMWFLb2dNTFVVaG9Ka0dYbjB5S2kzMGFFNHV2MlBObi10a3NCOGhaWk15dllCcG1YOEZXTFYtajhoQzhLYjgyM215RGdWOHhMaks1Um9QWHJqMHItRGU2bW5aTUpoTzRXRG56aktPTjZWTi1kcnBZaW9NZC0ybnRpUlJWZXJpbnVMUTVQbm1SSmk?oc=5"
+  },
+  {
+    "id": "news-1yw4fi1",
+    "t": "2026-10-01T16:18:11",
+    "type": "news",
+    "auto": true,
+    "title": "Columbus Blue Jackets NHL Line Combinations",
+    "body": "",
+    "src": "dailyfaceoff.com",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9qUmc0a1B4SHBrRm5vMzF2MVhRQ1RTX1pFZUZMMUVHZmV2VUdxYTVseURBeEdLaGVTcFRQWjNCUGc4S3hKeTJxM2xmbWlKVmw5MVdYemdZQVo2RGRsNkNhaW8xb055MTB3QnZ2aC1sRlQ5NEdoRHZCMU9vaHlGVVk?oc=5"
+  },
+  {
+    "id": "news-19l0b6f",
+    "t": "2026-10-01T15:25:53",
+    "type": "news",
+    "auto": true,
+    "title": "Tampa Bay Lightning NHL Line Combinations",
+    "body": "",
+    "src": "dailyfaceoff.com",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1VUDZCMU1ROERzLWpLTENsNW55UElTXzBsZDBLQW1ubnQzWDY5bnJITDFsZ24zZ3Bsci1qYWgyeG5SMmtWc3BEUjR4MWhmRlBhZGhMMG95dVhjS2xVbFhTcmhqVzcyUU8zZE1vSE9ialJITndTRHNiMzEtUG1jZw?oc=5"
+  },
+  {
+    "id": "news-1dabs08",
+    "t": "2026-10-01T14:06:48",
+    "type": "news",
+    "auto": true,
+    "title": "Blues could be the key to a Connor Hellebuyck blockbuster",
+    "body": "",
+    "src": "Bleedin' Blue",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQX0ZKR2J0X25MQ1NUZ0F4cTFBNWphS2FEYTFMQ21kcmpiY2JLUkZfdTE3MU9OamJHSm95UXFaVDNDREw4UG82dE04OE1nS2dYblhkSjJHcG0tb3RRYjBrNzhOZFRrUkRnRG1fMEZQUFNJTmdRd2RKTG1aZ3lWc2pobEQ3RUxFMExoeXFHa3ptOFFkdVhuYUMwRnFB?oc=5"
+  },
+  {
     "id": "news-1annepg",
     "t": "2026-10-01T03:00:47",
     "type": "rumor",
@@ -48,6 +132,18 @@
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMG5sLUJPRnhJcGVNb0o4ZDNJT0dUb25tZXJaUm5KV0pMWjJUY1c3YXZwZW9IY3hGMkU3WEtjY0prdnlTaF8xY014ck9rb1ZnUExyR0xmQkdsX2xESUQ0bmNTS3lRelBPSUNKSER6ZWJKMl9XVTJmZHBVbnFHbGRNakRNTm9hWnFtcGZIdlR5Wko3WU12Nm5oS1lSYWRPOHpaRUI4LVR3?oc=5"
   },
   {
+    "id": "news-1nhnu4x",
+    "t": "2026-09-30T22:36:00",
+    "type": "news",
+    "auto": true,
+    "title": "Red Wings\u2019 Moritz Seider, Senators\u2019 Tim Stutzle start hockey podcast",
+    "body": "",
+    "src": "dailyfaceoff.com",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObXk3UmwtcnRJTXVIVXNzYzRfbVVTRzExek96U0JsaDE4RkQwVjRzQWwxN0kwVnM4UTZPcEhtRTFLb1l1SzBLaVhfT1lXMHVQVWs4QTBHZkV4RU1WcFdmbUpQeGZYc3NxVGtTVkthVjlybVdmTVZPVGNpYUlBUTJWUGZQU203ZUtUUjdpdXFuNlhDX2VIWXpWTmtFakQwNjVidTVscWo0Q2k3emxQbjk0S3ViWHU?oc=5"
+  },
+  {
     "id": "news-1gon82q",
     "t": "2026-09-30T21:30:06",
     "type": "news",
@@ -70,6 +166,18 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTXlfYVkzUkJDcmg5a1JpcElGaFVsR2JfcEFCWTJ3U2tzTXY2Z1E2NENDZGx3RzJQbmJTNmtzYVFyd092N3ZLT0l1Z1V2aUVLR3N5eHdoTVk3emFwYTYzenBtaDFFN3k4cTNqU1hTT08xTVQzQkhpT2p3VjlPTnhhdlp5Rm1zdm41cndZ?oc=5"
+  },
+  {
+    "id": "news-1caxfzm",
+    "t": "2026-09-30T20:25:00",
+    "type": "news",
+    "auto": true,
+    "title": "Hurricanes place Cayden Primeau on waivers",
+    "body": "",
+    "src": "dailyfaceoff.com",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOFB0ZWUzbk5leXNUejR0TzFocXlBVXdRZzlkbzUzLUFzSTVLZmlZN3BYdlAtd2xXTjJpZDZQcm1QMUx1QUZqRC11Tnp2d1Zfc21yZmZudjM0RmIzNVFkMlY3ajVZNEFiNll2QVpwMzFlTVI3S1J2NzkxMmg4bkNsVW1pVklRaTJVaTNDV3Q5N25jOHJsRWx1SHpHejdEZk0tNG53SmZqODBNSUF6YURGWTJCVmhVeDRPaURkcA?oc=5"
   },
   {
     "id": "news-6iytvy",
@@ -130,6 +238,18 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOS0xwNmJPc3lJb2t3TTRueEJfaWZKb3Vmc0Q1aWFGVF9RWGJRTC1qUHE2NENEVFRCU2dLYlFjVDB1R196aVNXT0QxMmh5UDNkOHpQWXVYTmtlV0dLT0ljZDEzSGxNUVZZaDlxX0lJVGswOFYtS0FYWDVNbnF1bmVBcVZNRFFhSVJXaEI3WnJ3QXhxV3JvdFlieE81dzNkUjM5QWhBZVNyVHAySHlVanRhT0dqVUFYbDdDQmpn?oc=5"
+  },
+  {
+    "id": "news-7414q",
+    "t": "2026-09-30T19:03:22",
+    "type": "news",
+    "auto": true,
+    "title": "Minnesota Wild NHL Line Combinations",
+    "body": "",
+    "src": "dailyfaceoff.com",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBSTnZnQW1vNlM4eUtEY3hVYV9MNzVXWFI4TEUxZXYwckVIcS1NbHRraVNtS3AyME1FVkppc21laVAyQWdCc0YtUXRtSkVWeS00VDcta2x3ak80azl3bVlGVXJpYUd2TTVDU3ZXNlhKVEZmSnJYVDhn?oc=5"
   },
   {
     "id": "news-1elsys5",
@@ -372,54 +492,6 @@
     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQLTFsUU5ydGZ3alk2ZlQ5WFg2M0M3aEtWZkFMRHpOQXZHT3ZhOWVuODR6eTJiaS1hSG5OblVGcUZ4eWx2OUFHdnQ4SHU3YmZxLTRCYkRBLVQ5bElJeFVTTGZLZjNCLTZ5cmtHWW93R2J4OUpkUTZlcUtRSzlrdjdmUk93YlJSLWpzTEE4?oc=5"
   },
   {
-    "id": "news-10nxoxl",
-    "t": "2026-09-29T20:14:35",
-    "type": "rumor",
-    "auto": true,
-    "title": "Sabres Place Conor Sheary On Waivers - NHL Rumors",
-    "body": "",
-    "src": "NHL Rumors - ProHockeyRumors.com",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaVFzc0pFM3AzRDR1NkdHZVJ5UGV6RGNjRXRkZGR6NnVCbWtzM3dMN19uckVoZVNXTnV5bVJRSzVSVVRxaXV3Qi1VNXoyeUMzdGh1Ym04VkRudEx4OUNiX2ZfbEl1ZG5YWVZKS2pZajNXbFhDTEYtdTNMOHpfQkVzclJsLVZrN1li?oc=5"
-  },
-  {
-    "id": "news-868m7n",
-    "t": "2026-09-29T18:28:28",
-    "type": "rumor",
-    "auto": true,
-    "title": "Oilers\u2019 Ryan Nugent-Hopkins Out Two Weeks - NHL Rumors",
-    "body": "",
-    "src": "NHL Rumors - ProHockeyRumors.com",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOE9rMG5MNngzRzh1VkQ0aXBwbW5WSDhreUgtZkduNmQxNHlIYWcwV0g3b01wNl90VXRtYUVNdGRwZmk3NmU4WDZielNMYnY3aVhMUUlqUnV6ajJCeFpldHVRaDNPeF9Ob09teUpiMmU1b2lsY3JvVnRaclJ0NmFIaUVVcDFKVHBJaUNSZDNB?oc=5"
-  },
-  {
-    "id": "news-1vnbq8t",
-    "t": "2026-09-29T17:19:34",
-    "type": "news",
-    "auto": true,
-    "title": "The Fan Frozen Tailgate LIVE 9/29/2026 | Carolina Hurricanes opening night!",
-    "body": "",
-    "src": "99.9 The Fan",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdFRfMmp6ZXdERktiVjFsYVNTY0tTUThTa2JvYktqcUZfX2J6RTU3UWRnMVQxa0dmZ0VnUnd1YUdQc0lwWDlUOVkwUkxEZWpoSFNIQUN5ZFQ4M2Nodzg0eHh1TlZHZFh5Z2VtTXItUFhIb3owWkNlQ0dyQlp4ZlB2TS1WN1BhNnNDZHFSNjdPNjUtWkU3a3NBMHlwcEpVNDlIT0VCMjlXdUs3ZVQzQTB6cHpmaWM?oc=5"
-  },
-  {
-    "id": "news-1v3zdyi",
-    "t": "2026-09-29T17:05:53",
-    "type": "news",
-    "auto": true,
-    "title": "Did the NY Rangers Make the Right Move in Not Meeting Young Stars Asking Price?",
-    "body": "",
-    "src": "Sportsnaut",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTFVPNGFiV052cXo1dkI4aVBPdGNCU0FpWDVhVXJGdEc2VTF0SEhXTHF3di1RWVl4cV9Gck93UGM5WmQtS202R1Y3eUFMaG0tbm8zeExjbnpVak5WamdYRlZnd012R1hrRHU3MllJbmdsRzN3dU5hMTVlUUJVOW8zMFpRa1JtVEJUbjRkRUxhX0x2cHpnX2lIVHFVUzhVTW01RFhOZW5Hb0Y?oc=5"
-  },
-  {
     "id": "auto-rem-8479976-20260929",
     "t": "2026-09-29T17:00:42",
     "type": "roster",
@@ -430,66 +502,6 @@
     "players": [
       "Juuso V\u00e4lim\u00e4ki"
     ]
-  },
-  {
-    "id": "news-1nkqwhp",
-    "t": "2026-09-29T16:32:22",
-    "type": "news",
-    "auto": true,
-    "title": "A Hurricanes Trade For Connor Hellebuyck Reportedly Could Depend On The Blues And Alexander Nikishin",
-    "body": "",
-    "src": "Yahoo Sports",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcGpiY0JZN19nY1FVblNUeUtMQ2RPY1F0MWN5WGpucFgwTF9qUzM3RXZ2UTdycVB5ZTdDMC1LNU0waWxkV202VGpqOUFfVEFCbnpQRGRIOXFIMFlCbjZMT2ZTbW13WEdUdWZrYTZwRXZIRjl1TUJaUm83aTBZYlNpZk9TVkNzU3ozX2RTQWI1SjBkRUtlaC1B?oc=5"
-  },
-  {
-    "id": "news-byj859",
-    "t": "2026-09-29T15:26:00",
-    "type": "news",
-    "auto": true,
-    "title": "Buffalo Sabres NHL Line Combinations",
-    "body": "",
-    "src": "Daily Faceoff",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE12NDJnQUVFNlBLUW9iZUVyWXMxcm03LVdxN3ZUMHBfRXpZaXhqREJiLXIzUGdWS0pJQ1pJbFJlNUZjU1VGWTBoUTBMbC1VbVRlN1d1bThsZWFqLWVZV09XR0J2UmtwV1hBUU1KZlAyU2J2S0I3Ukhn?oc=5"
-  },
-  {
-    "id": "news-1mt3f6l",
-    "t": "2026-09-29T13:46:48",
-    "type": "rumor",
-    "auto": true,
-    "title": "Bruins Trying To Trade Henri Jokiharju - NHL Rumors",
-    "body": "",
-    "src": "NHL Rumors - ProHockeyRumors.com",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUTRDQzM3QXIteTJQalVZYnZUNTNtNWVzZnhMNDhOeDhDRHlNQWJiR0pKaEtlMXkxWUlkT3AtQXNIUVFYcDhkQ0VKdjJDVmkwV1RuZi15NG1Xc0FYaGZ3QVB4WVFCVndzblNaUzlvWldKVWp1QWx4NjVIRmRyUVBMSm1uNVZGeXFLdVhF?oc=5"
-  },
-  {
-    "id": "news-o4raw7",
-    "t": "2026-09-29T13:05:30",
-    "type": "news",
-    "auto": true,
-    "title": "Hurricanes\u2019 Connor Hellebuyck Trade Depends on Alexander Nikishin, St. Louis Blues",
-    "body": "",
-    "src": "heavy.com",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTS1GWFRDSVoyUU1yODI5UXppcjl5ZEMzcWptNFo2bE1BNk92OGNlYVYwcTlITkIwWllyMlEwZEtCZldiaVdOdEZ5c3BFYzRSLVU0aWU3d0RKN19ERXR0NDVVNWtoUHNGUDZoSXJZUlNPYWlKVlhyclZXSnNIZEYtYnplTVZqaDdiSUpZWndCTDhKc0NEeXN3eDIxM0ZFVDZCTHdZeEFjODJ0M21ZNDdvek9mWk10Qm5DLWc?oc=5"
-  },
-  {
-    "id": "news-1sfk50r",
-    "t": "2026-09-29T12:53:00",
-    "type": "news",
-    "auto": true,
-    "title": "25 bold NHL predictions for 2026-27: The Hot Take O-Meter",
-    "body": "",
-    "src": "Daily Faceoff",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeXE5RVpELWt6VHN1QTlDcXVPQVYzbmdYdF9WSDRCbkJYbWdtQUJGZmR3eGhkN195V0JuT1RkS082eGxDOEtQMEpuUXJLcC1MN19xMUR4WW91UU0tVkhBb3lzX29TVl9NY05aV0tIemN3X2JMVm5lanB3R0NKempUODczWm1OUHQzUXNhc2ZNRDBhWURxOUhlMVFRaXVFYktnTmNwNVpWekVWTzdncEE4dDFwOEpBWS01THBzMVBQOWpXeWVkZHlnUEU3OA?oc=5"
   },
   {
     "id": "auto-rem-8482093-20260927",
