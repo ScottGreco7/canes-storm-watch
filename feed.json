@@ -1,5 +1,29 @@
 [
   {
+    "id": "news-1o2l0ex",
+    "t": "2026-10-01T23:38:00",
+    "type": "news",
+    "auto": true,
+    "title": "Carolina Hurricanes' Record-Breaking Crowds & Cayden Primeau Placed on Waivers",
+    "body": "",
+    "src": "kiiitv.com",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNSmtZYWtCSWhVbFFoTUJ5YlRtZDE5dHVDcXkxY191b082LWdwZWRROU8tZ3hPaEFpZkJZb1Vva2FGQXBkVm1NSTY4T1ZObTU0SzRzbjZfR2dNaUw2R3BCMTVPTGJKTzF4MDdMZmdheGR6VnJKWVFfUXVaUXJVek5EdkVrZmtkbXRERlpYbE4xX0t6STZJaURQbVRpdG5XUFdxSVU0VUo0TzBzaEF4MTNNaUhnempEM1pEV09pc2hxa203RWZTODh6V0s2R3RyMkVoc0tLQTd0Q3A5YUR5Sm1mUFBRMHZzMHRYRDBOa1RWZDAtd2MtT2JqdlRGYndFQXo0TG5ZNFNBdGgtTm9MTjR0bmhpNUVoeXNXNEUw?oc=5"
+  },
+  {
+    "id": "news-14wgnwb",
+    "t": "2026-10-01T21:06:44",
+    "type": "rumor",
+    "auto": true,
+    "title": "Oilers\u2019 Zach Hyman Out Two Weeks, Frederik Andersen Out Long-Term - NHL Rumors",
+    "body": "",
+    "src": "NHL Rumors - ProHockeyRumors.com",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQb1VkM0FYY1ZKLVA5WXpRX2lsTUs2b1JfaXhpaWVucHpKd0w1WWY5cnRRSzR2cjdBS3E3OWEyTnFCdEZmUmQxUDZiY0xybjRJeHhEY3U4TzFPUHN0UDhpN2JjWDFzNjJDVFlwMEFxdThrUFhJT3FsSEhydjdya2YxQl9qQWNZbExDdGM1bmJQcVpfOElWNWNjbUZGekF2VjJIcjl2MUFlNlhWS0Z2?oc=5"
+  },
+  {
     "id": "news-19qzuaq",
     "t": "2026-10-01T21:00:12",
     "type": "news",
@@ -132,6 +156,18 @@
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQX0ZKR2J0X25MQ1NUZ0F4cTFBNWphS2FEYTFMQ21kcmpiY2JLUkZfdTE3MU9OamJHSm95UXFaVDNDREw4UG82dE04OE1nS2dYblhkSjJHcG0tb3RRYjBrNzhOZFRrUkRnRG1fMEZQUFNJTmdRd2RKTG1aZ3lWc2pobEQ3RUxFMExoeXFHa3ptOFFkdVhuYUMwRnFB?oc=5"
   },
   {
+    "id": "news-10kwwin",
+    "t": "2026-10-01T12:38:00",
+    "type": "rumor",
+    "auto": true,
+    "title": "Canucks' Brock Boeser Named Prime Trade Candidate",
+    "body": "",
+    "src": "nhltraderumors.me",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxON0l2eGhmMDZBaUlxWm1QTGRBaEZhUENvMHAtWl9yUlREam1QY0NCdlY2QWNtM2wtazBUTDN4UEt5c1RLalltU1RoQ0dvYUUwaGs2LVlRNFgwN1ZrYjRCc2ZJZDZ0YXIyb2F5enBuZ2FzOVUtRXdqUDgwNWRETVVUZkFQWURKVFE2?oc=5"
+  },
+  {
     "id": "news-1annepg",
     "t": "2026-10-01T03:00:47",
     "type": "rumor",
@@ -238,6 +274,18 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAzQ05TTmhkNEhRR2Z4dXBiNXJFMGNvMlotYlpZRnBua2Q0bVB6T0JfNDhmS2VWSDJMcFYyZjNtOThPRnFiTDI2d0lUSzh4b083QVNKdUZtTVpKRk5RZDdhenY4bF9ITmdnME5YY1FwYw?oc=5"
+  },
+  {
+    "id": "news-vjdxbt",
+    "t": "2026-09-30T20:05:00",
+    "type": "news",
+    "auto": true,
+    "title": "San Jose Sharks NHL Line Combinations",
+    "body": "",
+    "src": "Daily Faceoff",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9WWUhlM3ZfRW5SRkt6aDhvRTFpVHh3dnAzUmR1QUNwLUZ1TTJVSW51dF9NR1JUbVpEVmJpbUFkNjFDYTR2RnRCbzlIY2MzUjh2WHgwS2ZuZnM4anVqZ0hFQ3NVQ0I5ZnhINGZENzdZYUN5NXNTcnhIVQ?oc=5"
   },
   {
     "id": "news-1urjiyt",
@@ -442,54 +490,6 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTUFrM0p5elBGbEZLX0JqbW9fX0szcEFBQmxsU0F2SDgzSTZGYk15dmtlcEtlQ1BxRzhrbko5SkdBY3o3QVFWRnU5U1g2eFZuOFZ5bHZSOFV5MWJXc3htck9kcFVVVjlrUVppQ1AxZGtrd1lRMXZiX2JfWDNDRXE5em0tdw?oc=5"
-  },
-  {
-    "id": "news-skb8eu",
-    "t": "2026-09-30T00:59:00",
-    "type": "news",
-    "auto": true,
-    "title": "Connor Hellebuyck may land with Carolina Hurricanes through three-way trade (report)",
-    "body": "",
-    "src": "RMNB",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOR1EtSUE4MVRfTnNSYnJLVFNhWHRuRzNjYVJaNG9QamlwaW1PUDZtRHpfYmc0NzdVdzBoX09KYWJxQkliZ1JIelZqRTUtM2kzNTlVTFQ0MnNxRGN1cmQyUVZiclVxOGxPUzIzV01IUWF2VWJzN2NzVmlDbTh2clJYdmFxcHJKRk9uTFI1THdvdWt2Z0J3YThFM0xnT2NYOUd6SlloUjdMSW5XY1FHazk3alhsdVVlaVJQdndMQw?oc=5"
-  },
-  {
-    "id": "news-1bfxfdu",
-    "t": "2026-09-29T23:46:03",
-    "type": "rumor",
-    "auto": true,
-    "title": "Wild Assign Charlie Stramel To AHL - NHL Rumors",
-    "body": "",
-    "src": "NHL Rumors - ProHockeyRumors.com",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZHc2d1ZtNlZlRE90NUg3S1l4N05EbEYxZXZhcjV0Ym44Tkx0bFFkVmRwbkpxNDVsajVKTU9MZHdLTWNQTkdjM21sNWpKMWZvVnM1dV92LUZpVTFaSGlyRXVycmJGTVpteE5HNHVBaFRBcXluckFUUnNkUTdNelVYMTlsd00xUQ?oc=5"
-  },
-  {
-    "id": "news-71nhkm",
-    "t": "2026-09-29T23:08:21",
-    "type": "news",
-    "auto": true,
-    "title": "It\u2019s banner night for the Carolina Hurricanes against the Florida Panthers",
-    "body": "",
-    "src": "99.9 The Fan",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOREtKWk9NX0JPSU9MX1F2aU5zMnlFOENoRFBMN2xNVmhsRC11NzZVZ2NhSWpzamVkbks1STE3T1dpM0JMamJ5ZU9hZG9CcU5aZWNWTGpJZFZYc3FFTDFKUVJPTE5ua3dGc3BnNjB6MkpDQlVEVXg0dnZKVG9jbUJ5MFYzT1lwUWEyZnIybkd2SnRvYTBFQXFPWlhsT1hOZWh3bUZEMnZsVmhVbXBvTS1mV0g5QWo?oc=5"
-  },
-  {
-    "id": "news-1by7a96",
-    "t": "2026-09-29T21:58:34",
-    "type": "rumor",
-    "auto": true,
-    "title": "Avalanche Promote Andrew Cogliano To Assistant GM - NHL Rumors",
-    "body": "",
-    "src": "NHL Rumors - ProHockeyRumors.com",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNV0hYRXBqTk5zZTBtOGtXRF9mQS1rc3pYWDRDMFY1d0hTWWtfTjNzckdRWDlBd0xEVm5FczExNjZXblZqMVRfQWNMeUxLU25uWU53dlEydkxzQWdTYVAybVpTT0diZGVDTlVoNGszU2k4blpnaFMtT0Q5S2FmTEp0aFVfX0NWZGwtR3p5M0NwZ2VuZEdiZWZLbm13?oc=5"
   },
   {
     "id": "auto-rem-8479976-20260929",
