@@ -1,5 +1,67 @@
 [
   {
+    "id": "auto-add-8482093-20261003",
+    "t": "2026-10-03T20:05:14",
+    "type": "roster",
+    "celebrate": true,
+    "title": "Seth Jarvis added to the Hurricanes roster",
+    "body": "Seth Jarvis now appears on Hurricanes' official NHL roster. Auto-detected from the league roster feed \u2014 could be a signing, trade, or recall.",
+    "src": "NHL roster feed",
+    "out": "",
+    "players": [
+      "Seth Jarvis"
+    ]
+  },
+  {
+    "id": "auto-add-8482100-20261003",
+    "t": "2026-10-03T20:05:14",
+    "type": "roster",
+    "celebrate": true,
+    "title": "Alexander Nikishin added to the Hurricanes roster",
+    "body": "Alexander Nikishin now appears on Hurricanes' official NHL roster. Auto-detected from the league roster feed \u2014 could be a signing, trade, or recall.",
+    "src": "NHL roster feed",
+    "out": "",
+    "players": [
+      "Alexander Nikishin"
+    ]
+  },
+  {
+    "id": "auto-rem-8484428-20261003",
+    "t": "2026-10-03T20:05:14",
+    "type": "roster",
+    "title": "Charles Alexis Legault no longer on the Hurricanes roster",
+    "body": "Charles Alexis Legault has come off Hurricanes' official NHL roster. Auto-detected \u2014 could be a trade, release, or assignment.",
+    "src": "NHL roster feed",
+    "out": "",
+    "players": [
+      "Charles Alexis Legault"
+    ]
+  },
+  {
+    "id": "auto-rem-8476422-20261003",
+    "t": "2026-10-03T20:05:14",
+    "type": "roster",
+    "title": "Mike Reilly no longer on the Hurricanes roster",
+    "body": "Mike Reilly has come off Hurricanes' official NHL roster. Auto-detected \u2014 could be a trade, release, or assignment.",
+    "src": "NHL roster feed",
+    "out": "",
+    "players": [
+      "Mike Reilly"
+    ]
+  },
+  {
+    "id": "news-lcqzag",
+    "t": "2026-10-03T17:33:49",
+    "type": "news",
+    "auto": true,
+    "title": "NHL Weekly Schedule",
+    "body": "",
+    "src": "Daily Faceoff",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE44ZW1mZzZTVERWWlNpWDRYb294SXRTN1drdlphRDk3S3FJNFhaYXlpZDlvYmZKSlp1UjFYbER1THVza2RRMjFONFZ0MlBlLTZxZHVOWUZIUlo2UnlYYVV3OHN2QzZnUWNIWmY4?oc=5"
+  },
+  {
     "id": "news-z4wqny",
     "t": "2026-10-03T14:14:29",
     "type": "news",
@@ -478,18 +540,6 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9qUmc0a1B4SHBrRm5vMzF2MVhRQ1RTX1pFZUZMMUVHZmV2VUdxYTVseURBeEdLaGVTcFRQWjNCUGc4S3hKeTJxM2xmbWlKVmw5MVdYemdZQVo2RGRsNkNhaW8xb055MTB3QnZ2aC1sRlQ5NEdoRHZCMU9vaHlGVVk?oc=5"
-  },
-  {
-    "id": "news-19l0b6f",
-    "t": "2026-10-01T15:25:53",
-    "type": "news",
-    "auto": true,
-    "title": "Tampa Bay Lightning NHL Line Combinations",
-    "body": "",
-    "src": "dailyfaceoff.com",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1VUDZCMU1ROERzLWpLTENsNW55UElTXzBsZDBLQW1ubnQzWDY5bnJITDFsZ24zZ3Bsci1qYWgyeG5SMmtWc3BEUjR4MWhmRlBhZGhMMG95dVhjS2xVbFhTcmhqVzcyUU8zZE1vSE9ialJITndTRHNiMzEtUG1jZw?oc=5"
   },
   {
     "id": "auto-rem-8479976-20260929",
