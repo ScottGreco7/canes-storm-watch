@@ -84,6 +84,18 @@
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTGFxd3FpdTZpb3IyT1VVNEF4WXFXSm9URkZZdTV2V2tBMm1NcVI1WG15My1nbzhUY2x6a1NQTGhIaFNyVG0tSTRzM0wyWWxmMXVlbHRKeG5oRUVRYmwzYjJQcll3SWV3OEZ2VG9tbDdzWnRkaDQtc3I4dXNZVjVPTHE5SlNxWXVJRWhiY0lFVmE2UTA?oc=5"
   },
   {
+    "id": "news-1856wb1",
+    "t": "2026-10-03T23:06:13",
+    "type": "rumor",
+    "auto": true,
+    "title": "Central Notes: L\u2019Heureux, O\u2019Connor, Byram, Vilardi - NHL Rumors",
+    "body": "",
+    "src": "NHL Rumors - ProHockeyRumors.com",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTGFxd3FpdTZpb3IyT1VVNEF4WXFXSm9URkZZdTV2V2tBMm1NcVI1WG15My1nbzhUY2x6a1NQTGhIaFNyVG0tSTRzM0wyWWxmMXVlbHRKeG5oRUVRYmwzYjJQcll3SWV3OEZ2VG9tbDdzWnRkaDQtc3I4dXNZVjVPTHE5SlNxWXVJRWhiY0lFVmE2UTA?oc=5"
+  },
+  {
     "id": "news-1w17f70",
     "t": "2026-10-03T22:44:47",
     "type": "rumor",
@@ -108,6 +120,18 @@
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQenpVMUhfSlJOdHk3N3RLWHA5bHl6TlpyTFdDcFVXRWFzV3l1ZngxS0ZqLU83UkJfZ1BHeFZzc3lqMUJrUV9NNm9ZRjAtTlBfbkkzSkFBQTJIcERUdjMyQnJiRTluQkktNU5HNUhiSWRGWDVwMEtFYV9XQXZCa05SaDZkdG9nekY4NUF6SjVTODdTUzA?oc=5"
   },
   {
+    "id": "news-uqheir",
+    "t": "2026-10-03T22:39:00",
+    "type": "news",
+    "auto": true,
+    "title": "Pittsburgh Penguins NHL Line Combinations",
+    "body": "",
+    "src": "Daily Faceoff",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA3RERXZU9NQmt1Q3pPSDFqTzllc0E3MEdPXzVyV3VSQU9mMkV4b1BOcXBNLW5iakNKSTM1Mm5rZXZXbkgtUmFGTG5ZYVIzUFdxeHJZZ2tDSkhSUUEtRWpiT0JPOWZwenFjdFhTeXl3NmVsQS1yVlRXOTdOd2xFQQ?oc=5"
+  },
+  {
     "id": "news-1497li",
     "t": "2026-10-03T22:00:08",
     "type": "news",
@@ -115,6 +139,18 @@
     "title": "Panthers Recall Sam Lafferty, Alex Petrovic",
     "body": "",
     "src": "prohockeyrumors.com",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTFRHRmYwMndtT3dPamVrVUZwLV9QQ0ZXMmRfVTNObVZRaGZQbmNXNUV1d1N0UHJpaHFIZHpzLW1JaFQ0UEtPT18zZjkzSGZrZ3p5QzNveHU5ZE16aTUzbHRNbC1rRkd5NmVTVUNZRU9FcE9DRUxDdXhmWW1US25OT0hRMnBrR05fbzIxYWE4dm4?oc=5"
+  },
+  {
+    "id": "news-w5buoh",
+    "t": "2026-10-03T22:00:08",
+    "type": "rumor",
+    "auto": true,
+    "title": "Panthers Recall Sam Lafferty, Alex Petrovic - NHL Rumors",
+    "body": "",
+    "src": "NHL Rumors - ProHockeyRumors.com",
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTFRHRmYwMndtT3dPamVrVUZwLV9QQ0ZXMmRfVTNObVZRaGZQbmNXNUV1d1N0UHJpaHFIZHpzLW1JaFQ0UEtPT18zZjkzSGZrZ3p5QzNveHU5ZE16aTUzbHRNbC1rRkd5NmVTVUNZRU9FcE9DRUxDdXhmWW1US25OT0hRMnBrR05fbzIxYWE4dm4?oc=5"
@@ -492,42 +528,6 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQN3ZuYlpPME93SkVTRlhkRVJhOUdDSS1RZVptckNqazNRMFdtb0VyMF9yYk5HS1YxcnRWWnVmMUpKUmxSMmtDclVaWGM0Tl9VVG93VlNPWW51NUxrV3dDQVJ2VlVwQVUzUE9HZUFlWlgwUDZteTU0QzJLZmV1OVBDVk94QWwzOE9FalVSN3VZSkdKdXpwQm4zSU5FWHJZZ0ZfVjRkbWM4QkVTclJWSFpiS09nb1pKZTQ?oc=5"
-  },
-  {
-    "id": "news-157w1i2",
-    "t": "2026-10-02T04:14:13",
-    "type": "news",
-    "auto": true,
-    "title": "October 2 \u2013 Game Notes vs. Washington Capitals",
-    "body": "",
-    "src": "CANES PR",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMXljeTV5TlA2LU56bjlPYjdkdnh0YzRJakNaRFVTTG9WdG9HLTNWUi00NXp1ZVl2enZWX0U5cnVVSlJwbkQxU2MxMGhteE1PLWExVndERmNFcTJvckpKZ0VFNHVxalk5Mjg4STlHVTZqRS16NnNhVnZFazN5MkZYZQ?oc=5"
-  },
-  {
-    "id": "news-6du9ka",
-    "t": "2026-10-02T01:46:00",
-    "type": "news",
-    "auto": true,
-    "title": "NHL commissioner displeased by players' usage of no-trade clauses",
-    "body": "",
-    "src": "reuters.com",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSnRyQmF4bGpfeWd4Tmd3X0c0eFRVVWZPLWc5ajcxNEJHcGN4SWNxNTh4LW9raktHb012bUhJTjk3RHpKQjRtN0tHLWRHUExQX19oaVkxLWNNeDA4SmFDNEFQRlM4bmtCRTE4T3pJQnNqQXhqWDFOSEd0TlJTRXc2aDNPdmhkSWI4TXhPYkRUMXZESHhILVQ1QWhSaTRoRDlfanNrVlRQQzhsNEtRb3c?oc=5"
-  },
-  {
-    "id": "news-1x582x5",
-    "t": "2026-10-01T23:57:00",
-    "type": "news",
-    "auto": true,
-    "title": "Frost, Zacha lead an NHL center market that is thinner than ever",
-    "body": "",
-    "src": "Daily Faceoff",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPN1ZJek91NVkybUdoaGlYVFFBcXhUMzhkRzdXY2FaWlFCRXNMdmVXQjRzQ2g5OVlMMXJSQXNZelNKdXp3MlVVSmRTTWpHeVhJSmxzcXNnRzVJemc3ajczTHJBUUZmZVVINWFRVnVMakVXd2h2ekRuSXg4STZiSUMzbkQ5RmNNQ29PcE1BUmNWNGJyd2laU0VBRE9fUFRVa0RTNkRleC16TUpJcDRsSUNHdFRxcTRjMGhH?oc=5"
   },
   {
     "id": "auto-rem-8480051-20261001",
