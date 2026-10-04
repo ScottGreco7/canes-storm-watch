@@ -24,6 +24,18 @@
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQUhpQzdyWHBpOFhiNng2c2dWSk9Rd3JWaU9EVUhOSjZETW9tRU9RZm5TSEdvSDgyeG5IVm15RVJ6dEVaRk8ySlY2Q2I2UHYxYkl0TnAxYjN3TUNlazUwUWtGTW42aEhWY0xXdTNjb1oxSWItVGU0WVlxSkMzcVVadXJ6OFlfLXRXTUNmdl94dG9rdw?oc=5"
   },
   {
+    "id": "news-1iyzosn",
+    "t": "2026-10-04T02:50:30",
+    "type": "news",
+    "auto": true,
+    "title": "Canadiens\u2019 Alexandre Carrier leaves game against Penguins",
+    "body": "",
+    "src": "Daily Faceoff",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWjR2eE9ZX3hWYXY5MVYwN1U2d2xqZDk4UDMxOUI3MVNaMm1CSjJLcFlJc2RzTHI2WTNCUTQ3YUh6bExiM05SbjQzMUxHWVdHVmJobFBPX25CNjJpWERxU1dMU1cxOGgyT2N5NV9IQjJWYVhSdGticllpNzNSWG5DazN5cnRiUkZSMFpBTmhhUHcxZS15di1VNGtxUTBRQWtORktHSUkxbDJEV2V5VEV3bkpjaXZZRExtaGc?oc=5"
+  },
+  {
     "id": "news-1k4m3xm",
     "t": "2026-10-04T02:47:00",
     "type": "news",
@@ -70,6 +82,30 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbi1QRmdhQnlzeTUwY2Rpaml4a1pmSVdLTDJhR0J0WVdkZWlLSWxYN0xwSnhUMmNlTThLSTBYSWJOajd6bjhWb0ZKZlVhdnEtbjZTaXlYU2lhTW9WV2pHYUZVYWdfRC11OWRDVW5LVWlHVUdEZ0tGODF2bHp0SzVfYUFsX01UUmh5TGh6Q3dpY20ya0dBUWRsRm9xOG92c1RWQnZIb1dLVW5hVGRwWVBibU1n?oc=5"
+  },
+  {
+    "id": "news-1l1dviu",
+    "t": "2026-10-04T01:41:00",
+    "type": "news",
+    "auto": true,
+    "title": "Panthers place Barkov on long-term injured reserve",
+    "body": "",
+    "src": "Daily Faceoff",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUTRJYi01TEtrQk1xSlBwUWM1MENXVDFJWUxDMGF5NXFMc2pHR1JJb2phWEN4dFh1RUpCeTFjZHVuRWNUakZQaGxHcDd5MGpVWWh6aDZQZUxxbEdXSUhUS1NsSFZlT3V2TUdwNjNLMWtzYVpDc3Bid2I3SHpmVmx6TXAtQkRjaVJUdWs3S000a0tmTWRndC1oWlZ6aEplNnJnSHFWS3hB?oc=5"
+  },
+  {
+    "id": "news-571y2",
+    "t": "2026-10-04T01:03:48",
+    "type": "rumor",
+    "auto": true,
+    "title": "Simon Edvinsson \"Prefers\" Trade From Red Wings - NHL Rumors",
+    "body": "",
+    "src": "NHL Rumors - ProHockeyRumors.com",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdG41ZE1ZY0NnbnZ2NUhHZjhTTzR1Umw1bVk2aVM2c3JqRi01Q25aM052OW54Mms3endfTWVkVFBQRlJRWEIwMjBvek9ETmQxQTc2aEM2Ny13amdPc3gyR2dlbFM2WnFSUFZnanA1UDBOaDhEMlRBSW9HUHdZRVJFak85V0IzV21rMlc5d2x4TWhVdUU?oc=5"
   },
   {
     "id": "news-26288q",
@@ -492,42 +528,6 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5IQWljaC1xZU5HT3BGeWxwaVNNZjF0Tkktd0YyUmR3UkxIMXlXTnI1eGY3TURMbXlPQUZ2cWZza3Q0c3pkSWNUR1RVdm1IdGNTWXlOdnktRGZpM1hWZHRkSXFENXk3cllscS03VlhTeFlGWTJmTVg4NmhVMXQ?oc=5"
-  },
-  {
-    "id": "news-4zccd8",
-    "t": "2026-10-02T13:00:00",
-    "type": "news",
-    "auto": true,
-    "title": "Top 20 NHL-affiliated prospects to watch in the NCAA in 2026-27",
-    "body": "",
-    "src": "Daily Faceoff",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZDhzUFJKUDJaTU0wOTU4RGxVejhFUEtJTTBpamdpMUQxRVUyWV9IYlVwdF9TcGJnRjV6MGtHOUVsU3c5ZG9BWF9GYWlKZzdVQUwyOXJnaHVBQWN0cUxIQjg4bVEyZHRrRm92YzJzeHZET096RHNsb2JaNDhSdnZobldrZWNfWkZ2WDM0Q2FHTWcyaDRrVUJmY0xkUHRHejlRd3daWlU4Rjdwbkg4QmwwcXNn?oc=5"
-  },
-  {
-    "id": "news-1e8tsp1",
-    "t": "2026-10-02T11:55:00",
-    "type": "news",
-    "auto": true,
-    "title": "After a tough season-opening loss, the Hurricanes head towards their first Metro test",
-    "body": "",
-    "src": "Cardiac Cane",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOU0pCclg4SXI2Slhzd3NjM2N5TGhqRWQzUGw5U0k4UzZTRENTd2hiOXp6Q3BEenhsdE1vdTBodkctbnFkSGZPaEIwVDFVMFBpcG52SEpBYi0yS1lKTU5BZXJYbHhhVlRKRHBhaU5TWFBOWWIxNHNMcklMMDFxOXR0VXc5SXFoc2ZXYzYwUXVlMF9FMlB3TmlKOWo4UWM?oc=5"
-  },
-  {
-    "id": "news-1q11m56",
-    "t": "2026-10-02T05:03:12",
-    "type": "news",
-    "auto": true,
-    "title": "Panthers\u2019 Barkov leaves game against Sharks with apparent leg injury",
-    "body": "",
-    "src": "Daily Faceoff",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQN3ZuYlpPME93SkVTRlhkRVJhOUdDSS1RZVptckNqazNRMFdtb0VyMF9yYk5HS1YxcnRWWnVmMUpKUmxSMmtDclVaWGM0Tl9VVG93VlNPWW51NUxrV3dDQVJ2VlVwQVUzUE9HZUFlWlgwUDZteTU0QzJLZmV1OVBDVk94QWwzOE9FalVSN3VZSkdKdXpwQm4zSU5FWHJZZ0ZfVjRkbWM4QkVTclJWSFpiS09nb1pKZTQ?oc=5"
   },
   {
     "id": "auto-rem-8480051-20261001",
