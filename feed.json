@@ -1,5 +1,79 @@
 [
   {
+    "id": "auto-add-8476422-20261006",
+    "t": "2026-10-06T14:54:16",
+    "type": "roster",
+    "celebrate": true,
+    "title": "Mike Reilly added to the Hurricanes roster",
+    "body": "Mike Reilly now appears on Hurricanes' official NHL roster. Auto-detected from the league roster feed \u2014 could be a signing, trade, or recall.",
+    "src": "NHL roster feed",
+    "out": "",
+    "players": [
+      "Mike Reilly"
+    ]
+  },
+  {
+    "id": "auto-add-8479976-20261006",
+    "t": "2026-10-06T14:54:16",
+    "type": "roster",
+    "celebrate": true,
+    "title": "Juuso V\u00e4lim\u00e4ki added to the Hurricanes roster",
+    "body": "Juuso V\u00e4lim\u00e4ki now appears on Hurricanes' official NHL roster. Auto-detected from the league roster feed \u2014 could be a signing, trade, or recall.",
+    "src": "NHL roster feed",
+    "out": "",
+    "players": [
+      "Juuso V\u00e4lim\u00e4ki"
+    ]
+  },
+  {
+    "id": "auto-rem-8482093-20261006",
+    "t": "2026-10-06T14:54:16",
+    "type": "roster",
+    "title": "Seth Jarvis no longer on the Hurricanes roster",
+    "body": "Seth Jarvis has come off Hurricanes' official NHL roster. Auto-detected \u2014 could be a trade, release, or assignment.",
+    "src": "NHL roster feed",
+    "out": "",
+    "players": [
+      "Seth Jarvis"
+    ]
+  },
+  {
+    "id": "auto-rem-8482100-20261006",
+    "t": "2026-10-06T14:54:16",
+    "type": "roster",
+    "title": "Alexander Nikishin no longer on the Hurricanes roster",
+    "body": "Alexander Nikishin has come off Hurricanes' official NHL roster. Auto-detected \u2014 could be a trade, release, or assignment.",
+    "src": "NHL roster feed",
+    "out": "",
+    "players": [
+      "Alexander Nikishin"
+    ]
+  },
+  {
+    "id": "news-1625ny6",
+    "t": "2026-10-06T12:44:00",
+    "type": "news",
+    "auto": true,
+    "title": "Great Goalie Usurpers 2026-27: Five NHL backups who could steal starting jobs",
+    "body": "",
+    "src": "Daily Faceoff",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYURnM2dXZkYtZlo3VElXYUdqeDgycEpWZXFFRWltN0lBbDgzbWl1U1RkN0V4TFUtakNTcU1CU0xXQWNTbU9La2g3Yms2OFJpWUJRbEl1Njh5VDZHYXJ5TnNHN0xIUVJvb0hQWnpsYWlvR1VtQl9TWTJyZVppekswM053elVkVndXZmo1RnhnZFBoQ0VUVC1sUlFENy1YMXFjUGNyY3RZS25ocHF3Y1REU0tfcW15SG1pU19iQXJR?oc=5"
+  },
+  {
+    "id": "news-j0eeos",
+    "t": "2026-10-06T11:55:00",
+    "type": "news",
+    "auto": true,
+    "title": "The Hurricanes head north to Montreal for an Eastern Conference Finals rematch",
+    "body": "",
+    "src": "Cardiac Cane",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZEtXcTVyZVkzV084RTZzWmhlYlZNOHVuYTJ3YUplNXUzVjU3TjFQSWhzZFdWWDN5T0gzSC1YWVpUNFpiX0h4QUJQdVh3VndEWUtxN1hBZlNBNFdKU3dFUnVEaDVOcTYxZlR2M3BUM0lvS1FFT2VnelhZaUR4V01RaG13THpWSmxFb05TSG00TnVfZkZOWHROdU85RQ?oc=5"
+  },
+  {
     "id": "news-1axpaz5",
     "t": "2026-10-06T04:13:01",
     "type": "news",
@@ -72,6 +146,18 @@
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNY25qTFl3SGxRal9RQXVaWVNYOVo3T1pOelB5X3VXTTNUUmc5YW4tclJVYnBMZlpidlVBbjVHVGtWRTg1RHVLaVNpNHpyOGxDLVAzcVRwbGRDVFdCWndxcEQzcmd1a2tzRXI0UVI0b0N3S3lrSWpvU2lMalFxREo4eE1mMDNtdENvRVk2d3V6Y1RLcTRCRzl6X3dZWGlER2pSZkFnTFZGMlNlSmJJek82U1VmSjdaYmt4ME91TTJQbG5yb1EwU0E?oc=5"
   },
   {
+    "id": "news-wo2ors",
+    "t": "2026-10-06T00:07:11",
+    "type": "news",
+    "auto": true,
+    "title": "Snapshots: Jets, Brown, Severson",
+    "body": "",
+    "src": "Pro Hockey Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mRTl5VTViWmZrT2RYVERZWDF4SlhNbXp4TlhLcWpnbnlLWVRyaGRYMGJ4RkFoUlRrcGgzcmM2dmVrUjZjbUxZT2V2ck9lZkd2azFCbEJRdU1VcUtFLWlzR2xuWlh2ZFJTWU1aMU5NN28yXzBqSFlJQzRWUHI2MWM?oc=5"
+  },
+  {
     "id": "news-wky4yz",
     "t": "2026-10-05T23:32:27",
     "type": "trade",
@@ -120,6 +206,30 @@
     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOF8wRnBYZml3UUFWRElqSk02MVBsVHI0ZnowV280Z0dPZ1JhWGppYm5iZ29yeW05dzNDY2d0NnV5S0dkeVdvNHo3bzJPWmx4N2ZWQ0FBT3BwRjIwVU9mSGJkWHYxdFRlVjhJU21waGpDVXNrdmF0d1VEVUtNUHJSM2lfa3dscWNZcHNkWFZ0cw?oc=5"
   },
   {
+    "id": "news-1n46c07",
+    "t": "2026-10-05T21:57:00",
+    "type": "rumor",
+    "auto": true,
+    "title": "2 Blue Jackets Named Prime Trade Candidates",
+    "body": "",
+    "src": "nhltraderumors.me",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVzZvZnVqNjBPV1ljVzMxUmducEJ6QUdQZUgxNmFLOXlrOWlyUzF1ZTI5SUhWakJMaEI5SElIOHJmbi1CaHFzSWZ1UXNBTnpDUmxEOWVWWFpwa21TTlJuSThOOF9vQkpHcHd2ckJUU0p6cWh3bFJZV0ZyUDFyMEdDVQ?oc=5"
+  },
+  {
+    "id": "news-lg0k0a",
+    "t": "2026-10-05T21:41:00",
+    "type": "news",
+    "auto": true,
+    "title": "Sharks & Jets In Advanced Hellebuyck Talks",
+    "body": "",
+    "src": "nhltraderumors.me",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBIekZkRURCSzlXZUl0bkE4LU1qZ19qM25sbHROWC1yNjdPNkVUSFBfaE5lZmg2N0JjVXpwQ1ZVS3Jxa2ZrcmZLSS1NMTlMcmJYWDQyV3Y1WDhVQ3otZDFFOTBGR0MtcVZ6dVdZWUNGZmJGN2wxdGFWbndfdXBJLVE?oc=5"
+  },
+  {
     "id": "news-1v1w31",
     "t": "2026-10-05T21:25:00",
     "type": "news",
@@ -132,6 +242,18 @@
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQS2RFelluQmJOLW5GQ3FmcXZLbzRVN2VJRXd4SDA3Y3UxSTlJcFo1Q0U4VUZnVjJPbmRVdnZxcFNEaEJFMG9nMUVqOEdRUUh3dDZVYnByZ0ZVSmptU0hjX3dhT25nM2NtbUd5WmFzU1FoZ19nNUFBaFpSOUlncEtqbHZycTQ?oc=5"
   },
   {
+    "id": "news-2ty1eb",
+    "t": "2026-10-05T19:12:10",
+    "type": "news",
+    "auto": true,
+    "title": "Rangers Place Matthew Robertson On Waivers",
+    "body": "",
+    "src": "Pro Hockey Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSWZYWTlvMXJ2SDA0Rkh3Z255bXF1eFh5Z1dWZm5aSk5VYk5GcEIzZlIwRjluWjJFeGZnemxqclFFaGZsbVY1Mkl3a3pUSjVhWDJhNmVJd09PY2ppeXRGY01FYmRtSzQzWUIwQ0RZa1RuU01mc09CYkc5UUNiZzJvMGgzMVVPZjI0Q3JTOURyQ1M?oc=5"
+  },
+  {
     "id": "news-zbatmg",
     "t": "2026-10-05T18:59:18",
     "type": "news",
@@ -142,6 +264,18 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbV9DRkY3Qng1YXJESnh5Yy05MW1KLTRzZF9ucGRWX0twbE81bFlnQ211X21DSmEyb3JiN25LWXlaV19LR1RuWlFzcjRHZm96bHFvM053VV9WOTRRN1IzLTBLdGRtbUtvUzhpdjhHWldBa2JaYTNxSVhNc1g0QjJTQmtWcTZMa29Ydm1EQ0ZQc3FUem5JSzluVFAxbw?oc=5"
+  },
+  {
+    "id": "news-3mvoig",
+    "t": "2026-10-05T17:23:00",
+    "type": "news",
+    "auto": true,
+    "title": "St Louis Blues NHL Line Combinations",
+    "body": "",
+    "src": "Daily Faceoff",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE91V25qc1NVODJuQy16cmF4MTFTNUQ3aHpQNjIzUkw1NW9FU1p6Mld2dXljX0lYelJVTkZzQmktMUs3NmFSRVRNVlNCOUlJWmo1NTFFcmRzV2YzZ1RCS2JnLVo1UExwWDk4aEU1T2Rocld3bk41ejd3?oc=5"
   },
   {
     "id": "news-9rlc1v",
@@ -178,6 +312,18 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOUJFMWlqWTZzRmY1M29UaVpnb2liS1FNS0JINVNSdXFQTHBjcWlmQ0o4a3EtS1JFTk1zWTAyRFVGdE9iaC1vWk5zSTROUDV2MEFiZjJTdXIxU3lpdHJjM1dlVVIzU3FyQTFnNnBHMUJ3WE52eUo0YjU4aVM3cmNENEREaEVsSTAtaG1RbWJPaWcxSlZnNmpDbjZ3WExUQmZwRTUta3ZlOA?oc=5"
+  },
+  {
+    "id": "news-1hagjsc",
+    "t": "2026-10-05T15:32:28",
+    "type": "news",
+    "auto": true,
+    "title": "Canadiens to have multiple EBUGs for 2026-27",
+    "body": "",
+    "src": "Daily Faceoff",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWWtMSXlLalE4U1dCb3NYaktla1VRcmRlUDRvZ0RuT01XdVQzVm1vc3BGVnozSGRXSjlWNmo0S0w0X192Nm9CdlBJMEMwSjUzUG10bDV4YVd3X250NkJJa1U2MHdLWDVLWTZlamtOMUx2dG5rOHJCSEZubVJtT2hwZ2xVYUV4Z2lBbWhJaC1YRUdGWTRycnRnd0RyTDBRNHhVX1dHdmU3dGd1NGtfU2ZVNnBrRzloSExPd0t4anp2SEdBcnc?oc=5"
   },
   {
     "id": "news-uqheir",
@@ -382,102 +528,6 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZFg4QmZ1S2xzQ1JoX2oyeEdJVUZnS180akp0dmppbU5UU0sxa2F5ZlJleERVUGg5eXQ1SE5kbnV4UEo4UU9CY09RcmJURGp5NmVoZERpNE9oOVVTZXh4WG1RVEFibks2VFRDNXZBdGE5OXBzeUV4VWd4MVJQWXFnV1ExQ2FLYlVsWmxMOUpB?oc=5"
-  },
-  {
-    "id": "news-1xhunhj",
-    "t": "2026-10-04T14:40:21",
-    "type": "news",
-    "auto": true,
-    "title": "Capitals To Evaluate Matt Roy For Injury",
-    "body": "",
-    "src": "Pro Hockey Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZFg4QmZ1S2xzQ1JoX2oyeEdJVUZnS180akp0dmppbU5UU0sxa2F5ZlJleERVUGg5eXQ1SE5kbnV4UEo4UU9CY09RcmJURGp5NmVoZERpNE9oOVVTZXh4WG1RVEFibks2VFRDNXZBdGE5OXBzeUV4VWd4MVJQWXFnV1ExQ2FLYlVsWmxMOUpB?oc=5"
-  },
-  {
-    "id": "news-cg4iz3",
-    "t": "2026-10-04T14:20:00",
-    "type": "news",
-    "auto": true,
-    "title": "New York Rangers NHL Line Combinations",
-    "body": "",
-    "src": "Daily Faceoff",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE13eFF5UmM1MUdHSjRJb29wUVJRMEI0d3VzekV0c2tUN29LbmNUNWNUU2pUQ0NLcDBTMnNXdm1WR2NLU0ttTm1qTmxLUkVYS2hkNXZwbFNNaWk2OEVDNzNLRWxTdmg2SVUta3lSSWstak43MFBMLWRBODln?oc=5"
-  },
-  {
-    "id": "news-bij6gs",
-    "t": "2026-10-04T13:23:00",
-    "type": "news",
-    "auto": true,
-    "title": "Report: Edmonton Oilers Making Trade Offers",
-    "body": "",
-    "src": "nhltraderumors.me",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZWYwd1VCYUVhbjQteHJyeFp6dzBqUTlrekY2N0g3WExGVmJHTXBhTlRXdjJQMTNPeVRBQU1ZZTFsREJGNm5iQ1dqQ0JwTUVCeS1KSk1pWVJVQXUtMVF4Qk1zTDJmWHVJWHVScVg0RFJRNXlULTZFWjBpTF9VaXhhWDJ6UlI?oc=5"
-  },
-  {
-    "id": "news-ti5atj",
-    "t": "2026-10-04T13:16:38",
-    "type": "rumor",
-    "auto": true,
-    "title": "Senators\u2019 Jake Sanderson Exits With Injury - NHL Rumors",
-    "body": "",
-    "src": "NHL Rumors - ProHockeyRumors.com",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNelNCcHFfb2NRUGxjQnhnNTJ0ZWRiZURxR0pQNnQzTVFsaWdhNk14by13Mjc3VGNJSDQwZXpwdTNtUjk0eXNLaXdnQ2xmdFRJcmNYVVZPVEhCcUF4Y00zd1E0Rmw3bkNuS3YtcVd2MmVjbHBMM090QzBQdmgycndmdmJSQXV0RTdMSVB0NUxZQQ?oc=5"
-  },
-  {
-    "id": "news-132t79c",
-    "t": "2026-10-04T13:16:38",
-    "type": "news",
-    "auto": true,
-    "title": "Senators\u2019 Jake Sanderson Exits With Injury",
-    "body": "",
-    "src": "Pro Hockey Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNelNCcHFfb2NRUGxjQnhnNTJ0ZWRiZURxR0pQNnQzTVFsaWdhNk14by13Mjc3VGNJSDQwZXpwdTNtUjk0eXNLaXdnQ2xmdFRJcmNYVVZPVEhCcUF4Y00zd1E0Rmw3bkNuS3YtcVd2MmVjbHBMM090QzBQdmgycndmdmJSQXV0RTdMSVB0NUxZQQ?oc=5"
-  },
-  {
-    "id": "news-18jdq42",
-    "t": "2026-10-04T04:09:54",
-    "type": "news",
-    "auto": true,
-    "title": "\u2018CANES ASSIGN LEGAULT TO CHICAGO",
-    "body": "",
-    "src": "CANES PR",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1fTURGR0lnRF9WNjdiUXJUeU91UGRuUTI1Y3U2WjdvX1d3U2ptMU5vN3lZSkx5UWJZYkJuTENGZUFNVDQzZW1TTnJKeHF1bXFBQmIta2xDME5sNm5BcGV6TDRxcWJuelhzN1QzSFVpVW1RbTA?oc=5"
-  },
-  {
-    "id": "news-4z6as4",
-    "t": "2026-10-04T03:10:00",
-    "type": "news",
-    "auto": true,
-    "title": "Timely special teams help the Hurricanes best the Flyers to find the win column",
-    "body": "",
-    "src": "Cardiac Cane",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQUhpQzdyWHBpOFhiNng2c2dWSk9Rd3JWaU9EVUhOSjZETW9tRU9RZm5TSEdvSDgyeG5IVm15RVJ6dEVaRk8ySlY2Q2I2UHYxYkl0TnAxYjN3TUNlazUwUWtGTW42aEhWY0xXdTNjb1oxSWItVGU0WVlxSkMzcVVadXJ6OFlfLXRXTUNmdl94dG9rdw?oc=5"
-  },
-  {
-    "id": "news-1iyzosn",
-    "t": "2026-10-04T02:50:30",
-    "type": "news",
-    "auto": true,
-    "title": "Canadiens\u2019 Alexandre Carrier leaves game against Penguins",
-    "body": "",
-    "src": "Daily Faceoff",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWjR2eE9ZX3hWYXY5MVYwN1U2d2xqZDk4UDMxOUI3MVNaMm1CSjJLcFlJc2RzTHI2WTNCUTQ3YUh6bExiM05SbjQzMUxHWVdHVmJobFBPX25CNjJpWERxU1dMU1cxOGgyT2N5NV9IQjJWYVhSdGticllpNzNSWG5DazN5cnRiUkZSMFpBTmhhUHcxZS15di1VNGtxUTBRQWtORktHSUkxbDJEV2V5VEV3bkpjaXZZRExtaGc?oc=5"
   },
   {
     "id": "auto-add-8482093-20261003",
