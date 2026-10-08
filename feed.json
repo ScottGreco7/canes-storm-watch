@@ -1,5 +1,65 @@
 [
   {
+    "id": "news-1fz06nx",
+    "t": "2026-10-08T00:14:00",
+    "type": "news",
+    "auto": true,
+    "title": "Sebastian Aho has put the offense on his shoulders early in the season once again",
+    "body": "",
+    "src": "Cardiac Cane",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNci0tNXZLbHZkNEJ2TFJGRkVwVlgzUUJLeXhMVjhOaVAxa2RRal9qdURUSk5kcWtXZkZmNVk5OGxIVkpmV3ZWY2pDNHF3V19GZVhaSjJfa2NmenFkMzc3WDd2TnlQSU9VaGotWVRsM09RZG14OUpoWm5zdllJSlFmd0RnZGRsREd6eUxBLWlvNEF0UmRCUHgzZg?oc=5"
+  },
+  {
+    "id": "news-wxkzzi",
+    "t": "2026-10-07T21:20:00",
+    "type": "news",
+    "auto": true,
+    "title": "The 10 NHL players paid closest to their on-ice values in 2026-27",
+    "body": "",
+    "src": "Daily Faceoff",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNeW9Fb2VHV1pib1BZYi1VNHc5dExBSERYSHFMUndFQkVRZnFrU2ItRng3NlVZcU1tZGw0azVIZjNETjdPMFRhZ3dJYzZJUDQxUFpVbE1GNU5vMjM0SUswYVFERS1saW9mZUhpSmd0ZloyOHpKbDFDU25IRU12OU9EeDAyS2tDaGQ3cDZsbFVHZjhtd1hCNjdUeVpkckg0WmZGUVJuM3RlNFpYSy16cDN4emZYY2VQSFQ4SEFQRUF6WGhXRm50eTdrZGl3MjlfV3hoTzYyYkk2UUhZNDNfa1hTdnpZRXItYlNnX1kzY2l6eDNDZC1wYVNaSFk1UE91UW9BbFZ3?oc=5"
+  },
+  {
+    "id": "news-1w7r3ul",
+    "t": "2026-10-07T20:30:35",
+    "type": "rumor",
+    "auto": true,
+    "title": "West Injury Notes: Teravainen, Lindgren, Olofsson - NHL Rumors",
+    "body": "",
+    "src": "NHL Rumors - ProHockeyRumors.com",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUDZXOG41WmEtSWJfcVdDcm05dUw4QUZRM2NrY2lHN3hYSHlrSDMyY0xGMXJQdU52eGQwdGtGRGpjZFFWaV9TYkpNVWh4YXNVX0xTRlZIc1N3OU1kTUQ0N2N3dXNWckZ4ajFBWWtLNUJYd0RKM2szYlN2bFNZMzdNX3UzTzk5eVV5YnNnUnVhWDgzVDVkc2c?oc=5"
+  },
+  {
+    "id": "news-1tk96jh",
+    "t": "2026-10-07T19:30:52",
+    "type": "rumor",
+    "auto": true,
+    "title": "Panthers Place MacKenzie Entwistle On Waivers - NHL Rumors",
+    "body": "",
+    "src": "NHL Rumors - ProHockeyRumors.com",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPX2lPdmVJUGhGY2JfOGlqVlBEbGpUaG85TkJ4YlJCNHZJcVRoU1pTejMzdllzU2E1bWY1ZmlnM0JkS3dzRl9RUEZIaWk4ZUNfWmhMRE0xUXJVSHVpRFMwQjJLQklINGZYZFZmS1VtRE1rckMzOVBaQS05QnhrQUFjY1drU1BkcG5Nc1BSdGlYYm5mMldO?oc=5"
+  },
+  {
+    "id": "news-tr9rgc",
+    "t": "2026-10-07T17:54:50",
+    "type": "rumor",
+    "auto": true,
+    "title": "Alexander Romanov Out 6-8 Months After Surgery - NHL Rumors",
+    "body": "",
+    "src": "NHL Rumors - ProHockeyRumors.com",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOLUkxMG1fYmVHZWxSdndpeWRHOHo4LTNUbE5MWGlJVk42aWlnaVlGaEowbXpveXJQdkZDMlZMVDFYellTOXRyRmxUZlN0dE00QjZoNHlpM2txbm5XeGxYa3BPWVluYTdCM09HQ2NzUGtOSFIyUXNmeUNWV2pfSHVfUHFzMHhqSmtVZzlQdVpBMTJaSlcxbUE?oc=5"
+  },
+  {
     "id": "news-87b71f",
     "t": "2026-10-07T14:30:00",
     "type": "news",
@@ -22,6 +82,18 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOVczZEsyTnhUTm5uMkhMd0E5QWlEakEzc0JtRWdHX3pYNHpLS1l1X2FmWGRCUVl5M2xaRlNWUnlzM3g4WW9fRVA1V0g4ZHNFeFhrdjQwa0FwQzdsWldONk9SNHZ6X2hTS0J6bDBmQ1Z5SXNjUU1yV25zNVhwd251WGo3MzdvWWpCN2h5cUZhWjYxVXdpLVRObU1DRUZtQ01RR1g5Qw?oc=5"
+  },
+  {
+    "id": "news-14y5adv",
+    "t": "2026-10-07T13:18:36",
+    "type": "news",
+    "auto": true,
+    "title": "Carolina Hurricanes Trade Tracker",
+    "body": "",
+    "src": "Sportsnaut",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9nOUJ4NWVNOHljeUtybWlWZmM0ZHkySkZ3YnczNUpUQ2tMODJpMExmaS1lLUp2LW85WGYxVGpBZ1pHOTM4elVUNzRCcjJJRXRMcGk3azUxRWctSUVRVEdtQUp2WFQxOUwwcm1aNQ?oc=5"
   },
   {
     "id": "news-68drb8",
@@ -386,6 +458,18 @@
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNR0RGTGxUd2daTTktekJwWnk3TzdMU2I5VmlldEJQQWlFTnlLT2VvNkxDd1Bfc1FHTmVvMHp0SGFBcXlIVmszWG9qVHhGMlFRVHg5cVNNZm5UMUxpQ1F6ZlB3YnB4LXdWazlZLXdoN0VwcmpkN2dLamhlYmQtRENRY0NWc1Q5REZ3MEF1Y05vR0g4NERNUUcwUA?oc=5"
   },
   {
+    "id": "news-1uehick",
+    "t": "2026-10-06T14:25:52",
+    "type": "news",
+    "auto": true,
+    "title": "Carolina Hurricanes Claimed Brandon Bussi From Florida Panthers One Year Ago",
+    "body": "",
+    "src": "Heavy.com",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNY25qTFl3SGxRal9RQXVaWVNYOVo3T1pOelB5X3VXTTNUUmc5YW4tclJVYnBMZlpidlVBbjVHVGtWRTg1RHVLaVNpNHpyOGxDLVAzcVRwbGRDVFdCWndxcEQzcmd1a2tzRXI0UVI0b0N3S3lrSWpvU2lMalFxREo4eE1mMDNtdENvRVk2d3V6Y1RLcTRCRzl6X3dZWGlER2pSZkFnTFZGMlNlSmJJek82U1VmSjdaYmt4ME91TTJQbG5yb1EwU0E?oc=5"
+  },
+  {
     "id": "news-1625ny6",
     "t": "2026-10-06T12:44:00",
     "type": "news",
@@ -444,90 +528,6 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRTZYc3NlYTlEZzJtaFJPWXJuYWc1UGdnRnRWdVhsNWwzWHFJeFN0REVzcHZyUkd5cWNkYXN0SmJSV0hXZXZ3R3R0aGxFSUQxZDlaM25EekZLb0FuOFJxM0x4YnBLZnBuY3FIT3FSaTlrdm9JRWs1Ry1KelRrcVo4Y0MwWU82S1U4MDJXcUJoTQ?oc=5"
-  },
-  {
-    "id": "news-9rlc1v",
-    "t": "2026-10-06T02:06:00",
-    "type": "news",
-    "auto": true,
-    "title": "NHL power rankings: Wild leading the way after red-hot start to 2026-27 season",
-    "body": "",
-    "src": "Daily Faceoff",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcUdsQWFySXRwZTR6ZmZzN3NCMkFfSE56U3hRNy1TeTNqczlxalAwYU9IVmNEVVJRcGpYRVBwX0EzYmtnMmU4SGNidlJTRmZxYVVGRjg2QnY2WDJLaUZET0x4eC1DNjJILWJMLXFibnZtSUwtLVIyV0ctemJzRXhZT0ZCOTZybFA4TncxRmN1ekg5MG85clhrRVByb1FFUld3VjV6QmJsanoxbERXcEhzODFoR1M4dw?oc=5"
-  },
-  {
-    "id": "news-gxeu3r",
-    "t": "2026-10-06T01:44:00",
-    "type": "news",
-    "auto": true,
-    "title": "Ottawa Senators NHL Line Combinations",
-    "body": "",
-    "src": "Daily Faceoff",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1PYTIzalZrSFNxSDNfdW80MG5PbFV0clh5eXJ2d2JmY3Bxc2JqUUdwTlRMVzZFRDJJLTdXYi1WUGNRZ0x3NmNZMmxMRmNzR3F2VHJlNDQwWjZjYVYyX09OdGpWZFB5c1NOajdiNWgyLV95UzRCaFBXYQ?oc=5"
-  },
-  {
-    "id": "news-bdb5q8",
-    "t": "2026-10-06T00:51:36",
-    "type": "news",
-    "auto": true,
-    "title": "Evening Notes: Celebrini, Lilleberg, Draper, Sabres",
-    "body": "",
-    "src": "Pro Hockey Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVjM1bms5UXFFVDVXZ2Zqek1tNkpjRW10LTdlZjdObnBoNkp3NjZUWm9ESTFnOEVyUVBRRWpJdDVjY1hoWmhGQm5heHl3WUlXMkZWVFpIRElKT2JjRUpvLUE5MkFiNEZZR0YxMm1oWUt0Q0tCYlZKYTlGYVNyX2VpeFZuTzRpeTBrYjhVaEdYbjRKbmxtWThr?oc=5"
-  },
-  {
-    "id": "news-ji7vx8",
-    "t": "2026-10-06T00:26:00",
-    "type": "news",
-    "auto": true,
-    "title": "Which 19-year-old former CHLers are playing in the AHL in 2026-27?",
-    "body": "",
-    "src": "Daily Faceoff",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMTJBa2x3X2g2eVlfNjVGMW5KRTdwbXVXMVowYjhDeXh0RlhpZmZOcllyQl9RQ2xOblNHZGxkNDd5MWJCbURwVTRQV3BCNWxhMmh6cEN1eFMycEFNRUlMd0pDUXhJLXlZNkwwWkVFeEFkVDVJVWpFYjJrZGJCZGJWclU0RC1lUm9pX2U1Z3FHUlVTbG4wM2tmWWo5X1E0TDZWeHdMa2NlSFljT012M25SNXFKcm9fNzFDWklVXw?oc=5"
-  },
-  {
-    "id": "news-14uzafd",
-    "t": "2026-10-06T00:14:00",
-    "type": "news",
-    "auto": true,
-    "title": "Carolina Hurricanes Claimed Stanley Cup Hero One Year Ago Today",
-    "body": "",
-    "src": "heavy.com",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNY25qTFl3SGxRal9RQXVaWVNYOVo3T1pOelB5X3VXTTNUUmc5YW4tclJVYnBMZlpidlVBbjVHVGtWRTg1RHVLaVNpNHpyOGxDLVAzcVRwbGRDVFdCWndxcEQzcmd1a2tzRXI0UVI0b0N3S3lrSWpvU2lMalFxREo4eE1mMDNtdENvRVk2d3V6Y1RLcTRCRzl6X3dZWGlER2pSZkFnTFZGMlNlSmJJek82U1VmSjdaYmt4ME91TTJQbG5yb1EwU0E?oc=5"
-  },
-  {
-    "id": "news-wo2ors",
-    "t": "2026-10-06T00:07:11",
-    "type": "news",
-    "auto": true,
-    "title": "Snapshots: Jets, Brown, Severson",
-    "body": "",
-    "src": "Pro Hockey Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mRTl5VTViWmZrT2RYVERZWDF4SlhNbXp4TlhLcWpnbnlLWVRyaGRYMGJ4RkFoUlRrcGgzcmM2dmVrUjZjbUxZT2V2ck9lZkd2azFCbEJRdU1VcUtFLWlzR2xuWlh2ZFJTWU1aMU5NN28yXzBqSFlJQzRWUHI2MWM?oc=5"
-  },
-  {
-    "id": "news-cca9lr",
-    "t": "2026-10-06T00:07:11",
-    "type": "rumor",
-    "auto": true,
-    "title": "Snapshots: Jets, Brown, Severson - NHL Rumors",
-    "body": "",
-    "src": "NHL Rumors - ProHockeyRumors.com",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mRTl5VTViWmZrT2RYVERZWDF4SlhNbXp4TlhLcWpnbnlLWVRyaGRYMGJ4RkFoUlRrcGgzcmM2dmVrUjZjbUxZT2V2ck9lZkd2azFCbEJRdU1VcUtFLWlzR2xuWlh2ZFJTWU1aMU5NN28yXzBqSFlJQzRWUHI2MWM?oc=5"
   },
   {
     "id": "auto-add-8482093-20261003",
