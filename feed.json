@@ -1,5 +1,17 @@
 [
   {
+    "id": "news-1ob1f24",
+    "t": "2026-10-08T04:11:07",
+    "type": "news",
+    "auto": true,
+    "title": "October 8 \u2013 Game Notes vs. Vancouver Canucks",
+    "body": "",
+    "src": "CANES PR",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9Ub1d5dE1BbTdJQlAtb280cWNlZTQtNjdPXzk3Q0dDRFJPN0dYSnZsTmdWa1VZanVOTjlneW5ZcDVLSWVDN3dwRUx5Tkh5V3JPcFV4dDF1UG1jWHRRZkpqb0VZU0NuaW03NEhXZjA1cVlKZTJLU3B0dkRxazYxQQ?oc=5"
+  },
+  {
     "id": "news-1fz06nx",
     "t": "2026-10-08T00:14:00",
     "type": "news",
@@ -10,6 +22,18 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNci0tNXZLbHZkNEJ2TFJGRkVwVlgzUUJLeXhMVjhOaVAxa2RRal9qdURUSk5kcWtXZkZmNVk5OGxIVkpmV3ZWY2pDNHF3V19GZVhaSjJfa2NmenFkMzc3WDd2TnlQSU9VaGotWVRsM09RZG14OUpoWm5zdllJSlFmd0RnZGRsREd6eUxBLWlvNEF0UmRCUHgzZg?oc=5"
+  },
+  {
+    "id": "news-ew9efh",
+    "t": "2026-10-07T23:00:38",
+    "type": "rumor",
+    "auto": true,
+    "title": "Oilers Activate Jason Dickinson - NHL Rumors",
+    "body": "",
+    "src": "NHL Rumors - ProHockeyRumors.com",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZnJudzl2Qkx2RFBJalQtcHZmUTF5UEdadlFXalE0Rm5vbU9vNm1qYms1bzVBTVFuNFhLYTUwazZQeTlxal9TS2RVU0d2ZFY2alNiMWJVVXFHVVhsSTB4bDRWMTJycWZKMm9pYnFTWWR6WVF2M2hTN1Y3dXhkbTA0dnpB?oc=5"
   },
   {
     "id": "news-wxkzzi",
@@ -34,6 +58,18 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUDZXOG41WmEtSWJfcVdDcm05dUw4QUZRM2NrY2lHN3hYSHlrSDMyY0xGMXJQdU52eGQwdGtGRGpjZFFWaV9TYkpNVWh4YXNVX0xTRlZIc1N3OU1kTUQ0N2N3dXNWckZ4ajFBWWtLNUJYd0RKM2szYlN2bFNZMzdNX3UzTzk5eVV5YnNnUnVhWDgzVDVkc2c?oc=5"
+  },
+  {
+    "id": "news-rhkc2i",
+    "t": "2026-10-07T20:00:06",
+    "type": "rumor",
+    "auto": true,
+    "title": "Minnesota Wild Recall Tyler Pitlick - NHL Rumors",
+    "body": "",
+    "src": "NHL Rumors - ProHockeyRumors.com",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQa01wVXM3YnpfdFVUeWxxU1c2NS1uZ2pRbnp2WGp1NTd5NnZPRGhUaXIzWk91aWxiTWFuc09wNWtNNTFGTUpKb1A3V0hLZDhDYmgxa3JjUjh5TTluRXRfSUlra1dfUzduTjg2TUJod2VyTUtPUjN4eXZPcGpNNXB6N3prYkdHVjg?oc=5"
   },
   {
     "id": "news-1tk96jh",
@@ -70,6 +106,18 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYlFnTFhMU2ZFQTViYVp4NFdSVXVLT3YtYjhDYzU2MFJCRVU4WUlWdjNTd1pPU3lBNWp0cDNtTE0zZmU2djVOdjlnZGN0TEt1bmtmLWlqRGZPeTNFUWhIVmVQMzZOdmM3c1h1R01QMHh3NFlVcl9KMGdLNzNFYjY3a0FjSQ?oc=5"
+  },
+  {
+    "id": "news-upo1o3",
+    "t": "2026-10-07T13:56:02",
+    "type": "rumor",
+    "auto": true,
+    "title": "Panthers\u2019 Brad Marchand Sustains Lower-Body Injury - NHL Rumors",
+    "body": "",
+    "src": "NHL Rumors - ProHockeyRumors.com",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVWpjN0YxbmF4WHJqaGQzSXZETmkzYi16M0gtSXQ1VkFtaDkxbVBGLXNwUndrT3JJSERPdnc2SzBRRzg0V21QOG9KdWM2eS1zQ1M3MEhoQjNKZ25SYm1vTFNWcHRGS0NEaDg4T2swSjZPLVlYOTcxZ0VuTG5PbTA0WUJ6aUhTS1NnMEt5QXZxaUdFdld3Y0l2UWVB?oc=5"
   },
   {
     "id": "news-i1uuk7",
@@ -480,54 +528,6 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYURnM2dXZkYtZlo3VElXYUdqeDgycEpWZXFFRWltN0lBbDgzbWl1U1RkN0V4TFUtakNTcU1CU0xXQWNTbU9La2g3Yms2OFJpWUJRbEl1Njh5VDZHYXJ5TnNHN0xIUVJvb0hQWnpsYWlvR1VtQl9TWTJyZVppekswM053elVkVndXZmo1RnhnZFBoQ0VUVC1sUlFENy1YMXFjUGNyY3RZS25ocHF3Y1REU0tfcW15SG1pU19iQXJR?oc=5"
-  },
-  {
-    "id": "news-j0eeos",
-    "t": "2026-10-06T11:55:00",
-    "type": "news",
-    "auto": true,
-    "title": "The Hurricanes head north to Montreal for an Eastern Conference Finals rematch",
-    "body": "",
-    "src": "Cardiac Cane",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZEtXcTVyZVkzV084RTZzWmhlYlZNOHVuYTJ3YUplNXUzVjU3TjFQSWhzZFdWWDN5T0gzSC1YWVpUNFpiX0h4QUJQdVh3VndEWUtxN1hBZlNBNFdKU3dFUnVEaDVOcTYxZlR2M3BUM0lvS1FFT2VnelhZaUR4V01RaG13THpWSmxFb05TSG00TnVfZkZOWHROdU85RQ?oc=5"
-  },
-  {
-    "id": "news-1axpaz5",
-    "t": "2026-10-06T04:13:01",
-    "type": "news",
-    "auto": true,
-    "title": "October 6 \u2013 Game Notes at Montreal Canadiens",
-    "body": "",
-    "src": "CANES PR",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wZzNiazc3SW5oSGJaTkpqRDlZZC1fSWdOT0l2Qnk3ek96aXBIZGc4YlZET0h2TXAyYUdwVF90bVdhM0hkZGFabm9SdUFOQlo0OEhHTWNJTlI0RHVlMGtIMnBWbWlLZ1ZYMThtY1pubFlTanlhcmpOYktiWG1rUTg?oc=5"
-  },
-  {
-    "id": "news-1gvfulh",
-    "t": "2026-10-06T04:13:01",
-    "type": "news",
-    "auto": true,
-    "title": "\u2018CANES RECALL VALIMAKI FROM CHICAGO",
-    "body": "",
-    "src": "CANES PR",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBRd0RvTDhDelllbm45VjhHUmJLNkpNMjVmaU9oUjFGaUMzNFQ5R0F1MktlLUppRlNsdTVEV1VockJ2UDJhUGk4WWUwY29mVjh3ZFdNTzVRQVRjS2ZqY2lUZ2xqT0tNOHZ5RHduQWV1VjhXMTlG?oc=5"
-  },
-  {
-    "id": "news-3wrkrb",
-    "t": "2026-10-06T02:44:47",
-    "type": "news",
-    "auto": true,
-    "title": "Carolina Hurricanes\u2019 Slow Start: Big Deal Or Not A Big Deal?",
-    "body": "",
-    "src": "North Carolina Sports Network",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRTZYc3NlYTlEZzJtaFJPWXJuYWc1UGdnRnRWdVhsNWwzWHFJeFN0REVzcHZyUkd5cWNkYXN0SmJSV0hXZXZ3R3R0aGxFSUQxZDlaM25EekZLb0FuOFJxM0x4YnBLZnBuY3FIT3FSaTlrdm9JRWs1Ry1KelRrcVo4Y0MwWU82S1U4MDJXcUJoTQ?oc=5"
   },
   {
     "id": "auto-add-8482093-20261003",
