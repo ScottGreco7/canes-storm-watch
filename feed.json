@@ -1,5 +1,29 @@
 [
   {
+    "id": "news-6wvm4p",
+    "t": "2026-10-10T12:56:43",
+    "type": "news",
+    "auto": true,
+    "title": "A Windy City clash with the Blackhawks begins a very busy weekend for the Hurricanes",
+    "body": "",
+    "src": "Cardiac Cane",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVF9McDEzZTBoTkpFdlBNNzVHdi1WRkRjaWcxR1A5c0ZNdGZBLUszVmZFUVF4aV9qUElmTU1OM3N3MkcyMmNobmF0cF8ycTM4QmpmTFpGanp2UmNFLWM1RDFJOW9MZFMyNmpxWDdPZjdtRnA3emx0bHZfTVBGR3BBUC01UGpndFYzeW8wd1RWREl0Y2RodDZobUNPUUE?oc=5"
+  },
+  {
+    "id": "news-k6jz2m",
+    "t": "2026-10-10T10:31:38",
+    "type": "signing",
+    "auto": true,
+    "title": "Hurricanes\u2019 Pyotr Kochetkov Showing Signs of Reaching Next Level & Latest News and Rumors",
+    "body": "",
+    "src": "Substack",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBIVFItQ1FLMUZNa213Ri0teTFpc05kdVZ4V2diZVl5TVhwbzZsbVlhckhOTHViT284REFGNG5SdWtKWThWdmNmbFNSUkdZUGhZRUhGZ2VvNVNCUzFxZk95S1UybkxyYlRzZjUyYXhVSXF4cFc1YVhrTGtpUGdHdw?oc=5"
+  },
+  {
     "id": "news-1l5rzm8",
     "t": "2026-10-09T21:36:11",
     "type": "rumor",
@@ -46,6 +70,18 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYnlQMVFFRUNMUjRFclJfRUJLdExWVEY0UkZjRVRmR1VjRDRvLV9TT1BYc3JMSTM2N0J6MHA4YTZOXzJRcWlKOVFJNVVuNXZLbnN1OUpHWjJwOGVKRGE3dEUzSnp1Q3dZbEpzN1hHZVVaYkxnU0RaOE5lWHlUeWlpcnpMVHkwdklvbVE?oc=5"
+  },
+  {
+    "id": "news-1oumt3h",
+    "t": "2026-10-09T16:52:00",
+    "type": "news",
+    "auto": true,
+    "title": "Blackhawks\u2019 Frank Nazar suspended two games for head contact on Islanders\u2019 Bo Horvat",
+    "body": "",
+    "src": "Daily Faceoff",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVDI3cXZYNWVISk1LWjhWb2N5a0NlZjhoSk9GbTRjMWFMMkNkN2k0VDV2SDh0a2xwN2o3c1VLZDFrZzJIa3ZpUjZOWmFNZ3JnR2dEREZDUHhKRWd0TEF2T2NISDFjQ0dKZ29UNEkycmkzYWt4ak9EdDBTYmRyZmZJdzFTSFptbG85TVNyLVVER3l6LTgwT25GaG1lVmhyZzZvRUdEZUtIZVBmak5CQTNtOWljSTE5Unh3QXJINzgwRFcxRmlhSC03Q0FVT2FKckVT?oc=5"
   },
   {
     "id": "news-uqheir",
@@ -348,6 +384,18 @@
     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE04eDh0UXJMb2doSTRmRGZVOTdfdXBSdFJVTDM2eEpITWFkVDVTai03WXdNc1BNN0NMdk16UWd4cVVzS2JFMmYwUEZ6aV96aC1zZ2ZRQl9RWDBtdXI2Q2ZOR1FtWWQxN0lYM1NYT2dRSm5RV0Z0ZVdTTUdRdHQ?oc=5"
   },
   {
+    "id": "news-2rt0cy",
+    "t": "2026-10-08T07:00:00",
+    "type": "news",
+    "auto": true,
+    "title": "Dallas Stars NHL Line Combinations",
+    "body": "",
+    "src": "Daily Faceoff",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1CbWlYNldtYUtHS1FzMS1LVXd3VnZDZVZfaUQteVVUY2dEUEdSR2g0WkhQMDRHQ3dpTk9lcXNGZVlrRm1GYlBnVXFnZDVDTkhxandOUVZORlByNV9id3ozN2l6Y1hNa0V6M1lieFlGelFnekJj?oc=5"
+  },
+  {
     "id": "news-9anxmd",
     "t": "2026-10-08T04:20:40",
     "type": "news",
@@ -430,54 +478,6 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9WWUhlM3ZfRW5SRkt6aDhvRTFpVHh3dnAzUmR1QUNwLUZ1TTJVSW51dF9NR1JUbVpEVmJpbUFkNjFDYTR2RnRCbzlIY2MzUjh2WHgwS2ZuZnM4anVqZ0hFQ3NVQ0I5ZnhINGZENzdZYUN5NXNTcnhIVQ?oc=5"
-  },
-  {
-    "id": "news-1ot5cbd",
-    "t": "2026-10-08T01:44:00",
-    "type": "news",
-    "auto": true,
-    "title": "What will the Bruins do with Pavel Zacha?",
-    "body": "",
-    "src": "Daily Faceoff",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaUY2Z3VEUVlaZUJaUk93SzZoX0wtd004eHV4WFBWQ0lqcUdrY1ByT08yakEwQmJyM2ZuUnR0NlRxQ004TDYzcS1nOVoyZGMzaHA0ZG1JOV84UEh1MTFqRWhBV2xRNWtUUktJUlZzUVgySlVSRkJuUWFxM1Buai1MdmZ2THJ4bWRyangxeDJhMWJhdUUzT2U5a2t3?oc=5"
-  },
-  {
-    "id": "news-9nqxg0",
-    "t": "2026-10-08T01:00:09",
-    "type": "rumor",
-    "auto": true,
-    "title": "Snapshots: Zacha, Perron, Washkurak - NHL Rumors",
-    "body": "",
-    "src": "NHL Rumors - ProHockeyRumors.com",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWHhtT1ZnYXVLc3Q0TkJrZmQ3S25ERnh1ZEM3QkYxelEwNFlhWjk5cEFPZFFTVjhZMFMzdTFuWkctMnhBeXdkRDJpN3VDcjdfY080ZHc4bUZWaXRSN284OG1jRUx4azltVmh5VVpXTWtYWFV6b3Bubl9icmp3dklwdS1DSQ?oc=5"
-  },
-  {
-    "id": "news-1fz06nx",
-    "t": "2026-10-08T00:14:00",
-    "type": "news",
-    "auto": true,
-    "title": "Sebastian Aho has put the offense on his shoulders early in the season once again",
-    "body": "",
-    "src": "Cardiac Cane",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNci0tNXZLbHZkNEJ2TFJGRkVwVlgzUUJLeXhMVjhOaVAxa2RRal9qdURUSk5kcWtXZkZmNVk5OGxIVkpmV3ZWY2pDNHF3V19GZVhaSjJfa2NmenFkMzc3WDd2TnlQSU9VaGotWVRsM09RZG14OUpoWm5zdllJSlFmd0RnZGRsREd6eUxBLWlvNEF0UmRCUHgzZg?oc=5"
-  },
-  {
-    "id": "news-ew9efh",
-    "t": "2026-10-07T23:00:38",
-    "type": "rumor",
-    "auto": true,
-    "title": "Oilers Activate Jason Dickinson - NHL Rumors",
-    "body": "",
-    "src": "NHL Rumors - ProHockeyRumors.com",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZnJudzl2Qkx2RFBJalQtcHZmUTF5UEdadlFXalE0Rm5vbU9vNm1qYms1bzVBTVFuNFhLYTUwazZQeTlxal9TS2RVU0d2ZFY2alNiMWJVVXFHVVhsSTB4bDRWMTJycWZKMm9pYnFTWWR6WVF2M2hTN1Y3dXhkbTA0dnpB?oc=5"
   },
   {
     "id": "auto-add-8476422-20261006",
