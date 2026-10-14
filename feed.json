@@ -1,5 +1,54 @@
 [
   {
+    "id": "auto-add-8484203-20261014",
+    "t": "2026-10-14T17:24:47",
+    "type": "roster",
+    "celebrate": true,
+    "title": "Bradly Nadeau added to the Hurricanes roster",
+    "body": "Bradly Nadeau now appears on Hurricanes' official NHL roster. Auto-detected from the league roster feed \u2014 could be a signing, trade, or recall.",
+    "src": "NHL roster feed",
+    "out": "",
+    "players": [
+      "Bradly Nadeau"
+    ]
+  },
+  {
+    "id": "news-1iiy761",
+    "t": "2026-10-14T14:35:00",
+    "type": "news",
+    "auto": true,
+    "title": "Why Jets\u2019 hot start should increase, not decrease, urgency to trade Hellebuyck ASAP",
+    "body": "",
+    "src": "Daily Faceoff",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSnEzZVdqT0pNckhOQjVrcTBmWnBoNWp4RnlQX0F4M1hCZDllSlg1WDlFeWtwb21VNWk3VFRmcEx5enNhdTBYSjJCZGVVcHBURlBibVpzWnh6c3FROHZvY2VaYkhjZGotMndQZmdvb3pqODExV05qd182YWZMVVl4Q2h0aS1sUFhCYWZrM2ZCN284MXg5RnJHZ3NlMHhjS0ZIMjJyb2FrTExSTnRFVEVrQjl1a2Y3cV9wMG5Xag?oc=5"
+  },
+  {
+    "id": "news-ful3t5",
+    "t": "2026-10-14T12:57:00",
+    "type": "trade",
+    "auto": true,
+    "title": "4 Maple Leafs' Trade Targets To Replace Chris Tanev",
+    "body": "",
+    "src": "NHL Trade Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWDExX3Y4LXBWeDRXampRRnVzX3ltV012djlub0VjT3N0T2Vtd1FWWDQtcXhxMUtBanJodUU3T3pNY29icDQ0RHhMeUpYRVVQY2EyNTFmTVNMUE9TMnVEOTJWODZhNWxtWVNOT3VhdlZhcWhjZndEdmZPeGFvRHVPMGEyUHRJTzBa?oc=5"
+  },
+  {
+    "id": "news-195wol2",
+    "t": "2026-10-14T12:43:00",
+    "type": "news",
+    "auto": true,
+    "title": "Wild & Red Wings Continue To Discuss Dylan Larkin Trade",
+    "body": "",
+    "src": "NHL Trade Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5oQ2lqSThuclkyblBUVVJVQS11UEJOeE5Ma2FiZGNNZkhDaEVoUDRkai1kOFp6TUtBd0h2TjQ0TlVVcnZpQW9fRXFxX3V0NnhRLTBsd3dBM0VZNVExUXZiM3RFdnJJZGgzQTdEQllNelJqOC02blNOZnZkTkZzbjQ?oc=5"
+  },
+  {
     "id": "news-2v2ffj",
     "t": "2026-10-14T04:08:00",
     "type": "news",
@@ -22,6 +71,30 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUFZqTDRnc085dkhPS2VkVTdGbnhUYlZ3dzA0akF5dVlOZGlJVWs1VlhOSGR3ZFF1eU1TZjM1LS1mekcwMkFMTTFHbDVqcWVHU2MxRjFSUEFnRS1NWVNGdG91aXlBdE5FTzZKRGxrR0hGT0w3R0N6MVowdWxOWklMZA?oc=5"
+  },
+  {
+    "id": "news-h2s5x7",
+    "t": "2026-10-14T02:28:00",
+    "type": "signing",
+    "auto": true,
+    "title": "Red Wings Sign Alex DeBrincat To Seven-Year Extension",
+    "body": "",
+    "src": "Pro Hockey Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNS3JGUnU0SGxOR284UDZmdXpGU1o0QXNnc2RzSFRBSHVua1kzRzY3UDg2c2RIQXFwWEJrNEtycGZ2cTZ3SDd2T2dhNEVHbi05V1VnNFRiMnFySTFmZS03TG9qWk9tRGlZaWJJVmdDTkRPNk1OdUxmTXg4Y19fQ0ZVdUZMWmxMY3E0VEk1c2ZxcEpmY25QRFV0bDhjNzdSbDFoT3pEYXdmRGNvWGpUV200?oc=5"
+  },
+  {
+    "id": "news-pkc5q8",
+    "t": "2026-10-14T00:55:08",
+    "type": "news",
+    "auto": true,
+    "title": "Hurricanes\u2019 Taylor Hall exits game with upper-body injury",
+    "body": "",
+    "src": "Daily Faceoff",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOS19qU3VPc2dYT09OeVl6d0x4ekxVdHVfRTVOd3Y5NnRYMDFuLVJIVVlFQXFFOFgydFJiZzNtc25qNVV6b183bm43WXBhOEtrSWJEWF91U2pIalpOcnNwSUJzVU9aMU81d09pbXB3dGg4UDB3VHlTbEVoU3FiSmM1Y3dJYmNnVnVLYVVDaVk5US11TmdNcUxVOWVXbGw0WVhBaW0xbER3?oc=5"
   },
   {
     "id": "news-nf3qru",
@@ -58,6 +131,30 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOa0lPNmUyMndGZjE5b2JaU1FNWnRtdG9KUEcwLWd4TWtYVWpIUTFESnJWTDMzMWlucE0yRUhQSXA3RmttdTRUYUt6TjlYbktabXBPWTJBRmVIT1l4Q0lRUUpQWk0wMnFfa0wxaUtiWElIM2FXWFVmUVB3dXRiWlYyU1Fxemp4Zl9keGM0?oc=5"
+  },
+  {
+    "id": "news-177xkyh",
+    "t": "2026-10-13T22:37:00",
+    "type": "news",
+    "auto": true,
+    "title": "Linus Ullmark has returned to form since mental health break",
+    "body": "",
+    "src": "Daily Faceoff",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaGJaZjZJYlJBakxwbnNDRC12Wk1wV0hydlR5MVR5dUxWYzhUbE5Kc2l6RVpwLUJ4cm5NYXdaZGJVZ2tVYkkwTEFtRjZob2VfOFVOQkRzYS0zWWZ1SWVNbG5oNUEydVdFekJDaGEtM1Yza1Z3MktJaGJfa0dtUm1TR1RQZ0hFaVJHa1BaWk85QlQ2UnYtLTl1NmdqNjVZNlFrN1FUTm5JTlU?oc=5"
+  },
+  {
+    "id": "news-1w1zb0g",
+    "t": "2026-10-13T22:04:34",
+    "type": "rumor",
+    "auto": true,
+    "title": "Flyers May Include Travis Konecny In Trade Talks",
+    "body": "",
+    "src": "Pro Hockey Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQX2VSZlRaZlBNUGJIMHJ5dnVSVVp5R29vRUVFeDVZU21yRktsRUlNZVRCOWRhOEZzN3N5NnczOS1GZGphaEZQN2FDcnFDYWk5TTluN1gyN0FXNTFBV1lVOUloV3NOUGNFWHY3dUJ6U3RpVk5wMVNwblNKUkxnUVJxVlQ0VUhhNzlqdkwyS1VwYXVfRExQWENRZw?oc=5"
   },
   {
     "id": "news-15l9h89",
@@ -372,6 +469,18 @@
     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1mQ2hna0twQ3J1NUhjTnhlXzJpUXVyS1RRZ29Ld3prQTVuNFh2WFJ3aFo1VXQ3ZmtobDllRi14T3JvWmpzMDlUckUtSjM0eXc?oc=5"
   },
   {
+    "id": "news-1xqp3me",
+    "t": "2026-10-12T20:38:23",
+    "type": "news",
+    "auto": true,
+    "title": "690 - Listen to Montreal's Sports Radio",
+    "body": "",
+    "src": "TSN",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5wTzdHdDAzVmRkUHJ6anEzTHJUQU9YUHpUOG5sYlVJQ0pNaUIwWUhPLVRCQTBYRThZVDF3Y3RVeFVtaEVYTzN3dVdoZElCRlE?oc=5"
+  },
+  {
     "id": "news-jzyr7h",
     "t": "2026-10-12T19:43:00",
     "type": "news",
@@ -382,102 +491,6 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVHh5Q01HeUhEdnN3S29fOFFSNU9LVlVNQUN6OHBpS3ZIU1RPUUxfeVp0X19PMnZlRnp6TjVJT2JnRGVmQ3Y3TXRXN0Q0ZzY5TnR6S3B1OFFVOWNOUURTSVdrX0V1UVpFMGVHeGgzc09BaEo5R3AwTUZPV1Q5M2ZQNEVoTDU4aWJMMEhfVWJQaVR6Z3hLWXpOWjFKeWlBaWlIMVoxbXAzY1Azb3Y4RlJkeWVoVkFrN2lRTTJMU0dKemtoUQ?oc=5"
-  },
-  {
-    "id": "news-1gs1slt",
-    "t": "2026-10-12T19:25:01",
-    "type": "rumor",
-    "auto": true,
-    "title": "Flyers Reportedly Not Considering Coaching Change",
-    "body": "",
-    "src": "Pro Hockey Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcmZnNktHT1h0MHdiX292QXFTdWd0YWtnWHZtOTBVajJWbC1NWTd6X1RvWnFybjZmbUw5V0pFQVlGUGZVX1ctakZ3TkhGb3F6T3AxSUNlbDYzM2xkSXVqWlVKamtMT0dXdW0tbEpRVlloVDUtb0RQbUNOQV9HdU5YRV93WXZ3LVNGcDRCOVM3dTA2YzFsRkduVG93?oc=5"
-  },
-  {
-    "id": "news-1wzhk5l",
-    "t": "2026-10-12T18:39:00",
-    "type": "news",
-    "auto": true,
-    "title": "Hurricanes\u2019 Jordan Staal out with lower-body injury",
-    "body": "",
-    "src": "Daily Faceoff",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcWZIeFRGdF9IRzdjTWl3RkhWVDVKUkhYQnAtS1NJaTZnVEhoSzM2VGFGal9EV1dDemZldlIzdmRLYkJsYllnMDhld1ZfeGpHOThackowVUhpeWlaX0N4NndkRzBsTUZtYUotdlJmTFJCVEdaYk8wSFoxYWVUbl83eHk2U1AwZDRjUERmWVd3MTZ4RldHR2lIZG53aWozQQ?oc=5"
-  },
-  {
-    "id": "news-mfa4a4",
-    "t": "2026-10-12T18:25:04",
-    "type": "news",
-    "auto": true,
-    "title": "Flyers Place Helge Grans On Waivers",
-    "body": "",
-    "src": "Pro Hockey Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMXNFdHRXZ2JDNHVETGdwUU81bzU5ckZCbU9ZY1pfNlVTNWwyaG45RHc4ZC1hM1phYlFuUFo1NVRhd2VOX1FQRHhsOVByMXpaRll3NWsyTHVnTGdfc3I4YWJnQXRBQldQakh0blB2VHU5X05VY2NqMW5LYmZpUWcycTZaTE0xbkE?oc=5"
-  },
-  {
-    "id": "news-j4tt92",
-    "t": "2026-10-12T18:08:11",
-    "type": "news",
-    "auto": true,
-    "title": "Canes kick off State Fair roadie in Winnipeg",
-    "body": "",
-    "src": "99.9 The Fan",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1hMHJ6cnUxZnY3aHU2NjlNaUNTMXZldm04bGpab01VU2wtWlVLMGhMbzcyeFVjb2FkMVJFSDJyNTlPaGZKRW1iV3JKQzByMGM?oc=5"
-  },
-  {
-    "id": "news-1uuxvf8",
-    "t": "2026-10-12T17:57:29",
-    "type": "news",
-    "auto": true,
-    "title": "Central Notes: Bedard, Morrissey, Stars",
-    "body": "",
-    "src": "Pro Hockey Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNM25OZ3AzQTN6ZktaaWtrN3FPU29rd0pJVkF2YkppR1Z0XzNyelRYdjJSOVUwOXVGT1hvZTVmUGIwQVFaNWFfdU84UUZtQlFCbF93RlBSdG1kOExETlluejhpcmRNS0dDQVFIRXZiNzZhS19FZks0ZENzTTFVdURSVlJGYkRoTU1E?oc=5"
-  },
-  {
-    "id": "news-3ttedd",
-    "t": "2026-10-12T17:43:36",
-    "type": "news",
-    "auto": true,
-    "title": "Penguins place Trevor van Riemsdyk on injured reserve",
-    "body": "",
-    "src": "Daily Faceoff",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPajhObkxJN21za1E4b1dpcUhOeGVDcHZKNm1WVWVOSDBiOFF6MWNsdFFjQ3JwUnFaNGp3cjZ3TWRUUHlqMGJHNjRJczVCc1QzUFgwWGlKc1llVnloNEswNGVub05PWEFRQ29NbUN3VDZUbXVKdFM0VW1GbGpHNE44b1h4YkV5cTNjVnZVT2pEb3IwV09QUG9VbmQ2YlVxRWp2NWhMT1FkZVlaSWFoVFdWQXJwanZpdw?oc=5"
-  },
-  {
-    "id": "news-1c3gg95",
-    "t": "2026-10-12T17:35:23",
-    "type": "news",
-    "auto": true,
-    "title": "Injury Updates: Honzek, van Riemsdyk, Brazeau",
-    "body": "",
-    "src": "Pro Hockey Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQT2RmeHFkckNoR0RTLVRGenRCbzNtMnJMb2Q0Z0cwM1JhZmtFQU9sZzl0R01oWWJ5RTB4QnE4WWUwbHEwTXdvVER2THRVTjc4cXlVR0VNSnp0UlVnVmQ5VVZzdk0yMjBHNFp0WUVIaHJYd05BU0sxOXNpREs1N2Y0UlhZSWJjNUtrLUpWanVac3E?oc=5"
-  },
-  {
-    "id": "news-12qk2j1",
-    "t": "2026-10-12T15:41:00",
-    "type": "news",
-    "auto": true,
-    "title": "New Jersey Devils NHL Line Combinations",
-    "body": "",
-    "src": "Daily Faceoff",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5lTnMxOGdCRVlldFJraVpyVTlBdWJIXzFOeUlVcTZkY3RjdkMtWHo4azFldGxNQk5xdzNnNkVhUC1QQjR2VE5nd0VhWFNGd3ZBV2k1M3Fzek5TNHZwa0R6bk9TRkxQRmMyWEZrcGhBS1VpUk9acldaUHdVQQ?oc=5"
   },
   {
     "id": "auto-add-8476422-20261006",
