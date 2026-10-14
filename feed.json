@@ -1,5 +1,29 @@
 [
   {
+    "id": "news-1q7ql07",
+    "t": "2026-10-14T20:40:04",
+    "type": "news",
+    "auto": true,
+    "title": "\u2018CANES RECALL NADEAU FROM CHICAGO",
+    "body": "",
+    "src": "CANES PR",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8zeDVWVU5fckRHVDZteXNoNW9KX0hpdTFHcGhrTXd2VU9FQVZ4TF9WV09fQzRFVVBmdldwbXprNDAtSGd0NmhXa3VEa2c3aHpMMDhBQXg4aDd2MExmbmpFR05lY3hISnE5aW9yQkN2eFNrNE9q?oc=5"
+  },
+  {
+    "id": "news-18lilds",
+    "t": "2026-10-14T17:48:00",
+    "type": "rumor",
+    "auto": true,
+    "title": "Major Development In Simon Edvinsson Trade Rumors",
+    "body": "",
+    "src": "NHL Trade Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQW1qUGVRVlp6X25RemhYUGdSVWZMRkZUNEFqTEE4ZThEc3J2UEJjUE5wNGV1UmNOM1JlSXk2d0VKVTNXdUpPZWNQdkVhdEtnblVRMFVBclJNWlVzRUpOWEhWTml2RGFBWXNzZEp5RVczdEF6OWVXNzl0dXRvRHJFLXhFcXFlZw?oc=5"
+  },
+  {
     "id": "auto-add-8484203-20261014",
     "t": "2026-10-14T17:24:47",
     "type": "roster",
@@ -107,6 +131,18 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOS19qU3VPc2dYT09OeVl6d0x4ekxVdHVfRTVOd3Y5NnRYMDFuLVJIVVlFQXFFOFgydFJiZzNtc25qNVV6b183bm43WXBhOEtrSWJEWF91U2pIalpOcnNwSUJzVU9aMU81d09pbXB3dGg4UDB3VHlTbEVoU3FiSmM1Y3dJYmNnVnVLYVVDaVk5US11TmdNcUxVOWVXbGw0WVhBaW0xbER3?oc=5"
+  },
+  {
+    "id": "news-1x9zgqk",
+    "t": "2026-10-14T00:45:45",
+    "type": "news",
+    "auto": true,
+    "title": "Predators Expected To Make More Defensive Changes",
+    "body": "",
+    "src": "Pro Hockey Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVXNueG5TaUVkNnlrWFlqd2w4dkpOZXdqQXg2Y2tNcTFkYUQ4VnhsUUpPeTJ0bjcxazhfMjQzTUx2anB6OThNb29XQjc0a3BqRjVyTVNXQnZlNGFUaUtFNkVxMEFOZ0ExUV90bWNFRWtCQU05WTItT05VNkkxd2E4bjVlV3BRdVNuSkx4bDE3ZHVjTkxNdEVjVE53?oc=5"
   },
   {
     "id": "news-nf3qru",
@@ -455,42 +491,6 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTVgwQVlPYk4yMi1pNTJNOU1tME1Ca3dEak5DN2ZuM2RBdWN5blgwNlctUDhpTkNqTldtWFNQcW1ISDFWYmduVkNSZEFSdFRyX21iRUpxQWliSEY3UHFMVVdMYXJpV3diWFQ3MHp2dUJSOGJzRUdPMlI4bDNydnZ2VnZNQ29oWU0td2hsNF95a3lydHNIWXNmOHg3TmtwM3ZETnYw?oc=5"
-  },
-  {
-    "id": "news-68u20u",
-    "t": "2026-10-12T22:24:00",
-    "type": "news",
-    "auto": true,
-    "title": "Boston Bruins NHL Line Combinations",
-    "body": "",
-    "src": "Daily Faceoff",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB1WTV2WEVJZVRsOExMZWNaM1lUSGctQ2R6dUpZYjNpc2FGLVQ2Z1VBamdBVm5WY1AwV1k4ekYwOUV0WnhPRi0xbkVyNTNpTkVqZWNiU2I5WGRwR25ScEMyU0lwX3RERVk1ai1iaXJycFVPQm1ZTHc?oc=5"
-  },
-  {
-    "id": "news-12tmwkl",
-    "t": "2026-10-12T22:02:14",
-    "type": "news",
-    "auto": true,
-    "title": "The Adam Gold Show LIVE 10/12/2026 | Carolina Hurricanes | Carolina Panthers | ACC",
-    "body": "",
-    "src": "99.9 The Fan",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9LNkNhVEVRUEFwdjhLR1I4YnFEaGZXdnZNZzZlNllGcUY3Wm9vRFZzLWtON2tma1IzelJmSWJJTUlLWDMzSFhtdWlHeloxcjQ?oc=5"
-  },
-  {
-    "id": "news-9xukgi",
-    "t": "2026-10-12T21:54:27",
-    "type": "news",
-    "auto": true,
-    "title": "Carolina Hurricanes extend win streak to five games; Carolina Panthers still in 1st place after bye",
-    "body": "",
-    "src": "99.9 The Fan",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1mQ2hna0twQ3J1NUhjTnhlXzJpUXVyS1RRZ29Ld3prQTVuNFh2WFJ3aFo1VXQ3ZmtobDllRi14T3JvWmpzMDlUckUtSjM0eXc?oc=5"
   },
   {
     "id": "auto-add-8476422-20261006",
