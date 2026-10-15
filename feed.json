@@ -1,5 +1,17 @@
 [
   {
+    "id": "news-1gg9f2h",
+    "t": "2026-10-15T00:19:39",
+    "type": "news",
+    "auto": true,
+    "title": "Tune In For Live Sports",
+    "body": "",
+    "src": "99.9 The Fan",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPamhxTUxaeGttLWtKQ3BxU2d2a0FJbjVLUnNqZkZDY3N5Y3Jnd2Z6ZUx0bktqQUlrdHVGUE1iazl0M0NLbVM2dURDTE5tQlJQZG9KRjA1eHdCQjlLdWpEdUJsaXQxeUhwenVGUTdfaFk3MkR0VmdEQVJYZFVKZGdiQVcwYw?oc=5"
+  },
+  {
     "id": "news-3to8go",
     "t": "2026-10-15T00:00:48",
     "type": "news",
@@ -24,6 +36,18 @@
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZDJGNTBLNGlUdzNFakhkU0podGR5RS1NMkJUODhwbDdIa09iUFpZNUpDRms5M2s1Y2xUOEhBWVFESEhLLVB6UDU0TXZfYTRsc2tvdDM5VEhZYThYb0JFQWNYNWUtYXFfcUJqNlFUd1Fjdlc2VFZXR0dEeERubUJaNVpNSnByUEk1UkJpQlJDY28zWm5uZmpDU01KMjJZZU5f?oc=5"
   },
   {
+    "id": "news-x1kjke",
+    "t": "2026-10-14T23:31:00",
+    "type": "news",
+    "auto": true,
+    "title": "Tkachuk brothers are key to Panthers\u2019 success amidst injuries",
+    "body": "",
+    "src": "Daily Faceoff",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVkV3aDVScVF1YVRtYlFHeDNJVWFpWFUyck92eVo4LXViWG14N1BnNzMtUGpWMm9nNFBrdURYOGh4WEpsVWVZZm1NVEJZT2VuNVhWRG5sVUhTUGNWYkFwVk45N3BrVjNlU19jenpVQm93OGRWdmZIdURJcEJLRGxlRUxGeVg0cy14TnUwU1EzT0RIaHI1Sk5EbHc1LVp1azEwZk5qVGdYUVhYLVVVcGNXOUZYaw?oc=5"
+  },
+  {
     "id": "news-1q7ql07",
     "t": "2026-10-14T20:40:04",
     "type": "news",
@@ -34,6 +58,18 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8zeDVWVU5fckRHVDZteXNoNW9KX0hpdTFHcGhrTXd2VU9FQVZ4TF9WV09fQzRFVVBmdldwbXprNDAtSGd0NmhXa3VEa2c3aHpMMDhBQXg4aDd2MExmbmpFR05lY3hISnE5aW9yQkN2eFNrNE9q?oc=5"
+  },
+  {
+    "id": "news-18omx3z",
+    "t": "2026-10-14T20:20:43",
+    "type": "rumor",
+    "auto": true,
+    "title": "Red Wings Have No Interest In Trading Simon Edvinsson",
+    "body": "",
+    "src": "Pro Hockey Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQd1BXTy1WSEhYQXFWR2I5ZUhzSTNramRrZ19tRHhCcnZMdTFHS3cwSkhRZFBSSlIwUjBTWjJ3WWZDSE8wRnFQS0FTUmNfODFURVlqUnh4N1B6czhMcWVhTWdtMWx2Zi1sclpVN2JsS0V6Y0stUkZPcjlQTmRSUzdqVURDTVNMQ3JwRjJuYVNYbFVwSUQ2Nndnb1FHM29yTEwxLVh2aWNaNzE?oc=5"
   },
   {
     "id": "news-18lilds",
@@ -71,6 +107,18 @@
     "players": [
       "Bradly Nadeau"
     ]
+  },
+  {
+    "id": "news-1vtjpx3",
+    "t": "2026-10-14T16:30:28",
+    "type": "news",
+    "auto": true,
+    "title": "Can The Oilers Realistically Fix Their Goaltending?",
+    "body": "",
+    "src": "Pro Hockey Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZHFBdEpscUo2SFFjQ0pMOEJqN1NnblN2SGI1Rk5qLXpjZ3RoNGNoanpPS0VNYW91d19ST3pMNFN6Ym4xUjNPeVpNVFZXT0x4akZYdHhXSnhPQTdSVk1KTE9xQTRWZmFPQ2RqRVozcFdMM29teGxfUE1ySURtM0hlaHlVVWMwWWpKOWwwa0g1QkdaNnFEN0UxYldwYw?oc=5"
   },
   {
     "id": "news-1iiy761",
@@ -443,54 +491,6 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPR2xNbzM3NDFwckl4YmN4ZDBvbEtZSms0ZmswS1poTlU3bWZUZHdub2RWc2IteUdJZkUxYW5jdG9LLWRBZHJqYXg0aURXb1BIMF9pLWVTN0FVQ0U4WmsycGpYS2xScUZZR0ZmU2prbkhadWxOdG9OM21KaFJja0o1QkVTRFoyVEdWTm1LeEFSUHF5bXA0MFE2WjJib28?oc=5"
-  },
-  {
-    "id": "news-1dbnxgq",
-    "t": "2026-10-13T04:44:30",
-    "type": "news",
-    "auto": true,
-    "title": "October 13 \u2013 Game Notes vs. Washington Capitals",
-    "body": "",
-    "src": "CANES PR",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPblNzOVYtcUt2VHpMVDZSM3E1VThxcGU5UE93QnZnMW42Qm5McGV5Qnh2dkpPZ0gxeGh1b2hxS2h2NlNXYWRGZkZNQVJBY0NVNVhhYnViRTJaUjJWYUJhTUk5WFFDVVdaNjUxYWFHOV96aV84OE1OTG5zNUxjaDdjcXJB?oc=5"
-  },
-  {
-    "id": "news-e9xupy",
-    "t": "2026-10-13T03:35:16",
-    "type": "news",
-    "auto": true,
-    "title": "The Drive with Tim Donnelly LIVE 10/12/2026 | Carolina Hurricanes | Carolina Panthers | ACC",
-    "body": "",
-    "src": "99.9 The Fan",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1TTWcwN1NOaG9rS0JYWWI3VENtWVJUWFduWkhFOTVWN1dOSTk0aWdtemFtVEJYX1QtMmY3OXNMYi0zRkwzaWtDc2sySU5mYkU?oc=5"
-  },
-  {
-    "id": "news-rqcm4b",
-    "t": "2026-10-13T02:58:04",
-    "type": "news",
-    "auto": true,
-    "title": "Injury Notes: Dahlin, Markstrom, Matinpalo",
-    "body": "",
-    "src": "Pro Hockey Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVWpsMFA5THMwUy1OaVhBaEpQcUVudWJQU0lIVHdCWE1qMXZKQjV2SmVDU2pQNVZGNUtCSFNCTDdvS3J2VXVYQWxONXNUYjVTTjJuZkZXRTkxeWZfckNTZUhudUlTR2l5ejlSQkZjODhuT0lTQ21wR1c1dng1OVg4NEJHeGU3T0N4MDdsUw?oc=5"
-  },
-  {
-    "id": "news-3ttedd",
-    "t": "2026-10-13T02:19:00",
-    "type": "news",
-    "auto": true,
-    "title": "Penguins place Trevor van Riemsdyk on injured reserve",
-    "body": "",
-    "src": "Daily Faceoff",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPajhObkxJN21za1E4b1dpcUhOeGVDcHZKNm1WVWVOSDBiOFF6MWNsdFFjQ3JwUnFaNGp3cjZ3TWRUUHlqMGJHNjRJczVCc1QzUFgwWGlKc1llVnloNEswNGVub05PWEFRQ29NbUN3VDZUbXVKdFM0VW1GbGpHNE44b1h4YkV5cTNjVnZVT2pEb3IwV09QUG9VbmQ2YlVxRWp2NWhMT1FkZVlaSWFoVFdWQXJwanZpdw?oc=5"
   },
   {
     "id": "auto-add-8476422-20261006",
