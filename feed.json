@@ -1,5 +1,41 @@
 [
   {
+    "id": "news-to4mlo",
+    "t": "2026-10-16T17:47:00",
+    "type": "news",
+    "auto": true,
+    "title": "Report: Maple Leafs Making Trade Offers for 2nd-Pair Defenceman",
+    "body": "",
+    "src": "NHL Trade Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNazBzVXdaRXRtdjNvbUVLcXVWS0w5TTFXZV9seW5vd25QRkdjODcteUVhZi0zdDRoMF8xWWlScUxEMk53QS1IRXZwd0tBY0dTN3RlRTV1T2h0ZzRKU1lZa2lkY1ZfanFwZUNzTS1hMWpQbURIYVhEMnV5ay1XRml2YXBMMmpNNnRU?oc=5"
+  },
+  {
+    "id": "news-15bhsuw",
+    "t": "2026-10-16T17:05:08",
+    "type": "news",
+    "auto": true,
+    "title": "Stanley Cup contender ready to make Connor Hellebuyck trade today",
+    "body": "",
+    "src": "Yahoo Sports",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQjk0X2VCTjQ3c0xvRUJOd3RDTk5Ma3BpdzUxclNvN28zRDFpWWI1VXRjakY2bnBxcnRST1RYVlZxY3BKVGRVM3oxSUxZVkhWOEN1RTY2SFAyVzlzc3BKTE9VOTh0STZSWWFCRHRZVlRxSmNvOGhmSVBLZFhOSzh6RnpsZ1JyMlJqbkVJ?oc=5"
+  },
+  {
+    "id": "news-1yd99zt",
+    "t": "2026-10-16T16:11:00",
+    "type": "news",
+    "auto": true,
+    "title": "Carolina Hurricanes NHL Line Combinations",
+    "body": "",
+    "src": "Daily Faceoff",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBLb3htczhMZG1VZzJJNkJaNlhGdU8xelFRalcwTk9rZ09IZHNVYXZvXzd5d3M3dU9rYTBjQ3ZJNHRveVA1NDVrNUtDOGNEUG5UU2FQQk9TVEVpVHpYZ19yN1YwLUVsWUJQZjZfTVZWdDR0QlNjZ0hkYVNTOGRPQQ?oc=5"
+  },
+  {
     "id": "auto-add-8484392-20261016",
     "t": "2026-10-16T15:25:15",
     "type": "roster",
@@ -11,6 +47,18 @@
     "players": [
       "Felix Unger S\u00f6rum"
     ]
+  },
+  {
+    "id": "news-tszc2c",
+    "t": "2026-10-16T15:04:27",
+    "type": "news",
+    "auto": true,
+    "title": "Josh Norris, John Tavares Injured After Mid-Game Collision",
+    "body": "",
+    "src": "Pro Hockey Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMmRRcVNtQm9Yck1ubHdwenM0bkIxRDkxbEJmOTZtQ3plbmlZelA2LWc3Y0VOSGpTYVZCUWF2bFR1OV9PV0lZTnFMMmpBaFZXXzNHMVl1R2FBcFpNdWxpbjBDQWZwemFzZmxsZFFTQTJmZTZVRWc4S3Z4WUJXT2ZxQWRjcVE0clVBZnRfZmF2clJURzI0TENlSmhwcFBhbklvUkZBZQ?oc=5"
   },
   {
     "id": "news-1rx80te",
@@ -155,6 +203,18 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSTZZd1BjdDRLNXFBVi1NRFNpYk9icndlSUNZeGhsTEYyQ050U2owU2lDLUprbnZ3SVNHdkhNNm1faU5ZTG9TY2oweHBwWkdwUnh0RDhzeEp5cHluN0cxMjJ6RDd2ekRISDNZVERqSkVDOE9VYnlQeGtYUDV3SkJvUW9VNA?oc=5"
+  },
+  {
+    "id": "news-ax6wy3",
+    "t": "2026-10-15T22:00:49",
+    "type": "news",
+    "auto": true,
+    "title": "Hurricanes Recall Felix Unger Sorum; Place Jordan Staal On IR",
+    "body": "",
+    "src": "Pro Hockey Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONVAxYjNmbS1TakJLZmpJakV3clNSQ1dHZm5PQWc0cHZXNnVORzdYdTdDMHM4QS12b2NVYW0yWkhBZGN0U2RNNVVxZXF5UG5MWGFfTVdsQ2FlaHctdUF1Z2poa2xiWlBqSmM1NWk2ZWpOdXZxRFFhZkZuSW0wcjJFWGNVaXNlbkctLUpkQnA4Qms5RGNDeHJVX3JtUHFvX3pCaXlydkNIbFE?oc=5"
   },
   {
     "id": "news-10s9j1p",
@@ -444,66 +504,6 @@
     "players": [
       "Bradly Nadeau"
     ]
-  },
-  {
-    "id": "news-1vtjpx3",
-    "t": "2026-10-14T16:30:28",
-    "type": "news",
-    "auto": true,
-    "title": "Can The Oilers Realistically Fix Their Goaltending?",
-    "body": "",
-    "src": "Pro Hockey Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZHFBdEpscUo2SFFjQ0pMOEJqN1NnblN2SGI1Rk5qLXpjZ3RoNGNoanpPS0VNYW91d19ST3pMNFN6Ym4xUjNPeVpNVFZXT0x4akZYdHhXSnhPQTdSVk1KTE9xQTRWZmFPQ2RqRVozcFdMM29teGxfUE1ySURtM0hlaHlVVWMwWWpKOWwwa0g1QkdaNnFEN0UxYldwYw?oc=5"
-  },
-  {
-    "id": "news-rynado",
-    "t": "2026-10-14T16:07:59",
-    "type": "news",
-    "auto": true,
-    "title": "St. Louis Blues Reportedly Interested In Red Wings' Simon Edvinsson; Would They Be Willing To Part Ways With The Necessary Assets?",
-    "body": "",
-    "src": "The Hockey News",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPSTQ4VmJmUU5mZEFvb1N5Q3NHb1RTa1NMejdtdklWb25hcE12Z0lMQWY4Rl9nY0VPQUdpRW55NWhreWpucm9EZWx0VHVKcGs4N000VHY4bnNQNW1pUkNPZkhGWGFIbURkd1BMNUd5dnVpQmtmcDM4MGQ5a0JJTlVIcGxCc2lKaWFnYjVTVjF3MlZZQ3B3TDZ3SEUyZUZLZEpjaTdjSlNxM1FHbzBtbmZnRm5ua211dHNXVFhtY2ktTTExa1poNFdzcmV1cVNoWE5hOTVESW9YSnM3TDdpZFpRTVZZdVUxeVdJa2hkbU5mcXozOXllak04MmQ4OGVkZkhJN29JdUdjQi02OERqaFZHVw?oc=5"
-  },
-  {
-    "id": "news-vwkrk9",
-    "t": "2026-10-14T15:30:54",
-    "type": "news",
-    "auto": true,
-    "title": "Rangers Recall Justin Dowling; Reassign Cole Beaudoin",
-    "body": "",
-    "src": "Pro Hockey Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdVcyMkZldTZUTmRoXzVkVVUyQWtMLUJ2V2xHYUc3RkZMMkF4Vm9LMU9EU3dpMGNSSmpDT1loV2pOR2xTamowVm1Lb205UWx5M3NNdkZTZVpxV1p1cnJ4eEJoaWNsOXpxeGwtMk5ZQWlqZHM3X3o2UlpDQTZjcDBxQk5MTjFoWng5Ri1DR0lzQzMyS09LQU90ek84WDNTUQ?oc=5"
-  },
-  {
-    "id": "news-1iiy761",
-    "t": "2026-10-14T14:35:00",
-    "type": "news",
-    "auto": true,
-    "title": "Why Jets\u2019 hot start should increase, not decrease, urgency to trade Hellebuyck ASAP",
-    "body": "",
-    "src": "Daily Faceoff",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSnEzZVdqT0pNckhOQjVrcTBmWnBoNWp4RnlQX0F4M1hCZDllSlg1WDlFeWtwb21VNWk3VFRmcEx5enNhdTBYSjJCZGVVcHBURlBibVpzWnh6c3FROHZvY2VaYkhjZGotMndQZmdvb3pqODExV05qd182YWZMVVl4Q2h0aS1sUFhCYWZrM2ZCN284MXg5RnJHZ3NlMHhjS0ZIMjJyb2FrTExSTnRFVEVrQjl1a2Y3cV9wMG5Xag?oc=5"
-  },
-  {
-    "id": "news-h8rc1k",
-    "t": "2026-10-14T14:30:52",
-    "type": "news",
-    "auto": true,
-    "title": "Canadiens Recall David Reinbacher",
-    "body": "",
-    "src": "Pro Hockey Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOTMtbk10SGZmcjJQU3NSZjRJbkxQNkNjZVdrNkZFbmIzVkFCVW5VbnVpaC1TbGEzamRXbVRDN3ZwWTdTLVM4OUdIUC1JSE4xY3dhMGU5QVVJR2RNOGVFMFRLOTZqTlhOa0ROR1dnc2VobHdTVF9vSVBlakdtTTI1anI3Q0w?oc=5"
   },
   {
     "id": "auto-add-8476422-20261006",
