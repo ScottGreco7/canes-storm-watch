@@ -1,5 +1,29 @@
 [
   {
+    "id": "news-11a1ce7",
+    "t": "2026-10-15T23:41:00",
+    "type": "news",
+    "auto": true,
+    "title": "Chicago Blackhawks NHL Line Combinations",
+    "body": "",
+    "src": "Daily Faceoff",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9WS2llSUVMSGh0blg1b2hNVm92bVFHdjVBb3pTby1GVWpOTFlPcmZmZXNBZFliYmZsZTE5b0FTbmRKcmEtb3pnSlVzdzEwWjhZUW4yYjdCa3dGU2xIR3RVTkZGTC1KOVRiYkw0bWVjd1hmSnhLZ2dvd0VQUTI?oc=5"
+  },
+  {
+    "id": "news-ikucfn",
+    "t": "2026-10-15T22:25:13",
+    "type": "trade",
+    "auto": true,
+    "title": "Maple Leafs Acquire Aatu Raty",
+    "body": "",
+    "src": "Pro Hockey Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1uMkNaTE1OZ18tb3hQTXlsRGkyMW9uVDlxcUdPRjBFY2l1UC1ub0JxYW1jSm5PQlRZR1BmT3RfZzlZaXVETzRvNUF3M2RuQ2poOTYxRjY0SWhuektyNlZ5emVJYnNlaUFaQm1Dbk1EWDhHenBwWW4tWkhaX3ZmU0U?oc=5"
+  },
+  {
     "id": "news-12cfbv5",
     "t": "2026-10-15T18:06:00",
     "type": "news",
@@ -58,6 +82,18 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZlVXV3dpcldQcWxMSlJLdVVPdUZHa2JxYlY2Zk5Venpob2p3YW5oOTFqRW56Z2QtajBvN1RHLXhubUtYRDVSOTd5T2o2c1JwNnR2RTdJRTVnWEdhWDRKSXNOSnIwR0ZOaklGSEI4SG9DXzV5MnJrQ29FUHBjWkJ2RWNOcHFCQkRrUmVfTjJhQWlZT3RoNS1pMw?oc=5"
+  },
+  {
+    "id": "news-byxfxe",
+    "t": "2026-10-15T11:01:45",
+    "type": "news",
+    "auto": true,
+    "title": "Carolina Hurricanes lose Taylor Hall in win over Washington Capitals",
+    "body": "",
+    "src": "99.9 The Fan",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9YTzlXVlZHclo5OG9XRU5wb3lyRkRLS0FQRjBCN0NmREF2VHhSakNHVGhoYVJsSzA0MmQ0WDNGSjFWSDBtWTNzdUlZMFpSdUU?oc=5"
   },
   {
     "id": "news-1gg9f2h",
@@ -455,42 +491,6 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOa0lPNmUyMndGZjE5b2JaU1FNWnRtdG9KUEcwLWd4TWtYVWpIUTFESnJWTDMzMWlucE0yRUhQSXA3RmttdTRUYUt6TjlYbktabXBPWTJBRmVIT1l4Q0lRUUpQWk0wMnFfa0wxaUtiWElIM2FXWFVmUVB3dXRiWlYyU1Fxemp4Zl9keGM0?oc=5"
-  },
-  {
-    "id": "news-mds0m5",
-    "t": "2026-10-13T23:05:00",
-    "type": "news",
-    "auto": true,
-    "title": "What changes could the Flyers make if their season continues to spiral?",
-    "body": "",
-    "src": "Daily Faceoff",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYzhMcndXT3Zpb0VLWWVFU2hTSkNuTkVadVRPUGJvMFdGbk92U0cyMUxPdGVQUlFobk1FWHBBcFpxRXhZeDVWREVkd0pJNDZ5MmtRVzlGdE9ESVNpamlzbUdFT2dQY1lESDVCMWkyemVKdy1mMHVrbEgtR2MyVEtleHU3djE2TjM5Wmc1MUJqYXVmaGdlbEhHVXIwaGlHa1pNMjFmUGFoZUNxRFVXSEZ1c2NGbENpYktr?oc=5"
-  },
-  {
-    "id": "news-m4q03y",
-    "t": "2026-10-13T22:48:21",
-    "type": "news",
-    "auto": true,
-    "title": "Frozen Frenzy returns as the Hurricanes welcome the Capitals for a momentous occasion",
-    "body": "",
-    "src": "Cardiac Cane",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPR2xNbzM3NDFwckl4YmN4ZDBvbEtZSms0ZmswS1poTlU3bWZUZHdub2RWc2IteUdJZkUxYW5jdG9LLWRBZHJqYXg0aURXb1BIMF9pLWVTN0FVQ0U4WmsycGpYS2xScUZZR0ZmU2prbkhadWxOdG9OM21KaFJja0o1QkVTRFoyVEdWTm1LeEFSUHF5bXA0MFE2WjJib28?oc=5"
-  },
-  {
-    "id": "news-177xkyh",
-    "t": "2026-10-13T22:37:00",
-    "type": "news",
-    "auto": true,
-    "title": "Linus Ullmark has returned to form since mental health break",
-    "body": "",
-    "src": "Daily Faceoff",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaGJaZjZJYlJBakxwbnNDRC12Wk1wV0hydlR5MVR5dUxWYzhUbE5Kc2l6RVpwLUJ4cm5NYXdaZGJVZ2tVYkkwTEFtRjZob2VfOFVOQkRzYS0zWWZ1SWVNbG5oNUEydVdFekJDaGEtM1Yza1Z3MktJaGJfa0dtUm1TR1RQZ0hFaVJHa1BaWk85QlQ2UnYtLTl1NmdqNjVZNlFrN1FUTm5JTlU?oc=5"
   },
   {
     "id": "auto-add-8476422-20261006",
