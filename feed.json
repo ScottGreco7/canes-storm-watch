@@ -1,5 +1,42 @@
 [
   {
+    "id": "auto-add-8484392-20261016",
+    "t": "2026-10-16T15:25:15",
+    "type": "roster",
+    "celebrate": true,
+    "title": "Felix Unger S\u00f6rum added to the Hurricanes roster",
+    "body": "Felix Unger S\u00f6rum now appears on Hurricanes' official NHL roster. Auto-detected from the league roster feed \u2014 could be a signing, trade, or recall.",
+    "src": "NHL roster feed",
+    "out": "",
+    "players": [
+      "Felix Unger S\u00f6rum"
+    ]
+  },
+  {
+    "id": "news-1rx80te",
+    "t": "2026-10-16T13:50:45",
+    "type": "news",
+    "auto": true,
+    "title": "1 story to watch during each game of the Carolina Hurricanes' State Fair road trip",
+    "body": "",
+    "src": "Cardiac Cane",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNM05iZUtOQmZBNzMteWRyNFAtTlFhX2VVN2lSWGxlN0o3VHo3ZEhhUWprcEpMUEJUNVFoMDMtWXVrNC0wWnBwSE4yeGxxTlB5QUZoQTVSSHpkNkFpVzFQcmZJWEhfaHRFZjdBanJfNTVNd2tEWjJjUFlGN0N2N1ZFaHdralh5YlZjc0ZLd3VRMVp6NEpXTVpuRTV0RS1RM292NzdN?oc=5"
+  },
+  {
+    "id": "news-100a1lv",
+    "t": "2026-10-16T10:37:42",
+    "type": "news",
+    "auto": true,
+    "title": "The Drive with Tim Donnelly LIVE 10/15/2026 | Carolina Hurricanes | Carolina Panthers | ACC",
+    "body": "",
+    "src": "99.9 The Fan",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5hMnBwaV9TaVlBYU9aREotY3pZYmNRLTBPblBOaTdEVm43VThpQkhualU1SGR4ZmYyUmpyb3lSalV2NXhrMTVfN1ZIT0xjMGM?oc=5"
+  },
+  {
     "id": "news-ab7sqv",
     "t": "2026-10-16T04:38:15",
     "type": "news",
@@ -22,6 +59,18 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeV9EYzVYMDRaUnhzalhTcTBOV2UtdHZDcnduQXdHalhGMWVmUTROaDJtY2xSVGdRdlpmR3VFRi1hN3AxX0JSOGY2UzdSaW9YLXhTOExqZTN4TzlXY2otQ0YtU1NFTWZTRnowN29VUEZuWnNBZlZ3VElISWxOSVBnUjA5MkllX1I4SXNxV0FLOA?oc=5"
+  },
+  {
+    "id": "news-129szv6",
+    "t": "2026-10-16T00:20:00",
+    "type": "news",
+    "auto": true,
+    "title": "Carolina Hurricanes Suddenly Announce 2 Roster Moves to Top Prospect, Jordan Staal",
+    "body": "",
+    "src": "Yahoo Sports",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQb3gzUUJRZ0FKOEQtbkhvWXRzdEdfc3pxa1MwekhYcVlHd0FuSVVsdDVONmItZFAwalZaTFFxZUJoT2NDS1hJeXJhMzBBTExKSGUyY3ZFczBTYngtZ1drQ1N6d1FJOFVxeUs5NHE1Mnd2UU1GajltUXBzN0hZUjk1Umx0VFRCWlExOFVtbl9aQmxUUQ?oc=5"
   },
   {
     "id": "news-11a1ce7",
@@ -240,6 +289,18 @@
     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Vc1JrNG5nRGF5T3lHbUozdFU4aVM4djZ6ZGVkdDZzemtxRWp3UElqajA1MmNjQlFNNEhYN1JJZFFMOFpGdWNsYklDcEMwWkk?oc=5"
   },
   {
+    "id": "news-1dywt3y",
+    "t": "2026-10-14T21:29:00",
+    "type": "news",
+    "auto": true,
+    "title": "Report: Larkin Will Be A Canadien 'Within An Hour' If He Approves Montreal",
+    "body": "",
+    "src": "NHL Trade Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSHhVZUI3MEFBVE94QVgtU19TMjlsV3VVMmVVcWxXY2NXaU9nVVhUTDZyMWFLa3FHbGh5RmVOU2tSc215TVVIbDRtWVBiVjRhOXdZdkxYSU5xU01Jb3ltUER2NVpMdDBXYk1CZml6MHpKVUljc1N2ZnlydEZDYzhnSUxjb3NhdDQ?oc=5"
+  },
+  {
     "id": "news-isy3jg",
     "t": "2026-10-14T21:23:03",
     "type": "news",
@@ -443,54 +504,6 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdmJYS3JnWUp1Z21iUjc2UGJrWlNHS0ZvTXp3RGRiOVFkZXdQR2NMMk1SSVpyWHdGX0pYNEVILTA2Mk15RjdIR1REbnRjbWx2VlR5REtQbm1vQ2xjcU5pLURUOEIxV19TWFNUb3c4ZHpBNjVVaEQzemg4SFIyTHR6M1d3LS1pUQ?oc=5"
-  },
-  {
-    "id": "news-ful3t5",
-    "t": "2026-10-14T12:57:00",
-    "type": "trade",
-    "auto": true,
-    "title": "4 Maple Leafs' Trade Targets To Replace Chris Tanev",
-    "body": "",
-    "src": "NHL Trade Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWDExX3Y4LXBWeDRXampRRnVzX3ltV012djlub0VjT3N0T2Vtd1FWWDQtcXhxMUtBanJodUU3T3pNY29icDQ0RHhMeUpYRVVQY2EyNTFmTVNMUE9TMnVEOTJWODZhNWxtWVNOT3VhdlZhcWhjZndEdmZPeGFvRHVPMGEyUHRJTzBa?oc=5"
-  },
-  {
-    "id": "news-195wol2",
-    "t": "2026-10-14T12:43:00",
-    "type": "news",
-    "auto": true,
-    "title": "Wild & Red Wings Continue To Discuss Dylan Larkin Trade",
-    "body": "",
-    "src": "NHL Trade Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5oQ2lqSThuclkyblBUVVJVQS11UEJOeE5Ma2FiZGNNZkhDaEVoUDRkai1kOFp6TUtBd0h2TjQ0TlVVcnZpQW9fRXFxX3V0NnhRLTBsd3dBM0VZNVExUXZiM3RFdnJJZGgzQTdEQllNelJqOC02blNOZnZkTkZzbjQ?oc=5"
-  },
-  {
-    "id": "news-w4frmm",
-    "t": "2026-10-14T07:00:00",
-    "type": "news",
-    "auto": true,
-    "title": "Colorado Avalanche NHL Line Combinations",
-    "body": "",
-    "src": "Daily Faceoff",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5GNDF1WWdmUlc2NVRjbWR3d3ZacHJBRmgxVWVSRjBZT3lrNENXNlZYdkZsd21KM2dDR2FQZENnNEEySmZrWkQwOGw5cTl6bXl4b1NkLUJHQmt3VUthLWJNOE5EcTZTX1NOVHZEbXpNMVdUREJPdGE0M3Bablg?oc=5"
-  },
-  {
-    "id": "news-13mjft1",
-    "t": "2026-10-14T07:00:00",
-    "type": "news",
-    "auto": true,
-    "title": "The Drive with Tim Donnelly LIVE 10/14/2026 | Carolina Hurricanes | Carolina Panthers | UNC at Duke",
-    "body": "",
-    "src": "99.9 The Fan",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPLWhzZnp4d3ZfR3pOeUJ4TWZHR1NMTG1hTDk0MXBHRFA2Wm0xRWxEVmt4OVYwLUhldE1UVVYtTF9wMFl2UVVveGxzaGlhWk13a2tucnFpdzkzYi1MS3NUU01nNEtFQnVoR3duSGN3RzhjaXBlbFQzWi1iUjRLYmt3Vk9EdV9rcDBYblRxQTBZLWc0bm5KYlQ3RGpoRWYwaFExXzY0YmtoUnpZNXFvNkRfazJ6bjc?oc=5"
   },
   {
     "id": "auto-add-8476422-20261006",
