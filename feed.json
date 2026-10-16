@@ -1,5 +1,17 @@
 [
   {
+    "id": "news-ab7sqv",
+    "t": "2026-10-16T04:38:15",
+    "type": "news",
+    "auto": true,
+    "title": "\u2018CANES RECALL UNGER S\u00d6RUM FROM CHICAGO",
+    "body": "",
+    "src": "CANES PR",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1HM2dleDhPdklFV2g5VjJKS0RLRDFaV2xyRDFPMlBlc1Bob3JvMlRCaGh2Z2ozOGxXdkotU3FtNWFsQVM0emZUbUc2NGlHOFFsWGc0ZnR4UG05ZFJUWGpwYjN2R1c3RHZGcE8zdEhud0UxYVJmb1p1ZQ?oc=5"
+  },
+  {
     "id": "news-8msi9m",
     "t": "2026-10-16T01:21:17",
     "type": "news",
@@ -22,6 +34,18 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9WS2llSUVMSGh0blg1b2hNVm92bVFHdjVBb3pTby1GVWpOTFlPcmZmZXNBZFliYmZsZTE5b0FTbmRKcmEtb3pnSlVzdzEwWjhZUW4yYjdCa3dGU2xIR3RVTkZGTC1KOVRiYkw0bWVjd1hmSnhLZ2dvd0VQUTI?oc=5"
+  },
+  {
+    "id": "news-1ojz3gi",
+    "t": "2026-10-15T23:12:09",
+    "type": "news",
+    "auto": true,
+    "title": "The Adam Gold Show LIVE 10/15/2026 | Carolina Hurricanes | Carolina Panthers | ACC",
+    "body": "",
+    "src": "99.9 The Fan",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBWMmhMY09qM0pVMjB5TXY5YkhDNDBIZE1GSVJxQ3lkS0lyRWRodllkZ21qSHRmQTZHeWtCTURMa0lvdXlKYWxoNnZfakM2QTg?oc=5"
   },
   {
     "id": "news-18v075m",
@@ -58,6 +82,18 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSTZZd1BjdDRLNXFBVi1NRFNpYk9icndlSUNZeGhsTEYyQ050U2owU2lDLUprbnZ3SVNHdkhNNm1faU5ZTG9TY2oweHBwWkdwUnh0RDhzeEp5cHluN0cxMjJ6RDd2ekRISDNZVERqSkVDOE9VYnlQeGtYUDV3SkJvUW9VNA?oc=5"
+  },
+  {
+    "id": "news-10s9j1p",
+    "t": "2026-10-15T21:00:41",
+    "type": "signing",
+    "auto": true,
+    "title": "AHL Hartford Signs James Reimer To PTO",
+    "body": "",
+    "src": "Pro Hockey Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdHowT1RhTlFzUE9FbVplcXNxUEIxNFRkUkpNYUhXR2hMRGxQdEdvNjd3M2drb2NZTmNUYVBTelVZdmJOTmxQSWJwREVXaHQ5WGtXZGJlS1B2NERWYVZpUTRIYjRMUjlDR3UwcXpycnMxdW1OSkRuSXRMdGl1RG1FOVBDMko2Z091UVZR?oc=5"
   },
   {
     "id": "news-12cfbv5",
@@ -385,6 +421,18 @@
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOTMtbk10SGZmcjJQU3NSZjRJbkxQNkNjZVdrNkZFbmIzVkFCVW5VbnVpaC1TbGEzamRXbVRDN3ZwWTdTLVM4OUdIUC1JSE4xY3dhMGU5QVVJR2RNOGVFMFRLOTZqTlhOa0ROR1dnc2VobHdTVF9vSVBlakdtTTI1anI3Q0w?oc=5"
   },
   {
+    "id": "news-1yd99zt",
+    "t": "2026-10-14T13:57:00",
+    "type": "news",
+    "auto": true,
+    "title": "Carolina Hurricanes NHL Line Combinations",
+    "body": "",
+    "src": "Daily Faceoff",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBLb3htczhMZG1VZzJJNkJaNlhGdU8xelFRalcwTk9rZ09IZHNVYXZvXzd5d3M3dU9rYTBjQ3ZJNHRveVA1NDVrNUtDOGNEUG5UU2FQQk9TVEVpVHpYZ19yN1YwLUVsWUJQZjZfTVZWdDR0QlNjZ0hkYVNTOGRPQQ?oc=5"
+  },
+  {
     "id": "news-59msd3",
     "t": "2026-10-14T13:01:31",
     "type": "news",
@@ -421,76 +469,28 @@
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5oQ2lqSThuclkyblBUVVJVQS11UEJOeE5Ma2FiZGNNZkhDaEVoUDRkai1kOFp6TUtBd0h2TjQ0TlVVcnZpQW9fRXFxX3V0NnhRLTBsd3dBM0VZNVExUXZiM3RFdnJJZGgzQTdEQllNelJqOC02blNOZnZkTkZzbjQ?oc=5"
   },
   {
-    "id": "news-2v2ffj",
-    "t": "2026-10-14T04:08:00",
+    "id": "news-w4frmm",
+    "t": "2026-10-14T07:00:00",
     "type": "news",
     "auto": true,
-    "title": "Six Wins In A Row for Canes: Hurricanes 4, Capitals 2",
-    "body": "",
-    "src": "Canes Country",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxON2JUN2g4UVhnbEt5aG1HamF2bWNIVEpXeV9NX1paZ1A3SU5MNVZQYy1hZFNHM0psR2toejJTRU1jNkxvZ3N1aVJrM2pmdS1TNTUza0dMSW9kUnoxN05rejhpNHljR0lFb1hFMTVfamdWc2xwOGhEa0xqeHVGZVhfQmRPUUpWRmtvWnJFVDVkWGhpVi1Ed0tBTFdsNklJaXZiVW1tTGNMcGlWclZMLUxNSW5DNHF5WWNNbU1qRWo5UF9WZU1U?oc=5"
-  },
-  {
-    "id": "news-1ecpb4m",
-    "t": "2026-10-14T03:22:58",
-    "type": "news",
-    "auto": true,
-    "title": "October 13 \u2013 Postgame Notes, Stats, Video & Audio",
-    "body": "",
-    "src": "CANES PR",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUFZqTDRnc085dkhPS2VkVTdGbnhUYlZ3dzA0akF5dVlOZGlJVWs1VlhOSGR3ZFF1eU1TZjM1LS1mekcwMkFMTTFHbDVqcWVHU2MxRjFSUEFnRS1NWVNGdG91aXlBdE5FTzZKRGxrR0hGT0w3R0N6MVowdWxOWklMZA?oc=5"
-  },
-  {
-    "id": "news-jj87n5",
-    "t": "2026-10-14T02:45:20",
-    "type": "news",
-    "auto": true,
-    "title": "Central Notes: Johnston, Bourque, L\u2019Heureux",
-    "body": "",
-    "src": "Pro Hockey Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVGpfbTAzb2VnaTJBVlRKMnVSZzY1Y1RuSUc4Sy1Wd3lYQkd3ek14RFJGZ25vdGE1SDdzMUdFTENSd0VJNnlUQWkwMzVLNUNLV0FFTDNTRy1ZS0tSRVMzSDFIZVRHTXVZTHV5TE1hcTRZdFVEUzV4MF9DdkdkOWh3aTdCYXE2eHRQUVh4bQ?oc=5"
-  },
-  {
-    "id": "news-h2s5x7",
-    "t": "2026-10-14T02:28:00",
-    "type": "signing",
-    "auto": true,
-    "title": "Red Wings Sign Alex DeBrincat To Seven-Year Extension",
-    "body": "",
-    "src": "Pro Hockey Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNS3JGUnU0SGxOR284UDZmdXpGU1o0QXNnc2RzSFRBSHVua1kzRzY3UDg2c2RIQXFwWEJrNEtycGZ2cTZ3SDd2T2dhNEVHbi05V1VnNFRiMnFySTFmZS03TG9qWk9tRGlZaWJJVmdDTkRPNk1OdUxmTXg4Y19fQ0ZVdUZMWmxMY3E0VEk1c2ZxcEpmY25QRFV0bDhjNzdSbDFoT3pEYXdmRGNvWGpUV200?oc=5"
-  },
-  {
-    "id": "news-pkc5q8",
-    "t": "2026-10-14T00:55:08",
-    "type": "news",
-    "auto": true,
-    "title": "Hurricanes\u2019 Taylor Hall exits game with upper-body injury",
+    "title": "Colorado Avalanche NHL Line Combinations",
     "body": "",
     "src": "Daily Faceoff",
     "out": "",
     "players": [],
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOS19qU3VPc2dYT09OeVl6d0x4ekxVdHVfRTVOd3Y5NnRYMDFuLVJIVVlFQXFFOFgydFJiZzNtc25qNVV6b183bm43WXBhOEtrSWJEWF91U2pIalpOcnNwSUJzVU9aMU81d09pbXB3dGg4UDB3VHlTbEVoU3FiSmM1Y3dJYmNnVnVLYVVDaVk5US11TmdNcUxVOWVXbGw0WVhBaW0xbER3?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5GNDF1WWdmUlc2NVRjbWR3d3ZacHJBRmgxVWVSRjBZT3lrNENXNlZYdkZsd21KM2dDR2FQZENnNEEySmZrWkQwOGw5cTl6bXl4b1NkLUJHQmt3VUthLWJNOE5EcTZTX1NOVHZEbXpNMVdUREJPdGE0M3Bablg?oc=5"
   },
   {
-    "id": "news-1x9zgqk",
-    "t": "2026-10-14T00:45:45",
+    "id": "news-13mjft1",
+    "t": "2026-10-14T07:00:00",
     "type": "news",
     "auto": true,
-    "title": "Predators Expected To Make More Defensive Changes",
+    "title": "The Drive with Tim Donnelly LIVE 10/14/2026 | Carolina Hurricanes | Carolina Panthers | UNC at Duke",
     "body": "",
-    "src": "Pro Hockey Rumors",
+    "src": "99.9 The Fan",
     "out": "",
     "players": [],
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVXNueG5TaUVkNnlrWFlqd2w4dkpOZXdqQXg2Y2tNcTFkYUQ4VnhsUUpPeTJ0bjcxazhfMjQzTUx2anB6OThNb29XQjc0a3BqRjVyTVNXQnZlNGFUaUtFNkVxMEFOZ0ExUV90bWNFRWtCQU05WTItT05VNkkxd2E4bjVlV3BRdVNuSkx4bDE3ZHVjTkxNdEVjVE53?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPLWhzZnp4d3ZfR3pOeUJ4TWZHR1NMTG1hTDk0MXBHRFA2Wm0xRWxEVmt4OVYwLUhldE1UVVYtTF9wMFl2UVVveGxzaGlhWk13a2tucnFpdzkzYi1MS3NUU01nNEtFQnVoR3duSGN3RzhjaXBlbFQzWi1iUjRLYmt3Vk9EdV9rcDBYblRxQTBZLWc0bm5KYlQ3RGpoRWYwaFExXzY0YmtoUnpZNXFvNkRfazJ6bjc?oc=5"
   },
   {
     "id": "auto-add-8476422-20261006",
