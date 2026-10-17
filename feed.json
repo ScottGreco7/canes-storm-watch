@@ -1,5 +1,41 @@
 [
   {
+    "id": "news-1aax3jy",
+    "t": "2026-10-16T23:05:15",
+    "type": "news",
+    "auto": true,
+    "title": "Hall and Jarvis get injury updates, while the rookies join the Hurricanes on the ice",
+    "body": "",
+    "src": "Cardiac Cane",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbTlfZzFHSUV6Y0s5Yno0OF9zdmJROWxURFFrWUdJUFNjaGF3NnJ6UFhrRDFDWmhnMVNrTGgxNUdxSWVjZlR2RDI0M1VwTmVLMm5QcUliczhpRmdPVE9kQXRtSm5zMG4tX0QyMUI0cnoyeUNHUEdmRnU4aUZGOTRsNW4xT0dPbldQV3hjZXNn?oc=5"
+  },
+  {
+    "id": "news-1b0dk60",
+    "t": "2026-10-16T20:34:49",
+    "type": "news",
+    "auto": true,
+    "title": "October 17 \u2013 Game Notes at Winnipeg Jets",
+    "body": "",
+    "src": "CANES PR",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBjWU5ocWIzUGh6NERYbWVBRXFJOENnMkNhR2cwX2tFal9WUV9sSTFRVXpDSUk1bVFaMS1ZOFd2UWJ2NmUzNlhra1dZeFlBVktOWHItRm04RHFPMFQyNGNCN0xWcHBDSFliWWIwbDZUWnQxMXF2Z0tScHhB?oc=5"
+  },
+  {
+    "id": "news-raowd7",
+    "t": "2026-10-16T19:00:09",
+    "type": "news",
+    "auto": true,
+    "title": "Injury Notes: Roy, L\u2019Heureux, Hall, Namestnikov",
+    "body": "",
+    "src": "Pro Hockey Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOX0pQampyWnRobW1OZDhkajR5NlE2T1lORU9wMzE1SzR1OWJzOWliYlZSRkUwYUpyYWg0dmJsMHA1ck1ZT0J1Z2dGMDBTWUszU3VqVmt3bWZoVndrT2ZmZGZUSzNXMDh2Y2p4Z2xrR3ZTNjRWWFA4Yi1FTXlUTm00SXU0S3hwRFQ5aVdjYmE4akM?oc=5"
+  },
+  {
     "id": "news-to4mlo",
     "t": "2026-10-16T17:47:00",
     "type": "news",
@@ -34,6 +70,18 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBLb3htczhMZG1VZzJJNkJaNlhGdU8xelFRalcwTk9rZ09IZHNVYXZvXzd5d3M3dU9rYTBjQ3ZJNHRveVA1NDVrNUtDOGNEUG5UU2FQQk9TVEVpVHpYZ19yN1YwLUVsWUJQZjZfTVZWdDR0QlNjZ0hkYVNTOGRPQQ?oc=5"
+  },
+  {
+    "id": "news-i8op4v",
+    "t": "2026-10-16T16:03:56",
+    "type": "signing",
+    "auto": true,
+    "title": "Stars Sign David Perron To One-Year Deal",
+    "body": "",
+    "src": "Pro Hockey Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORVBxdGhrbHNOWkZ4Z0x3bmRnRjJCelBHaks5X3lIc1VaNkFnRGZmSUNkeG9Ua3FHYzVCbWVyem40SnZFWFEtOVNTZFVXYVFnRy1iSEtGSVhzWmdRN2hUM1BZSUFPT1BHMTBmNktVTVpfWnhoM3JjU1NDTGJ1R21rWV8zaEwzUXM?oc=5"
   },
   {
     "id": "auto-add-8484392-20261016",
@@ -71,6 +119,18 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNM05iZUtOQmZBNzMteWRyNFAtTlFhX2VVN2lSWGxlN0o3VHo3ZEhhUWprcEpMUEJUNVFoMDMtWXVrNC0wWnBwSE4yeGxxTlB5QUZoQTVSSHpkNkFpVzFQcmZJWEhfaHRFZjdBanJfNTVNd2tEWjJjUFlGN0N2N1ZFaHdralh5YlZjc0ZLd3VRMVp6NEpXTVpuRTV0RS1RM292NzdN?oc=5"
+  },
+  {
+    "id": "news-dqg1v2",
+    "t": "2026-10-16T12:50:19",
+    "type": "news",
+    "auto": true,
+    "title": "Patrick Kane Tallies Most Assists By U.S.-Born NHL Player",
+    "body": "",
+    "src": "Pro Hockey Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQc1ZORDJDZUdTRkpkMkQyZ2xOQmF4dXBLaEl1bHAyMTY0UzhZbXJwaExGUVNxTXdlb0U2TDJSb2d4YV9qZUN4TjN0eUloV2JJYkpxWGFXcmZXcVF4N3VyRklGc3BMVEYtbHdWN0g4ejZtOXRMNXQyUHpsZURYT3dfLVppVEJzR1RpZW85VU1TdVlnNmJyQ0pQNzJDdlhYYkVrM3lj?oc=5"
   },
   {
     "id": "news-100a1lv",
@@ -241,6 +301,18 @@
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1UY0tTaU9BR1YwZHN3bC1lNV9ValJJTjNpTVgwd0FWVnZqMDJwUDRib0lrbjFsY1U5cFh4TGtucXloY2U3dzVVeFVwN1hybm1SanVmR2d4UG1nbVBLYVFHM0xnMDJFVXg0MUxGOWlDeUxlRTI1NVE?oc=5"
   },
   {
+    "id": "news-1cw5een",
+    "t": "2026-10-15T18:01:13",
+    "type": "rumor",
+    "auto": true,
+    "title": "Kings Interested In Connor Hellebuyck",
+    "body": "",
+    "src": "Pro Hockey Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQS0dLWkxtVmVhZWo1WmlHVk56X1V4OGJZd1dpNGtjbmVlRXNIc211NGxXRDVwUE91bXZtOGZLbmk5VGI3MGZ3UGJXNU94V1Q4RkY3YkJvbGtkdUpKZDJzUEZFekNPYnkyS2tZVjhFT2R4dnUzNVUtSFRnVzFjUFZYZmdlbXdSMTZPLVE?oc=5"
+  },
+  {
     "id": "news-m092be",
     "t": "2026-10-15T17:54:00",
     "type": "news",
@@ -361,6 +433,18 @@
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVkV3aDVScVF1YVRtYlFHeDNJVWFpWFUyck92eVo4LXViWG14N1BnNzMtUGpWMm9nNFBrdURYOGh4WEpsVWVZZm1NVEJZT2VuNVhWRG5sVUhTUGNWYkFwVk45N3BrVjNlU19jenpVQm93OGRWdmZIdURJcEJLRGxlRUxGeVg0cy14TnUwU1EzT0RIaHI1Sk5EbHc1LVp1azEwZk5qVGdYUVhYLVVVcGNXOUZYaw?oc=5"
   },
   {
+    "id": "news-1m34c4b",
+    "t": "2026-10-14T22:26:00",
+    "type": "rumor",
+    "auto": true,
+    "title": "Report: NY Rangers Linked To Maple Leafs' Goalie Anthony Stolarz",
+    "body": "",
+    "src": "NHL Trade Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTUJiUmxlMHBBQ0JYMjcwR21EdEJMTnlHOTRvcmdjd05vbU9wVUczbkRNV08xSEZfVzE0TXdwSldHNWxtM3pMSFhZSUFtTm94UnZzUXdLbEhUdjhIVi10emFaVFhjTnFmaTdEcWVNbUgtX003OUYyRk1VWDZDdUpwekdEYmozdVc2b0E?oc=5"
+  },
+  {
     "id": "news-1nve1k6",
     "t": "2026-10-14T22:18:50",
     "type": "news",
@@ -371,6 +455,18 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Vc1JrNG5nRGF5T3lHbUozdFU4aVM4djZ6ZGVkdDZzemtxRWp3UElqajA1MmNjQlFNNEhYN1JJZFFMOFpGdWNsYklDcEMwWkk?oc=5"
+  },
+  {
+    "id": "news-1iiy761",
+    "t": "2026-10-14T22:01:00",
+    "type": "news",
+    "auto": true,
+    "title": "Why Jets\u2019 hot start should increase, not decrease, urgency to trade Hellebuyck ASAP",
+    "body": "",
+    "src": "Daily Faceoff",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSnEzZVdqT0pNckhOQjVrcTBmWnBoNWp4RnlQX0F4M1hCZDllSlg1WDlFeWtwb21VNWk3VFRmcEx5enNhdTBYSjJCZGVVcHBURlBibVpzWnh6c3FROHZvY2VaYkhjZGotMndQZmdvb3pqODExV05qd182YWZMVVl4Q2h0aS1sUFhCYWZrM2ZCN284MXg5RnJHZ3NlMHhjS0ZIMjJyb2FrTExSTnRFVEVrQjl1a2Y3cV9wMG5Xag?oc=5"
   },
   {
     "id": "news-1dywt3y",
@@ -395,102 +491,6 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORFVtVjhJbWhXZW1EQjZycEVCOXdpVmEzNHhXUkNQR3ZrWGdibWxSbS1KMlBQYzFIZklxdkRmY19xRTY3NlFhLWM0aFFKNWNhbWExd0ZQaHJoenBIU3o5VWNzNTByQjUzY2NkbTVkMDRfUzhyRF9CeDJrVnJVVkxBOA?oc=5"
-  },
-  {
-    "id": "news-1gftziu",
-    "t": "2026-10-14T21:15:30",
-    "type": "news",
-    "auto": true,
-    "title": "Carolina Hurricanes win sixth straight despite injuries; Is Frozen Frenzy working for NHL fans?",
-    "body": "",
-    "src": "99.9 The Fan",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE91Y0pDS2NjU3EtQzdXWUxwam56TE9rRkEyQ1hTOXRYNnFpOTQ3VGlCYWJDSU5PV0t3Q01kMjNzN2p6bDlkUzVrWHNxV0psRDA?oc=5"
-  },
-  {
-    "id": "news-6yt7aq",
-    "t": "2026-10-14T20:45:00",
-    "type": "trade",
-    "auto": true,
-    "title": "Seven trade destinations to watch for Red Wings\u2019 Simon Edvinsson",
-    "body": "",
-    "src": "Daily Faceoff",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVlI5ZFdJSDZpSGVmSklET1VFUlNOZHUtMXlNeUc1OE4tYmcxcHFqYnNRNXp1T2tmYmJkZmhTR3hWNWtrWk5nMlpwSFplNkNHWVhaTTlxdzFNOENpaS1LX3d0V1lic3c3aFdzWE1MSVNfN1Q2UGdYMEFGX0ZKeEVJSFZoRDYwUmhMc29MZTdwTU44UU9tRUpyaXJMQkZCUzN2ZlBiajVHVDVaakFWU2VDTkxVQWxTaURaRGRHZ2lBVVBSaTdubUxvbVlndS1yYkk?oc=5"
-  },
-  {
-    "id": "news-1q7ql07",
-    "t": "2026-10-14T20:40:04",
-    "type": "news",
-    "auto": true,
-    "title": "\u2018CANES RECALL NADEAU FROM CHICAGO",
-    "body": "",
-    "src": "CANES PR",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8zeDVWVU5fckRHVDZteXNoNW9KX0hpdTFHcGhrTXd2VU9FQVZ4TF9WV09fQzRFVVBmdldwbXprNDAtSGd0NmhXa3VEa2c3aHpMMDhBQXg4aDd2MExmbmpFR05lY3hISnE5aW9yQkN2eFNrNE9q?oc=5"
-  },
-  {
-    "id": "news-18omx3z",
-    "t": "2026-10-14T20:20:43",
-    "type": "rumor",
-    "auto": true,
-    "title": "Red Wings Have No Interest In Trading Simon Edvinsson",
-    "body": "",
-    "src": "Pro Hockey Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQd1BXTy1WSEhYQXFWR2I5ZUhzSTNramRrZ19tRHhCcnZMdTFHS3cwSkhRZFBSSlIwUjBTWjJ3WWZDSE8wRnFQS0FTUmNfODFURVlqUnh4N1B6czhMcWVhTWdtMWx2Zi1sclpVN2JsS0V6Y0stUkZPcjlQTmRSUzdqVURDTVNMQ3JwRjJuYVNYbFVwSUQ2Nndnb1FHM29yTEwxLVh2aWNaNzE?oc=5"
-  },
-  {
-    "id": "news-ksac5q",
-    "t": "2026-10-14T19:00:59",
-    "type": "news",
-    "auto": true,
-    "title": "Canucks Place Aatu Raty On Waivers",
-    "body": "",
-    "src": "Pro Hockey Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSkhVMzJJbl8zYi13T294b1JQdHhXN1duZWFNZjVEZ05TcEswcUNsYlk4N1ozaTFiYmFqWjZnQmNiY1o0cHpTT2kyV25KZGZTSDBYbDZVUFRlMkFBMTBKVnZsMmM1Wk9iTl84TUczc1l6QTk4QmYzbDhUQ25uWDkxUVNtWDVTQQ?oc=5"
-  },
-  {
-    "id": "news-18lilds",
-    "t": "2026-10-14T17:48:00",
-    "type": "rumor",
-    "auto": true,
-    "title": "Major Development In Simon Edvinsson Trade Rumors",
-    "body": "",
-    "src": "NHL Trade Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQW1qUGVRVlp6X25RemhYUGdSVWZMRkZUNEFqTEE4ZThEc3J2UEJjUE5wNGV1UmNOM1JlSXk2d0VKVTNXdUpPZWNQdkVhdEtnblVRMFVBclJNWlVzRUpOWEhWTml2RGFBWXNzZEp5RVczdEF6OWVXNzl0dXRvRHJFLXhFcXFlZw?oc=5"
-  },
-  {
-    "id": "news-1yw4fi1",
-    "t": "2026-10-14T17:40:00",
-    "type": "news",
-    "auto": true,
-    "title": "Columbus Blue Jackets NHL Line Combinations",
-    "body": "",
-    "src": "Daily Faceoff",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSXNzMGVSd3R6T3Y5NFctWFpIZnhUOF82TUpjdWF0QlhncUlLRjVvMEQ3c1pucm1xdDJYNlpvN3RMWWlvOU9FcTFKVTF3SjlFT0tZOEJweS1CakdnRzFvRlF0elVmZFp1Unl4LUozcXZyU09aOTlkdVlLMGkxQWlXeQ?oc=5"
-  },
-  {
-    "id": "news-b4rag8",
-    "t": "2026-10-14T17:40:00",
-    "type": "news",
-    "auto": true,
-    "title": "Nashville Predators NHL Line Combinations",
-    "body": "",
-    "src": "Daily Faceoff",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4waGxkTW82QzVFY1cwTkRvby1GVXpoZGFuSEdycHNTaVljVnpFQ2EwYW5RSDZtWEU4R3NRZy1qOGJHYzRVNjF0eXdMQUcyc21KWlhHek1tVnJwWjZEeVRUZkwyTUVVMzFwdVM2WjUyX1VCcmlRNTlmRHV4bENBdw?oc=5"
   },
   {
     "id": "auto-add-8484203-20261014",
