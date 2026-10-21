@@ -1,5 +1,41 @@
 [
   {
+    "id": "news-1vimfd9",
+    "t": "2026-10-21T05:45:00",
+    "type": "news",
+    "auto": true,
+    "title": "Hurricanes 6, Canucks 3",
+    "body": "",
+    "src": "Canes Country",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPb3dvLVpJNFBFcGFJaXlkaldNVi1ZaGl3dFg1WGZZZTQ3TmlMdW83enNJREd3MXVuZVh2YXZJWWFBLW1HaUVHVFAyaXdtR3o4VXZuZDM5SUdpQnFHX2xvUmZSaW4teWpncGR2WmtJaUVuakRqajhHZE5MT281MlNQcXNTQVlZWXhFUGFRUG01eFBSamRrQjJQY0U1QkpmQQ?oc=5"
+  },
+  {
+    "id": "news-1ire88m",
+    "t": "2026-10-21T05:42:45",
+    "type": "news",
+    "auto": true,
+    "title": "A trio of multi-goal performances help the Hurricanes win a sloppy game in Vancouver",
+    "body": "",
+    "src": "Cardiac Cane",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdkZ0dE0tX0ZBZmRTYlVvcjBVMGxhUlZ2bUJQOF9ySDhuNXJzZmxsa2RjNFlwVWJIR2Q2Rm9KWTJITGx0V0ZrME9HSWVwMUhpdmpOMHJMWmlSUDJ6VnpaX2c2ZFUyVWFSYktrVlhxOGhnbnZwRXBjbk9ZeDVRclR1N0JPTFBJODdvSXNmVENYUlg2SDFsZFp2dGdIYUgzWXBwNVE?oc=5"
+  },
+  {
+    "id": "news-ptq476",
+    "t": "2026-10-21T01:58:00",
+    "type": "trade",
+    "auto": true,
+    "title": "Report: Red Wings\u2019 Larkin expands trade list to 10 teams",
+    "body": "",
+    "src": "Daily Faceoff",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQVjdfb1l1ay1WS3Z2SUpGRmVmQnF1QXJ5R1FYc3FCRVpxaGtwWGVKNWtPcUhkajNYZ3JVTy1UWUxnN2JpRlo5R0x5ZjhBQzFQOTdaWW1RTk5Rd2ZTbEZxU3pUZHBOS1plX1RrVEY2bXRUeEFvMDl1QjdkZHFESlFkTXdyZld4WlNtU2lVLVNoUXlEUTAyZEQzMnJEd0J4VkZvRXoxV1pRT0FjUmxCNW93U3JvckRlX19RT1VqWjdHUFk2S3p5OFJGWUlINTlVaElBd1RSWng0c0t6ajR4bEYzRGVmb05JS0tVVlFpWEpKU3AzQy1DX2FtWFFiZHlpX1ZYVTRyNUdoUUxjVFpPWXhRc2txZzluZw?oc=5"
+  },
+  {
     "id": "news-1y3rwuv",
     "t": "2026-10-21T01:44:00",
     "type": "news",
@@ -36,6 +72,30 @@
     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOM0tsYkhsUVdxb1lTMnoxME5KdXVMYzZobXFVTEF2U2l0Ny1VckxZYmRsY0JpU3FxQ3pJWDg4WkxPNU9najFoZlRsQUo0SEQ0VDZndjB5ekRCR1VaaVBXOVE1VzhCMkFKUWpPUUJTZUZZcUE0a1VKR0FvcFY3Zm1yVjFvNl9GbzRnejhPeFdB?oc=5"
   },
   {
+    "id": "news-hmbmy",
+    "t": "2026-10-20T22:29:00",
+    "type": "trade",
+    "auto": true,
+    "title": "Report: Flyers Eyeing Blockbuster Trade With Kraken",
+    "body": "",
+    "src": "NHL Trade Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOY0N2bjVmVHEtM2szNjhnVlAzWFRHb0lLbHBDVGFzZ2RucDVaRDBua3hIZEc2dWV5cW9CRkRrZGhxdlBWS3VDeE9ZU3g1NC0zWmM1NHJpMkhENjFSTExXVTEybUVPVUdOWXY1S0tiMi1yR2NsXzZjRjVrNmZKTEpnWGF6MlhINjBTNWx3ZE01WVNMdjl3M1pOMG0yUTNzcHNtNWc?oc=5"
+  },
+  {
+    "id": "news-1q5mbwp",
+    "t": "2026-10-20T22:00:06",
+    "type": "news",
+    "auto": true,
+    "title": "Mammoth Recall Artem Duda; Place Michael Carcone On IR",
+    "body": "",
+    "src": "Pro Hockey Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMzk3WGhzRnVEZF9FWEpiOTdFVU1FeV9Sb182WENLaEwwUnczRFdiQjYzRGI0TXVCelF6TEY3ZjJQM0ktc2JxLS1XWnZFWkxtaU9PNVdsWmZNR3BFSS03X1hJQ1ZlVkMyYjhsajVIWFVTVmpfclBmMjZEZXBUR0RreHdYRnB5N2FxbDZCUW5feVNqZ1BaOHpTRE5MNy1HTTQ?oc=5"
+  },
+  {
     "id": "news-b97sz9",
     "t": "2026-10-20T21:40:17",
     "type": "news",
@@ -46,6 +106,18 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOWxfZEtnNnhoRnBTOTFtcFhLZThNNDlva25MbDBBZ1FYZTNqUlJDTjBVVnh2dXJjQmlmOGxZNGxXcE1SMXlJYlo5cmlzRlRCTnRCTzFSOFRQdlY2UmoxQndmbHpsZFhnRTRqaEZleXlwejZoSGoyU1lNbXJlREZaWmYzRkdkdlNkYXhmNHVsTEx5cFFLbXh2alZYcU5rWkdtbzc3c0puSVRhVXpaeTNaMjBnVTI?oc=5"
+  },
+  {
+    "id": "news-9qv8or",
+    "t": "2026-10-20T21:37:00",
+    "type": "news",
+    "auto": true,
+    "title": "Report: Islanders Close to Trading RHD Scott Mayfield",
+    "body": "",
+    "src": "NHL Trade Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTklydG9VaHN1STVyOVpJcmtzQThiWi0zYnlydWxDUlM2SjZDZzhyZlN2QXBsemwzeGVWSVhjYVVVNjV2RjlTRG9mYUlVYkdfWENXYjZuVnlRZDlQXzJ3NkptNjJhWjVFZ3BJOWIxUWJOX1l3STgxSERxa25WUnVyNTVINF80WG8?oc=5"
   },
   {
     "id": "news-l88jtv",
@@ -240,6 +312,18 @@
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTlpJdS1VZ1RtMC01T010UjdncUFfZWd4TnVQNGU5RURScFlEWHFaTGxwemZaY3lGbnNsdndMWHk5c0JlSWFlRkJ6UHNBU1Z6RU84MHlDQnVyZlZsTHVKZGZjVHktcHBfZHRaa3RiZ3BjbXBUaHBJTU1Va2tKT2FMYkNud2VySGFNcnBVb2ZWcXF4MVo4X3pNc1U5QmtjaHo5Qjcxc1NRWkxKaXk2eEFoRUNBZ2c?oc=5"
   },
   {
+    "id": "news-nkpma2",
+    "t": "2026-10-20T03:08:00",
+    "type": "news",
+    "auto": true,
+    "title": "NHL power rankings: Swayman, Pastrnak elevate Bruins into the top 10",
+    "body": "",
+    "src": "Daily Faceoff",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMDd4a0V5V1p5Y0pfOUxUblVwcldRaVZIY01adzRoNlF6Y0xkWG1ySlNPUHhTRDU2aTdNWkdqcFl4bzBaZnlyZDB1SUFfNjVCZjE0R3pWU0xWdVVyb21kaHJ2OEFuc1ZIOG5QWmZ6QnVydjVsSldJaUFfT3oteTdYVGh6VUNGc1l5eFozMTNIMVlubHRTbkhNYk5vaF9PZXFod3RMWDNkcE42RzE5M2hDenowdWhPQnF3aUVtUA?oc=5"
+  },
+  {
     "id": "news-abspxk",
     "t": "2026-10-20T03:00:38",
     "type": "rumor",
@@ -394,90 +478,6 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUTdtT2hGWGFRS0owcnhocmlXemF0WkwwaFQtc1RtNUl1UWxrX1diejlrcEdyZ001cUlwdUF2SEx1QnR2RE9EVHUxRnRRQV9uUDRGdU5LV3VhSjl0WnM4ak12bjdIR05DWmk5cURub3I3YldQVHdlbWZIeXhkc1dtLW5LUG0?oc=5"
-  },
-  {
-    "id": "news-osp4t7",
-    "t": "2026-10-19T20:00:33",
-    "type": "news",
-    "auto": true,
-    "title": "Jets Place Walker Duehr On Waivers",
-    "body": "",
-    "src": "Pro Hockey Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONDVXTHJZVzBCbzRSbFNOXzgyYmdJbmFqaE00X3FxcTdfY2ZFVHk4clpGY1pZOU5DeWVPMzlSWUlXcVphUzV0a0pjdFF4Z0pZYV80Z0xWVzgzSnpsVWJyRDdjeHU1UVoxc2Q2RURYMWU0Tk1YdXdRWXkwRU43OUtZdmYzTXR6QQ?oc=5"
-  },
-  {
-    "id": "news-1kn0tlo",
-    "t": "2026-10-19T19:36:00",
-    "type": "rumor",
-    "auto": true,
-    "title": "Montreal Canadiens & Philadelphia Flyers Linked To Interesting Trade",
-    "body": "",
-    "src": "NHL Trade Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNalhidU00V2NSdmFvckROYjJDVzI4RjRjUmt5Nm1vYWRxZi1xWktRYXkyTVQxbU1KM29wRkRZMjlRWHcxS3htcXdHcV9oYmxZbFViRVo4WlI3THNXXzh0ZUNkN3YyXzJGT1FhZHFxR1lGZloxbEh6YTcwelpReENJYWk5M1dLWkdm?oc=5"
-  },
-  {
-    "id": "news-101ukmb",
-    "t": "2026-10-19T19:00:27",
-    "type": "news",
-    "auto": true,
-    "title": "Philadelphia Flyers Recall Three Players",
-    "body": "",
-    "src": "Pro Hockey Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNY0NhRE5KR0FLWWhJbTF6UWswZjQ3R2hfVXc0NXNMc3A0Q2ttMDlPNVQ2RU9YdnQ0QzNoazBDd0RTT2t6SEsyUGdDMmczQmpJMjd4R2xLZHhLSTBJVndrSVBmZmVEbUpSaXhkSDBYVktrS1YybzBKUGw3OE9kV2k4UVA5dWlJemFMNjRJUmlYTVE?oc=5"
-  },
-  {
-    "id": "news-1txjqw",
-    "t": "2026-10-19T18:43:07",
-    "type": "news",
-    "auto": true,
-    "title": "Carolina Hurricanes Announce Taylor Hall News Before Canucks Game",
-    "body": "",
-    "src": "Heavy.com",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMHVUN1F2clFNZGdjQS1FcHNhbHNjdUdDTERDaHhFcmdqc25CaW5YX21TNkJhclZodWdRYUpCdDhna21VdHBkTnIxc0IyVnBZeWJYY0hjMVRueV9CMHZhRldGQjU0Z3lKUWVtSGFzT2NkY3hJai0tRlUyRW90X3YzSTh0ZkZ3TmtxS3BDVUQ5cF9yUk84XzczWnBtS2UyQ3ktSXdieDh3anhmVUtXQkdGakNIeG5kUQ?oc=5"
-  },
-  {
-    "id": "news-369kr6",
-    "t": "2026-10-19T18:33:42",
-    "type": "trade",
-    "auto": true,
-    "title": "Recent Connor Hellebuyck Trade Report Continues to Link Carolina Hurricanes to $59.5 Million Netminder",
-    "body": "",
-    "src": "Heavy.com",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQUY5Nkkyell3VWVfdHZmOXZxeXlJRl9NVktLQUd6RDRJU3hyYXJpUzdBXzZOaElqS2JJcEpJNTRFS1BfR1NKRkFVTWV6Z05fbTh3Rk03c1Y0VVJFV2xjYWZ3VU5HSjRsVTIzc2Z4aXROY1FfX21OTldvd2QwZHM5V2ZweVRlSUZ4Mk1zSWZKNlZyTi1RTTYwVUZFa2FXYzRGT0h5bEVGeVRhaGJya0NMM0R3Y1lhcTdSZFRRTmJzclBnX2VQWm9F?oc=5"
-  },
-  {
-    "id": "news-v7j1pw",
-    "t": "2026-10-19T17:56:00",
-    "type": "news",
-    "auto": true,
-    "title": "Seattle Kraken NHL Line Combinations",
-    "body": "",
-    "src": "Daily Faceoff",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBVVjRQamRjOS0wM3g0ckhmOUs0RHRRTGtmbnhSUXlvSXlBcVBHdVlEbEJJRXBsUkg0aVRPN1BuTXEwa2FhQUJhUEpTRHJrVXJmNFE4NFpSamttOFhVUEtFRTFqOU5YaGFEVzhtV0VjSVhseVkwZllz?oc=5"
-  },
-  {
-    "id": "news-3c4oqc",
-    "t": "2026-10-19T16:16:23",
-    "type": "news",
-    "auto": true,
-    "title": "Jets Recall Brayden Yager, Place Josh Morrissey On IR",
-    "body": "",
-    "src": "Pro Hockey Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTHROV3M4ZmVZQ1BIdEtxVkwzWWR4amxMZWhuTDAwQjc0RVFGbjQwc3MyOUNIdDR3OHNVU3VlVXp0Qy1oNEI2c3RuZzk3WkZRVzFYdVVTY3pDSFdhNVM3ZnZDM2JxMEJ2eGUzWW1Yb2t5eEVMWWJlRVB5aUpmbk9Rc0xBbkxXTWxGbE83b2JNM3NRYVZ1S3RKT2ZVMDRFdw?oc=5"
   },
   {
     "id": "auto-add-8484392-20261016",
