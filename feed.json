@@ -1,5 +1,41 @@
 [
   {
+    "id": "news-9lqg6",
+    "t": "2026-10-21T23:43:05",
+    "type": "news",
+    "auto": true,
+    "title": "Alexander Nikishin, Hurricanes ready to part ways",
+    "body": "",
+    "src": "Daily Faceoff",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOTRCekptYUZVdkZ3Z2o4bEpYdU12VXp1cFVSdWRsb19mYVJMa2R4RFJFdjJNdWtvektDdHZ2VnVwdFVQbFlJaElMZVY4cXZHZGdXMEM2ZGZBRVJwaHlycmJIblJxNWd3SFVOQW9IYWFFYlpJblZOQmxUb1dXRUhWVVVsaVZHU3ZrRkRINk9BNFgtbzk4RjJxN3U3cFkyVDRVMFF1UGRlb3VEVTYwN2NSOGhqU3gzOWM?oc=5"
+  },
+  {
+    "id": "news-1n85un9",
+    "t": "2026-10-21T22:35:32",
+    "type": "news",
+    "auto": true,
+    "title": "NHL Insider Says Hurricanes Have Given Most Consistent Offers for Connor Hellebuyck",
+    "body": "",
+    "src": "The Hockey News",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYUZIS2ItSmJ6bkRkRGVZYmN0N3BLZDh0M2VCUmZnUy1TQmU4amN4TmkweXVtSkdCVUdjZjJjbERDdXZxVHlXSkxLc3NyMTdqZjdRN1ZOTTJKLWhvVFJpTXQ4b2s4X2ZFMFFMMUFud0I1Y3ItQ0dxTHJhSlJvNXBQaDA4bXZicXVqbjE3SjVIeGcxUEk2bklEMFAxcDFsT3lMaWZwQ2IwVUVMYTEwZzFTV2x5NWFZVnVoNDRTU0prWGlJUllhdk1tMTRwd3dqRWFWem1KbXB3?oc=5"
+  },
+  {
+    "id": "news-1idv1we",
+    "t": "2026-10-21T21:43:35",
+    "type": "news",
+    "auto": true,
+    "title": "Canucks Live: Malhotra brings out blender | Coming up short becoming habit | Who's on trade block?",
+    "body": "",
+    "src": "The Province",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNUmhlUm5abHhMMFZrQm9EYkdNVXRwckk5ZFFKRVpxTnFoZWRRc2tuTHFQSEtQR2VMZkxnNHRtdGRjeU52NnlnOGlCYkNMTU5lQjRRd045bFZfNkVfMDFMQktZLU1mZHpQMXVQTnF2MThucmloQXBlYW9DdWdNdFpxM0ZvdTdrczhxZUFPclpGWmRrdlhBM3NzVUhMSHB2cDhITUN2SnY4a01zX0ZuT205cnBmb3Y0aFd1V2toelNDTWlVSkRLVXA4MGNUWm9DeVczVXFRUi0tRWhZQVFBRS1TVnFaYW5LOGxTbVBLajNBOA?oc=5"
+  },
+  {
     "id": "auto-rem-8484203-20261021",
     "t": "2026-10-21T20:53:24",
     "type": "roster",
@@ -10,6 +46,42 @@
     "players": [
       "Bradly Nadeau"
     ]
+  },
+  {
+    "id": "news-ihzv9w",
+    "t": "2026-10-21T20:17:25",
+    "type": "news",
+    "auto": true,
+    "title": "The Drive with Tim Donnelly LIVE 10/21/2026 | Carolina Hurricanes | Carolina Panthers | NBA",
+    "body": "",
+    "src": "99.9 The Fan",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Pd0FZYTFFcUZFbDhTcVVvNlFBZ3hjUDhBM21EZG9GdzlCWjB0RE5rN2ZlZVEzR20xMHd0UXdIZmpMdXd2NzJIekpoWXhyYzA?oc=5"
+  },
+  {
+    "id": "news-vzqqvd",
+    "t": "2026-10-21T19:30:41",
+    "type": "signing",
+    "auto": true,
+    "title": "Bruins Sign Marat Khusnutdinov To Three-Year Extension",
+    "body": "",
+    "src": "Pro Hockey Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxON0s2WXhYWXNtcUNSQ29OMUlFTDFWZnN5Rzl4OVNxVVl6VTlVVENjNVN4bGowdEhmX2ZmM1RmclJCQ183YnQtS0RVajlwVElXdTVXMGY3c0dFYmY1OU1PSEJIaWtCUjAwbjNFU3R3MDYwS2ZUMXgxR1B6cll0TjFYTUZrcDl2WTNFd0xib0duV0dkay1SQnlNelpn?oc=5"
+  },
+  {
+    "id": "news-191c4mp",
+    "t": "2026-10-21T19:30:25",
+    "type": "news",
+    "auto": true,
+    "title": "Canadiens Reassign Owen Beck, David Reinbacher",
+    "body": "",
+    "src": "Pro Hockey Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQUlpUWxmemYzVlZQX1Y5RXFDSjI3UTFWczVleWY4Y2haY3g4Mk45aGxKY0ZFVEdYS3JCMmxNaEtNRVk0U3A1OWMxODFsZ1ZYdjlhajZOT0c0bG9wWTJvbWI1MnBFYnJhX0ZMcmwtQV85bk93N0JTcnc2aHBwR2Q4c2ItN25TcTZkMmtlU1ZhMnQwWGVz?oc=5"
   },
   {
     "id": "news-iie4rt",
@@ -418,78 +490,6 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNemFEbWhVeXZ0TUp1V1QxRllpYzdSVE43UmNCY2I0M0ZIQnd4bnhVWkxGUExCTHdSNG40UjFNMUpzNW80b1llb3labF9kZHVRZjRMdUpMVlZfY2J5ZEx4SU1PSk1aOGxqVGV0WXFnM0dCOTVId3FKdVpmNXV6bHNNNQ?oc=5"
-  },
-  {
-    "id": "news-8aj31",
-    "t": "2026-10-20T17:22:00",
-    "type": "news",
-    "auto": true,
-    "title": "Los Angeles Kings NHL Line Combinations",
-    "body": "",
-    "src": "Daily Faceoff",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9fRm1rMnhwLWY1VUxSZG9FS0hhVVl3QktPVXBSWFRXcnl2V1VSZERYRHA2V3d6MGs0SkNWLWFhLWltUjh6eEowVDYtdHFnYTRoa1JoRDU5Qm5TY2c2WXF4Ylp0WC0ybFNjaGstdVJiLTlzRnpLTjdZc1I5MA?oc=5"
-  },
-  {
-    "id": "news-68u20u",
-    "t": "2026-10-20T17:14:00",
-    "type": "news",
-    "auto": true,
-    "title": "Boston Bruins NHL Line Combinations",
-    "body": "",
-    "src": "Daily Faceoff",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB1WTV2WEVJZVRsOExMZWNaM1lUSGctQ2R6dUpZYjNpc2FGLVQ2Z1VBamdBVm5WY1AwV1k4ekYwOUV0WnhPRi0xbkVyNTNpTkVqZWNiU2I5WGRwR25ScEMyU0lwX3RERVk1ai1iaXJycFVPQm1ZTHc?oc=5"
-  },
-  {
-    "id": "news-52s52l",
-    "t": "2026-10-20T15:34:00",
-    "type": "news",
-    "auto": true,
-    "title": "10 times an NHL team traded its star and made out just fine",
-    "body": "",
-    "src": "Daily Faceoff",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSFJqaXFJQjNDZ21pV09PcGJIb1V6LTgwdURfY1lIUVVObmJFMHBjVjRjaXM5cHo5UEV0eXJ6UldNWWtOekx1dHFyRUlINmR1c0hoeHNhNGpvMzlaNkgxMFk5U0pfclQ0aFJGWmMzX2ZiZkVSSFZEdW9MelZaV0xRYUJLNjZ1S19HYUloZEdDQjVuQmVTZVItcDYwRm1nblNQT1dpY1hhb3I5bUUxQTB0dGZPZmUwVlkyMkx4Zg?oc=5"
-  },
-  {
-    "id": "news-16gre6m",
-    "t": "2026-10-20T15:11:53",
-    "type": "news",
-    "auto": true,
-    "title": "Bruins Notes: Zadorov, Zacha, Eyssimont, Jokiharju",
-    "body": "",
-    "src": "Pro Hockey Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPb0ZRRXUzN3FYdUJyTVlrbGItVklSVEJ2bFpvTFl0dTBRWjVKU0ZDNUdLdEw4OXN2aE9POWZvYUUwQlF1MDh3UmVMMmdKSS05S3U4bFVlblNFanpGcjlOaUlSeFJqaFBsbEZFQWdiRHRpQzBnOVdyWEF1dkZWZ1J5M3AzR3NWNWZxX2k2MGlKWndkaWE2VkE?oc=5"
-  },
-  {
-    "id": "news-1lk3phm",
-    "t": "2026-10-20T14:53:01",
-    "type": "news",
-    "auto": true,
-    "title": "Hurricanes Trade Pitch Lands $70 Million Forward, Offloads Nikishin & More",
-    "body": "",
-    "src": "Heavy.com",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMzhTdUI4bWZlNFlLTmFJdXhwY1BRTFY4VGR0MTZWSWJKaHpjRWRJVjdldVFqMV9pdjlETl9STWNiWDgzOGFqUXZHaWF2QkpLNFBsMjBrbnZPcWtqMW9nd3hBZ0NJSWtoRzNScm9QUUVtdmRWVDVOcjVMU1dvMUxwdHlnQklqaDZZV1VPOE9QS18wTGRnbVI3V2xn?oc=5"
-  },
-  {
-    "id": "news-ccpfwa",
-    "t": "2026-10-20T14:16:35",
-    "type": "news",
-    "auto": true,
-    "title": "Sabres Committed To Ukko-Pekka Luukkonen",
-    "body": "",
-    "src": "Pro Hockey Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSXpQNHJOekxncFZkSXdISENKd19FZV9Wc2pSQlhCNW56aU9OMFhLa0V4VWgzTEdXOGFua2V2NWV6UTJMWTQ5dXlucGdNcTFrRnNJbnAtbmNoV2F0cjJQU3otX05ZaUw3NlBGT0V5TDBJZGd0UVhVWjIxZzdnOUFtT0R1ckxtclNXTE9MZlJn?oc=5"
   },
   {
     "id": "auto-add-8484392-20261016",
