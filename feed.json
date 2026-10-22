@@ -1,5 +1,115 @@
 [
   {
+    "id": "auto-add-8480291-20261022",
+    "t": "2026-10-22T18:05:03",
+    "type": "roster",
+    "celebrate": true,
+    "title": "Skyler Brind'Amour added to the Hurricanes roster",
+    "body": "Skyler Brind'Amour now appears on Hurricanes' official NHL roster. Auto-detected from the league roster feed \u2014 could be a signing, trade, or recall.",
+    "src": "NHL roster feed",
+    "out": "",
+    "players": [
+      "Skyler Brind'Amour"
+    ]
+  },
+  {
+    "id": "auto-add-8482093-20261022",
+    "t": "2026-10-22T18:05:03",
+    "type": "roster",
+    "celebrate": true,
+    "title": "Seth Jarvis added to the Hurricanes roster",
+    "body": "Seth Jarvis now appears on Hurricanes' official NHL roster. Auto-detected from the league roster feed \u2014 could be a signing, trade, or recall.",
+    "src": "NHL roster feed",
+    "out": "",
+    "players": [
+      "Seth Jarvis"
+    ]
+  },
+  {
+    "id": "news-1mxjp4h",
+    "t": "2026-10-22T16:47:48",
+    "type": "news",
+    "auto": true,
+    "title": "Penguins' Benjamin Kindel Taken To Hospital",
+    "body": "",
+    "src": "Pro Hockey Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZnlVM1hnalZkLVVLNlN0dEx1UHQzX0FGU2F1MnFaR2NjRE9qd1pfazE1d2FFcURTZU5JTnhvY0MtN19jYkJzN1RIOGxleTlJcFl5V3hJeDdUYmNMamxVNkNYOXA2azExd0dPSlpjMEtQT0tUTWFXNGEzZFAxbU5ncFZOTEJHZEt5SklsWjB2WmI?oc=5"
+  },
+  {
+    "id": "news-1ib9ytn",
+    "t": "2026-10-22T16:41:15",
+    "type": "news",
+    "auto": true,
+    "title": "Senators' Linus Ullmark Leaves Due To Lower-Body Injury",
+    "body": "",
+    "src": "Pro Hockey Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaDY0MjAxdzd3M1pRaW9VZ09uLXZHWE53c0VUZ0NLMDFPM0FuU21LYVlxX1BNLUVKU25WSjQ1MzJ3M2lDWXFCM1ZaODllOGZUMUg5NDl0Umw3V3MzUU5FZ0JudjRiRk83TzM3OTdab2FTYVJ0S29INkZ4YkRxZXBtYTVoZVJvMlJ3enFOS0V1VzFHcmpSV0VoWlF2TnVCYmRy?oc=5"
+  },
+  {
+    "id": "news-87ybsd",
+    "t": "2026-10-22T16:19:50",
+    "type": "news",
+    "auto": true,
+    "title": "Canadiens\u2019 Nick Suzuki Out 2-4 Weeks, Owen Beck Recalled",
+    "body": "",
+    "src": "Pro Hockey Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdkZvTFZNdWFjaXVyLUpkeWw5WGlMOHdOY0RlZHR2LVZRM2xOWmJSUFdVSUxmY1NwV29YcVd0UGVQQTROMzdXcU9qRElmRmtvNTRLZnlxaG9rVmsydzF4aTNJbEtsZWVKUlJndHoyV1hNdVVrUW9KWFZwVWVRRjdHQTNqTGg3QlR3bk03YWszUkYzT2RGTmlJU1haNF9zd2JE?oc=5"
+  },
+  {
+    "id": "news-1giu2gp",
+    "t": "2026-10-22T15:29:55",
+    "type": "news",
+    "auto": true,
+    "title": "Carolina Hurricanes Quietly Make 3 Roster Announcements Ahead of Oilers Clash",
+    "body": "",
+    "src": "Heavy.com",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdnpyc2E2T1BZTVo0dDRzMHV4cFBUc3B0Q0pCQ0xGUGFXck5vR09ZR2o2bnJoRjA1c0RGVWJRZ2VzenQ0T1ZyNG85NUxBZ1BNVm5xdVM2NlZLV0tka2NyRG5XZ3pBdktkR0RLWE1xUHlBQ2d1R0tzSnZPc3VTeE9ZWF9FR2U3UDZIWGgxMGJpVjlTOFJ6V29mZ3lITkxwTTN4cnpjOGU1WlczVDNYSnVidkU0MjdzNW9oMVZKVGRuNTlFdw?oc=5"
+  },
+  {
+    "id": "news-59g9iz",
+    "t": "2026-10-22T14:46:22",
+    "type": "news",
+    "auto": true,
+    "title": "Carolina Hurricanes Announce Seth Jarvis News Before Oilers Game",
+    "body": "",
+    "src": "Heavy.com",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQR28zMGNYTWNpNzdacXdCV0RIaUFBcFhQS0dsLW5RbmJZMkxZUFl1cHdQMzR6SEVOVnEtS2tEZ0N6TGdpMTBBNmdqT3dOZzF2WDJJRTdkV2ZIaEZYZkhOYWE5NnRjano4RWlIcERnQU54VHNJYnhVOVdXaDMyZU5QaDZjb3FFbFVhZDRKQk5Zb3VpR1czMkpZZkJCNDRKVUE?oc=5"
+  },
+  {
+    "id": "news-14r79ot",
+    "t": "2026-10-22T13:31:00",
+    "type": "rumor",
+    "auto": true,
+    "title": "Another Surprising Predators Name Emerges As Trade Candidate",
+    "body": "",
+    "src": "NHL Trade Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOEtUQkR4aGx1TmlhSFZ3V0M3WThJbmFUR05aNkZfMU14YjBEbXhRWjlZSWdjQks4MXM2WGFVcDIzNmpDRHNJZEpCZ2pqU0IyR0VnVENpRkJleHdaeWhpM20wMnB3Y2tobTFFdHd4M3E0YWFxU29GYk4xV0J4XzM2WFBB?oc=5"
+  },
+  {
+    "id": "news-1u80dey",
+    "t": "2026-10-22T12:00:00",
+    "type": "news",
+    "auto": true,
+    "title": "Free-Agent Patrik Laine Heading West?",
+    "body": "",
+    "src": "NHL Trade Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZUQ0Y2xuTXpJYUxQTXp1V3U5SW8xZERIblBhdTI0eFRJaXNaQ0NJbkIwR0YyVFg4aTFmV0lBNVNsRzJuQUtMQ3A0VDZyb3piaVRtd0NGdm9tdG51Z0Y5U01WSzJZek1jUkR0S0JuWkgyS1ZpSnd5b0dWbUpKZGV2V21ycGZrQQ?oc=5"
+  },
+  {
     "id": "news-gfmyhm",
     "t": "2026-10-22T11:55:00",
     "type": "news",
@@ -22,6 +132,18 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUzZCdVhMRU1vQUtOY29sc2JTX18xX1Q4NDVhZmNUUXdSQ1hRdnJ4allScVNJUjh5MDFIV1BLR1g0UjZBNjBjczA4T1dtQW1oWGw3bV9mYXJnWU5LTG5nWnBwMUFQVlpMNGlEWFVJNW5nY3V0Yml6SHRsUnpUN1RPdFp1RnNjbW1hWkU1bGR6MFVEQVdoQzl5QXEtYnFYTUV6bHM2c1diaXFMY1h3?oc=5"
+  },
+  {
+    "id": "news-9donq4",
+    "t": "2026-10-22T05:32:00",
+    "type": "news",
+    "auto": true,
+    "title": "Hurricanes activate Seth Jarvis off injured reserve",
+    "body": "",
+    "src": "Daily Faceoff",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNHJtZTZiYldKUTEtMVZzenRfT0hWVzZBZ3k5UjBYaEZkQURUUjVwdFV0NmZJX2J6WUJZc0VYZHpFa01JVW0yaGh2SE0yU1NvQ0FiZUo5VTYtam9nTWItWWxKdm5GSEU0cDUzd25NbzhSR0xRY3hSelczbERTTHA5RndyTUxzVW8xYjl4MjRJZ3hMNVU5d25xRHBhQ3NwbUxm?oc=5"
   },
   {
     "id": "news-1nwvj9p",
@@ -154,6 +276,18 @@
     "players": [
       "Bradly Nadeau"
     ]
+  },
+  {
+    "id": "news-1m98gsy",
+    "t": "2026-10-21T20:30:07",
+    "type": "news",
+    "auto": true,
+    "title": "Golden Knights Make Several Roster Moves",
+    "body": "",
+    "src": "Pro Hockey Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOLWthT0dwM2xMUFJoWDVaQjFnZ0hOZlVybDZrTDFtNk82TmNFY3RFQjN0cEJGLTBWbHB6UFliUDhVdE94TjJoYTRsMHRMbjc2djdid1ZnQ3hnaDFEUlp6X0g2aTVyXzVlMTB6ZXZiTWFNaFY3NnBpTE1OajZvZGVIY292eUY2N0otUmgxQzZ2cXI?oc=5"
   },
   {
     "id": "news-ihzv9w",
@@ -382,114 +516,6 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYm9TcGR6RHFSUWtFVVZ1Q29ZZnhOUmpnclhnWVNBblJfcGlPZm5qWjk0YktHNHhmVW1SVVJvNDNOc05nU3B5UHJkVDZETWtsR1lPV0s3MUd1UGRNRFIxamdIc2tQSXBJWGdlVXJ4RlBia3NuVFpqWG85bE1ub3FpNmlaeFpSUQ?oc=5"
-  },
-  {
-    "id": "news-1vimfd9",
-    "t": "2026-10-21T05:45:00",
-    "type": "news",
-    "auto": true,
-    "title": "Hurricanes 6, Canucks 3",
-    "body": "",
-    "src": "Canes Country",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPb3dvLVpJNFBFcGFJaXlkaldNVi1ZaGl3dFg1WGZZZTQ3TmlMdW83enNJREd3MXVuZVh2YXZJWWFBLW1HaUVHVFAyaXdtR3o4VXZuZDM5SUdpQnFHX2xvUmZSaW4teWpncGR2WmtJaUVuakRqajhHZE5MT281MlNQcXNTQVlZWXhFUGFRUG01eFBSamRrQjJQY0U1QkpmQQ?oc=5"
-  },
-  {
-    "id": "news-1ire88m",
-    "t": "2026-10-21T05:42:45",
-    "type": "news",
-    "auto": true,
-    "title": "A trio of multi-goal performances help the Hurricanes win a sloppy game in Vancouver",
-    "body": "",
-    "src": "Cardiac Cane",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdkZ0dE0tX0ZBZmRTYlVvcjBVMGxhUlZ2bUJQOF9ySDhuNXJzZmxsa2RjNFlwVWJIR2Q2Rm9KWTJITGx0V0ZrME9HSWVwMUhpdmpOMHJMWmlSUDJ6VnpaX2c2ZFUyVWFSYktrVlhxOGhnbnZwRXBjbk9ZeDVRclR1N0JPTFBJODdvSXNmVENYUlg2SDFsZFp2dGdIYUgzWXBwNVE?oc=5"
-  },
-  {
-    "id": "news-1u9e55n",
-    "t": "2026-10-21T02:07:00",
-    "type": "news",
-    "auto": true,
-    "title": "Flames\u2019 Mikael Backlund day-to-day with upper-body injury",
-    "body": "",
-    "src": "Daily Faceoff",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQb0c1V1JBTWQ1SVNXV0RnZUpfNG04YUY1OVh5Rm1EbU5UUFVLbVAwT3ZJQ0NpTE44RkQ1dVdrS29sZmJ5dllhRHNRaEtZOGswQU9VRFZURlM4TURianR2Y20xM1RGbXREdkgtLU1pNEtNVnM1RXZYQkdJWlY2X0pudTRpODBxRjRib2ZMLXV3T3FlU1oyUzZfS3Z2MW1nTWw2a1Z2T2JVcWdIRWxCbkxBak1kbUt5NFNs?oc=5"
-  },
-  {
-    "id": "news-12icc0k",
-    "t": "2026-10-21T01:58:06",
-    "type": "news",
-    "auto": true,
-    "title": "Dylan Larkin Adds Three Teams to Trade List including Hurricanes, Mammoth",
-    "body": "",
-    "src": "The Hockey News",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUTNBamhsbk9lTEFjbTRRbmgtZVJUTnFlcWJMZ1N6TGwxZlQtS25KbmRhNnF6di1JWkgwbFE3QVo5YnNqS29XUmlhUXJuRkRZeVhlT0ZPZGVaR1ZpNWtobXZhekdyaUROZG40OC1JWTVXNlZuVTZQNUJ6cGRjQ1daV01salprRWltWW1idmh0TkY0NUxSTmo2WHBTaDY3Vkw4eEZRdjdGYi1jVGpMa0haYkVuT0loQS1IWkFwNnBwbXFyQ3ZsUzE3Q0piY0c?oc=5"
-  },
-  {
-    "id": "news-ptq476",
-    "t": "2026-10-21T01:58:00",
-    "type": "trade",
-    "auto": true,
-    "title": "Report: Red Wings\u2019 Larkin expands trade list to 10 teams",
-    "body": "",
-    "src": "Daily Faceoff",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQVjdfb1l1ay1WS3Z2SUpGRmVmQnF1QXJ5R1FYc3FCRVpxaGtwWGVKNWtPcUhkajNYZ3JVTy1UWUxnN2JpRlo5R0x5ZjhBQzFQOTdaWW1RTk5Rd2ZTbEZxU3pUZHBOS1plX1RrVEY2bXRUeEFvMDl1QjdkZHFESlFkTXdyZld4WlNtU2lVLVNoUXlEUTAyZEQzMnJEd0J4VkZvRXoxV1pRT0FjUmxCNW93U3JvckRlX19RT1VqWjdHUFk2S3p5OFJGWUlINTlVaElBd1RSWng0c0t6ajR4bEYzRGVmb05JS0tVVlFpWEpKU3AzQy1DX2FtWFFiZHlpX1ZYVTRyNUdoUUxjVFpPWXhRc2txZzluZw?oc=5"
-  },
-  {
-    "id": "news-1y3rwuv",
-    "t": "2026-10-21T01:44:00",
-    "type": "news",
-    "auto": true,
-    "title": "Carolina Hurricanes Dealt Major Dylan Larkin Trade News Amid Rumors",
-    "body": "",
-    "src": "heavy.com",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPT0haLUlNc05PS3Y2SFlQQWtweUhqTjJXU0RheXY5VGwzLUc4blZtVnVrWVJiclQwX1FCNkZ2Z0J5UFFBMHY1d2E2eGo0RkMzRnUycmUtZW1sWTJ5ZWZaUXhiMk0tejExNUVqUlR6OGc1eEI4by1XV0QtYzhIM0oyWW52SjBuU2hEQWpGMTFQa2JjcHZwZ0FwS3ZJLVlvV0t4SmRvc0xDMVhZWlZUaDZkX2xmakVhS1lK?oc=5"
-  },
-  {
-    "id": "news-fjpm50",
-    "t": "2026-10-21T01:26:55",
-    "type": "news",
-    "auto": true,
-    "title": "Evening Notes: Mayfield, Lindell, Wennberg",
-    "body": "",
-    "src": "Pro Hockey Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeWlqWmFFSlpRT3ROeml6YngxRHg1RTloQVBWeGR6TUtQMzhhYzBJWFo3ckJUbHU2NS10dmVYX2lGNHFwWHg2NVFGVW9SM1QzV1lOVTE2Ny1uUk5vSG1KQlBSR2hfdzY0Y0NyYWpGbnJnTmxWN19QSjVNelBIMHY1TU9jVW9Ya3NKWk9RVw?oc=5"
-  },
-  {
-    "id": "news-52s52l",
-    "t": "2026-10-21T00:08:00",
-    "type": "news",
-    "auto": true,
-    "title": "10 times an NHL team traded its star and made out just fine",
-    "body": "",
-    "src": "Daily Faceoff",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSFJqaXFJQjNDZ21pV09PcGJIb1V6LTgwdURfY1lIUVVObmJFMHBjVjRjaXM5cHo5UEV0eXJ6UldNWWtOekx1dHFyRUlINmR1c0hoeHNhNGpvMzlaNkgxMFk5U0pfclQ0aFJGWmMzX2ZiZkVSSFZEdW9MelZaV0xRYUJLNjZ1S19HYUloZEdDQjVuQmVTZVItcDYwRm1nblNQT1dpY1hhb3I5bUUxQTB0dGZPZmUwVlkyMkx4Zg?oc=5"
-  },
-  {
-    "id": "news-116j3ko",
-    "t": "2026-10-21T00:00:17",
-    "type": "news",
-    "auto": true,
-    "title": "Simon Edvinsson and Red Wings Held Weekend Meeting Amid Contract Standoff",
-    "body": "",
-    "src": "Pro Hockey Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPT3ZucTJMX2dDSmhkODVPUkZYbl9YWWdMeG5MSTg4cTFMaEZXMG5yZFltTjl1eG13Qm5qN0dwVlNQX2RQVDktYzh6UUh5NHhBQnNNNHRCUnk3R25wUXIwMXgtU1JpMkM1QzZOQ25wVDllQkZNakRURlZ2QUNQX21wSDhUYmNwUWRLalZZWmJHZ1FmdEFHNVlFWVRGVUcyQ1pRazdxY2RoMVpSenp1R0FocVY2NThqclNCb0E?oc=5"
   },
   {
     "id": "auto-add-8484392-20261016",
