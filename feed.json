@@ -1,5 +1,29 @@
 [
   {
+    "id": "news-gfmyhm",
+    "t": "2026-10-22T11:55:00",
+    "type": "news",
+    "auto": true,
+    "title": "The Hurricanes stare down their toughest test to date as they try to slow the Oilers",
+    "body": "",
+    "src": "Cardiac Cane",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZkxWYV9GbkdYNF9JVERDYlhYWnEwYUpfbl9PZXFvdFFMWXROVl92SHZjckV3VHl1alI2Q3RQZ094RjZyeEItajdDR1RrSnFXLUZVcDFMVFMzR1lXSGdIYkZHLWMza00tNUtVcnBnZkNFZzd4SWhOSEdjemxTWXVEQVFxdkc1aUpHOHE5TE00YkNCLWo5QVpCczR3?oc=5"
+  },
+  {
+    "id": "news-gjk9lg",
+    "t": "2026-10-22T11:23:38",
+    "type": "news",
+    "auto": true,
+    "title": "Hurricanes Have \u2018Non-Nikishin\u2019 Offer on Table for Hellebuyck",
+    "body": "",
+    "src": "Heavy.com",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUzZCdVhMRU1vQUtOY29sc2JTX18xX1Q4NDVhZmNUUXdSQ1hRdnJ4allScVNJUjh5MDFIV1BLR1g0UjZBNjBjczA4T1dtQW1oWGw3bV9mYXJnWU5LTG5nWnBwMUFQVlpMNGlEWFVJNW5nY3V0Yml6SHRsUnpUN1RPdFp1RnNjbW1hWkU1bGR6MFVEQVdoQzl5QXEtYnFYTUV6bHM2c1diaXFMY1h3?oc=5"
+  },
+  {
     "id": "news-1nwvj9p",
     "t": "2026-10-22T02:00:47",
     "type": "news",
@@ -10,6 +34,18 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWnl6OEhxemVwR2d1elk2VEdLYU5oZzVhSzBuOXlrdXNldEV0VENRMDg3NC02NFp0cUptS2NWeGVSR2cxbmltZldDQ3h0NWQwWHN2NC1uWWZEWVM1a0U2TTRNZEpvTVNEdHJ0cWlzNlBkYU5EOFRMbWZFbk5SUzMwdnhackdQTWZ5Sk9Obw?oc=5"
+  },
+  {
+    "id": "news-1ub10s6",
+    "t": "2026-10-22T00:00:09",
+    "type": "news",
+    "auto": true,
+    "title": "Kings Recall Jared Wright",
+    "body": "",
+    "src": "Pro Hockey Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB2UzdEdDNpYk9oakhmNG16WDNCMXVEZVhDbnZtdDhiUFF2bFRhRmNreDg1ZUduTWdCQ05aekdKRTBfZVdkTF8zS283cVFFN1lLSzN3dlpGYmc4MmRTNXc2MXd4ZGZvU29MV0ljMi1nQ2xyTmVISVRiZEdn?oc=5"
   },
   {
     "id": "news-9lqg6",
@@ -252,6 +288,18 @@
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxON0s2WXhYWXNtcUNSQ29OMUlFTDFWZnN5Rzl4OVNxVVl6VTlVVENjNVN4bGowdEhmX2ZmM1RmclJCQ183YnQtS0RVajlwVElXdTVXMGY3c0dFYmY1OU1PSEJIaWtCUjAwbjNFU3R3MDYwS2ZUMXgxR1B6cll0TjFYTUZrcDl2WTNFd0xib0duV0dkay1SQnlNelpn?oc=5"
   },
   {
+    "id": "news-nrfov0",
+    "t": "2026-10-21T16:11:00",
+    "type": "news",
+    "auto": true,
+    "title": "Buffalo Sabres Make Significant About-Face On Jack Quinn",
+    "body": "",
+    "src": "NHL Trade Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOY3VMSXRFRzU2N3dINTYyU2h5U2xTVlphekd4cU9zYWxaalpIQ0pBX01FSVJETkpTLV9aaEdRYmdhUEhQYXFISDRWWV9EOFBKTDNHWkx1V1hVUU0ycktWRnZUcTF4MGcwMC1OT1dCOHFxZ2NZLVNkdmU5ZXV3WWNBUFlrYjhlbnc?oc=5"
+  },
+  {
     "id": "news-1uuqfph",
     "t": "2026-10-21T15:22:21",
     "type": "news",
@@ -442,54 +490,6 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPT3ZucTJMX2dDSmhkODVPUkZYbl9YWWdMeG5MSTg4cTFMaEZXMG5yZFltTjl1eG13Qm5qN0dwVlNQX2RQVDktYzh6UUh5NHhBQnNNNHRCUnk3R25wUXIwMXgtU1JpMkM1QzZOQ25wVDllQkZNakRURlZ2QUNQX21wSDhUYmNwUWRLalZZWmJHZ1FmdEFHNVlFWVRGVUcyQ1pRazdxY2RoMVpSenp1R0FocVY2NThqclNCb0E?oc=5"
-  },
-  {
-    "id": "news-gh7jz8",
-    "t": "2026-10-20T22:55:28",
-    "type": "news",
-    "auto": true,
-    "title": "Panthers\u2019 Jacob Markstrom Out With Injury",
-    "body": "",
-    "src": "Pro Hockey Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOM0tsYkhsUVdxb1lTMnoxME5KdXVMYzZobXFVTEF2U2l0Ny1VckxZYmRsY0JpU3FxQ3pJWDg4WkxPNU9najFoZlRsQUo0SEQ0VDZndjB5ekRCR1VaaVBXOVE1VzhCMkFKUWpPUUJTZUZZcUE0a1VKR0FvcFY3Zm1yVjFvNl9GbzRnejhPeFdB?oc=5"
-  },
-  {
-    "id": "news-hmbmy",
-    "t": "2026-10-20T22:29:00",
-    "type": "trade",
-    "auto": true,
-    "title": "Report: Flyers Eyeing Blockbuster Trade With Kraken",
-    "body": "",
-    "src": "NHL Trade Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOY0N2bjVmVHEtM2szNjhnVlAzWFRHb0lLbHBDVGFzZ2RucDVaRDBua3hIZEc2dWV5cW9CRkRrZGhxdlBWS3VDeE9ZU3g1NC0zWmM1NHJpMkhENjFSTExXVTEybUVPVUdOWXY1S0tiMi1yR2NsXzZjRjVrNmZKTEpnWGF6MlhINjBTNWx3ZE01WVNMdjl3M1pOMG0yUTNzcHNtNWc?oc=5"
-  },
-  {
-    "id": "news-1q5mbwp",
-    "t": "2026-10-20T22:00:06",
-    "type": "news",
-    "auto": true,
-    "title": "Mammoth Recall Artem Duda; Place Michael Carcone On IR",
-    "body": "",
-    "src": "Pro Hockey Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMzk3WGhzRnVEZF9FWEpiOTdFVU1FeV9Sb182WENLaEwwUnczRFdiQjYzRGI0TXVCelF6TEY3ZjJQM0ktc2JxLS1XWnZFWkxtaU9PNVdsWmZNR3BFSS03X1hJQ1ZlVkMyYjhsajVIWFVTVmpfclBmMjZEZXBUR0RreHdYRnB5N2FxbDZCUW5feVNqZ1BaOHpTRE5MNy1HTTQ?oc=5"
-  },
-  {
-    "id": "news-b97sz9",
-    "t": "2026-10-20T21:40:17",
-    "type": "news",
-    "auto": true,
-    "title": "The Drive with Tim Donnelly LIVE 10/20/2026 | Carolina Hurricanes | Carolina Panthers | NBA",
-    "body": "",
-    "src": "99.9 The Fan",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOWxfZEtnNnhoRnBTOTFtcFhLZThNNDlva25MbDBBZ1FYZTNqUlJDTjBVVnh2dXJjQmlmOGxZNGxXcE1SMXlJYlo5cmlzRlRCTnRCTzFSOFRQdlY2UmoxQndmbHpsZFhnRTRqaEZleXlwejZoSGoyU1lNbXJlREZaWmYzRkdkdlNkYXhmNHVsTEx5cFFLbXh2alZYcU5rWkdtbzc3c0puSVRhVXpaeTNaMjBnVTI?oc=5"
   },
   {
     "id": "auto-add-8484392-20261016",
