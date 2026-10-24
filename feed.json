@@ -1,5 +1,29 @@
 [
   {
+    "id": "auto-rem-8484392-20261024",
+    "t": "2026-10-24T21:35:05",
+    "type": "roster",
+    "title": "Felix Unger S\u00f6rum no longer on the Hurricanes roster",
+    "body": "Felix Unger S\u00f6rum has come off Hurricanes' official NHL roster. Auto-detected \u2014 could be a trade, release, or assignment.",
+    "src": "NHL roster feed",
+    "out": "",
+    "players": [
+      "Felix Unger S\u00f6rum"
+    ]
+  },
+  {
+    "id": "news-1039w38",
+    "t": "2026-10-24T18:10:22",
+    "type": "news",
+    "auto": true,
+    "title": "DIRECTV ADDS HURRICANES HOCKEY NETWORK",
+    "body": "",
+    "src": "CANES PR",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBYSl82SjBjSVpJbVFTOVBKZE9yUnlzSUY4blQ1elU0bFU3UEZqMFBRM1FLWXUxMnF1MEpWNXcwd0RieWJ3MjFiRUNHLXpxd3BHU3R3ei1FOTJVTVZ1OW84ZWpKbmlCUXJjTjhzNTVWU3NDMERycGlmQm1n?oc=5"
+  },
+  {
     "id": "news-c4vl2r",
     "t": "2026-10-24T16:24:58",
     "type": "news",
@@ -190,6 +214,18 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5lTnMxOGdCRVlldFJraVpyVTlBdWJIXzFOeUlVcTZkY3RjdkMtWHo4azFldGxNQk5xdzNnNkVhUC1QQjR2VE5nd0VhWFNGd3ZBV2k1M3Fzek5TNHZwa0R6bk9TRkxQRmMyWEZrcGhBS1VpUk9acldaUHdVQQ?oc=5"
+  },
+  {
+    "id": "news-qkzbgd",
+    "t": "2026-10-23T16:52:00",
+    "type": "news",
+    "auto": true,
+    "title": "Toronto Maple Leafs NHL Line Combinations",
+    "body": "",
+    "src": "Daily Faceoff",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBsVVlqNVpLWG40Tl9Ma3RqWUFEZDN5ZkNJRVA3bEl2MTRsVHYtM2lVZ1hINEJZWmxkaFREUDZ0M0tCVXMyNjZpaExKNldkRmlQM1YwQURlVU1oVVVVNURsUDFOQTlhbk5aVmstVG9pYVd6cTVrRjhOQk9Md2Y0Zw?oc=5"
   },
   {
     "id": "news-t3rnp9",
@@ -454,30 +490,6 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNakRJaW02RzF5WHBBMG1GQ1BNUFFLMzRUTDJtb0RFdUdQSVJaQzhwUDlDYkxIM0pHQmVmYzltQ1JvSFhPYV8wZnY1SGdyVWhwU1hlT0dsdk9WWnpIcVZtMGRkUGp1NEZYWGtfaHFqXzdmNDRidG55SHpNeFluQmpEdzBFVkxwOUJYaGc?oc=5"
-  },
-  {
-    "id": "news-xkbyov",
-    "t": "2026-10-22T22:00:06",
-    "type": "signing",
-    "auto": true,
-    "title": "Rangers Sign Luke Glendening",
-    "body": "",
-    "src": "Pro Hockey Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBjbGx4cllwbDAwWEtfUGhGUEZWRlUweEp5XzZDcTloTzZuRGx3Q2dMZEVvMm5vTzBDV2QzVmNIWDhXTzRRbzNEeHlFSXJVUzNKX1JveHRYeFJ3QlBJRmFLcXRxTFRIeGdnc1pIZFYwOEJSTWlGZEVoZ0FSTFU1QQ?oc=5"
-  },
-  {
-    "id": "news-187o5ov",
-    "t": "2026-10-22T21:51:00",
-    "type": "trade",
-    "auto": true,
-    "title": "Nikishin not part of Hurricanes' trade offer to Jets for Hellebuyck",
-    "body": "",
-    "src": "Sportsnet.ca",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPV05NQ2RUOHNQMlAycGpvMHdQbEliN0g4ZnV5RmJnT0poc2xSajBxeC00dUZ2QVFnVC1RTU1taEY5eGtPMTg0Qno3X3cxT0t3bFVJRzk4SXE3aXZiT2ZnR1FRWkQzTXpHQmFXYTBTUU9BVzgwcFhjdXo2dG44U3VaejNyWHBNNzQ3WGtENXdJMWhITnI5d0hHS25vcjd1Y3JzczhsRjNlOA?oc=5"
   },
   {
     "id": "auto-add-8480291-20261022",
