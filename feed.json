@@ -1,5 +1,102 @@
 [
   {
+    "id": "auto-add-8482100-20261026",
+    "t": "2026-10-26T23:20:35",
+    "type": "roster",
+    "celebrate": true,
+    "title": "Alexander Nikishin added to the Hurricanes roster",
+    "body": "Alexander Nikishin now appears on Hurricanes' official NHL roster. Auto-detected from the league roster feed \u2014 could be a signing, trade, or recall.",
+    "src": "NHL roster feed",
+    "out": "",
+    "players": [
+      "Alexander Nikishin"
+    ]
+  },
+  {
+    "id": "auto-rem-8480291-20261026",
+    "t": "2026-10-26T23:20:35",
+    "type": "roster",
+    "title": "Skyler Brind'Amour no longer on the Hurricanes roster",
+    "body": "Skyler Brind'Amour has come off Hurricanes' official NHL roster. Auto-detected \u2014 could be a trade, release, or assignment.",
+    "src": "NHL roster feed",
+    "out": "",
+    "players": [
+      "Skyler Brind'Amour"
+    ]
+  },
+  {
+    "id": "news-1yx3c4f",
+    "t": "2026-10-26T21:20:59",
+    "type": "news",
+    "auto": true,
+    "title": "Carolina Hurricanes Announce 2 Roster Moves Before Bruins Game",
+    "body": "",
+    "src": "Heavy.com",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRFJLeTAzdk1jQUoyQUNZdGd1MFQ1ZXM4dnZXN2F2NE9NalVBRU5hYTR5S1p6X3F1Y0dlekZOSWw0dlNQTGpQeUtRSDgwdWJ3cGZVWk5vX1BYelZacjlkME9kOWlPdGF4UTE2U3FvZmgzMmlnQmxaNVVtQ3BQZHVTeGFvWTBGazcxMzdvN0RhaGRqb0luYldmMkxyeWVubW9SWjdPbzVvTnpyUQ?oc=5"
+  },
+  {
+    "id": "news-1ipvx4z",
+    "t": "2026-10-26T21:06:45",
+    "type": "news",
+    "auto": true,
+    "title": "The Drive with Tim Donnelly LIVE 10/26/2026 | Carolina Hurricanes | Carolina Panthers | ACC",
+    "body": "",
+    "src": "99.9 The Fan",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPX3BKYkR4MzFzVWhMam9JN0M1cGgwVUw2VEZQNlNYZTJpdWljRnNGQU1ONDl3VzA3TDFMZXFkR0dQVkxKcm1tU00yemdKTzFJdW9NVG1BdVdFZHlaNzNkblBSNk1MNFBkZ3NMWEd4NXkyRDhzWUlLVVV6d3JWOVRiUDdTN3gwS1NRLVRjU2xEcHFVY2pwbGNMcHp6NjNZNFpCN2VDZHVfZ2llbVBXZVFWZEIzSXo?oc=5"
+  },
+  {
+    "id": "news-9hzagb",
+    "t": "2026-10-26T20:36:12",
+    "type": "news",
+    "auto": true,
+    "title": "Pursuit of Connor Hellebuyck Tells a Different Analytics Story",
+    "body": "",
+    "src": "Heavy.com",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRTgzWHI3T1N2M19pWTNMM3E0cmZyeDJvOTlMZkNvX0VHdHBRNEEzNVA2UnU2M3gzcXAxZ1lGZS1MUlJRa2tZT3ctbjRVZnBmUllad0xRUmE0YXFzTFAxU0N5bjBmanpkaGdrYzNDNGlMTUZqX3pTQmVPUU1pMEJ2amJaOS0xcVExaGc1QVZDSkEzODdBclpIOExjNkxXYWc0djBaZDE3Q2d5eFItZjgyZ3NB?oc=5"
+  },
+  {
+    "id": "news-1t236ju",
+    "t": "2026-10-26T20:33:02",
+    "type": "trade",
+    "auto": true,
+    "title": "New York Rangers Whiffed on Alexander Nikishin Trade Due to Financial Reason",
+    "body": "",
+    "src": "Heavy.com",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRTlBeGZ2UERFaFlzRWpnUEpQbHdrMmQ3MXUtRW5oNGdYTk9HdDBGMEh6Tkt3bmpRWDNnV0hReklRTXVEc2hMckxJYjJRYnNIbjUyMkJtdUJaUE0wd1BHV3BWRlktQ1VrMmpuXzFha3hrQW41VF9aOHJXd3V6Q1podE5HVzB0dnE0N3hKNXZMQW9ENEYtdFlWa1llLTZmYzFBUGVXMFcxbXlPUVZkNVZlZzdXaw?oc=5"
+  },
+  {
+    "id": "news-1qbt5ha",
+    "t": "2026-10-26T20:30:04",
+    "type": "news",
+    "auto": true,
+    "title": "Alexander Nikishin extension is an underwhelming ending to contract saga",
+    "body": "",
+    "src": "Daily Faceoff",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOV2lUWmlIR3ZXV0xnZndhemJnX2V0RktJSVRNR2pPU0lhbHBpN3NrMThpanpueW1pU1NrdmdPai14dHFndnN0aHVRcFA3QVRrcUYzTFpRRjVHOUstM2hHeVk0ck1Pcno5dlJQdUlWVlMzdVBfLUFieWtIOEJaWVpOZXBpNTNVTjVjMmJKa3hSb0c5cmtMeXFpWEgwWnUtdFdUQkx3R2ZTMG5xUDNlWTZUaTR3?oc=5"
+  },
+  {
+    "id": "news-1to7ydg",
+    "t": "2026-10-26T18:37:33",
+    "type": "news",
+    "auto": true,
+    "title": "The Adam Gold Show LIVE 10/26/2026 | Carolina Hurricanes | Carolina Panthers | Dave Doeren FIRED",
+    "body": "",
+    "src": "99.9 The Fan",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ZVUJaM2tUUlhBUVpydHIxdHE5cG9pbG9GT05pZkt6T2NFZ1llVGJvWkhKZ1lSMkNPNkl6WWJNV1E0OW5iNXdmVUpZVGdidEk?oc=5"
+  },
+  {
     "id": "news-pgxa0u",
     "t": "2026-10-26T18:37:31",
     "type": "news",
@@ -72,6 +169,18 @@
     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUFktampsSFpuY25Sdm8tamlpUnJrNGkwZ2JwR01EREtqelRnQ3dkd2xSVWk0SFlOQmVxYWh5N3loTG1ReU1jMjc2N1p3R25za3hGZWt1eTRpZndRM2lOaDhiNHQ5aEgzNEZ3WGR6YmUxY3lzWWpvcVFONlZMNDVqc0JHN3JTZURtNlJ0eHVYRUpOT1lFNS1OSFlFR2dCaldjRHVFWEtUbkZ1VzdfUUcySlBYRTNIclE?oc=5"
   },
   {
+    "id": "news-s8n3ew",
+    "t": "2026-10-26T16:50:40",
+    "type": "news",
+    "auto": true,
+    "title": "Capitals Grant Ivan Miroshnichenko Permission To Seek Trade",
+    "body": "",
+    "src": "Pro Hockey Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMTJsNlZ4OGxaZ18xSEF4Rm9HUXc3N2RqbXZ1aU1EMlVrMGdLTnRwT1JPRFdGM0JONWJVX3o1ekc3WjBJcWc4WkVGYi1WZTkxcWhHaXJWS0JXRGF6WjhDeTVjS2lyV1A5QW1qdm40czAzZ3NGYUx0Ync1aXIwaDd4R1NON2xKY2N3MVBWVlBwOVloWG9SYWhhNXBUTHVZd3RzMXctWDVNdw?oc=5"
+  },
+  {
     "id": "news-1f7vtmz",
     "t": "2026-10-26T16:12:48",
     "type": "signing",
@@ -130,6 +239,18 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaVdzaGo4TDZrZWFKQWozTEl3eklDellEYTJoak1Sc2w5ZGFzZ1g0TzY4dzU0cGNWeWoxcnMzVkROZjhNME0wNzFIejZqNGl2VlBqeDRSeDJLd0JGd1RNdXVuTkRacXhtX1h1UWFyME5CbnBJalltT3Z1bzRIWmZiSWdWcGwwVzhmNlZQYw?oc=5"
+  },
+  {
+    "id": "news-ush1rv",
+    "t": "2026-10-26T15:23:00",
+    "type": "news",
+    "auto": true,
+    "title": "Report: A Potential Return Package For Ivan Miroshnichenko",
+    "body": "",
+    "src": "NHL Trade Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPenhYSUlMWFBuV2pDaTY5TEgxTUotN2NMcFFmb1pVOHh4OHQ5Vlg1RktBdFpmSl9RM2sxM25VTjNTak4zOFN4RTNYNUw5X3VGM0lxbXpObWZkZ2tYNEdIT1RhVDNvUmFNSGRVTWpFUTBHZnNnaHM0NzM2U2RBcE1EX0ZGa0k?oc=5"
   },
   {
     "id": "news-1b5ctw1",
@@ -382,102 +503,6 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSU1hM2lwYU5ISGo5dWI0YTQ0Vk5fWUdneG9zQzh0aHFBUVI5Q2szcDU2b01XWHZSQUEtaGwxV1p5QmFZWEpKd3JIMzdfT0hMVzFLdkJvNWRTRzdGMmM3MUswSGl4VmtiM3AzYmVjaG1tamQzSXJiNzFXX1F1d0hSNUJ4ZXVGWmMwdWhFRGNYbElUbWw1Y28wNnhLaG9DNG9qUGZjeTB2X3lSbTF3?oc=5"
-  },
-  {
-    "id": "news-1upauk0",
-    "t": "2026-10-25T20:30:21",
-    "type": "news",
-    "auto": true,
-    "title": "Patrik Laine Not Seeking International Offers",
-    "body": "",
-    "src": "Pro Hockey Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaUxoLUxFU2hiRGNnWWJDT2VlX0FuVmZ4cm5vdjViVy1BNlNsQ2ZpZWJRMV9Jb2REXzVwU001SGdnSEpfVFBhblp4allobjRpb0JuWDB1T1dDTzBBWjdkbG1lV292ZFVOME01cUYyVjc0WXRIcEhHTHVMS3MzSE82QzNyVnVlM001b0dFWGpuNy1rVkRm?oc=5"
-  },
-  {
-    "id": "news-18v075m",
-    "t": "2026-10-25T18:37:00",
-    "type": "news",
-    "auto": true,
-    "title": "Florida Panthers NHL Line Combinations",
-    "body": "",
-    "src": "Daily Faceoff",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE56ck80UzVIeHllMjZpQjJZbC1oR2Q3MWR3MDcxYUx1elYwdm1CXzRXYU80akJwa1o0eThHekhJRHc2T2s3QTBVWDRiSG8yUmE5Z2dNaHhuYldlcEVmYS1sVGo4eFNfeTZwcEtIdmtxRzF0VEhGbFByNU1n?oc=5"
-  },
-  {
-    "id": "news-qvcs0b",
-    "t": "2026-10-25T17:48:39",
-    "type": "news",
-    "auto": true,
-    "title": "Kraken\u2019s Jared McCann Expected To Miss 10 Weeks",
-    "body": "",
-    "src": "Pro Hockey Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWkFRU3ZsdFpHQmo0VC1LLVVYeE8tbVUtbG1SUjFUVmxmUzNVOVpmQUVuYlRLMTBFX2ZjWGI3YzY3dmtyOWtxRFU0MVM0STkydm9pYjhqNnhfUXJfR2JPbV9jRkUxNjN0T09JNzJtQmlSNUk2MjNUelBfakg0cDhpVEJYejZPY21TdlZ4bFNNQ0ZHY3dhcFE?oc=5"
-  },
-  {
-    "id": "news-ktr6y",
-    "t": "2026-10-25T15:55:42",
-    "type": "news",
-    "auto": true,
-    "title": "After a strong road trip, which Hurricanes are trending, and who is happy to be home?",
-    "body": "",
-    "src": "Cardiac Cane",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbzlTS2J4OE55TktQTi1JQ1NjSWZXS3hhRzNHM3I3UWNzR240LWpiUFdMX1hXNVdhcUhBdXljMXByMzUydk1VRVJlSlQ3NDZjck90aXU1Z2E5N0lmVS1DcUhTbHdRZkJoc0YtTHVBVkxJbTBxU0tyTzdFeWwxYWNJZXRMUEtwa3dERjNQR09MNW9VZC1Lb3dJVWd5bFB2YjI2N0E?oc=5"
-  },
-  {
-    "id": "news-1t4vcop",
-    "t": "2026-10-25T13:28:00",
-    "type": "news",
-    "auto": true,
-    "title": "Report: L.A Kings making trade offers for impact forward",
-    "body": "",
-    "src": "NHL Trade Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQOEdVWFJtazhKSTQ5ZkJ6U1ZweTQ3SjYtUEhPbjZ6VGI0S0VRTm1sNTlQc1o0MmRkTmotOHhNTmdsUEd3bXo0Q3VoeE5FbjVGeW8xTWYtRXVFZXoxYTVpM1FiRWk3QjZyTnBMVmxvS0Q3MFMzb1JuSi1odG1NMzl3aVpJVk9GSnM3SWc?oc=5"
-  },
-  {
-    "id": "news-5uni9x",
-    "t": "2026-10-25T12:05:00",
-    "type": "news",
-    "auto": true,
-    "title": "Canadiens Could Face Major Trade Decision On Kaiden Guhle",
-    "body": "",
-    "src": "NHL Trade Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZzUwWEFDNUltVFptNHE5UFYxMWxWMHAxMlh3ckxuYV9LTGxhcWxSWUpzMHdQeVRmWk1lQjdNdVN5VGNtcnVSOGVrUEFnOVU4eUQyRU8zTlF6ZXdmSEM0dnAxMEFyUUJhZUdMdU9lUmYySUREVW9sS0RaWkNmZFJzREdDaVNMcjJrNU13emdfUHVITEh2TTZVZXNQR25vLVRGSENQb0VuWFE?oc=5"
-  },
-  {
-    "id": "news-1vd2c79",
-    "t": "2026-10-25T10:44:26",
-    "type": "trade",
-    "auto": true,
-    "title": "The Reason Jets Didn\u2019t Trade Connor Hellebuyck To Hurricanes",
-    "body": "",
-    "src": "Heavy.com",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeXFIOUVzazRRaXFKdWQ4dzdITFVTQ2lXcTM2d0RjbEY4eE4xbjNMODZqanowTGJlbFptYWc4R1lKX0lGbjNuWUF6Sy1WeHlPY3pwSmp1cElxWk04aFNxOTFycGU0a2pPWEhLVW5lVkJ2MHE4UG1nWWRRWktBeXJoN0ZJM003RGlDdlVMSGhvWU5WckppYzhTZ1ozb0E?oc=5"
-  },
-  {
-    "id": "news-cokcob",
-    "t": "2026-10-25T05:59:00",
-    "type": "trade",
-    "auto": true,
-    "title": "Hurricanes Tried to Acquire Forward in Hellebuyck Trade Push",
-    "body": "",
-    "src": "Yahoo Sports",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQS0hDcjJZR2FNZWhvWlh3bWhRbERDOEpmUUlFU3FheHNSdGJDNWNfOW0wYVNBVzBWQ090WVdKbFBKa3hBYnZOa2lDaDgwbG9GZ1VWeDYtQV9iQ2dwTUpnNTBIcFAwUk03cXFPWkpoZWlTdGdiUWFlVmxBZHVMbTNEZG9xR21fYXY5Tl9zUjVzZ3dYTEdqZjNF?oc=5"
   },
   {
     "id": "auto-rem-8484392-20261024",
