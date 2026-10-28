@@ -1,5 +1,29 @@
 [
   {
+    "id": "news-1xjhox7",
+    "t": "2026-10-28T19:08:32",
+    "type": "news",
+    "auto": true,
+    "title": "Carolina Hurricanes Trade Idea Lands Simon Edvinsson for 2 Players After Latest Report",
+    "body": "",
+    "src": "Heavy.com",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQR0YwSkpleW0wY3lrWXJURHJvSHd5VDlJRXBXNWxzTWJ6elM2bWxBZlFaVUhlUjBsUzgyemdQSUhadERXNEo4TWxZNjdUOEhPcDdMTDdPS1R6UjNuX3lmb0YtcWd1MDI3NmtZaE45UUcwaHBVbUtFYThnSnlGUTR1TlJHaUwxazBPYXFINTZOSDI1RzY4RGlzRE8weHNWUHpjUENQTGlNUkxHWmRzMERaVXFtOUUxS2FaOWZna0kzaw?oc=5"
+  },
+  {
+    "id": "news-96r3pb",
+    "t": "2026-10-28T16:10:33",
+    "type": "trade",
+    "auto": true,
+    "title": "Hurricanes-Wild Trade Idea Sends $34 Million Goalie to Carolina for Alexander Nikishin",
+    "body": "",
+    "src": "Heavy.com",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNU1VJRWlPQ0tFT0FEVTZYTzFJYWFNTjlCVXlQRGIzaEVGOTJEWkdvSlBZaHpLTFMxSEpYNzd4V2lUVmI4dnFEb0FqOVZiMFBGNmMtZUN6TDFSZXZMckJZS1l3TUQ2emJYSFRrWXVJdEFkckN2ZXFWdk41R0VrekxvTE5HQ2pOU1hsWlptV2o0OGltb2U5bDgyb1lvZnpjSHRVTlJoMXp5ZWhrTS1DaWZCLUpjQkFIRkpKaG9ReEticnlQTU1GZFE?oc=5"
+  },
+  {
     "id": "news-19o1n27",
     "t": "2026-10-28T12:00:34",
     "type": "news",
@@ -22,6 +46,30 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPal9YNnNKWkNFWS1aMVp0czRIR3JBc2JoX09YbXRPTWVmUDEzYVFzZ1ItbkZEcjVyT0ZXeHgyUlcwN2lPNm5MOXF0RmdsZ0JUVVhWbkp4elp6TkdKQWtGWHA2c2JzVW16b1dVVXNmazdYRExMOE9LRUNZYmNrTV90YXNfVXJaeFpyR3ZLV0ZkTGdQZE9rMG9YZHRuVEhMZzlVZl8xZmFR?oc=5"
+  },
+  {
+    "id": "news-8j5e7x",
+    "t": "2026-10-28T11:24:00",
+    "type": "news",
+    "auto": true,
+    "title": "Maple Leafs Could Include Morgan Rielly In Blockbuster Trade",
+    "body": "",
+    "src": "NHL Trade Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObFBFTjJkSk43R2I4Rk02OFhOVFM0VmlHb2lxYjI5Y3NEaEZYc3k1Ry05RTl3a296TFZxSGJtcmdIcm9ldVBxaXM2aHkzSmFHdWV6YzRiRWtyem1WenhYc0VrTWNwejJ6TW1zZ3JnT3I5QVRKQWQtX2Jja1otQXFHMFVCUG9fUHZiX2lvUWkwd05oRHE4aksteWhKSWM0bDRYb2c?oc=5"
+  },
+  {
+    "id": "news-z3ybpi",
+    "t": "2026-10-28T11:21:00",
+    "type": "rumor",
+    "auto": true,
+    "title": "Report: 2 Teams Pursuing Dylan Larkin Aren't On His Trade List",
+    "body": "",
+    "src": "NHL Trade Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeXhCWllfTzU5QmdJWUtVdXJ6Q1pWd2h2SzJOelcydUhUTHJLSHRTSXI2cU1XbHVSZ2xsRThCeEFEbWtSMDR4LUUxZldUWXZnMGhSNWJVVmhHSm9hOVBxVnBZT1Q0NzNtbW5nU01uc0F2ZjB6LTJoczBVSkhkZnctVVk5WmFzYVVMd0NadGtLd0IxbndBdjEtWVl3WmVpZ2pGeTQ4?oc=5"
   },
   {
     "id": "news-hxeilj",
@@ -349,6 +397,18 @@
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeVpKT3FFMWZjMG94U091dHJzTXZMT2ZxME9fRjF5cFlWUlAwQ1BZTXJZQk42bl93NjVEeXBNZUo1dnJBMTVObm1pU0x6ZVBUcDg2eEVVbVh3Z0FYTTgwV1pLOHBUSTlEWWpYZW13ZldKZW9EUnJQNnpiaDh4eEdmSDV2dVJDQVo1LUI2ZFpSR3BYXzJ5Qmc?oc=5"
   },
   {
+    "id": "news-lx3ctq",
+    "t": "2026-10-26T22:18:00",
+    "type": "news",
+    "auto": true,
+    "title": "Maple Leafs Provide Injury Updates On Tanev, Tavares, Joshua & Domi",
+    "body": "",
+    "src": "NHL Trade Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPejFnOVNHNTRCTGYtcG1qVGJJQkdWWVZjZGhSUzMyb0VYZU5LVnk4bVJaRS02bDU2WU9wMXh1RGpDRlRMd3hVcFlLQ21FNWsxOW5wYU81cW1oUmxuVzJ4elZjU3NkZnFqNXgxT3NwMWZSNGRmekJYNWRpcnFMS2tHWGFRdm1xX2s?oc=5"
+  },
+  {
     "id": "news-oy78ps",
     "t": "2026-10-26T22:00:16",
     "type": "news",
@@ -443,66 +503,6 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRTlBeGZ2UERFaFlzRWpnUEpQbHdrMmQ3MXUtRW5oNGdYTk9HdDBGMEh6Tkt3bmpRWDNnV0hReklRTXVEc2hMckxJYjJRYnNIbjUyMkJtdUJaUE0wd1BHV3BWRlktQ1VrMmpuXzFha3hrQW41VF9aOHJXd3V6Q1podE5HVzB0dnE0N3hKNXZMQW9ENEYtdFlWa1llLTZmYzFBUGVXMFcxbXlPUVZkNVZlZzdXaw?oc=5"
-  },
-  {
-    "id": "news-1qbt5ha",
-    "t": "2026-10-26T20:30:04",
-    "type": "news",
-    "auto": true,
-    "title": "Alexander Nikishin extension is an underwhelming ending to contract saga",
-    "body": "",
-    "src": "Daily Faceoff",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOV2lUWmlIR3ZXV0xnZndhemJnX2V0RktJSVRNR2pPU0lhbHBpN3NrMThpanpueW1pU1NrdmdPai14dHFndnN0aHVRcFA3QVRrcUYzTFpRRjVHOUstM2hHeVk0ck1Pcno5dlJQdUlWVlMzdVBfLUFieWtIOEJaWVpOZXBpNTNVTjVjMmJKa3hSb0c5cmtMeXFpWEgwWnUtdFdUQkx3R2ZTMG5xUDNlWTZUaTR3?oc=5"
-  },
-  {
-    "id": "news-126qi44",
-    "t": "2026-10-26T19:30:21",
-    "type": "news",
-    "auto": true,
-    "title": "Golden Knights Recall Jonas Rondbjerg; Reassign Alexander Holtz",
-    "body": "",
-    "src": "Pro Hockey Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdGNnemFJODFyV1J2UEZkUDN5cXAtUTdlZFRwUFNHUm5MeVJXRzA2cE9MTFJwQ0hfRTNtQWoyTEZ6QUhtUGdtZ2JreGJKbGYtbFhQemRPVUZ0OFBpX1Fpd1dpbG1TZXlUeUNEYTRsMURWTThCcEduVzNfaDZDanZYZ3FNWENYQXNueUhMcFF3LW1JVXhCbGZNbDJzc1p2TVl3TEFJUGloZVpGdmc?oc=5"
-  },
-  {
-    "id": "news-12j6vev",
-    "t": "2026-10-26T18:45:00",
-    "type": "news",
-    "auto": true,
-    "title": "Hellebuyck's Devils Debut Comes Into Focus After Monday Practice",
-    "body": "",
-    "src": "NHL Trade Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMlJZaXVOS1J2aGdrTkhIazVVUmREeHNiQXZpMlBoZ1oxcjZrNEtFOHFxQjNMcm9pMWhBNWkxcTdOZ2k1czhDNU14cEFfVkdFSjJSQWVsNDJXdFk2QlQzZXlEWGpxTF96Zjd5SGlIZUVocHNNYWlZZ2FENEdWaDluMF9BaGlJRzJyWlZJZQ?oc=5"
-  },
-  {
-    "id": "news-1to7ydg",
-    "t": "2026-10-26T18:37:33",
-    "type": "news",
-    "auto": true,
-    "title": "The Adam Gold Show LIVE 10/26/2026 | Carolina Hurricanes | Carolina Panthers | Dave Doeren FIRED",
-    "body": "",
-    "src": "99.9 The Fan",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ZVUJaM2tUUlhBUVpydHIxdHE5cG9pbG9GT05pZkt6T2NFZ1llVGJvWkhKZ1lSMkNPNkl6WWJNV1E0OW5iNXdmVUpZVGdidEk?oc=5"
-  },
-  {
-    "id": "news-pgxa0u",
-    "t": "2026-10-26T18:37:31",
-    "type": "news",
-    "auto": true,
-    "title": "Canes host Jackets as home stand continues",
-    "body": "",
-    "src": "99.9 The Fan",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRGRTdTVpMmo1TTJ6YnVUTEQ3eHVYNGpqUHc3amJTbkpqandxNFppd0J5V1h0Yk5ZSjBvZWlSa1k1VVFBMUM0dzZMSEdEVTdmMktfSjRtdjl4YVIycXdDTDVxVHkyaVVYNkxfRk5SbUFuNURXQXZRV2ZfQUdEcVpPelRQZWRVSHhxV1U0bHN6c25INm5yN3k5Y1IxWk8?oc=5"
   },
   {
     "id": "auto-rem-8484392-20261024",
