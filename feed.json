@@ -1,5 +1,29 @@
 [
   {
+    "id": "news-1nlx1df",
+    "t": "2026-10-30T17:18:07",
+    "type": "news",
+    "auto": true,
+    "title": "The 10 scariest coaches in NHL history",
+    "body": "",
+    "src": "Daily Faceoff",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeTFvTTVpaEFhcjdwQjRvSFdoWV9qaVRDcHE0VFFPYUFuc0ZpdVJ4RXZTTlBMUGZZOW1rMTc2Mm42a2Q1TjFnRGQ1SW5IaHZtdkpwd0NlQmpGQVZySFMyb2lVTERfSnViU3oyazBHcnpLdlo0MmN3Vk9lWUtfQ2lZeFdqNE9Cc1p3a2JmVVludF9GRTVEZDhSUGpvUTY3RVlibVFBY2dMQmxDNERSVy1BSjl3MHoxR0N6T3NYQUVNRjM?oc=5"
+  },
+  {
+    "id": "news-tfzwqp",
+    "t": "2026-10-30T13:15:00",
+    "type": "news",
+    "auto": true,
+    "title": "Minnesota Wild 'Pushing Hard' For Larkin With This Potential Package",
+    "body": "",
+    "src": "NHL Trade Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPd2FGaGdLaXNOeThaaHJELXVQbWRmampTbnhadnhCUXJOMlliNG4zMmotUVNYeVh3WEM3QlFJeFc2eXN0ZjFHLWVmcml0cDVWb3NJMEMwMGZXUFRZSmhUYXZtSTRoUE92T0E5SGswVmFhbHltRlpJM29ORkhLVVpMRUR6Y05BY1NU?oc=5"
+  },
+  {
     "id": "news-12avps3",
     "t": "2026-10-30T11:55:00",
     "type": "news",
@@ -10,6 +34,18 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQXhfUDVVNzNDNmI0U1VPMXhYcUx3Zkcxc0FrZ0FTVk1yTVdiWnNlc09mZmVmZ200a2ZUSUdCTHVLXzJmNHR0WlF0NDhBTVpjVmxtWWdfeGN2MEI0TWhJNEFSRWxnRHRNbkxvcGptZVZ6OURJMURLblhzcVM3cWR1WHNuZFVvd191ZnVMRE40ODZkVUxzUldDN2ZJWQ?oc=5"
+  },
+  {
+    "id": "news-157b51d",
+    "t": "2026-10-30T11:45:00",
+    "type": "rumor",
+    "auto": true,
+    "title": "Blackhawks' Former 7th Overall Pick Emerges As Trade Candidate",
+    "body": "",
+    "src": "NHL Trade Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVzh6ZXZ6aFB2enczZ1IxSVItcmRGam14SFBIMTI2U1FXRERjUnk3NVNoNzFNX2E4QktRWktuX0VoRUZaZzg5Tmk1cGpRWTN3NmJERlVMWmhCVjhkQVRYWEZhNlo4bG1IVEJQVjZOTmV3NmRTNWpHdVI5OUxUU28wc24xeFprMGxxS28xWWtXQzJSYlJfcl8xdDMzMmNRdw?oc=5"
   },
   {
     "id": "news-11n1cvq",
@@ -84,6 +120,18 @@
     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOd2VadUU4ZmpyYjZXeTNEUFRZQXZudThGRzRzVWM0Q05OSjB6c3ZIZFFOb1gxWnA4OVUwejYxWkxuYUFKaEJ4MHRzQlZyMUdMTWx0b01UcGNFM216TVQwVTlQbUFnN3BLSTZhUXV6dUlqdkY1VzhZVy1haUlMUnpiTVRXb0dxa01IU0E?oc=5"
   },
   {
+    "id": "news-5f421s",
+    "t": "2026-10-29T23:51:24",
+    "type": "news",
+    "auto": true,
+    "title": "The Drive with Tim Donnelly LIVE 10/29/2026 | Carolina Hurricanes | Carolina Panthers | ACC",
+    "body": "",
+    "src": "99.9 The Fan",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1YeHhtU3JudTJoS0U0eEZVVkxqWmxPeW5YZUdiM3hoT0J6YmswVmt4Y0pjczZmXzNTRVVERzVUUVRELVhaSDdTcThta3V3TEk?oc=5"
+  },
+  {
     "id": "news-uqheir",
     "t": "2026-10-29T22:39:00",
     "type": "news",
@@ -106,6 +154,18 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPX3dwLUJxUGd3dFZ5TWN1ZTlvWExhOXl5WVhlNV9LOHhseGZ0TnlzbUU5U3N3Tm1lRFNqVzhfTHhnRG45YW9KZGpKY3Y5ZFN6V0JVTFRJd1E2ZXpMT1lWXzlXdDQ2RHJCVkVydTA0SndjSEYtdmE1UjEzaWxyeUNucmlLb08zNW8?oc=5"
+  },
+  {
+    "id": "news-tyt3wf",
+    "t": "2026-10-29T21:05:48",
+    "type": "news",
+    "auto": true,
+    "title": "The Adam Gold Show LIVE 10/29/2026 | Carolina Hurricanes | Carolina Panthers | ACC",
+    "body": "",
+    "src": "99.9 The Fan",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPU1d4NDlmVklCRjNVZFRkSkZVZ1gtT21RZ2lVUGlPTE9obXE5RkU4cXAyVjU1ZGd0QmQtLTZaUGoxSXQ1dnZUUUR5NXFkb3Y4TkRtUWZfRE0yTG9GLW1GdlREOTB5cDRDZVVrVHFCbmFBV1ZOQVplMHB5WjA1VXhhNlp2ajVLaUNWRmtUd0haQThYMmlLYU1sWVFuaE5DZElEOGJZZ2czeEU0RkV1eTZBZ1JOdFc?oc=5"
   },
   {
     "id": "news-1lfc5jz",
@@ -418,66 +478,6 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVHNmQ2k0UFlFTmE0bndtNy1Td2s0MHdRUXdJRzNNMkNIN1dkZHNkXy1za0JTdktkRkJ5aFA4Tkd6WnFmMHpZMDZ6dWZJNU1remlrSkVwWDJ5ZGg2SzRyRDh5YWJXdjM5Vlpna0owczVYSmhfZ1MtRG5YMHBBOUJfZG5hbHI5UW5NQV9pcA?oc=5"
-  },
-  {
-    "id": "news-19o1n27",
-    "t": "2026-10-28T12:00:34",
-    "type": "news",
-    "auto": true,
-    "title": "Carolina Hurricanes Trade Pitch Adds $69.6 Million Forward in Latest Package",
-    "body": "",
-    "src": "Heavy.com",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVDJvVnExWl9DdkdoZTdHS1BmbWhuREN2R1ZROGNJU250RGZqbmpYUjdPeUlGVHBCM0VTWDZ4SzlWNXE3WW95NTRyTXRPMzlaMmRWVlltLWNBRlhqbUpTMmNDeF8yYVhrR3lVYW9xMWQ1SVNZN0JzMVRRaHRsUHhsRnB5aHVhaUl0UXc?oc=5"
-  },
-  {
-    "id": "news-18v7w2r",
-    "t": "2026-10-28T11:55:00",
-    "type": "news",
-    "auto": true,
-    "title": "What role should Alexander Nikishin play once he returns to the Carolina Hurricanes?",
-    "body": "",
-    "src": "Cardiac Cane",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPal9YNnNKWkNFWS1aMVp0czRIR3JBc2JoX09YbXRPTWVmUDEzYVFzZ1ItbkZEcjVyT0ZXeHgyUlcwN2lPNm5MOXF0RmdsZ0JUVVhWbkp4elp6TkdKQWtGWHA2c2JzVW16b1dVVXNmazdYRExMOE9LRUNZYmNrTV90YXNfVXJaeFpyR3ZLV0ZkTGdQZE9rMG9YZHRuVEhMZzlVZl8xZmFR?oc=5"
-  },
-  {
-    "id": "news-8j5e7x",
-    "t": "2026-10-28T11:24:00",
-    "type": "news",
-    "auto": true,
-    "title": "Maple Leafs Could Include Morgan Rielly In Blockbuster Trade",
-    "body": "",
-    "src": "NHL Trade Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObFBFTjJkSk43R2I4Rk02OFhOVFM0VmlHb2lxYjI5Y3NEaEZYc3k1Ry05RTl3a296TFZxSGJtcmdIcm9ldVBxaXM2aHkzSmFHdWV6YzRiRWtyem1WenhYc0VrTWNwejJ6TW1zZ3JnT3I5QVRKQWQtX2Jja1otQXFHMFVCUG9fUHZiX2lvUWkwd05oRHE4aksteWhKSWM0bDRYb2c?oc=5"
-  },
-  {
-    "id": "news-d12gt3",
-    "t": "2026-10-28T11:24:00",
-    "type": "news",
-    "auto": true,
-    "title": "Report: Maple Leafs Could Include Morgan Rielly In Blockbuster Trade",
-    "body": "",
-    "src": "NHL Trade Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObFBFTjJkSk43R2I4Rk02OFhOVFM0VmlHb2lxYjI5Y3NEaEZYc3k1Ry05RTl3a296TFZxSGJtcmdIcm9ldVBxaXM2aHkzSmFHdWV6YzRiRWtyem1WenhYc0VrTWNwejJ6TW1zZ3JnT3I5QVRKQWQtX2Jja1otQXFHMFVCUG9fUHZiX2lvUWkwd05oRHE4aksteWhKSWM0bDRYb2c?oc=5"
-  },
-  {
-    "id": "news-z3ybpi",
-    "t": "2026-10-28T11:21:00",
-    "type": "rumor",
-    "auto": true,
-    "title": "Report: 2 Teams Pursuing Dylan Larkin Aren't On His Trade List",
-    "body": "",
-    "src": "NHL Trade Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeXhCWllfTzU5QmdJWUtVdXJ6Q1pWd2h2SzJOelcydUhUTHJLSHRTSXI2cU1XbHVSZ2xsRThCeEFEbWtSMDR4LUUxZldUWXZnMGhSNWJVVmhHSm9hOVBxVnBZT1Q0NzNtbW5nU01uc0F2ZjB6LTJoczBVSkhkZnctVVk5WmFzYVVMd0NadGtLd0IxbndBdjEtWVl3WmVpZ2pGeTQ4?oc=5"
   },
   {
     "id": "auto-add-8482100-20261026",
