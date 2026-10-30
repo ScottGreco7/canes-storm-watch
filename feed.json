@@ -1,5 +1,29 @@
 [
   {
+    "id": "news-12avps3",
+    "t": "2026-10-30T11:55:00",
+    "type": "news",
+    "auto": true,
+    "title": "With a busy schedule despite a short summer, the Canes started the year with purpose",
+    "body": "",
+    "src": "Cardiac Cane",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQXhfUDVVNzNDNmI0U1VPMXhYcUx3Zkcxc0FrZ0FTVk1yTVdiWnNlc09mZmVmZ200a2ZUSUdCTHVLXzJmNHR0WlF0NDhBTVpjVmxtWWdfeGN2MEI0TWhJNEFSRWxnRHRNbkxvcGptZVZ6OURJMURLblhzcVM3cWR1WHNuZFVvd191ZnVMRE40ODZkVUxzUldDN2ZJWQ?oc=5"
+  },
+  {
+    "id": "news-11n1cvq",
+    "t": "2026-10-30T07:18:31",
+    "type": "signing",
+    "auto": true,
+    "title": "Nikishin signs one-year deal with Carolina after Rangers trade talks fell apart over contract",
+    "body": "",
+    "src": "Hudson River Blue",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQjlrT29LSnVVLS1jZlg5WXhUSkIyNWdTT1F6ZzVNcEpSMTBXdzlGdVhjcndjLXlWMTFoNXNRb0lLcWJCTzluOGlpZzVHTGpuOXlpQUdDMExSb3ZXMTRpQ1lkcjhhWVRzTmU2VG5JUXQtb1BKYWZ1emZxbE1QRmdQaTNSWVkzVkpCRGN0VmN3RlA2Q0dIUlB0ODlSdkFJcV9qLVR6X0t4VFlWYlZ1YUJCZ2lyTWF2SzFQUEcyNWR2VGxnemtN?oc=5"
+  },
+  {
     "id": "news-1runawr",
     "t": "2026-10-30T03:17:00",
     "type": "news",
@@ -300,6 +324,18 @@
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWS1Kbjc0V2xpbjh6T1ZXSzZpendUSV9OeVlMV040Vk1JRnFEeGYtdGxaRTlyc3o5RDNVU1U1OTRIVEowMzlmZG5IOWloWG9jc1pwVzVySnJMTzFwS2xHVHFDYkNDZG5FVnNiQ1hOVlJOUVFYRDV3TUNKLVhyRXRGaktB?oc=5"
   },
   {
+    "id": "news-vjdxbt",
+    "t": "2026-10-28T20:19:00",
+    "type": "news",
+    "auto": true,
+    "title": "San Jose Sharks NHL Line Combinations",
+    "body": "",
+    "src": "Daily Faceoff",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9WWUhlM3ZfRW5SRkt6aDhvRTFpVHh3dnAzUmR1QUNwLUZ1TTJVSW51dF9NR1JUbVpEVmJpbUFkNjFDYTR2RnRCbzlIY2MzUjh2WHgwS2ZuZnM4anVqZ0hFQ3NVQ0I5ZnhINGZENzdZYUN5NXNTcnhIVQ?oc=5"
+  },
+  {
     "id": "news-1xjhox7",
     "t": "2026-10-28T19:08:32",
     "type": "news",
@@ -358,6 +394,18 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWGVvMXVBempGOWpxVVFaN1puU1NFVWxyNUZoNWdhYVQ3ZzFIM29MMFdVcl9SRllOLXIyRS1KS3ZEeWhJUVNlWUlaa3BKTTdfZ21wT2E0UGtXR2RTY3FGdXRTNk5Mc0dMcWh0eWFjb3JuYlBRTnBqYXUtUElTUjEtblVad1k?oc=5"
+  },
+  {
+    "id": "news-18v075m",
+    "t": "2026-10-28T14:45:00",
+    "type": "news",
+    "auto": true,
+    "title": "Florida Panthers NHL Line Combinations",
+    "body": "",
+    "src": "Daily Faceoff",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE56ck80UzVIeHllMjZpQjJZbC1oR2Q3MWR3MDcxYUx1elYwdm1CXzRXYU80akJwa1o0eThHekhJRHc2T2s3QTBVWDRiSG8yUmE5Z2dNaHhuYldlcEVmYS1sVGo4eFNfeTZwcEtIdmtxRzF0VEhGbFByNU1n?oc=5"
   },
   {
     "id": "news-1i1z6wh",
@@ -430,54 +478,6 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeXhCWllfTzU5QmdJWUtVdXJ6Q1pWd2h2SzJOelcydUhUTHJLSHRTSXI2cU1XbHVSZ2xsRThCeEFEbWtSMDR4LUUxZldUWXZnMGhSNWJVVmhHSm9hOVBxVnBZT1Q0NzNtbW5nU01uc0F2ZjB6LTJoczBVSkhkZnctVVk5WmFzYVVMd0NadGtLd0IxbndBdjEtWVl3WmVpZ2pGeTQ4?oc=5"
-  },
-  {
-    "id": "news-12pb79v",
-    "t": "2026-10-28T11:11:00",
-    "type": "rumor",
-    "auto": true,
-    "title": "Trade Talks Heating Up Around Blues' Jordan Binnington",
-    "body": "",
-    "src": "NHL Trade Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcHJGek5QVFRyRTRPNGdXV3dlZ09JRGhDbi1zZE1mUC1JRE51NFFVVW1BRjJ0a1ZvcTRwdTN2S1pTaGl3MTFva01NM1N5aDZRZUF0WFZkc2JkTXRwcGVpTlk0OTY1RDlSSEgxZEFjRDAyNlpRSWZIM0M1end4OFRuSWNEVHBlR0pMVVBjVEVadjdWZzNEVjV5SEFqOFI?oc=5"
-  },
-  {
-    "id": "news-ty3isy",
-    "t": "2026-10-28T05:14:00",
-    "type": "news",
-    "auto": true,
-    "title": "How the Bruins have maintained success through multiple cores",
-    "body": "",
-    "src": "Daily Faceoff",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQmUyTUlNUjEyWENNR1BQSlpJT0ZHMXBfaWw0eEd2NWgzVnY3eWhLZWttRWxZTmM4d3JLQUp1R04wX3ptcGlfd2w0b2pFRzhYSUxuenIwTEViT2ZYRWJxSDBMYjhlSW9tUmRjM1JLd28wb2NXbUU1aDJhbWNkcnUwUWJqVjRMdTY1MjF6SUdqVWY4bG1uR2RUUEhDZ0dDdFlicnFTTQ?oc=5"
-  },
-  {
-    "id": "news-hxeilj",
-    "t": "2026-10-28T03:53:00",
-    "type": "news",
-    "auto": true,
-    "title": "Aho breaks the deadlock late to back the Hurricanes' tough victory over the Bruins",
-    "body": "",
-    "src": "Cardiac Cane",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWlVRdUdjLUw1bmRnV1IyaDNRTFB1a05SNHl2aVFRYndHQkdYMUtIa3psbFM1dVY0bThhV0dxSlBBSWZnTTlQdXNNVktHTUtyd0c0RkdUVGdqLWh4T0JvSENQZVpGQTFNRDhIZVViejNFczJNdUhwa0RpWFphM2MtaHRVS3VVMllTamg2am51Y0VOT3J4SFpoeQ?oc=5"
-  },
-  {
-    "id": "news-xrq7we",
-    "t": "2026-10-28T03:43:00",
-    "type": "news",
-    "auto": true,
-    "title": "Heavyweight Fight lives up to billing as Hurricanes down Bruins 2-1",
-    "body": "",
-    "src": "Canes Country",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPY3hyZENBbU55RjQtaWVzOWlicXZLUWIyZzg1d2tiUDBSRk53UVZvcDNRNXIxWV9rQi1ZYnpVbDVJNGVRaEV4UjB0cDhaYUY0UUlpczF4MHVwRTF6QlB5MnN4cjh6bklqVnFkTDlWVHVRVjEzVmh2VWJNTlE0c1hPUGdHeXhmZVdMTi1ITk1xNkFCeHJUS29hSkJyQWU4MUowdEdkNFViVzFjMXRtcmlhaTVCTmZ5N3FocXBwWWhCYWhlWTdySFpxaGRleTVTc1kxU3hfN3k3cTJYQQ?oc=5"
   },
   {
     "id": "auto-add-8482100-20261026",
