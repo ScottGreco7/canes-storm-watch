@@ -24,6 +24,18 @@
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB1WTV2WEVJZVRsOExMZWNaM1lUSGctQ2R6dUpZYjNpc2FGLVQ2Z1VBamdBVm5WY1AwV1k4ekYwOUV0WnhPRi0xbkVyNTNpTkVqZWNiU2I5WGRwR25ScEMyU0lwX3RERVk1ai1iaXJycFVPQm1ZTHc?oc=5"
   },
   {
+    "id": "news-7xkuab",
+    "t": "2026-10-31T15:03:00",
+    "type": "news",
+    "auto": true,
+    "title": "Lightning's Extension Offer To Kucherov Revealed",
+    "body": "",
+    "src": "NHL Trade Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaUEyaWs3ak9WTlpmMFZFVGtSaXlPeXd3WnZSX0VkYkk2X1JZdXVsSl9jVWZPZlZDQW9fWEdqYlprcUJINGRhYzFqZlZzU3lzeWJPSklIUjU1U0lMb09GeXdhcWtSWDhma01KbzdRa1E2eWhiM1dldENLVWY2ZTc5YWNieF9YQjVk?oc=5"
+  },
+  {
     "id": "news-dzyilr",
     "t": "2026-10-31T13:53:44",
     "type": "news",
@@ -34,6 +46,18 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOXzFUbzRaWDlHamVqT2tnZkFiY0tSZlczTGljTTI2RmllbGhBRGVmaTlYSVNCbTVYM0tROWQ1cTdDdzVfeVVLdExVLVlRa3BJdEVybndBak4yendsLXgta0ZBWFB3Y1FuVUZPTk1VbE40d1hKN09WOXVQel91YmlDVmhmYWRBZi1lZnBVQ0lfSEEzZGxpV2RiOUc4d05wbXliYzhGMw?oc=5"
+  },
+  {
+    "id": "news-19h63ec",
+    "t": "2026-10-31T13:16:00",
+    "type": "rumor",
+    "auto": true,
+    "title": "5 Potential Trade Destinations For Nikita Kucherov",
+    "body": "",
+    "src": "NHL Trade Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOallzOGtuSTlCWmZfUElTYXY5ZEx5b0FmMVFMcUdXY1RtSkIxUmIxX0hlMDBqdC01R1AxZ2l6ZUJHcXFFV1hIWGY4bDlJcTdtWXlBNDJ4aHJQUzRsMy0xbDVFN3kwblhDLWRXdzJBU2thMmRiemNENnhYd3dBdnpuLUtGNA?oc=5"
   },
   {
     "id": "news-c2irg3",
@@ -454,30 +478,6 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSFRvb2VsLVl6S3d2azZSbVFHN1pQQndfZGY2a2lGaGtHZ1ViQjhsRGwzRDM1SFl6RGFiblRLNG5Mbm90aGJjZl91NG13RUdnY0wzelpoZHkxTzBLZEU0Z09RY3RjaFdfRWdfZkNnWmVpSHBLMnZJM1RDSFhZSGdTNTRBdEpXSFRkUlNWTTJwOHIwRnMzbzdiZ3NsRHNiUUFndnc?oc=5"
-  },
-  {
-    "id": "news-1o85tj1",
-    "t": "2026-10-29T12:46:00",
-    "type": "news",
-    "auto": true,
-    "title": "EBUGs Unmasked: Inside the life of an emergency backup goalie",
-    "body": "",
-    "src": "Daily Faceoff",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcVljZXRRTjYtQ1pPeFVLVUZnRmdQUmNNRWZYOWJBV0t5VUJGc1hfNXFkTEFZeUQxcXNOck5scDlDYnVaMDQ5MWpESWFlYnJ1WlhDYXg5bGpnVFlQa2ZzRHltRW81ekN3eXF3QnJBODZFbERKajdsMUxkb2lOdFl3RUNKcWxVOEktUXBCOVVTTXhaRWN6UGZqUXhJV01naFpYdHRoeXFseWNoZFVPMHUwRi1vVjdZeUdRaTBva3lhY1Y?oc=5"
-  },
-  {
-    "id": "news-1w8iuq6",
-    "t": "2026-10-29T11:56:00",
-    "type": "rumor",
-    "auto": true,
-    "title": "LA Kings & Vancouver Canucks Linked To Blockbuster Trade",
-    "body": "",
-    "src": "NHL Trade Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTlJRRGVFLUpSZ1F0elFELXI5U0RVR2U3SS1SbzBsVnlxQkdxemZTN1hxZDh4V2hudnQ5UEF5ZnV0cXpycWsxamtUNjRuNTlfSmo0X2FaTUxXRV9kZWllcnI0OGZIY21RVDA1eWszUFZwaXMzRVdmd3RJQXdBR1pEQXVFd00xZw?oc=5"
   },
   {
     "id": "auto-add-8482100-20261026",
