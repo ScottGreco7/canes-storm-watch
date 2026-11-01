@@ -1,5 +1,17 @@
 [
   {
+    "id": "news-njbvcd",
+    "t": "2026-11-01T13:39:10",
+    "type": "news",
+    "auto": true,
+    "title": "Slavin reaches a milestone as the Hurricanes close their season series with the Jets",
+    "body": "",
+    "src": "Cardiac Cane",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQVV2S1dqczJZNDNOUVlKeVNzWkRiaWh0SkdoYUszVmN1UzVLdGxYTHo0dzVMZHJJQVItWEwtM3F4aXMwb3RqT0c5ZkV2bXpsVlg2RHVndWNCNjFZNVdLNVI1ZWFxQ0ZnVE1wVl9EQkpocEhQZThiUVNCVW1nWWRLcXZjWVhSdFYzdGZnWVJGcGFwdkE?oc=5"
+  },
+  {
     "id": "news-rovrpg",
     "t": "2026-11-01T02:58:00",
     "type": "news",
@@ -288,6 +300,18 @@
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVzh6ZXZ6aFB2enczZ1IxSVItcmRGam14SFBIMTI2U1FXRERjUnk3NVNoNzFNX2E4QktRWktuX0VoRUZaZzg5Tmk1cGpRWTN3NmJERlVMWmhCVjhkQVRYWEZhNlo4bG1IVEJQVjZOTmV3NmRTNWpHdVI5OUxUU28wc24xeFprMGxxS28xWWtXQzJSYlJfcl8xdDMzMmNRdw?oc=5"
   },
   {
+    "id": "news-1z1hjb",
+    "t": "2026-10-30T11:37:00",
+    "type": "rumor",
+    "auto": true,
+    "title": "Report: Canucks' Jake DeBrusk Open To Trade",
+    "body": "",
+    "src": "NHL Trade Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONTdfMlUyQkZBTmVIbjlvYWF6ZGlOSUNhUVdPOXBKZmRlWnU3YzdFeVVUV2IzR21pWWVZNlRPaUVDOGJDR1NZSFdPRmFZbmcyMmVRWEd5aVdTckdNV3lnOEFaLUFGT0M3OWZkRWpUazhON0xVT2VjUEhMVTYteE9IaEZLbjNiUFFTeVNtalpIWTU3b3U4NjB4X0U5RlphbTdqMHc?oc=5"
+  },
+  {
     "id": "news-11n1cvq",
     "t": "2026-10-30T07:18:31",
     "type": "signing",
@@ -454,30 +478,6 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPU1d4NDlmVklCRjNVZFRkSkZVZ1gtT21RZ2lVUGlPTE9obXE5RkU4cXAyVjU1ZGd0QmQtLTZaUGoxSXQ1dnZUUUR5NXFkb3Y4TkRtUWZfRE0yTG9GLW1GdlREOTB5cDRDZVVrVHFCbmFBV1ZOQVplMHB5WjA1VXhhNlp2ajVLaUNWRmtUd0haQThYMmlLYU1sWVFuaE5DZElEOGJZZ2czeEU0RkV1eTZBZ1JOdFc?oc=5"
-  },
-  {
-    "id": "news-1o85tj1",
-    "t": "2026-10-29T19:48:00",
-    "type": "news",
-    "auto": true,
-    "title": "EBUGs Unmasked: Inside the life of an emergency backup goalie",
-    "body": "",
-    "src": "Daily Faceoff",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcVljZXRRTjYtQ1pPeFVLVUZnRmdQUmNNRWZYOWJBV0t5VUJGc1hfNXFkTEFZeUQxcXNOck5scDlDYnVaMDQ5MWpESWFlYnJ1WlhDYXg5bGpnVFlQa2ZzRHltRW81ekN3eXF3QnJBODZFbERKajdsMUxkb2lOdFl3RUNKcWxVOEktUXBCOVVTTXhaRWN6UGZqUXhJV01naFpYdHRoeXFseWNoZFVPMHUwRi1vVjdZeUdRaTBva3lhY1Y?oc=5"
-  },
-  {
-    "id": "news-1lfc5jz",
-    "t": "2026-10-29T19:10:55",
-    "type": "news",
-    "auto": true,
-    "title": "\u2018Dylan\u2019s had enough of the situation\u2019: Larkin to sit out until Red Wings make trade",
-    "body": "",
-    "src": "Daily Faceoff",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRC1DenlPN0Q5NTctUjdnTEhmX2liMkxWRENtajZTRkhXY0FnbjlwNXVIOWFtMWM1TGpReDk0Y2dDTW1hdVZ5M1JsVm5JeW5YaVZaN2RKRlVKeGZKaTRybl9OeEo1b3lfa1lqNVdCRXh3V1gyN1dmbjJEdHo3RXUybEljdHZWN1h2SkVoVXg4djJDcjF4SFBJbkxxQTNfU3oyWjdOOW5UM0NsbTV1?oc=5"
   },
   {
     "id": "auto-add-8482100-20261026",
