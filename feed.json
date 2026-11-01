@@ -1,5 +1,17 @@
 [
   {
+    "id": "news-b34da1",
+    "t": "2026-10-31T18:20:55",
+    "type": "news",
+    "auto": true,
+    "title": "Islanders\u2019 Emil Heineman ejected after hit on Oilers\u2019 Isaac Howard",
+    "body": "",
+    "src": "Daily Faceoff",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQXVNTkh5S3pBV042enNURlBvTTVOTnFPaVlFZlRVMFNQV1NjY1FGaV9TNjJnNGJwcmF1d0FUaHlvamdjYzdMRmFxdnpWOG9aYmpyaHRTOUE0QWY4NlZUaTUtYi1FTEdOZkZGUVV3MHRGTy13LW0tSXVGQzFxUWFrTF9GVHRvRHJrSGRQdVpJVFAyR1d1ckR5WTA3YVJza253bEl3VmVYWXZvSlI1OFFGV1p1NA?oc=5"
+  },
+  {
     "id": "news-18f60e0",
     "t": "2026-10-31T17:42:12",
     "type": "news",
@@ -166,6 +178,30 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeTFvTTVpaEFhcjdwQjRvSFdoWV9qaVRDcHE0VFFPYUFuc0ZpdVJ4RXZTTlBMUGZZOW1rMTc2Mm42a2Q1TjFnRGQ1SW5IaHZtdkpwd0NlQmpGQVZySFMyb2lVTERfSnViU3oyazBHcnpLdlo0MmN3Vk9lWUtfQ2lZeFdqNE9Cc1p3a2JmVVludF9GRTVEZDhSUGpvUTY3RVlibVFBY2dMQmxDNERSVy1BSjl3MHoxR0N6T3NYQUVNRjM?oc=5"
+  },
+  {
+    "id": "news-vitnwg",
+    "t": "2026-10-30T16:54:35",
+    "type": "news",
+    "auto": true,
+    "title": "Stars Reassign Cameron Hughes",
+    "body": "",
+    "src": "Pro Hockey Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPb0Z3N05zb2tZQldSZFNyZjB6VkFpWndoQWpDdmljOXhwSWk1dnRTel9iOWRncXJGczNMbFZjZTFZRTJkT2tLR0d0ZUROd3RoOXh2d3Rtbk1PQk9hTmxFZGxiQll6d1ZzZ2pMY3ZtOGQtMHdNc2N3VEN3dXpLSmV6TGJLSkFDbG8?oc=5"
+  },
+  {
+    "id": "news-gmflv4",
+    "t": "2026-10-30T16:19:00",
+    "type": "news",
+    "auto": true,
+    "title": "Edmonton Oilers NHL Line Combinations",
+    "body": "",
+    "src": "Daily Faceoff",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE94aGNZeWNjSU9oV1hyQklGUmIwVS1NcVQ3b2s3aFR2eHlCUXplMDJvdU1HU3JBVExUWWVFcjFFS0tvNTZ3Z0p1aDFYME5qNDcyWDlsSmJmdEwtd0RnT2V4bVJMQm1OenFDd0FuUmg1OWM4M3NINThJeg?oc=5"
   },
   {
     "id": "news-10d4jz5",
@@ -408,6 +444,18 @@
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPU1d4NDlmVklCRjNVZFRkSkZVZ1gtT21RZ2lVUGlPTE9obXE5RkU4cXAyVjU1ZGd0QmQtLTZaUGoxSXQ1dnZUUUR5NXFkb3Y4TkRtUWZfRE0yTG9GLW1GdlREOTB5cDRDZVVrVHFCbmFBV1ZOQVplMHB5WjA1VXhhNlp2ajVLaUNWRmtUd0haQThYMmlLYU1sWVFuaE5DZElEOGJZZ2czeEU0RkV1eTZBZ1JOdFc?oc=5"
   },
   {
+    "id": "news-1o85tj1",
+    "t": "2026-10-29T19:48:00",
+    "type": "news",
+    "auto": true,
+    "title": "EBUGs Unmasked: Inside the life of an emergency backup goalie",
+    "body": "",
+    "src": "Daily Faceoff",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcVljZXRRTjYtQ1pPeFVLVUZnRmdQUmNNRWZYOWJBV0t5VUJGc1hfNXFkTEFZeUQxcXNOck5scDlDYnVaMDQ5MWpESWFlYnJ1WlhDYXg5bGpnVFlQa2ZzRHltRW81ekN3eXF3QnJBODZFbERKajdsMUxkb2lOdFl3RUNKcWxVOEktUXBCOVVTTXhaRWN6UGZqUXhJV01naFpYdHRoeXFseWNoZFVPMHUwRi1vVjdZeUdRaTBva3lhY1Y?oc=5"
+  },
+  {
     "id": "news-1lfc5jz",
     "t": "2026-10-29T19:10:55",
     "type": "news",
@@ -430,54 +478,6 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBSTnZnQW1vNlM4eUtEY3hVYV9MNzVXWFI4TEUxZXYwckVIcS1NbHRraVNtS3AyME1FVkppc21laVAyQWdCc0YtUXRtSkVWeS00VDcta2x3ak80azl3bVlGVXJpYUd2TTVDU3ZXNlhKVEZmSnJYVDhn?oc=5"
-  },
-  {
-    "id": "news-1sr5nrc",
-    "t": "2026-10-29T16:55:00",
-    "type": "news",
-    "auto": true,
-    "title": "TALKS HEAT UP, LARKIN TO BE SCRATCHED UNTIL TRADED",
-    "body": "",
-    "src": "The Fourth Period",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMXpsVUt2azQtLUlwUnJramozUzMteFRVY09zak84QmtnbklmaUxJaWxMeGM0X1Nqd0F2T0h1Ul9oQWJGQUpQSUFEVlA1U1phSUhvZlI5M3ZIbnZmWGhPU3AxWDlrYmJteHVkbjJmY202cXF5ZndkUTE3UTVxR3NxVzZBRHpXTkJUNzN1X3FFcWFaLVgx?oc=5"
-  },
-  {
-    "id": "news-122kn1j",
-    "t": "2026-10-29T16:25:42",
-    "type": "news",
-    "auto": true,
-    "title": "Carolina Hurricanes Announce Taylor Hall News Before Blue Jackets Game",
-    "body": "",
-    "src": "Heavy.com",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUGY2TUVVd3JRUW9IQ1BJYm14NDhJSUZuUy1rZ0Z4eUs1aW0tSjBnUVlfTzkwU2syeEM4NjNJa0s0Y3dwOFJnVjBJdzNBWEtoUHFXb1d4cVlYblZBWEFzWXlVanFueUZMM1BWM0tVVC1SOUNYYjNnQkw4T29WcjhhNVkwamY5bjZiZGl5ckFjR2JBRkFFa0pWSjJ5Tk1HRFd2eFhkbmdPYw?oc=5"
-  },
-  {
-    "id": "news-e27r21",
-    "t": "2026-10-29T15:56:31",
-    "type": "news",
-    "auto": true,
-    "title": "Carolina Hurricanes Dealt Bad Taylor Hall News Before Blue Jackets Game",
-    "body": "",
-    "src": "Heavy.com",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVzhYSDVYQVFRbWplVExlR2VEOHF2Q1IyMW5Rb2s3Z2cyUEhHeVlYOEhpdkVHYldnT2diZGxfX0pUVXV1WEhRTk1mTEczc0ZwV1duc1VEOTJlb1ZJaVNZRkktX2otQWZaWXN1ZzhLdV9xc1h0YmpvS2daQlN3N19wM3lqVFZGcGxfdElCNmlPeFdYNS1NeVBwVnd1VQ?oc=5"
-  },
-  {
-    "id": "news-1xcltee",
-    "t": "2026-10-29T13:30:00",
-    "type": "news",
-    "auto": true,
-    "title": "Frederik Andersen has company in the history books, and his early run was sensational",
-    "body": "",
-    "src": "Cardiac Cane",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSFRvb2VsLVl6S3d2azZSbVFHN1pQQndfZGY2a2lGaGtHZ1ViQjhsRGwzRDM1SFl6RGFiblRLNG5Mbm90aGJjZl91NG13RUdnY0wzelpoZHkxTzBLZEU0Z09RY3RjaFdfRWdfZkNnWmVpSHBLMnZJM1RDSFhZSGdTNTRBdEpXSFRkUlNWTTJwOHIwRnMzbzdiZ3NsRHNiUUFndnc?oc=5"
   },
   {
     "id": "auto-add-8482100-20261026",
