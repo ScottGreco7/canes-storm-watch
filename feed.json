@@ -1,5 +1,53 @@
 [
   {
+    "id": "news-1ywbq14",
+    "t": "2026-11-02T14:12:00",
+    "type": "news",
+    "auto": true,
+    "title": "NHL power rankings: Oilers remain scorching hot as McDavid extends point streak",
+    "body": "",
+    "src": "Daily Faceoff",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWnlYUEhrVVZWbkFSNVdEQ0pXekRsOVZfcHRmbWo0TXM5YUVvUE9BWWdfakthTGxNX1RqZHJ4WnNDMS1hR09QbWFJbDdKRzdRanc4WEVSbm5DMENKaHFQSWlsTHNxMnZHU0pKT3p0UERIcXFMejdtc2s5SHVVT2dvdy0ybm90Y0ZTUjFucDVqZ2VyQi00YmZueFd4a1FndWFqUEJEMUg2NXFpUlZBcDdJYXg0RV9SNTVJbVZKOXJPLTVIU1h2S3NSalNSdXRoMmM?oc=5"
+  },
+  {
+    "id": "news-15fwzir",
+    "t": "2026-11-02T13:05:01",
+    "type": "news",
+    "auto": true,
+    "title": "The Daily: Edvinsson Waters Muddied by Hurricanes; Hurlbert Helps U-M Beat OSU",
+    "body": "",
+    "src": "Detroit Hockey Now",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRDF6MnpZQXNKQ0JQOERfNXZvbW5CaGdDbzlmREZMVmszSFRmQ3VTZWd6SklXYnJmNVhQekREdGx4cE5BTzFGc0YtaWZUcm9wQUxkTUl2dHExcUlTaTRnazdWYXVLdFM1LUQ1cXh4VFUzUEdqMDBLYnhFclcyeVp6YUEtcTEyUHJqTHpMWg?oc=5"
+  },
+  {
+    "id": "news-1nei0xa",
+    "t": "2026-11-02T13:04:00",
+    "type": "rumor",
+    "auto": true,
+    "title": "5 Teams Linked To Nikita Kucherov Trade",
+    "body": "",
+    "src": "NHL Trade Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOV3dCWVU5RGhLakxiODJNNVJPOEg5c3JLN0ZuNDRHNzZxVi0ycUlRaHNmOXdURzBVODJyZlZGdEV2R3JoRk5wbUxxYVJqQVFQYlZyZTcyeHpJTi1SVVFCVTBPLXFsODUxbjJVSGtsenVuQkpCMTlicXk5MHlRQlBaN3ZMVVp1bnd1UkE?oc=5"
+  },
+  {
+    "id": "news-bed0yd",
+    "t": "2026-11-01T23:20:39",
+    "type": "news",
+    "auto": true,
+    "title": "November 1 \u2013 Postgame Notes, Stats, Video & Audio",
+    "body": "",
+    "src": "CANES PR",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZEFtSS1rNDBKYmw1VWpKLWpLd0pqY2pvZlM4NGRHUVdla05uandXZUdGTW1GWUtWcXZBeWV0WVFkNzBKOWpXNEUzQ2tnT2NpUTQ5MW9uSmJ1TnZTcXFYZGpReE1BSi1CRnFvUTI2SHJsQ0RLZTh5OThCbXl1Sy10Rw?oc=5"
+  },
+  {
     "id": "news-1ah2ggy",
     "t": "2026-11-01T23:15:18",
     "type": "news",
@@ -106,6 +154,18 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPalQ5MTBVdnppZlYzMV9yd3RUSkc5MXdScDlGT0wzQk9sczV5ZFNxTUU5S21NT3YzdXB2WVFDaThUelJWeGtEaEp6X0RHa2VTSnBqZXRjS05OZ0lVT1lxbFlHa0JNTmY3NndIWXlFaVhmVWp3dmlleW4zWHNLVXpSTXhZZzFDYzVLdmxpUzd5QjJvZ2JKT0IzNVhrNHQ2Zw?oc=5"
+  },
+  {
+    "id": "news-1bsuqkz",
+    "t": "2026-11-01T01:39:00",
+    "type": "news",
+    "auto": true,
+    "title": "Calgary Flames NHL Line Combinations",
+    "body": "",
+    "src": "Daily Faceoff",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBEU3l4Z05BbUltRE1YdUw2THV3a0RnekhzaUIxNUlVSVIxY2JqSm9pQUZ0RlZkUVdxTml0Q2xJZkQzamhTLUVkbFMtZ0lHX3FtNVRfMGhRTDlCaC1FaUlRY1BwV1h5Tm5GUS1lWUpSSmJMU0prQzVF?oc=5"
   },
   {
     "id": "news-8e5ir1",
@@ -418,66 +478,6 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVzh6ZXZ6aFB2enczZ1IxSVItcmRGam14SFBIMTI2U1FXRERjUnk3NVNoNzFNX2E4QktRWktuX0VoRUZaZzg5Tmk1cGpRWTN3NmJERlVMWmhCVjhkQVRYWEZhNlo4bG1IVEJQVjZOTmV3NmRTNWpHdVI5OUxUU28wc24xeFprMGxxS28xWWtXQzJSYlJfcl8xdDMzMmNRdw?oc=5"
-  },
-  {
-    "id": "news-1z1hjb",
-    "t": "2026-10-30T11:37:00",
-    "type": "rumor",
-    "auto": true,
-    "title": "Report: Canucks' Jake DeBrusk Open To Trade",
-    "body": "",
-    "src": "NHL Trade Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONTdfMlUyQkZBTmVIbjlvYWF6ZGlOSUNhUVdPOXBKZmRlWnU3YzdFeVVUV2IzR21pWWVZNlRPaUVDOGJDR1NZSFdPRmFZbmcyMmVRWEd5aVdTckdNV3lnOEFaLUFGT0M3OWZkRWpUazhON0xVT2VjUEhMVTYteE9IaEZLbjNiUFFTeVNtalpIWTU3b3U4NjB4X0U5RlphbTdqMHc?oc=5"
-  },
-  {
-    "id": "news-11n1cvq",
-    "t": "2026-10-30T07:18:31",
-    "type": "signing",
-    "auto": true,
-    "title": "Nikishin signs one-year deal with Carolina after Rangers trade talks fell apart over contract",
-    "body": "",
-    "src": "Hudson River Blue",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQjlrT29LSnVVLS1jZlg5WXhUSkIyNWdTT1F6ZzVNcEpSMTBXdzlGdVhjcndjLXlWMTFoNXNRb0lLcWJCTzluOGlpZzVHTGpuOXlpQUdDMExSb3ZXMTRpQ1lkcjhhWVRzTmU2VG5JUXQtb1BKYWZ1emZxbE1QRmdQaTNSWVkzVkpCRGN0VmN3RlA2Q0dIUlB0ODlSdkFJcV9qLVR6X0t4VFlWYlZ1YUJCZ2lyTWF2SzFQUEcyNWR2VGxnemtN?oc=5"
-  },
-  {
-    "id": "news-9oj356",
-    "t": "2026-10-30T05:20:00",
-    "type": "news",
-    "auto": true,
-    "title": "Red Wings suspend Dylan Larkin without pay",
-    "body": "",
-    "src": "Daily Faceoff",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNEdSdjRaQXZqOERMRE5kNENUS2NDbFgzLXBLYzBGMDIzYW5GMnY4NHBXZWpqSHpQaERfenNhLWVGWGlfcFYwTnpnWnQxNlpyS2JVWWxnX1cyVDY0NlNWVTNEUzUxcENQMU5RbXdVSkhKVUxjdDl5SFEyQzBoUHpWTFYtZ1RkU29UaHN3bmdfdk1OZ2RDQkZKX3lrLXdma2xMdEhN?oc=5"
-  },
-  {
-    "id": "news-1runawr",
-    "t": "2026-10-30T03:17:00",
-    "type": "news",
-    "auto": true,
-    "title": "Rangers need to improve center depth in order to take next step",
-    "body": "",
-    "src": "Daily Faceoff",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOb19EcUhicnV6MjBFc0N2cE5VUkJpTE5MQ1ZfdS1yWU1NQU9OTm5pZXpXUWhwN0VXVDdvb3hjR29kYmN5RHZBQlJVU1JZanFWRlpvN0hSWXJkZHFGTXhzdUxaOGtYQmt1UjE3OVY4ZEplVTRCNEJhWVVVd3AxR200NG9sUXFYZ0VEdWlPYjJqelJlWXZmYUZlck5paUE5VFk?oc=5"
-  },
-  {
-    "id": "news-7yzqfd",
-    "t": "2026-10-30T03:00:00",
-    "type": "news",
-    "auto": true,
-    "title": "Kochetkov Still Undefeated: Hurricanes 3, Blue Jackets 2",
-    "body": "",
-    "src": "Canes Country",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYm1PUW93aUl4TGU3UFNrd2RCaGN6c01xVFV0cUFBSy01WVR3bjhMUS1PbFg3cVFKR3FxWnJxZUN1ZDEyZGZySXU4eUk1LWxISFNad0dLTktMcTY2LVMtbjZGaHhCc1lueENscFBfQXZydVNScExvN0tGUUdWZXgwYlhILUFtVEY0eEpKYmlPRTNheW4yd1dqdTdQSTROeDY4U0JFcVhhQjF4OXRCdXY1a2JkR2J0c3RiaFlfVjM1Z2U5elBWc21nQQ?oc=5"
   },
   {
     "id": "auto-add-8482100-20261026",
