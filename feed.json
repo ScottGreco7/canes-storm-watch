@@ -1,5 +1,53 @@
 [
   {
+    "id": "news-1booq03",
+    "t": "2026-11-03T20:30:32",
+    "type": "news",
+    "auto": true,
+    "title": "Hurricanes Announce Injury Update on Star Before Predators Game",
+    "body": "",
+    "src": "Heavy.com",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNHpsWDJrVGFEOHNpeGhmR2VmajlPdVk5VHdXUkFvYU1VX0pFT0lfdFdqOUp0LWV2dzJZSDdnQXRVenFHXy0wd0dpcGhRN0FtRjJCOC1CSHFSUHpkUkljeFJUenVfTUZ0c2ZQTjN0ekszemdlUERpbUhtSUhkUWxqMVBVQUJSZ0hIOExHTHd6VUxuRmxiVXVqaEJUUQ?oc=5"
+  },
+  {
+    "id": "news-obzo1v",
+    "t": "2026-11-03T20:21:07",
+    "type": "news",
+    "auto": true,
+    "title": "Carolina Hurricanes Announce Pyotr Kochetkov Decision Before Predators Game",
+    "body": "",
+    "src": "Heavy.com",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYzVabVlaN2U3bzJxYjlta0xIS3ZwRG12S0JGbWtjYTMwa18zVXcyaDJfMGFNNnlQZmFnOEp5SXZ3TTdjQlNkVGczZlRvWnp3d0ZGZC1xWm0xTTd5cWszZjZKUTR0ekRuNVA1UWZodXJ0ekdTeG1USzZYY011SVYzcWRBbDZIa0VmN1ZKbWQ2VXMteDJGNkJEXzhwbU03dFNZbmwyN0Q2X0xZa2ExRnIxcXdkZkJ1dFZ3emc?oc=5"
+  },
+  {
+    "id": "news-se2fb3",
+    "t": "2026-11-03T19:04:04",
+    "type": "news",
+    "auto": true,
+    "title": "Jets place Brad Lambert on waivers",
+    "body": "",
+    "src": "Daily Faceoff",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdTlFOWVlSU4yLUh5RGRJaXJIVjk0Tk9OSjhvZ0hsSUVaN1hPNEVIdFNXNjVRNGRhcnRWWG9ITmlyNE5iVFUweTlJUF9iNzIzOWt3UG1xaGVYaVhXX244TWVuQ0lFZWFXVGFIWllUY29HTm53LVRNN24yRmwzR0tWeG5yMDVhd0lYTWdVZ3Jwb3VzLXBuajNtVnpoei1iZw?oc=5"
+  },
+  {
+    "id": "news-1ywn3i9",
+    "t": "2026-11-03T17:06:57",
+    "type": "news",
+    "auto": true,
+    "title": "Hurricanes Have An Offensive Advantage Where Most Teams Don\u2019t",
+    "body": "",
+    "src": "Heavy.com",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNmFHYnZud1h3REVsdUFOZkIzWWZ4ZWkyaGpaeUR5Mk1qWXZrNmVSSld5bDc1OGRvdEJ4ajRiSnNnWjFXRnc3d1N2dVEteWpCOGNuMzlWbnVrdHgza3hZaXIxQmx5OXViYUttXzNOYnRjY3loQVU3UHQyd3JKQ2pSSUp4YmJrVGsyNDE1YU9YUkdtaGVFVnc?oc=5"
+  },
+  {
     "id": "news-13c55zk",
     "t": "2026-11-03T15:13:28",
     "type": "news",
@@ -10,6 +58,18 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeWx6ZWJJRDRzQmNmVWVnTmZiS2szRGE0eXpyaXNndHlXVFM0UWlleGt2c2RxemhOcW9mWnF6NTBPZGE3amxHVUp1WUVVQmpPYXZRb2d6eXpsWHlZUFdfU29XVkUxeVd3SDhJY1hKMEpMM1JhRjFjMVJib2FDVElJNGhUQ1d6RHlJcjN5RlRlTEdWMFZwSVd2cDI2UXdlWENrbEhpSTY3OTFHN0lVU2lXN2ptWVF1MHUz?oc=5"
+  },
+  {
+    "id": "news-ueao58",
+    "t": "2026-11-03T13:43:00",
+    "type": "rumor",
+    "auto": true,
+    "title": "Report: 5 Teams Linked To Blue Jackets\u2019 Dmitri Voronkov",
+    "body": "",
+    "src": "NHL Trade Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZVlJa3JobEVkYTNFQkNFX3ZVemhteXJUbUN6TXU0X0o2SVFlU2F2NEFjNjZleEwtQl9PVnJjbEJQcUJocURvNUVtRVBrSUJqZ2o4emludDdVa2hRWDNUbC1pMjYwLWVlbGNPWHEtdTEwWXhOc2NwWjlzVlc3X2lpeWlNOGVXZXBaZl9Cano0WUt2TEZYWkM3azhtVXMtaWxjYTZGYndn?oc=5"
   },
   {
     "id": "news-1och5dq",
@@ -24,6 +84,42 @@
     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNOEZaak5FLUVQbUtfcmE0WDZnYWRTZjZOWGRTNmZlS3JiVHpDUnlmbVQxZHNzTHV0OG12aDRXVHhUWmJ2SG53a0VaOUE2VnUweDRQMjBfSm1iS2hyQVk0UkFjRWwtd2Y0S3JCZ3BZSjlxU0ZSVFN6NFJ1ZnhOcS14ZjRCakV2LXExTXdhVUs0ejMxRlZCNUNpcVR3MXpDSG1FT2lYeGp2QlNYNGVKVG5nbW5IQTMyWm52YWZhUzBCbHA3SE9jaGJBclVoeHVZLUNXNERZS0ZjTjRFNENuRjU0?oc=5"
   },
   {
+    "id": "news-1kupejx",
+    "t": "2026-11-03T13:25:00",
+    "type": "news",
+    "auto": true,
+    "title": "Report: Sharks & Red Wings Continue To Discuss Blockbuster Trade",
+    "body": "",
+    "src": "NHL Trade Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUVo4bThLbV9aY0czOGpRLXRKeFBLRzhrdkpUbVh1LXM5SG0xNGtmU0o1ak81enREczd3VEFvQm8zWXpRYjFRWFVaUlhra29Na0lSYmkyQ2FiWjdlRkdaS2NkOHdrOWRHNV9ZLXhaRHl5QktnNW5UMVdZX05XWVFPdFVFWFA?oc=5"
+  },
+  {
+    "id": "news-1c3z72g",
+    "t": "2026-11-03T13:14:00",
+    "type": "rumor",
+    "auto": true,
+    "title": "Maple Leafs Open To Trade Veteran Defencemen",
+    "body": "",
+    "src": "NHL Trade Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRUU3QTJfdTFEaFdnUnJMZlBjblRLWXNmLXZhb29LMFg3ZG9icy1RZUdYcHY4Qm03VWZZYkVncFVCbVZ6Mm4tSV9uV0ZZdGRSb3I2THhwbm11MGJybTQySjdEeGRQal9sTjhpWFJ1ODc3YjNzbUpJNHU0VHhzVjBTTEx5Mm5Ldw?oc=5"
+  },
+  {
+    "id": "news-1uzckyv",
+    "t": "2026-11-03T13:02:00",
+    "type": "news",
+    "auto": true,
+    "title": "Report: Roman Josi Could Be Traded By Nashville Predators",
+    "body": "",
+    "src": "NHL Trade Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTDJ1TWJmaldUY3hJNUFpTU5hZkdCbjNlQWk4SlpXQ3FVY0EwUTYta3kwVGdPblpXUEdYa0ZROVZWUDgwajl6R1M3ZmhtdnhXUkFRVVVZbGt1RmZHQnJqRXhJQXdGQXVsVVVRX0ZDelc3S2NmUV82M0t0bWh0OUF2azFpZVgtUQ?oc=5"
+  },
+  {
     "id": "news-1cu6gkd",
     "t": "2026-11-03T12:50:00",
     "type": "news",
@@ -34,6 +130,30 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQV1VETURrMDVZakpTbGlhNnNwRVNKbDNMRFBoZXk0QUdSYklZVGpXc3ROVElYMHFxbGJ5eEZXLUlWYkYwRkY5WUtVZlA5RDBNSUJxcTRGYWZhU29ITlpzQkdjUjFqZE5KQzNvVFVVQ0h2aFB5VTc0dV9TbWpYcloyZ0lXTjl4SVhVZVIxaGFFYW1vR0Y0blRTbQ?oc=5"
+  },
+  {
+    "id": "news-qjx8uw",
+    "t": "2026-11-03T12:41:00",
+    "type": "rumor",
+    "auto": true,
+    "title": "Canadiens & Oilers Continue Trade Talks",
+    "body": "",
+    "src": "NHL Trade Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOLXBuOG9jeVpjRzdFWEpOZm94NWtsbFp6OWZkRGNQSDJjampLdmtpUm5yb2pKWHFFNmxHWHJ1TGJoV3EwYU1ZREtWaGY0VDFvWUs1My1hU19PUnBkclFPTzRfZFZwdXAtWGdLenlVdTV1cVJzaFA3T1ctczNuQ1k0TlpB?oc=5"
+  },
+  {
+    "id": "news-1hq38q2",
+    "t": "2026-11-03T08:13:44",
+    "type": "news",
+    "auto": true,
+    "title": "The Adam Gold Show LIVE - 11/02/26 | Carolina Hurricanes | Carolina Panthers | ACC | NFL",
+    "body": "",
+    "src": "99.9 The Fan",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUFEyMENmUk5tZ0FCaDF2Y1o4UWN0SWFadnpYczR4THNGNnhiVGo0V3lhUGh1TENjLXlqeHNtRnRiRWYtcTcxdnNDaU1tckNUaDBkd3BycEpVNjRrNUpvSE52VXhTRHZPc240cHRmQU41U1NscjltUGpHTFNmdkZSMU4wd05OdVBveDYwWjg1S1FoR1B6NDlxRTM4Z0IxcTlkeHlkY1RWSVgzcXRJRnBabWVzZXc?oc=5"
   },
   {
     "id": "news-lcqzag",
@@ -166,6 +286,18 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1VUDZCMU1ROERzLWpLTENsNW55UElTXzBsZDBLQW1ubnQzWDY5bnJITDFsZ24zZ3Bsci1qYWgyeG5SMmtWc3BEUjR4MWhmRlBhZGhMMG95dVhjS2xVbFhTcmhqVzcyUU8zZE1vSE9ialJITndTRHNiMzEtUG1jZw?oc=5"
+  },
+  {
+    "id": "news-1upk8ot",
+    "t": "2026-11-02T15:03:38",
+    "type": "news",
+    "auto": true,
+    "title": "NHL unveils all 32 jerseys for 2026-27 Hometown Remix promotion",
+    "body": "",
+    "src": "Daily Faceoff",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPdWhsdktTNE8wQTRuZlQwVFVtU053VmNEdG9VVUNVdXdNc0NCUWtuSDkzcDFPZnlqU09FajcxZ0tPRWc0TzhSNnplSnpVZDVsNzNFMDJqUW03NTRaalNURS1vOEhKekstdW85eFFfQnVET0JhWl9IZ0U0UEFwWFRRSFBKT0ZoVWVvVm1qT1B1UmdFZmQ2OEs0SktHX1RIeTd6R1NBdTRrQnZPODBxckg5RTdjWlpyU2FDWVFIUGZmbGpyZ0VMMzA2YWVIbGFCaDVpNWZNRWMxX2lGNWdkNFhUUzFEVkJhaFBGYUN3dF9rMmpFZ3pWQUpuVWpuRkR3NjFZS2FDcVlxcHB1aTJrSllxWENYRXVwVFZ3UEkwdDZXSGhkcmhUZ1BMcjVsS25ueDRWM0JtS1FjcGxWbzhuM2VjUktsT0NxZnlEcHY1WjE0MnZqQQ?oc=5"
   },
   {
     "id": "news-vusctv",
@@ -346,138 +478,6 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQVV2S1dqczJZNDNOUVlKeVNzWkRiaWh0SkdoYUszVmN1UzVLdGxYTHo0dzVMZHJJQVItWEwtM3F4aXMwb3RqT0c5ZkV2bXpsVlg2RHVndWNCNjFZNVdLNVI1ZWFxQ0ZnVE1wVl9EQkpocEhQZThiUVNCVW1nWWRLcXZjWVhSdFYzdGZnWVJGcGFwdkE?oc=5"
-  },
-  {
-    "id": "news-1cni9sw",
-    "t": "2026-11-01T09:00:00",
-    "type": "news",
-    "auto": true,
-    "title": "Carolina Hurricanes Game 16: Lines, Notes, Goalies, and How to Watch vs. Jets",
-    "body": "",
-    "src": "AOL.com",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPU0dLRXFhbm1rTzFCMDVYMGp5WDZPYUlvRG1HZkphUjdGYm1ncVQzSlhvbUNuWWJPbVpLY25Fam1RUl9IcW0wdk81ei1KZ3Nnc0pFQ0UyTmpNMFBBNVJQbldBTnp3TDdMUXRlbWpZTjFHMENBdjZvU3YtQ2Q0elZiU21jdw?oc=5"
-  },
-  {
-    "id": "news-rovrpg",
-    "t": "2026-11-01T02:58:00",
-    "type": "news",
-    "auto": true,
-    "title": "October provided no shortage of intrigue for the Hurricanes and their division foes",
-    "body": "",
-    "src": "Cardiac Cane",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPalQ5MTBVdnppZlYzMV9yd3RUSkc5MXdScDlGT0wzQk9sczV5ZFNxTUU5S21NT3YzdXB2WVFDaThUelJWeGtEaEp6X0RHa2VTSnBqZXRjS05OZ0lVT1lxbFlHa0JNTmY3NndIWXlFaVhmVWp3dmlleW4zWHNLVXpSTXhZZzFDYzVLdmxpUzd5QjJvZ2JKT0IzNVhrNHQ2Zw?oc=5"
-  },
-  {
-    "id": "news-1bsuqkz",
-    "t": "2026-11-01T01:39:00",
-    "type": "news",
-    "auto": true,
-    "title": "Calgary Flames NHL Line Combinations",
-    "body": "",
-    "src": "Daily Faceoff",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBEU3l4Z05BbUltRE1YdUw2THV3a0RnekhzaUIxNUlVSVIxY2JqSm9pQUZ0RlZkUVdxTml0Q2xJZkQzamhTLUVkbFMtZ0lHX3FtNVRfMGhRTDlCaC1FaUlRY1BwV1h5Tm5GUS1lWUpSSmJMU0prQzVF?oc=5"
-  },
-  {
-    "id": "news-8e5ir1",
-    "t": "2026-11-01T00:50:56",
-    "type": "news",
-    "auto": true,
-    "title": "November 1 \u2013 Game Notes vs. Winnipeg Jets",
-    "body": "",
-    "src": "CANES PR",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1oOGFvUVYzTFlMMkRhNXVsZUMzeGI2ZU9mVjNqdGRFUHJka01XRWhic0JWbXBXMmNpaXp5V2pwbkl1dzljSGQwaVVOYnNBcVlWaFFRUUs1Q0RrZjYzSmtFZTVKZGIzbTJNTmxVUFN6VWVJWG1rRzBoYWdB?oc=5"
-  },
-  {
-    "id": "news-1yw4fi1",
-    "t": "2026-10-31T23:53:00",
-    "type": "news",
-    "auto": true,
-    "title": "Columbus Blue Jackets NHL Line Combinations",
-    "body": "",
-    "src": "Daily Faceoff",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSXNzMGVSd3R6T3Y5NFctWFpIZnhUOF82TUpjdWF0QlhncUlLRjVvMEQ3c1pucm1xdDJYNlpvN3RMWWlvOU9FcTFKVTF3SjlFT0tZOEJweS1CakdnRzFvRlF0elVmZFp1Unl4LUozcXZyU09aOTlkdVlLMGkxQWlXeQ?oc=5"
-  },
-  {
-    "id": "news-b34da1",
-    "t": "2026-10-31T18:20:55",
-    "type": "news",
-    "auto": true,
-    "title": "Islanders\u2019 Emil Heineman ejected after hit on Oilers\u2019 Isaac Howard",
-    "body": "",
-    "src": "Daily Faceoff",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQXVNTkh5S3pBV042enNURlBvTTVOTnFPaVlFZlRVMFNQV1NjY1FGaV9TNjJnNGJwcmF1d0FUaHlvamdjYzdMRmFxdnpWOG9aYmpyaHRTOUE0QWY4NlZUaTUtYi1FTEdOZkZGUVV3MHRGTy13LW0tSXVGQzFxUWFrTF9GVHRvRHJrSGRQdVpJVFAyR1d1ckR5WTA3YVJza253bEl3VmVYWXZvSlI1OFFGV1p1NA?oc=5"
-  },
-  {
-    "id": "news-18f60e0",
-    "t": "2026-10-31T17:42:12",
-    "type": "news",
-    "auto": true,
-    "title": "6 numbers that paint the picture of the Hurricanes' season through the opening month",
-    "body": "",
-    "src": "Cardiac Cane",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVFdtNnZCVll1WXRDekZyam1ySUJtYWZpRWFDMTVGeTdYWFFEanNBZ2h4dUw0QmV3eGJoZ091dHlWdExSNW1ZQkZhV2syM2M0UlVJcEhkWFhxa3REcVhZMWh1QWpqQWVjXzBFNEJ0akdFSFdfZ2ljLU91N1Fpa25fWnN6VlhKSWEzSHgtNkQ3NjJuWG5CWVJEZzM4SQ?oc=5"
-  },
-  {
-    "id": "news-68u20u",
-    "t": "2026-10-31T16:37:00",
-    "type": "news",
-    "auto": true,
-    "title": "Boston Bruins NHL Line Combinations",
-    "body": "",
-    "src": "Daily Faceoff",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB1WTV2WEVJZVRsOExMZWNaM1lUSGctQ2R6dUpZYjNpc2FGLVQ2Z1VBamdBVm5WY1AwV1k4ekYwOUV0WnhPRi0xbkVyNTNpTkVqZWNiU2I5WGRwR25ScEMyU0lwX3RERVk1ai1iaXJycFVPQm1ZTHc?oc=5"
-  },
-  {
-    "id": "news-19v79qq",
-    "t": "2026-10-31T15:28:20",
-    "type": "news",
-    "auto": true,
-    "title": "The Daily: Sharks and Red Wings Talking Trade? Gibson is Tops on Penalty Shots",
-    "body": "",
-    "src": "Detroit Hockey Now",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBtaF9RWUxzOEdTb3JqMkQ2c19aaC1oQlFPbVozbXFVa09UQjBZekthdVRsOEdDeW5pb2xxWkJGX3A5NjRqQTNhczBhcVVFM1ZTV09HdGlDeVJjVWhpSVVhcUROZFIwWllIRmhaMGVNb3E3ajUtLXc?oc=5"
-  },
-  {
-    "id": "news-7xkuab",
-    "t": "2026-10-31T15:03:00",
-    "type": "news",
-    "auto": true,
-    "title": "Lightning's Extension Offer To Kucherov Revealed",
-    "body": "",
-    "src": "NHL Trade Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaUEyaWs3ak9WTlpmMFZFVGtSaXlPeXd3WnZSX0VkYkk2X1JZdXVsSl9jVWZPZlZDQW9fWEdqYlprcUJINGRhYzFqZlZzU3lzeWJPSklIUjU1U0lMb09GeXdhcWtSWDhma01KbzdRa1E2eWhiM1dldENLVWY2ZTc5YWNieF9YQjVk?oc=5"
-  },
-  {
-    "id": "news-dzyilr",
-    "t": "2026-10-31T13:53:44",
-    "type": "news",
-    "auto": true,
-    "title": "Everything you need to know about the Carolina Hurricanes' journey through November",
-    "body": "",
-    "src": "Cardiac Cane",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOXzFUbzRaWDlHamVqT2tnZkFiY0tSZlczTGljTTI2RmllbGhBRGVmaTlYSVNCbTVYM0tROWQ1cTdDdzVfeVVLdExVLVlRa3BJdEVybndBak4yendsLXgta0ZBWFB3Y1FuVUZPTk1VbE40d1hKN09WOXVQel91YmlDVmhmYWRBZi1lZnBVQ0lfSEEzZGxpV2RiOUc4d05wbXliYzhGMw?oc=5"
   },
   {
     "id": "auto-add-8482100-20261026",
