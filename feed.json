@@ -1,5 +1,29 @@
 [
   {
+    "id": "news-kd2dgv",
+    "t": "2026-11-11T01:44:00",
+    "type": "news",
+    "auto": true,
+    "title": "Hurricanes Embrace Finnish Culture Before NHL Global Series",
+    "body": "",
+    "src": "Heavy.com",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOFFOckQ4SnhBRkV2NFVwaHdTcF9uU21zRGZWSDQzU3VNQWt0QkNsdmFxbS1za1VTNUVsR3ViajJCT1ZOMzU4MzQwUHFKSXRUdEQ2bWVoMmh3UU9RN0NkaS14OWNXNjk1VkZEMGxpa2hjTFhSNG5CMy1qcFZVb0xmOWprWDVNeGxVSkNCRHFmdml0bWpHWkpfZ3Y4clJUeE1aaG42XzJvRHZvSkVvblE?oc=5"
+  },
+  {
+    "id": "news-9chzcx",
+    "t": "2026-11-11T00:00:00",
+    "type": "news",
+    "auto": true,
+    "title": "As a face of Finnish hockey and the Canes, Sebastian Aho leads the champs to Helsinki",
+    "body": "",
+    "src": "Cardiac Cane",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZVNpU0dKejNPR1NuVEhKdkNHZlVoZ3h3NFkyTzR4NnVMZElBQW02YVVsMGFVdWVsd01NWk84RlZTc2RKdGN4QzFLQnRPelhjMmNwbFlwRTd0NE5Od2loclhZaWpVeHMyaUU2anpJcVdxaXNrRUV3R2llUjM0SGdzdGhuRUx0Vkw3ai1UQnZFamVsbWl2QWVKdzRDYTREeGQ1ekE?oc=5"
+  },
+  {
     "id": "news-oydb0t",
     "t": "2026-11-10T22:28:59",
     "type": "news",
@@ -10,6 +34,42 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPR2ZXYmVOMFFtQTg3V1NSTlZvZ2tYS2h6aGcwbzctTGladXJOT3prZ1BMNWxRZ0htMmprWUpZUmhvZUhtRU5TNjNxWXQ2c19uaWY3LS1HQ2hYMDFla0tMTTlIVDN4QmY0eVhnQzZyUElwTXI4Y01QazB6WFFVc01RS3RUUkdnN0FKNHk2V0NVWWRBNy1oWi1oMFI4c0ZuZlVWcWMxOWg0dy1BQ05USjhqVkhNLVBsNEZI?oc=5"
+  },
+  {
+    "id": "news-1r98ck",
+    "t": "2026-11-10T21:47:00",
+    "type": "news",
+    "auto": true,
+    "title": "\u2018Nobody\u2019s using me\u2019: Capitals\u2019 Ovechkin speaks on planned protests over Putin support",
+    "body": "",
+    "src": "Daily Faceoff",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdmJjdUZfYmllSWhNLTZwRTkxODVwWG1xV3gzVDFRVzkwVGs1VG5xeEcxRmhrV1NiZV9wb2VIVm5oRkR5aUNZb3VhX0xfZUg5TW5RS2pPTGh6UzllaWtvd1J4MWZJcFkxYm9malVQcktnUlhPc180aHp4V2Rvalh1Y2lWanVsVVNpMUt5M3psRUhhU2F5LW9raWgzNTRzZ3ctcTJuTjA5d1NLVjhYMkU3RFlWT08yMml1ZmczZFoweDhpeVRwS0FfZDJ3?oc=5"
+  },
+  {
+    "id": "news-20r6xx",
+    "t": "2026-11-10T20:50:00",
+    "type": "trade",
+    "auto": true,
+    "title": "Penguins Trade Candidate Rickard Rakell Linked to 4 Landing Spots",
+    "body": "",
+    "src": "NHL Trade Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWTVjRXJHaWFTVnpPa3ZZU3E5UkhkeUI3bmtpS215dUtiYzlPdTVvbGRHSFc1S2VWbXpFdTFseHVCSXBQSGFzeWFzM3BKaTdwWWZXdjNFdG5UajlQencyckFNR0N1Mm5JNmlYOHZNNGJQNER1WkU2bmVvZjFJems3ZGZJaFNOblJWYkE?oc=5"
+  },
+  {
+    "id": "news-w2zc0e",
+    "t": "2026-11-10T17:49:00",
+    "type": "signing",
+    "auto": true,
+    "title": "Evander Kane's New Team Has Emerged, Signs One-Year Contract",
+    "body": "",
+    "src": "NHL Trade Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObmJmTHV0MWVxQlZxeEZMb1RLT183TGwzTTlqU0hLRjZWMnE4azRialg2b3Uyd19YWUVMbmROSWdBOEFlVHIwVG13NmtLUndjR0NlaTR4ZlZIU1I4eEZBMFloQnhHX0RLX1VfYVRhbk5JbzFwZjZnQ0ZyN2VMZ1hhXzhQdw?oc=5"
   },
   {
     "id": "news-1gcubxl",
@@ -36,6 +96,18 @@
     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQODBjTG90UVItc3F0eElfMXMzZVdIWGxRUkNNV25lNzBoUHBGRXNmdDVPa2pRNjNxajBKWUZSaURRWlVyWkxPbkFYOV92eFV0c1BmWUxBUmNEUEJsdWZfclBFRjd4cjR4d0VaREJYbGlrN0xEY0tlZTdxMXNWSmlIQk5HMVRjT0p0UlVmdURXYnl6bzRZWUVJSUdPZmlvME5rTHlpY1lsVmJ3OHhYb0doemNLRmdJdW9LUUNkV1N0UFpBRGw3Tl9KcHpRT0FLU1A5NkdBSVJFeFZXR1VLS0JKYXM0Y3V2cjRFb3E3c0JfellZQjdL?oc=5"
   },
   {
+    "id": "news-zj6yps",
+    "t": "2026-11-10T12:20:00",
+    "type": "news",
+    "auto": true,
+    "title": "Blackhawks Goalie Blasts Team After Shocking Roster Move",
+    "body": "",
+    "src": "NHL Trade Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPenFEOF9hcmhRQVN4WFktUGJTR09FdE1YRFUyTTRmajRzckNWeTVFUmVGRHBYSjd2NXB3MFpIVUpqd3FDWjFvalZVYmhMcV9naFliXzZNM09UUWxUZU1FRXBaWURaak12WlVIcEdlZ0VoUE9jVmFLMzZOS0lfcEZaQXMzR0FpSHpzQnBOZVJ2b2gxQWRnVkE?oc=5"
+  },
+  {
     "id": "news-ym6h9t",
     "t": "2026-11-10T12:01:44",
     "type": "news",
@@ -46,6 +118,18 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNV0gzR3hTYVJOZmcyZElzMjZoRElneDhiUFRrMVJYaVNxaXJoS2RuNllHSFVrWFp0OVNsLUNVS09Ed085cTItZmxFT014SEVyVjFxVWlIWDQ2UmFtZlZQRFI1NHlhdTRfajgzRFFSZ2Z2M1E3UUNDMEFsbjNXZ3hQelBjaC14TnBDOFBPb1pRa0JrejdFd0JNVjlfNWpfc05VQzN3?oc=5"
+  },
+  {
+    "id": "news-xdonmb",
+    "t": "2026-11-10T04:00:46",
+    "type": "news",
+    "auto": true,
+    "title": "The Adam Gold Show LIVE - 11/09/26 | Carolina Hurricanes | Carolina Panthers | Philip Rivers to NCSU",
+    "body": "",
+    "src": "99.9 The Fan",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE56SkpJbUxNR0xBNU5UdnR0cFI0ZGc2VW9udW1fSmt5UElZSFBKT2IzTE1rdUlOeklWTHdjWVZPekxrc1BKLWRraHQ2VzBiYkE?oc=5"
   },
   {
     "id": "news-iwz8dx",
@@ -312,6 +396,18 @@
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNDhnVVI2RUprUmVSbUU0U0QwZFdNOGh5blVmUll4WGVGY1AwMGNwMmpwcDdZR3pLTWNaWnFfaDFiZVRrMzZkeEgzdHl0UWxXSW1kdkM3RkNWeVk2a0QyUC1wcGtWMHNFbERZS213eEs5Yy1BWG5KVWY5SklqQ3kycWZIRWR4REZWRk1hQW9hLTJvbGVJVXc?oc=5"
   },
   {
+    "id": "news-geit2t",
+    "t": "2026-11-08T12:59:16",
+    "type": "news",
+    "auto": true,
+    "title": "Hurricanes\u2019 Sebastian Aho Reaches Multiple Milestones in Blackhawks Win",
+    "body": "",
+    "src": "Heavy.com",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUjRLb1B5QWM1X3ZtcjFGSEVieEE5NGxGU3NTbGRobW14WlB3NDFhSmUzUHd2RHQ5RWVWR3RaLWdfQUdXUG92Q0tfMWRoNm9HNmF6amtaZi1fLWV5Z2UwMm1rQ3l3U2ctVFZna1ZPOXQ0ODdmN0kyMkdqcFdvS3MwUkxfdjhxU25XTTd1RHZkUDFxVHI5eldWNXlQOE0?oc=5"
+  },
+  {
     "id": "news-15xda5j",
     "t": "2026-11-08T12:47:00",
     "type": "news",
@@ -382,102 +478,6 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaktFVEgxeEZqZElMaW5yLWF2Z2l4TGJfY1NITUtfa1U3WUFzVENwUEVyOG10b3FBVmQwSno2WVA2bW02c2RfZ1duMmFYLWVqZmd3U016dGRtaHR0UmRJaVY3Q3RnYXR4NGxhTnZXZHc3LW1kajUtRWhObWF6LUFOLUQyU3BtYjI1U19KSlB6aEZrYkVGTWVUV293VXVkcVJI?oc=5"
-  },
-  {
-    "id": "news-969acl",
-    "t": "2026-11-08T02:43:00",
-    "type": "news",
-    "auto": true,
-    "title": "Vancouver Canucks NHL Line Combinations",
-    "body": "",
-    "src": "Daily Faceoff",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ON2dXcERoOS1QZDN2Z2txcC1XOTZaQ3RxeWY0S3lvWWZwTTBtLUVvRG9iVjZ5V20tNkRqSnkzZkRYbldmdnNEcENaaFhId0hlOHFzZk45ZnhlOE4zQUVzOFp2bFZOenhHZGpMQnNoVzNySnBDXzNkWVdVOA?oc=5"
-  },
-  {
-    "id": "news-gmflv4",
-    "t": "2026-11-08T02:41:00",
-    "type": "news",
-    "auto": true,
-    "title": "Edmonton Oilers NHL Line Combinations",
-    "body": "",
-    "src": "Daily Faceoff",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE94aGNZeWNjSU9oV1hyQklGUmIwVS1NcVQ3b2s3aFR2eHlCUXplMDJvdU1HU3JBVExUWWVFcjFFS0tvNTZ3Z0p1aDFYME5qNDcyWDlsSmJmdEwtd0RnT2V4bVJMQm1OenFDd0FuUmg1OWM4M3NINThJeg?oc=5"
-  },
-  {
-    "id": "news-qkzbgd",
-    "t": "2026-11-07T23:46:00",
-    "type": "news",
-    "auto": true,
-    "title": "Toronto Maple Leafs NHL Line Combinations",
-    "body": "",
-    "src": "Daily Faceoff",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBsVVlqNVpLWG40Tl9Ma3RqWUFEZDN5ZkNJRVA3bEl2MTRsVHYtM2lVZ1hINEJZWmxkaFREUDZ0M0tCVXMyNjZpaExKNldkRmlQM1YwQURlVU1oVVVVNURsUDFOQTlhbk5aVmstVG9pYVd6cTVrRjhOQk9Md2Y0Zw?oc=5"
-  },
-  {
-    "id": "news-17xzwow",
-    "t": "2026-11-07T22:59:00",
-    "type": "news",
-    "auto": true,
-    "title": "Report: Red Wings Prepared To Test The Resolve Of Edvinsson",
-    "body": "",
-    "src": "NHL Trade Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRVlHSzI2U2xzSFZMZ1pmRGJ3SjlVZ2I2bWhaSThIUHFvWXVEMEJldzAyOS1ISmF5dVhCMk5paUNZbEE5ckdOejNpd3diZVJpazVVbmRwUnVNRUJydVZ2c1hKbEJQMjVwT2N0WFhPVXlXc0N2Skp3NmFyQzV4UHVhcl9n?oc=5"
-  },
-  {
-    "id": "news-sy3r0q",
-    "t": "2026-11-07T19:29:29",
-    "type": "news",
-    "auto": true,
-    "title": "Carolina Hurricanes Dealt Positive Alexander Nikishin News Before Blackhawks Game",
-    "body": "",
-    "src": "Yahoo Sports",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQkZEcVZFRnRGSUc5WHpfMXpFT295S2QzTVRYV2ZfcEZqRkEtaGhlRzVIVEhYUk5BaTdtaC1kSjM1ZHRpS2I4U0N2dDRpN2JJM1ZQcGgtX0ExcVB3bEJrejR4UWxDeUZQNHhQdlZ4N3dNSlNQRHpobTNlTC1DQ0JfRXZnWGIzZUhHakEySlQ2cGg4REEtU084Sw?oc=5"
-  },
-  {
-    "id": "news-1rycn8n",
-    "t": "2026-11-07T18:28:21",
-    "type": "news",
-    "auto": true,
-    "title": "Metropolitan Notes: Barzal, Maccelli, Monahan, Voronkov, Nikishin, Staal",
-    "body": "",
-    "src": "Pro Hockey Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbGN5ZUxlX1JlNDFwUXNmMHJjNU5UWFY1VzlGcERVWWdGeklEbHdaZHFGdDRTLW5XUlMzYmlmNGE4Wk1FZ1JBWjhRTXBHUC1nTjVFUjluV0R5NnU4Y2l1NUxpTVo1dnp0YzZicUM4d0phMXh5MUxhTVZiQWVIb2E5RmQ3NHB4YTFkMVM4cktlQzNvYjZaVUtKb3dLUk92YjVjMmdpWlJDU29FUnduRmxYYw?oc=5"
-  },
-  {
-    "id": "news-pbq6to",
-    "t": "2026-11-07T17:49:26",
-    "type": "news",
-    "auto": true,
-    "title": "Hurricanes Get Blunt Jesperi Kotkaniemi Claim Amid Trade Market Talk",
-    "body": "",
-    "src": "Heavy.com",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYzE5elpkS1I1a3ZISzFzMUlMeHZwM3d4RGVGRHROTjVOMUs1YmdxZmM0OEkwVm1tOThCbmQxc09sTGoyWlhXeW0xTTJ5Mml0SW1nS2ozSmNuMVBDVXhLVHcwNk9DTlFKLWEwa0pGVjlhWmc4c05ocjV3WHhmMjlWdTV3V0J4RG5GVGJ6UlBFTG9xZXlRVGV1bE1UcVRHWkpqZHNsQnB2OVowWC1tdlE?oc=5"
-  },
-  {
-    "id": "news-3mvoig",
-    "t": "2026-11-07T17:38:00",
-    "type": "news",
-    "auto": true,
-    "title": "St Louis Blues NHL Line Combinations",
-    "body": "",
-    "src": "Daily Faceoff",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE91V25qc1NVODJuQy16cmF4MTFTNUQ3aHpQNjIzUkw1NW9FU1p6Mld2dXljX0lYelJVTkZzQmktMUs3NmFSRVRNVlNCOUlJWmo1NTFFcmRzV2YzZ1RCS2JnLVo1UExwWDk4aEU1T2Rocld3bk41ejd3?oc=5"
   },
   {
     "id": "auto-add-8482100-20261026",
