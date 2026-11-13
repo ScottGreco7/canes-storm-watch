@@ -1,5 +1,101 @@
 [
   {
+    "id": "news-envued",
+    "t": "2026-11-13T20:40:00",
+    "type": "news",
+    "auto": true,
+    "title": "Friday Four: How Hurricanes have become a model franchise",
+    "body": "",
+    "src": "Sportsnet.ca",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOc1JJZFBJa1ktMTNpdjVoSlBKMmVtTjJTNjdFM2xsWlhQUkwxdWFIQUVBT3FsTlNmUEpOUmlia3dlaktLY1gyQzZ5NnN1SlBjTWdkRGFtNk9TMWxGcmRIMVNudTJOQ3VXQzNJTmMxV3N2WHlTUGJKS3g1SkcxaFh6a0VUU2VVd0lqSDk0ZEtUaWZ6WVNBVlBCWVh4VQ?oc=5"
+  },
+  {
+    "id": "news-1lytkxs",
+    "t": "2026-11-13T20:07:28",
+    "type": "news",
+    "auto": true,
+    "title": "New serious suitor emerges for Erik Karlsson in potential blockbuster trade",
+    "body": "",
+    "src": "Yahoo Sports",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVThRNW83U01NLXFiNjM2aXRHVlZHS3lIbE9ITW85dmdxSHdBTENVU3E3aDZ2YnBnSWlQbExlNGotV25mM3M3aUZoQ3dOdDliVWd2Z3FxZjRGM1VYbEhvX0hDQWdRcHNjLUlJSUpPTkl3cC1JazRmb25IZzNPS3pfbDhVZWkyM0VRblhyUmdR?oc=5"
+  },
+  {
+    "id": "news-vjdxbt",
+    "t": "2026-11-13T19:27:00",
+    "type": "news",
+    "auto": true,
+    "title": "San Jose Sharks NHL Line Combinations",
+    "body": "",
+    "src": "Daily Faceoff",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9WWUhlM3ZfRW5SRkt6aDhvRTFpVHh3dnAzUmR1QUNwLUZ1TTJVSW51dF9NR1JUbVpEVmJpbUFkNjFDYTR2RnRCbzlIY2MzUjh2WHgwS2ZuZnM4anVqZ0hFQ3NVQ0I5ZnhINGZENzdZYUN5NXNTcnhIVQ?oc=5"
+  },
+  {
+    "id": "news-12cfbv5",
+    "t": "2026-11-13T19:25:00",
+    "type": "news",
+    "auto": true,
+    "title": "Anaheim Ducks NHL Line Combinations",
+    "body": "",
+    "src": "Daily Faceoff",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1UY0tTaU9BR1YwZHN3bC1lNV9ValJJTjNpTVgwd0FWVnZqMDJwUDRib0lrbjFsY1U5cFh4TGtucXloY2U3dzVVeFVwN1hybm1SanVmR2d4UG1nbVBLYVFHM0xnMDJFVXg0MUxGOWlDeUxlRTI1NVE?oc=5"
+  },
+  {
+    "id": "news-1imf7t0",
+    "t": "2026-11-13T19:01:19",
+    "type": "rumor",
+    "auto": true,
+    "title": "Luke Kunin Garnering Free Agent Interest",
+    "body": "",
+    "src": "Pro Hockey Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbkFqSGR4UW5LVjRnamd0aTlPT0tGb1htcy1iNEFPOGQwUGFmYVRnb09DRWhaeHZoX3g1YVo2ZlFDTm1ZWmNXWTBRMENib0twZnZ3eDhCcHExRGh4clZDQ0p4RkFaQ1R6cUZfU2s3U2Z6N2gwejE0UFBFTndSbmg1bm9rcEJlRkRFSS0wWjZ3?oc=5"
+  },
+  {
+    "id": "news-gmflv4",
+    "t": "2026-11-13T16:59:00",
+    "type": "news",
+    "auto": true,
+    "title": "Edmonton Oilers NHL Line Combinations",
+    "body": "",
+    "src": "Daily Faceoff",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE94aGNZeWNjSU9oV1hyQklGUmIwVS1NcVQ3b2s3aFR2eHlCUXplMDJvdU1HU3JBVExUWWVFcjFFS0tvNTZ3Z0p1aDFYME5qNDcyWDlsSmJmdEwtd0RnT2V4bVJMQm1OenFDd0FuUmg1OWM4M3NINThJeg?oc=5"
+  },
+  {
+    "id": "news-1c0z4fv",
+    "t": "2026-11-13T16:56:00",
+    "type": "rumor",
+    "auto": true,
+    "title": "Hurricanes likely interested if Penguins make Karlsson available",
+    "body": "",
+    "src": "TSN",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYUVKNE5CRERKczFxeFVGSlU0d3YtLXZZVTV6ZTZUM0pyMFBYd3VmZzBmWXZzZW9kQ1BRcmU0cEJzNlZxOTZITjdBS0s3dFF3bDV6NVlZQnN0LTRncDl3Vi0wOHBoYVBoZmNnbGJGQ1BzOURXSERQLXpxS1oyQzNLOHhORl9abUtCVzIxSEV6WEJxbWNGcS04cjBGMDg?oc=5"
+  },
+  {
+    "id": "news-udxueq",
+    "t": "2026-11-13T16:49:35",
+    "type": "news",
+    "auto": true,
+    "title": "Avalanche Recall Gavin Brindley",
+    "body": "",
+    "src": "Pro Hockey Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNkNlcGZ6MTBMS0Y2LVdOYTFleWkzZW15OEpycXB2UDhwU04xMTVoRXo5M2Rvc0FDUEFVNk9mTE53aEdSU0JUbVhwOXlscWdnOXEzR21xWXhoX3N5TnVHOHltN084LUVqUzI1R0h5c05DOVUxc1QxUUlPaFlQZy1zQkR2REo?oc=5"
+  },
+  {
     "id": "news-96jchr",
     "t": "2026-11-13T16:21:34",
     "type": "news",
@@ -48,6 +144,18 @@
     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOc1JJZFBJa1ktMTNpdjVoSlBKMmVtTjJTNjdFM2xsWlhQUkwxdWFIQUVBT3FsTlNmUEpOUmlia3dlaktLY1gyQzZ5NnN1SlBjTWdkRGFtNk9TMWxGcmRIMVNudTJOQ3VXQzNJTmMxV3N2WHlTUGJKS3g1SkcxaFh6a0VUU2VVd0lqSDk0ZEtUaWZ6WVNBVlBCWVh4VQ?oc=5"
   },
   {
+    "id": "news-wisb3h",
+    "t": "2026-11-13T15:22:00",
+    "type": "news",
+    "auto": true,
+    "title": "'A Very Ominous Sign' For Maple Leafs' Chris Tanev",
+    "body": "",
+    "src": "NHL Trade Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTHpzVExpd1JweWpNb19UUVRaOFJKa3pPSUdWTlA0S1Jxdm83LVBSUllqUXdVYm9qYzBQb1VZNExQMWVOR0tBcFJsQnZ5QS02dE5EUS0zbFR1LXJTX3pQY0tiMXV2dkYxelI3VktxQ3Z4WE1iTmQ1c1FlNEREaF9MQTJjSkk?oc=5"
+  },
+  {
     "id": "news-40176l",
     "t": "2026-11-13T14:03:00",
     "type": "rumor",
@@ -60,6 +168,18 @@
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcllzeE4xeVhSU2ZPSG9lRzJ4NDF2UUw2bjhTc3FiT2hHR3FTbklVeHF3aEpldjFvSEhpbkgzaVFMck94UFA1enR2MmNCeUVqUWJPRjVvZkhVUUVLRE5TQnBEeG9keXNTUGltclluaFZiVXVEdjFmYkZuX3E0YWpiWQ?oc=5"
   },
   {
+    "id": "news-2xgm12",
+    "t": "2026-11-13T13:35:39",
+    "type": "news",
+    "auto": true,
+    "title": "Report: Hurricanes could have interest in Erik Karlsson",
+    "body": "",
+    "src": "Yahoo Sports",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPelZfMUpvNHNUckRaLU8xTGlnSVp3aGRHUjlDTTZIem5SZDJWZS1iYUlSZ0dUeU9RLU93WnRfZUZQbVlpX2NfY3RuMHdvNWJkMHcwUVlRQVZrQU1FQU1CNGNtRm1vVFBwZ0pWWWM4RUUxYkdIVXNGX1p2aTBBS1RZRkI0eHZRa0pGR0pyZFNVSQ?oc=5"
+  },
+  {
     "id": "news-1tvejxa",
     "t": "2026-11-13T12:48:01",
     "type": "rumor",
@@ -70,6 +190,18 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRDJLU2NnOUtjdWJnT0V5b20yajVKZzFxYS1XZldiNFBLalhFcXJjLUM4aEdqM1dDdWRLdGhVRXVXMmxHSXBiSEFabE1DVmNrTE5DcW95TWhCd2hxOHphYU5CMkloRTdMcGRCT3JNa2lkQVUyVFZOaURscmNEeXdFdkdtcVNNaHVadmZ3RGE4QkRUQkVXV2hadzZFSmN5angzS1hfNGMyczhZZUE?oc=5"
+  },
+  {
+    "id": "news-cc88d5",
+    "t": "2026-11-13T12:48:00",
+    "type": "rumor",
+    "auto": true,
+    "title": "Report: Capitals Closing In On Ivan Miroshnichenko Trade",
+    "body": "",
+    "src": "NHL Trade Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONFFObHFQQVUwNk02UjlGNDV4aXFKLWdCQ2c4RmdpQThGS2ZtaEVjY0hiOWJkNHJMQjdUd0JtZXAtMm50aEV0UG5aVmN0bFpodjVQMlhSM1NSMS1tUnNycml6S09ueXNKSWNfejU5R1VGbUdnX0hST3NRekFaajBxZUdIMzBBZHdreVNKYQ?oc=5"
   },
   {
     "id": "news-1u4vauk",
@@ -346,138 +478,6 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPR0ZoTmlPZFRMSDV4clFyVUZGUjRKTnBEb3loakNYVkdVNTFITWdfTzNqVVk4QmY4SVZLd0JtajlqY19MelVXenlNc3VCUVlTREtsd01vZ2hVTzNvSUpWREc1a0F2ZkJhRlJEaDg5Q2YyNV9uLXhycmVIdFVjckd4TEthOUQ0QVhXSklHN3ZPcnlsd1NZWmVIeFg1ZkZkOTgweEE?oc=5"
-  },
-  {
-    "id": "news-1p7xjuk",
-    "t": "2026-11-12T13:41:01",
-    "type": "news",
-    "auto": true,
-    "title": "Aho, Hurricanes bring the storm to Helsinki for the start of the NHL Global Series",
-    "body": "",
-    "src": "Cardiac Cane",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcWhpeDJjSUxUN1lfNjR1LXZtVHZ4cDJaMUpnXy1PWDlyd3BaTE9MVko2UWNfREtRLWFQNDdtbzh6M1I3UEhYemVYTU1DOFRtSnhPMlR5SmlBV0NIY0lsckFHZnJYMkprM01FSjVMVTF5dGJfRVdFTFFNalNjVmRFUHhfYjR0dE45dGJQQ2plQzdDb25YaXoteg?oc=5"
-  },
-  {
-    "id": "news-lbgmj5",
-    "t": "2026-11-12T13:26:00",
-    "type": "news",
-    "auto": true,
-    "title": "Red Wings Considering Significant Trade Offer For Dylan Larkin",
-    "body": "",
-    "src": "NHL Trade Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbVpqMnRlaWlLZlFrbHlIWnUxcUZQNVMtODZRMUdnTWliM1BvRFEzTWRUbmY0UGNibTh4YTVNVDAwb3ZzdHpZekk0b2VmMXd4M1h1azZZTGl0UUFwZUphNUFwWVZQY2ZJdlhvVFhCcGJhUF9sQ3c4a1dkRzdYLVo2akRnQ1F0clRkSVE?oc=5"
-  },
-  {
-    "id": "news-ol3m3p",
-    "t": "2026-11-12T13:12:01",
-    "type": "news",
-    "auto": true,
-    "title": "Hurricanes, Capitals, and Utah\u2019s reported untouchables emerge in potential Dylan Larkin trade",
-    "body": "",
-    "src": "Bolavip US",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaG9tX2dKTTU3V1ZzLWxpVlotYkxtRUd6MTRQR21oUHlybFdDRW1TMjUzOEx5N3duaDRKelExRE95TnlUcTQzZGk4ZUdaUGJVbmRBRVBKRml5RFFZd2RuTTV2cVNhM05DWFMta0ZackFqX25GVTlMN210aUVJQ2kwd2lxT3BUN1p0YkJZQnlYNGN0RjM5UTNZMVBUVHJtem9BV2kxamZ5VU10Vk1EWi0zT1JhSnAxNlJw0gG-AUFVX3lxTE9OOW94dDJaZXZjcnhIVU80cDdaeHliQ2FmdDdxaER5aXZWdlpIaEtlYWtFVEgtOHlBbnRMSmRfVjgzV3Nic1RZVmpqdWY5MUw0dTJQaEotSG1yOERTY1dqcmh5aVkzeS1mVW1qOWIzekpEVmQ4WnZMYURUV1hBN28yU3hCYXhRajdXcDk0YUJkXzhXZnkwTm51Y2FaaGlwQ19WMVNZSTFMMGtUTTlTYmIxSW5pMDItV3ExcDJUX0E?oc=5"
-  },
-  {
-    "id": "news-1u7677t",
-    "t": "2026-11-12T12:46:00",
-    "type": "trade",
-    "auto": true,
-    "title": "Bruins Could Make Huge Trade With Leafs\u2019 1st-Rounder",
-    "body": "",
-    "src": "NHL Trade Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObzlTRmxqVEh5bWlialdZczRLNjZ1ZHRwTHJKcEduY2RBS3JBeG9wYmJPbDZoMWhaWlFjNUdRSUZOQ3NEb3dld2M2elhKUnljMWlISnJWa0NuWVRhUEtVRUJ4TXVscG9XNTBEenVmTTFjTmM5SGpVcFJyRGM2Q3JyMWZPWEFyMFNhUHc?oc=5"
-  },
-  {
-    "id": "news-1er8az5",
-    "t": "2026-11-12T12:19:00",
-    "type": "news",
-    "auto": true,
-    "title": "Report: Maple Leafs\u2019 Major Trade Plans Hit A Roadblock",
-    "body": "",
-    "src": "NHL Trade Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSVlhbmJ5Q3h2eUFKME9Ua3RyUUJLMy1rQ1JTVlJ4eGdIbUViYW53SndqMzc0VWY2REktZWlCU0hta01yak9fYXJhQ0xlUGZnOHNxZEtpSWVqNThCMkUzYm9WVXpWbExBbVNTd05RSUZBT3lSRkZzbG5CX3lKMXlUY0kydzN5UjFB?oc=5"
-  },
-  {
-    "id": "news-1shc6m1",
-    "t": "2026-11-12T11:23:35",
-    "type": "news",
-    "auto": true,
-    "title": "Mammoth\u2019s Dylan Guenther, Logan Cooley Out",
-    "body": "",
-    "src": "Pro Hockey Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOY1ZrWXRDSnlnVFM0MmlsTXJMaTdVbUxuUGZMSVRvZzlmMHBRaXNVRTBzWFA3cHZzY0FuUmdfRmVZMTNhRGRWSDN3SklUZkZYd3Zzc1V6d2k1TVlvN01TSl80dlUwSDVCNVJaSjVrY3plOHhBaGlhZDJVbHNTamNvVE12UmdDT0ZYR2pDRTdB?oc=5"
-  },
-  {
-    "id": "news-b4rag8",
-    "t": "2026-11-12T02:39:00",
-    "type": "news",
-    "auto": true,
-    "title": "Nashville Predators NHL Line Combinations",
-    "body": "",
-    "src": "Daily Faceoff",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4waGxkTW82QzVFY1cwTkRvby1GVXpoZGFuSEdycHNTaVljVnpFQ2EwYW5RSDZtWEU4R3NRZy1qOGJHYzRVNjF0eXdMQUcyc21KWlhHek1tVnJwWjZEeVRUZkwyTUVVMzFwdVM2WjUyX1VCcmlRNTlmRHV4bENBdw?oc=5"
-  },
-  {
-    "id": "news-1bilbmv",
-    "t": "2026-11-12T02:19:00",
-    "type": "news",
-    "auto": true,
-    "title": "Vegas Golden Knights NHL Line Combinations",
-    "body": "",
-    "src": "Daily Faceoff",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAxTWw1OGdVLXJHeURMc19LUlpBTURYTWJ3cTQzSWo5cHVnWEM2QTh5OFFHZkYwS3hoVXk1dWI1MzhLYnFnRFZQVHB5UHR5YWFScWxrS0cyWHBpTkt2Vlh1UG03eUJjaVBSbS1lUGxQdXFzVHdEYzU3SHU4OGVzMTA?oc=5"
-  },
-  {
-    "id": "news-10mgvx",
-    "t": "2026-11-12T01:59:45",
-    "type": "news",
-    "auto": true,
-    "title": "The Drive with Tim Donnelly LIVE - 11/11/26 | Carolina Hurricanes | Carolina Panthers | ACC",
-    "body": "",
-    "src": "99.9 The Fan",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBXaGYyNFJ2T2NWaXZiMHp2NVRXTlVERTBCN2xvTlU3QngxN3VMZE4wb0VXQU1CSk96TXJ0dmVtWGtlWGpQMFJXQ1d2cFJxV0U?oc=5"
-  },
-  {
-    "id": "news-3mvoig",
-    "t": "2026-11-12T01:56:00",
-    "type": "news",
-    "auto": true,
-    "title": "St Louis Blues NHL Line Combinations",
-    "body": "",
-    "src": "Daily Faceoff",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE91V25qc1NVODJuQy16cmF4MTFTNUQ3aHpQNjIzUkw1NW9FU1p6Mld2dXljX0lYelJVTkZzQmktMUs3NmFSRVRNVlNCOUlJWmo1NTFFcmRzV2YzZ1RCS2JnLVo1UExwWDk4aEU1T2Rocld3bk41ejd3?oc=5"
-  },
-  {
-    "id": "news-2rt0cy",
-    "t": "2026-11-12T01:55:00",
-    "type": "news",
-    "auto": true,
-    "title": "Dallas Stars NHL Line Combinations",
-    "body": "",
-    "src": "Daily Faceoff",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1CbWlYNldtYUtHS1FzMS1LVXd3VnZDZVZfaUQteVVUY2dEUEdSR2g0WkhQMDRHQ3dpTk9lcXNGZVlrRm1GYlBnVXFnZDVDTkhxandOUVZORlByNV9id3ozN2l6Y1hNa0V6M1lieFlGelFnekJj?oc=5"
   },
   {
     "id": "auto-add-8482100-20261026",
