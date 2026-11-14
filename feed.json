@@ -1,5 +1,29 @@
 [
   {
+    "id": "news-1hef2vo",
+    "t": "2026-11-14T19:03:11",
+    "type": "news",
+    "auto": true,
+    "title": "Two NHL players placed on waivers for Nov. 14",
+    "body": "",
+    "src": "Daily Faceoff",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWGlYQ3FmVE82VWtTaldtdE1JdHRma0x3WjA1ZXNHRnJOZ2dTZmloRTVKc0dhMFJubEdYOU1qZy1pcFJYWFk4RHdrbVY0YzVoeHlSc0JMalJJUHJ3bHRfN0FJaDJwYU1lOVl3eTNIV1JLZ2Z1OFpCdFRjUkozQ3YxMkt6RHBRSWZUT25VZzRtOWVUSG84TVpHYVRZWWQzbnVCc0lTN05WbjZFTVlVb0I3dXQyZXZnNWxkWHZ1VGRraGlMbkM4eWVwWDc4Z3JhRkhQa0ZMX2lQbw?oc=5"
+  },
+  {
+    "id": "news-lsqcqk",
+    "t": "2026-11-14T16:58:54",
+    "type": "news",
+    "auto": true,
+    "title": "Hurricanes Place Veteran Defenseman On Waivers",
+    "body": "",
+    "src": "The Hockey News",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVndKLUdsZms0bmI4ZWJjRG1leG9VR1A3cTVJLVQ4LTN1emEtNEtWeTlKdXUzX1VuSzRaT1J1R2UtS2I4RndwMXFkZkNDYVpSb25hUVd1bGZOdU9oOUVDel9NbGVLYktETU8zSlgyMWdwVXVBTG1kZVdPelJSSHpkN2F5OE5tTU9BaXVzemlIMm1LNGJOZ2pILVpCbERSeUJUb1M3RzZNNlgtWXd1?oc=5"
+  },
+  {
     "id": "auto-rem-8476422-20261114",
     "t": "2026-11-14T16:48:04",
     "type": "roster",
@@ -10,6 +34,30 @@
     "players": [
       "Mike Reilly"
     ]
+  },
+  {
+    "id": "news-ql3tgi",
+    "t": "2026-11-14T16:37:55",
+    "type": "news",
+    "auto": true,
+    "title": "Stars Make Three Roster Moves",
+    "body": "",
+    "src": "Pro Hockey Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51ci1qQXlXR1Y0RDU5c0g1NUdOY2g2OFBfb3ljcWgtdGFZck95MHRPRkd3Skt6dU8zTjFBaENHMFMyMHhwZ0V1cy1VNV9hRExvb19jTU1CQnItbXNtTUE1eDdCTUU2b0RsU0FMdDg5TXh6VVZMdHA2b05yTUFrMFE?oc=5"
+  },
+  {
+    "id": "news-z7aqwc",
+    "t": "2026-11-14T15:34:36",
+    "type": "news",
+    "auto": true,
+    "title": "Hurricanes Activate Jordan Staal, Place Mike Reilly On Waivers",
+    "body": "",
+    "src": "Pro Hockey Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPY3A4YWlicE0yalROLVV2eXJSeFlvalNlTGItOXVOdGc1Z2dxNHdNZUJnX01KY0hKRGJkOU9qUlNyWjIyQzM1N3A2NXQxbllaajUxVkJZR2ZqRGpUWXl1eU10Z0d6S0FvRWhDanJtcnh5OHpJcVBJVmlpdnN6aFRrNDhHU2tENzFYcGNoYnF1UE9kZVZiSnYxY2lwV1J0WmJNQW43VTEzWUNzdw?oc=5"
   },
   {
     "id": "news-1217ct",
@@ -58,6 +106,18 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPS0ZCNTJnWmFJQ0puYlAxcXROTzg3TG9TMjVkWVBMZ0M1U3ZHVEhZRGNZczR5aWo5aS1EUTczTG41T0t2b1Q4Zms0Z1ppWk1aSGxUdDZoem8yMXZlYlRLTGctRlNnTXR1Vl85X3E3bVNSNzBFaGxURjlQaTlqZC1KZDJqR1JSbWlBcWlaRktrcHBHUTQ1NGJQVkpzbGtLMTRWU0U3eU9mN0ZyeTc2Vld1Ry13S0VHTnh3UVFlQWZmcUowM3dTT0w2Z05VQ3hkYTB0OVlB?oc=5"
+  },
+  {
+    "id": "news-2a5n83",
+    "t": "2026-11-14T13:14:45",
+    "type": "news",
+    "auto": true,
+    "title": "The Hurricanes wrap the Global Series on Saturday, looking for the Finland sweep",
+    "body": "",
+    "src": "Cardiac Cane",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQ2ZTUnZRcURHN1J3MHotaFlkRFpfbDY2eVk0MGxsSkoxZXRlelhVRUc2dHpJVndjdUx1bkVCNkhjVmFiUW9ucmtqMkx5Z191WUFtY1ZXRS1uLXhlRHNJSTB5Z0dvbjdvc0RNSmpyUGNhQUxQWnJraFNhM2VrRTVUS19PY3l1b2pFRXVDWFViYkdRN04wSk40?oc=5"
   },
   {
     "id": "news-woghvl",
@@ -118,6 +178,18 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNnB5OU82Q3B6WVhaYW9FdDYxS0NXOFFWandON1F3N0tnaTdXWU5IYmVXMW1XY0ZKWW9sMU0wd2JSTG5RMXQtR2NNekk0NmRhbHhTN0NsVkxWb2FTTU5jaGlkX1ZGTmJiZTd2TGVoWi1FLXlIRFQybDB2WVFoTmxKZjA4Ml8?oc=5"
+  },
+  {
+    "id": "news-1eaqlb4",
+    "t": "2026-11-13T23:00:10",
+    "type": "news",
+    "auto": true,
+    "title": "The Darnell Nurse Trade Is A Disaster For The Sharks",
+    "body": "",
+    "src": "Pro Hockey Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPT2llSmd1WUI5V29STnpjZWVoNlppR2xrMTRpUnhnVERFT0d3QW1QbWQ0bG9DR3BmZmFDVVBCVXpPVXRlVzE1YkVZXzNWOEtrdFBRelpsdjNSQUlSZGRzSDA4Q1drTWl2UHg0UVF3OU5UcmQtX0IxTmdocGk2bjhCclRjbTd1RjdhTjVlaTVzMThsS1ZMY0dUbW5Dc2JRUQ?oc=5"
   },
   {
     "id": "news-envued",
@@ -418,78 +490,6 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZWxmNll4RWxXUWxXY3ByZWlvT2ktUlZnUkFpaHdQMEc2TE9La1FPZ0pVTXlZaWdFRXRSa1FUUDhBNHpqcUJ0bWtPOUJ3Z083YjRiTVdIMnRhRlhVY25OakRWMjlSMG9UWFY5bE1Qd1NyelF6TGF3ekp5RkcyNWhCaUJmeXlLdlp6OUd4VGhmUXhZMlJMNnFGcWU3eG5hTzVE?oc=5"
-  },
-  {
-    "id": "news-dit5if",
-    "t": "2026-11-12T23:46:36",
-    "type": "news",
-    "auto": true,
-    "title": "Insider Trading: Leafs looking to upgrade defence as they continue to load manage Tanev",
-    "body": "",
-    "src": "TSN",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdGVLdVhWNnRrWkRqemdqUE5jTWFJRkF6dGotRXM5UWwxdDhGb1UwaVhZMmZEb2JYbHdfeWhZMHFsbnB1b21VVUluMEJQamtmMk5MSXk0TjM2d0FmWXJOT0Q0Q3FNQ29kQnFfUk1FLUJwQzE4OUZxcEV2ejJ0WjBoN21KdW50ZHZQRlJMbHNxVUhNNTN3Z3B1NW94LW5PZjVZeDVxQkhlYkV6XzllQ3gxcHhqZVV1czNSQ1E?oc=5"
-  },
-  {
-    "id": "news-70yn5r",
-    "t": "2026-11-12T22:00:05",
-    "type": "news",
-    "auto": true,
-    "title": "Islanders Activate Matias Maccelli",
-    "body": "",
-    "src": "Pro Hockey Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRl9INVJOcGRuLURoX09teUFSRWZDLVdxemFMdUVGazNlUXY4OFBYTkNOWGVDdzFvbTV5WHJRbE1jaUY3MjZPVWdjSWdqWE56bF84RjlGTjFUcmRtLU9tVl9ZVWFqZVNuZTVMUzZPZExvc2Z2UjNWdk0zcWVKd3NtVjFyMnV2dw?oc=5"
-  },
-  {
-    "id": "news-1rqt20l",
-    "t": "2026-11-12T21:57:00",
-    "type": "news",
-    "auto": true,
-    "title": "Michkov Saga Fires Up Again After Ex-Agent's Bombshell Claims",
-    "body": "",
-    "src": "NHL Trade Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOS1I2V1BOMnNMbVY3THRRZW5fc0VxVThndURGT1hsbW5mN2pPaFRlV1pkWGZIX3poRkdpR083SjY2eUp0a0p1Um9BcEs5X2RiMXl3WE55LWNtbHhUS0FnWVJlYngtZ2NYSWQ1Z3RMYndMY0NPOHdvNlBkUW9JWW1NWUctSXZ4dw?oc=5"
-  },
-  {
-    "id": "news-1txp5uc",
-    "t": "2026-11-12T21:37:00",
-    "type": "rumor",
-    "auto": true,
-    "title": "Report: Frontrunner Emerging For Erik Karlsson With 'Ton Of Interest'",
-    "body": "",
-    "src": "NHL Trade Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNExoblZhWjB0VWpXUEd6MkFSLWZLNHpmLUF1YkNSbUc1SHdQcDRSalVBMXZwbkdjQnBmcGJjd3o1OHktMkNzM3dTNzA5NHRzbFBIVFJiNkFVRHNXTXZoNXZiYWhvVlczc3pBTHBuMmgwaGJEVHFTVC1JS3FtaWJUc1I1ak1hUQ?oc=5"
-  },
-  {
-    "id": "news-1fkr3x2",
-    "t": "2026-11-12T21:30:41",
-    "type": "news",
-    "auto": true,
-    "title": "NHL rumors: Hurricanes renew interest in Penguins\u2019 Erik Karlsson",
-    "body": "",
-    "src": "Yahoo Sports",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQY1RvczJoSkhVV1ZWS3pqRE1xTFhpS3FsTG54ZnNsNmo3alE2c0NaZE9MdGpzRWVHWHU2M0VRMjcyVGliR2o3a3RWTXVSU04wN1l3N25fVS1Pb1B4RDZoUlZ6cFFxUVdteWJyMVpZWkNralcxcVFNSm15Qjh4NHZTUXRyZGx4MGdTRll6QzRn?oc=5"
-  },
-  {
-    "id": "news-1kl07cb",
-    "t": "2026-11-12T21:09:43",
-    "type": "news",
-    "auto": true,
-    "title": "Report: Penguins' Erik Karlsson Generating Interest From Division Rival",
-    "body": "",
-    "src": "Yahoo Sports",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYXpsU3JGdjhUV1gtSDVlRVVFY0lfUkR6NzVNUTM2MWhoZnRDTFRMQ2tKT295UVZhX2tCaHNHUVc4SHY1YWhxcXljMlVNMFhrUVdENnotZjMyT3kydEx5bC1abW9LTWlGazE1WDNOQVAzU1AyMnB1NmpkUjREcGlvZ0lEdHZSSzFEenl2TUpuQWgxazg?oc=5"
   },
   {
     "id": "auto-add-8482100-20261026",
