@@ -1,5 +1,77 @@
 [
   {
+    "id": "news-1f9f1p3",
+    "t": "2026-11-14T23:30:00",
+    "type": "news",
+    "auto": true,
+    "title": "Penguins may have found the perfect trade destination for Erik Karlsson",
+    "body": "",
+    "src": "https://penslabyrinth.com/",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPak1XVXNhQXdSNmtURzJlSkcwczE4U1NrYUEyeVd3MEN6ckdLRWxjZFJiX042UmY3Mk5ZNEE5SmZTSUdpTU5BSGpaSEdmYjQ3cm5KNHI1dTlVb0c5ZmdfbER1bzJtaUJSVEIyVWJQajFWMGh1Y0RDM01ibmdIWTV4a1E3LXhHZFNIdm5MNHFxc25QcmRMYzVnZ09tdnR3cmpaV2JOMWxNeVZ0aWZrWnd3?oc=5"
+  },
+  {
+    "id": "news-18hbq1w",
+    "t": "2026-11-14T21:46:34",
+    "type": "news",
+    "auto": true,
+    "title": "Svechnikov, Jankowski double up as the Canes smoke Seattle a second time in Finland",
+    "body": "",
+    "src": "Cardiac Cane",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPellneEdiNnNPM2Z0YzBjaXNCbnIxNldISTFDTnlCd2F2U3I1MmhNd0EwR1p6anhDNlBJNlQ0NWttSU5aamhSanZqVG5XSm01WHd5VHlfdDJVVDB5dXdSOWZxLTdnT3ZNWnVYcjlkbnB5SzVwYW5jSG1aTGJtVmdnQzBJNHR3bUtCVzRwSFo5VHVGVlVjZUo2YXE3RDMxQQ?oc=5"
+  },
+  {
+    "id": "news-1rwrtp",
+    "t": "2026-11-14T21:28:10",
+    "type": "news",
+    "auto": true,
+    "title": "Carolina Hurricanes dominate Seattle 5-1, welcome back captain Jordan Staal",
+    "body": "",
+    "src": "WRAL",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaHNib1hwczJaYVI5eG5FZTdPaGJQQXRpS2ljUlRsRGNvVmQwaWZUUjljSTVBTjRMaGFrRGtkWTV0MVItb3hMOFJUc2RaUWpiOFJLWHh5MnQzWVM1UlZtazJwblM4aEFmekpzOXFXOUFoVmJjMGhVR1ZwTjV1Wmx5WTkyVlJqYlNhQkI3WEhubw?oc=5"
+  },
+  {
+    "id": "news-1ik8bq3",
+    "t": "2026-11-14T21:04:09",
+    "type": "news",
+    "auto": true,
+    "title": "Carolina Hurricanes bury Seattle Kraken, go 2-0 in Finland",
+    "body": "",
+    "src": "Canes Country",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOemhuTTU1eHdVV21xX1EybVZKOW5BTWRTMHdUOEdxcjc4Y0ZYSjI4UURSV3FLNklLZktKYWFBZzFxOEtwTXEtWVl6dGhQdjhTeUI0UnhldEtROTl0VG9mWWRXdC12Ulg3bVFsRklyeEpiaFpKUFhIdFhOT2QyMlRUSjZIUWhya2tUN3ZURDF6VGhDMzJwNjFGT2lhMWhMTFBYSm1zaUNuUl95dWdQVDh0UDh5RHVKWWxFazBkbXFNcDhwd1dveDlCTWI4Zi0?oc=5"
+  },
+  {
+    "id": "news-8zbtsf",
+    "t": "2026-11-14T20:52:55",
+    "type": "news",
+    "auto": true,
+    "title": "Metropolitan Notes: Bowness, Capitals, Kolyachonok",
+    "body": "",
+    "src": "Pro Hockey Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZkxhN21OZHc1aUtOZGF3MTZ0SG51ZlRHelA5cFpSOUg3cnpFZkRKWlpTWG91X19OQ21tcWtyQnBRSk1xLUFfVjVKLUY3LTVIZWJjU084Qkc2VzVpVkJrZUwwQ2NRa0JkUjBJUjJBWkY0VWpaemZPc29wcXBXWFgtMjltbF9RQk1KNDZfYlg0ME9ySng5TFhV?oc=5"
+  },
+  {
+    "id": "news-1ign4n0",
+    "t": "2026-11-14T20:15:48",
+    "type": "news",
+    "auto": true,
+    "title": "Chris Kreider Out Six To Eight Weeks",
+    "body": "",
+    "src": "Pro Hockey Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbDBpU3h1X2JtR2FjZ21MN1dTMUtRYlRCYUUwaUwzazExRzF4cXRNeHhTZWs3b2g2aUxUQ1VJTGliak93RFBfeFZWOGxFMUJSQTdYY1ltRmQyRjRXRGdPbTNGMlpjdlc4XzJ3VlpXNFRkTDlpTzFsR0lZdnF6SWk4bDFEbnR6c25h?oc=5"
+  },
+  {
     "id": "news-1hef2vo",
     "t": "2026-11-14T19:03:11",
     "type": "news",
@@ -84,6 +156,18 @@
     "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPWW56RHJtaURRUk4xV1ZNbUxSNjQ5RVhITU85N0pYQkVWb2x4aFlFT1JLRGRnakRqLWZzQk1HZThyWjM1SHVDV0VpZ1BoLV9YLXVscng5VFpWZzFxS2VHb0tOenBIS2tGbGY3YU1ubldWU1pwSHZvcGozTy1YcDdIMjNaSVlKZWpEWXVGdk9yU0s3WWo4eVJ1R3dJS0l2ZmoyWThZZGVNaVRHTG93ZHE5S1kyU3dCQzYwXzRLUnllYS1KN0lFQVhWcFpnVVN4Q2tLQ2U4VzhzU1lydVU2aVRLa0JaTU5nSkUtRS16ZWk5aTlUT0J4cDV4U2V4dXpoN2dWOUJaM0NRS0JvbnFRcW52OG9pb3B4RmFlZ0dWOGJDWVNHemRCa0dz0gGsAkFVX3lxTE5Rb0FhelpvUGsyNFEyaU5URS1SdmsxR1lINVVscEVMbG1wUmZhYmhqTl9pYURRNDZsSGFnX29DX0kxMXJoQ1hLQkhoTVVhbVRQdFlYSkQ2T1FrMGFnU0E1UEpobkNZdjF6YWtULVBrcXJiUVBEcm9fb19uY1Q0RFlhcklDRnZVdTk3Qm5yVVQwSk54ZFB6Y1JrUTN4TWVjSHRDdEJjRGw1aGZlMnZDLWNWd3VsTE5YemhVSGU0Z1R6dl9HS0pObER4U0xJV1pGdjJHejlITG9aeDNOY0kybEcyOTkzczhkUlhHRlViQmRoVHlnWUZLaUdkMm9Wc2c2RWVBc251LWVKMnRIOWFsUWZhTW1RX2VBWlpQNXotS0xuM1VITFZ4czNTT0hNMg?oc=5"
   },
   {
+    "id": "news-1ld9u9t",
+    "t": "2026-11-14T15:21:07",
+    "type": "news",
+    "auto": true,
+    "title": "Carolina Hurricanes will have tough decisions to make with their lineup",
+    "body": "",
+    "src": "99.9 The Fan",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9CbTJOZUpiOEExWUxJTnZqM0hsOGZ2NUk0ejUyRUx5am5YTW5QdWYzN0UwSlA0SHdvU1F1c0xZMlZyV1lRV25QTy04UXloaWM?oc=5"
+  },
+  {
     "id": "news-a78k48",
     "t": "2026-11-14T14:03:00",
     "type": "news",
@@ -106,6 +190,18 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPS0ZCNTJnWmFJQ0puYlAxcXROTzg3TG9TMjVkWVBMZ0M1U3ZHVEhZRGNZczR5aWo5aS1EUTczTG41T0t2b1Q4Zms0Z1ppWk1aSGxUdDZoem8yMXZlYlRLTGctRlNnTXR1Vl85X3E3bVNSNzBFaGxURjlQaTlqZC1KZDJqR1JSbWlBcWlaRktrcHBHUTQ1NGJQVkpzbGtLMTRWU0U3eU9mN0ZyeTc2Vld1Ry13S0VHTnh3UVFlQWZmcUowM3dTT0w2Z05VQ3hkYTB0OVlB?oc=5"
+  },
+  {
+    "id": "news-z74yhs",
+    "t": "2026-11-14T13:31:00",
+    "type": "news",
+    "auto": true,
+    "title": "Report: Flyers Held Secret Meeting Before Michkov Blowup",
+    "body": "",
+    "src": "NHL Trade Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSzdyWVFzbTZQS3NvNzYwdzdFa21yQm9Mc2VZQVNoM01FaDNLU2xMSmhXQ2tnYnd2bFV3REc2d1U1SDhWMnowZ2JuTktVam1yOWhJSWlEc1VlSGkwMFVOcWRqZ1pQMW9WcWdkS19CV1FaSVFFb1gwaVB2S1ZjaEJRVHNTMFA1UmthTDcxZ01JMFI5bzFFdTlNYWtTam5XUQ?oc=5"
   },
   {
     "id": "news-2a5n83",
@@ -154,6 +250,18 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZXF4aDV0cmVWVXBjY19OSUZPOWFlUDM0blF4UDYtTEhtRUstMnRUcFJRT083WGFaVnNZbUhSZWtTNnFZeWFkUDJjWk5FVE9BYk9jdHNDQ0t4TkYwQkVnNzZicEN5Wkp5WURxZ3VFdGdDQmh5MGhnejcxRlBHVUZmZDUtR2xDcllaSkhYMzBIUEJpMktqbU96ajhDendHNFdBSU54TkN3djM4LTBtLTBBQ2UyWXpEOHZQemJQS0lCY25GS2JtOUh3aw?oc=5"
+  },
+  {
+    "id": "news-1f07hi2",
+    "t": "2026-11-14T04:47:49",
+    "type": "news",
+    "auto": true,
+    "title": "The Adam Gold Show LIVE - 11/13/26 | Carolina Hurricanes | Carolina Panthers | ACC",
+    "body": "",
+    "src": "99.9 The Fan",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5LTEt4Vmx4T1MxcGtRcURBZk5OVzgxUHJidTRzN194alhWcEh3M0lDeGpCdU5tWGM2aXVLa05CWTRMWVJwT1I4WlFqUkRiTzQ?oc=5"
   },
   {
     "id": "news-kxlblg",
@@ -348,6 +456,18 @@
     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYlJnYWRVejdURlRNQmxtMS1TRHZoSnJ0bVBhNnY0RWxMd3lTc0tyalBoUEp2UzZnZ3JXZVZGWlBObDFmeWRjM2s0NWhUenRTYjQ2QTdFTl9NekxoWXBpdmZQRXZITXRCc0I5dlJqNndBSkFFTHlXUUxNd1E1MGw2ZmxjMFlKTkk?oc=5"
   },
   {
+    "id": "news-a80lw6",
+    "t": "2026-11-13T16:02:18",
+    "type": "news",
+    "auto": true,
+    "title": "Wild Activate Brock Faber Off IR",
+    "body": "",
+    "src": "Pro Hockey Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcWYwa3l3OWxFTkF3ODFzWUJ5LVBhMzIxREk2cm5jdzFuRzVEbmo1OFVBUE9hVTBtVEhHbm5xQ0hlMFpNV2diZUhpb3dWX0FuZV9scTEzcWdvRFhyLUN3Q19SNTFwWUtVdGlOWm1tVlNfT0ZubVJ6MWQxZXZOQUt4NGEyeUNNQ1gwR3M4?oc=5"
+  },
+  {
     "id": "news-1sx8csz",
     "t": "2026-11-13T15:35:00",
     "type": "news",
@@ -370,126 +490,6 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTHpzVExpd1JweWpNb19UUVRaOFJKa3pPSUdWTlA0S1Jxdm83LVBSUllqUXdVYm9qYzBQb1VZNExQMWVOR0tBcFJsQnZ5QS02dE5EUS0zbFR1LXJTX3pQY0tiMXV2dkYxelI3VktxQ3Z4WE1iTmQ1c1FlNEREaF9MQTJjSkk?oc=5"
-  },
-  {
-    "id": "news-40176l",
-    "t": "2026-11-13T14:03:00",
-    "type": "rumor",
-    "auto": true,
-    "title": "Maple Leafs & Hurricanes Linked To Alexander Nikishin Trade",
-    "body": "",
-    "src": "NHL Trade Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcllzeE4xeVhSU2ZPSG9lRzJ4NDF2UUw2bjhTc3FiT2hHR3FTbklVeHF3aEpldjFvSEhpbkgzaVFMck94UFA1enR2MmNCeUVqUWJPRjVvZkhVUUVLRE5TQnBEeG9keXNTUGltclluaFZiVXVEdjFmYkZuX3E0YWpiWQ?oc=5"
-  },
-  {
-    "id": "news-2xgm12",
-    "t": "2026-11-13T13:35:39",
-    "type": "news",
-    "auto": true,
-    "title": "Report: Hurricanes could have interest in Erik Karlsson",
-    "body": "",
-    "src": "Yahoo Sports",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPelZfMUpvNHNUckRaLU8xTGlnSVp3aGRHUjlDTTZIem5SZDJWZS1iYUlSZ0dUeU9RLU93WnRfZUZQbVlpX2NfY3RuMHdvNWJkMHcwUVlRQVZrQU1FQU1CNGNtRm1vVFBwZ0pWWWM4RUUxYkdIVXNGX1p2aTBBS1RZRkI0eHZRa0pGR0pyZFNVSQ?oc=5"
-  },
-  {
-    "id": "news-1tvejxa",
-    "t": "2026-11-13T12:48:01",
-    "type": "rumor",
-    "auto": true,
-    "title": "Report: Hurricanes \u2018Ton of Interest\u2019 in Erik Karlsson",
-    "body": "",
-    "src": "Pittsburgh Hockey Now",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRDJLU2NnOUtjdWJnT0V5b20yajVKZzFxYS1XZldiNFBLalhFcXJjLUM4aEdqM1dDdWRLdGhVRXVXMmxHSXBiSEFabE1DVmNrTE5DcW95TWhCd2hxOHphYU5CMkloRTdMcGRCT3JNa2lkQVUyVFZOaURscmNEeXdFdkdtcVNNaHVadmZ3RGE4QkRUQkVXV2hadzZFSmN5angzS1hfNGMyczhZZUE?oc=5"
-  },
-  {
-    "id": "news-cc88d5",
-    "t": "2026-11-13T12:48:00",
-    "type": "rumor",
-    "auto": true,
-    "title": "Report: Capitals Closing In On Ivan Miroshnichenko Trade",
-    "body": "",
-    "src": "NHL Trade Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONFFObHFQQVUwNk02UjlGNDV4aXFKLWdCQ2c4RmdpQThGS2ZtaEVjY0hiOWJkNHJMQjdUd0JtZXAtMm50aEV0UG5aVmN0bFpodjVQMlhSM1NSMS1tUnNycml6S09ueXNKSWNfejU5R1VGbUdnX0hST3NRekFaajBxZUdIMzBBZHdreVNKYQ?oc=5"
-  },
-  {
-    "id": "news-1u4vauk",
-    "t": "2026-11-13T11:04:25",
-    "type": "rumor",
-    "auto": true,
-    "title": "NHL rumblings: Karlsson to Hurricanes? Quenneville\u2019s future, Michkov interest, Tanev\u2019s plan, more - The Athletic",
-    "body": "",
-    "src": "The New York Times",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRnRrd2FEOXdIYnBveXRvbnpUMXV4QVYtYVFIbk1NLW5qNXBwSDA5RUtyRVoyb25UVHFrMXVoV2F6YlZtNTZsazRQZnJNOGtNUTR2NlRaWDZxbm9VaERYVUR5aW55WGxmUHdPTU8zWVdzbTBueG42Rm8xc2MxV1Y1RWtnR2VLWFZnODlJbFF1LVNDZVFiRDBQOFRwRQ?oc=5"
-  },
-  {
-    "id": "news-g5xa2v",
-    "t": "2026-11-13T05:40:13",
-    "type": "rumor",
-    "auto": true,
-    "title": "Report: Hurricanes Have Interest in Erik Karlsson Again",
-    "body": "",
-    "src": "RG.org",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMDhpZWdISm9LaU9IeUNTTzVZSFlFSUtRbng5TENiZEQwaF9tdnN2bDg2ck9WMnhGRjNydlJpeVdzUnhrRENoZlVFVGlWZllaTFFaWGprRE9wVi1PdlFoSHlSc3hVdHJWcktCQXZVVi1YQ3JlVmt1UV83anVnUEViOE5VR3NwUW80aWxVSUo2VQ?oc=5"
-  },
-  {
-    "id": "news-1gu0bh5",
-    "t": "2026-11-13T04:05:46",
-    "type": "news",
-    "auto": true,
-    "title": "Panthers Reassign Jack Devine",
-    "body": "",
-    "src": "Pro Hockey Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WQXJOQ21WWXREVWp6TnN4WGRkQWRBUm51VkQweElhQnZ6ZEdSSXphZ2VkOGRCMU54OXA1Mjl6al83V0F0MXpfRGNYdkMxWGJxVVcyMDVCRjFuU092UnJYWnRGYlBnemJXcWpyWHZ0Skg2Yk55c0JWeTFqR2J5MEU?oc=5"
-  },
-  {
-    "id": "news-1folu7u",
-    "t": "2026-11-13T02:31:45",
-    "type": "news",
-    "auto": true,
-    "title": "Nathan MacKinnon, Cale Makar Exit With Injuries",
-    "body": "",
-    "src": "Pro Hockey Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNM05LWWQxOUxCZjU5UXoxSkQ0Yzh6b2pDZWhTTXJfaTVmRWtBS0pPLUtrT0VPLTJXWmZpQ0xGQTRiSEpxdUdoTVozb25HNGhpLU05N3R5SnZOc19zZ1prajcwa01oQWdFUng4LXU2TFlKcTFZVUVKenlwZGxXaE5ReFdMa01Md3kwSThCN0EyTmtfVDJfYVE?oc=5"
-  },
-  {
-    "id": "news-11a1ce7",
-    "t": "2026-11-13T00:41:00",
-    "type": "news",
-    "auto": true,
-    "title": "Chicago Blackhawks NHL Line Combinations",
-    "body": "",
-    "src": "Daily Faceoff",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9WS2llSUVMSGh0blg1b2hNVm92bVFHdjVBb3pTby1GVWpOTFlPcmZmZXNBZFliYmZsZTE5b0FTbmRKcmEtb3pnSlVzdzEwWjhZUW4yYjdCa3dGU2xIR3RVTkZGTC1KOVRiYkw0bWVjd1hmSnhLZ2dvd0VQUTI?oc=5"
-  },
-  {
-    "id": "news-dp56nk",
-    "t": "2026-11-13T00:37:26",
-    "type": "news",
-    "auto": true,
-    "title": "Senators Activate Linus Ullmark, Assign Jonas Johansson",
-    "body": "",
-    "src": "Pro Hockey Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZWxmNll4RWxXUWxXY3ByZWlvT2ktUlZnUkFpaHdQMEc2TE9La1FPZ0pVTXlZaWdFRXRSa1FUUDhBNHpqcUJ0bWtPOUJ3Z083YjRiTVdIMnRhRlhVY25OakRWMjlSMG9UWFY5bE1Qd1NyelF6TGF3ekp5RkcyNWhCaUJmeXlLdlp6OUd4VGhmUXhZMlJMNnFGcWU3eG5hTzVE?oc=5"
   },
   {
     "id": "auto-add-8482100-20261026",
