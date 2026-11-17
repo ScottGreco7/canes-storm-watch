@@ -1,5 +1,65 @@
 [
   {
+    "id": "news-1c6nj4t",
+    "t": "2026-11-17T21:00:00",
+    "type": "news",
+    "auto": true,
+    "title": "Sebastian Aho is playing his best hockey",
+    "body": "",
+    "src": "Daily Faceoff",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOEZ3aGFja0JtQkNvaGswbjJESnNyRHYyV1pIek90bTFDTFNLbXNHR3dkeWtzWGJiQXNDNXJIc0lDWXhlYUNOaHdzMHF5RWl4WEFVcUpTSDRjZnRnbmZHSDN0aUM0alVVbE9ra2x6UkhZNFNYeFlLTGs0ZzViVE4za3RPVlBOV256RE5PVHhjV1p3OVFQSG9ZbzZYUQ?oc=5"
+  },
+  {
+    "id": "news-kshlea",
+    "t": "2026-11-17T19:00:15",
+    "type": "signing",
+    "auto": true,
+    "title": "Evgenii Dadonov Signs In KHL",
+    "body": "",
+    "src": "Pro Hockey Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE90YVdlalp0aHZpMzRhREJsRTNyUldCdnZwR3BLYlNJSHVLRmRFVGtkZE5NVEhpWTNkN0pZYm1ha2dPeVJTRWk0OFJlZzVSQTB2SnllWDJ3SEdCWGdhTE12OGpUZUtpWWpmY0ZuUjJuVnJoTTIwSTZMTkQtU1REdw?oc=5"
+  },
+  {
+    "id": "news-1urkq8e",
+    "t": "2026-11-17T18:00:00",
+    "type": "news",
+    "auto": true,
+    "title": "Which teams have underwhelmed so far this season?",
+    "body": "",
+    "src": "Daily Faceoff",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUWJoREMyME5rNnIyTHNGVFptR01DclozSUFDbGlFWE9rNldfNWloTE5WZG1RTXgzRTJlUWpaT0tMM3pNSmxhUF9IWTYyVk1wcXVLbFRwVmo0WmpCc1FoV01xTDhQUDRJODZSdjk4MWV5VHVyaEN6SGl0VG1MaUt1WDRzS2g1MzJWZU5RZ0piMEY4cDBhUTFPcDV4QkJXSEQxMjZZ?oc=5"
+  },
+  {
+    "id": "news-1qbamj1",
+    "t": "2026-11-17T16:45:57",
+    "type": "news",
+    "auto": true,
+    "title": "The new Fansided app makes following the Carolina Hurricanes even easier",
+    "body": "",
+    "src": "Cardiac Cane",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTXlWOExsZk5wcW8zMjloRUJIMnNKb0pNMjZtZ3ZnXzBkS25nOG9IcXdGZVFGdXA0SU9aNUl0cXpCc005dDlTcUcwalpqVWFkVEFKTm9aME5sSW11SzRnemJSYjVhUU5jWU9XN0twNjJTYWw4eVdabGJ0eEdjdVZVNnZkUlNEUTRHcWZGV3hiekZOUQ?oc=5"
+  },
+  {
+    "id": "news-2tr2t",
+    "t": "2026-11-17T16:39:00",
+    "type": "news",
+    "auto": true,
+    "title": "Report: 'Frustrated' Travis Konecny Could Be Headed For Divorce From Flyers",
+    "body": "",
+    "src": "NHL Trade Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOenhHT2VIQUpSNHhqRnJRb3hNM0NERTh6MXp4MHcxRDFXRFAzWmo1NDF4aWRiODNOUmF1WF9WZktHYWRnSWJEVURRVG9HRTR3ck5GYlR5SVNoU19WYmRjT0ZodVhmMUVFY0ZRb1IwLVdqOFphdnlqRURpNzlGQ1c5UjZHSTllUm42?oc=5"
+  },
+  {
     "id": "news-3bf85l",
     "t": "2026-11-17T13:05:00",
     "type": "news",
@@ -408,76 +468,16 @@
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPT0pHWlRRbkk5MElvVmZ1U25BeXVPV245aElrNU01QXNKVEZJY2x3MFhYcVhUVWZZVXBUTElSUS1scWhOVGwwall4MXBSVXowVWs4SGMxLWV4OWR3T1BaZFpVZXFsd3Zsb0tvZVdIM1lNWU93bGpzbUMxN29oZ0IzREwwS1NWUGVLR3RwMDFHOXNXaVFKTkNZR3AyellWNjM1ZTFSdmN4SklVSjFUeVdFUzZBYw?oc=5"
   },
   {
-    "id": "news-7b3u2o",
-    "t": "2026-11-15T13:02:00",
-    "type": "rumor",
-    "auto": true,
-    "title": "Report: Hurricanes Renew Pursuit Of Canucks' Elias Pettersson",
-    "body": "",
-    "src": "NHL Trade Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVWpWb0NpNFVXRDAzNThkLWR5dFhwN3RTQ2RRQ19yTldCWG5YYklnd25BbjFKRDRHWExfSXB6ZTBPYXdMaC1TMk5vSDFvbkoyZVVFVFJwUDAwSXdSdFJqYnZpMXY2ekROYnlhRXFkRGdSZ1cwZ3M5UWtLenI1YUxkVXE3cVkzbVhEYnZ0OA?oc=5"
-  },
-  {
-    "id": "news-1b6e4di",
-    "t": "2026-11-15T08:00:00",
+    "id": "news-t3rnp9",
+    "t": "2026-11-15T14:03:00",
     "type": "news",
     "auto": true,
-    "title": "Canes win both games in Finland against Kraken",
-    "body": "",
-    "src": "99.9 The Fan",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVlhGcENTaFV2R1FGcUlWOUF4SUptWXV6MWpjNWE5QWU2Q3lTUUNMQTMwRzVaYkZqaEdwc1pqNUpBM1VNUS1xeUdhMnNPU1hPd1NyV29iTDgtcC1nTTNtMndWU2c3eFg4Q042SFprWThiTWJ4ci1TTjU0WjIzQURkQTlhdWROVEVmYUloX0dVRVdzSWFuS2ZieTU3R2pGUl9zOXc?oc=5"
-  },
-  {
-    "id": "news-17lzanr",
-    "t": "2026-11-15T08:00:00",
-    "type": "news",
-    "auto": true,
-    "title": "NHL Starting Goalies: Monday, November 16",
+    "title": "Washington Capitals NHL Line Combinations",
     "body": "",
     "src": "Daily Faceoff",
     "out": "",
     "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVSGZlZ1drRFBOR3lVTG43Q0pGRUl3MkZ6YTlGZGZ0anJJdXpSNWcxV0psRXo0VWdKNjlac0ZzbDFwU19NSmpIQjYtSGJWd0FkZF9jZzR1dlIwdGdzenlJY3pMdUVuS3c?oc=5"
-  },
-  {
-    "id": "news-1e8xh69",
-    "t": "2026-11-15T03:58:31",
-    "type": "news",
-    "auto": true,
-    "title": "Former Canadiens Defenseman Placed On Waivers By Hurricanes",
-    "body": "",
-    "src": "The Hockey News",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVHFFNmxNeWxoOV80NXExNU5XbGZ4ZDhQWEhVRUpiWEotU2FMeUlTSVlnU2d6a1ZaUk45eG9GdVQ4ZlhkVUFhcmtnTGk1cWxwX3oxOHU0MjBkOFRSYVBtdmgxRjlJbG9scVUzQ2E3VFBFVnZRVks1YkhqdDBwQU1IWkZ5d0doZVhoZDIxbWhZNXFJeWxiZTVlYktEV1RoSEQ0REx5bkZOaTl2emFXMVVHM3VYTnFWcmtzOWZEWA?oc=5"
-  },
-  {
-    "id": "news-1ozgrsk",
-    "t": "2026-11-15T02:31:57",
-    "type": "rumor",
-    "auto": true,
-    "title": "Senators Open To Trading Andre Burakovsky",
-    "body": "",
-    "src": "Pro Hockey Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOFNfN0UtTmJweG1Na1Z1aE1UMDlpYno0dUZJcklxdDFsN2JBVC1CUWRnN2NfcTloXzZoVEI4Tmp3RWVqN1dOZGhPQUZiQ3Y2UnAxZEhKamVpcTFubWJqZi1sN0U4aHNMUjZLWjdDZndoUWtjWmozanFVSldZRG9jT1pHRkd2N0ZOQVVhb3hFMA?oc=5"
-  },
-  {
-    "id": "news-1gx7nb8",
-    "t": "2026-11-15T01:26:00",
-    "type": "news",
-    "auto": true,
-    "title": "Former Boston Bruins Defenseman Suddenly Hits Waivers",
-    "body": "",
-    "src": "Yahoo Sports",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPczh2dlI1YlRzT3BrWkN4czNBWkdKS3MzTV9MWmlnMUYxbTZvMDNZQ2U1UmdCM1d6bEstSWZkT2Y1eXFLNzhyNS16b1dMRlhrQlo2Q2IxZy1yakV6ZS1zenVQbDlSSXFzVU1HX1VqQzVtOVdpVkhHOVRvMks2dGdTbTA5cElIQnFhQjVWeHZ1SVNfeEE?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5TZHVjdThzbi05ZFp1RDBsYUFTSjdLVVFLLThsU2tTTlRyRlROdndzNXl1XzRLaDNWSGtIWXAyX2J3Z3I4MTlCdXNHYlNfUnVNaldwMHdzX1FPSWJkZnhCWFRBSDh2ZkV3blNIdzZ6UGZhOWNSMGc1Ty16a0F0QQ?oc=5"
   },
   {
     "id": "auto-rem-8476422-20261114",
