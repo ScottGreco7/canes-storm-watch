@@ -1,5 +1,65 @@
 [
   {
+    "id": "news-uwxliy",
+    "t": "2026-11-25T03:12:37",
+    "type": "news",
+    "auto": true,
+    "title": "The Adam Gold Show LIVE - 11/24/26 | Carolina Panthers | Carolina Hurricanes | ACC",
+    "body": "",
+    "src": "99.9 The Fan",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaDdmdUswSGJ4VWxJNzY0bTJQTzZBWGo1TmsyOXdSQzBuQmFnM08xVnZmUE83Q0VPU1pidEdOQnBLMkVpVEhLMFF3TlphelAxd1Q3bmdXaDg4Wm16aU43RnhDeE1tQVFhcjRzenFNaEIxbG9rT0t0WmoxcHg3T19QYkJhWkJIVHVqdzJlNzJOWDltOUNTOXM1T2ZaRnYxR2FvTmxyX3VjOVBoYURBMU83OUNMZnA?oc=5"
+  },
+  {
+    "id": "news-e46rtc",
+    "t": "2026-11-25T03:07:49",
+    "type": "news",
+    "auto": true,
+    "title": "James Hagens Returns To Bruins Practice In Noncontact Jersey",
+    "body": "",
+    "src": "Pro Hockey Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQX2tJczZmQXhHS3JQMmVOU0xEUDQ2REhCRk5MVnMxRlpLRFZMNjNPOXpjWnZjdFFlYkIweEt6YXZPUTRFNE1qSGJpU2tRZk5CMi1VQjhWdmEyN3phMlBUcGh5Tm5rR01PSUtzRHBkdUF0T1Z6a0V0bVRiYnl0OUVHR2pBdDZHck16V2xHV1hTeC13SE5oWUY4cHZKN2xLWHZUWGNUeUgtTHQ?oc=5"
+  },
+  {
+    "id": "news-fkuwx",
+    "t": "2026-11-25T00:58:24",
+    "type": "news",
+    "auto": true,
+    "title": "Brandon Hagel, Zemgus Girgensons Trending To Return Wednesday",
+    "body": "",
+    "src": "Pro Hockey Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbmNkakJnRmZ1MC1PSWZweWMyb0hzZEZkQVZrMm5vUTZ3b1U4OC1hUDgxbDd2T3pYYXRISGNjMzNjRE5TTDB6eE5HM01zam52VnJGdEIzUkZ3UGdMRkRlRWhfdE1jYnhBRHVnN2RraHA1emdfc0RkcVFYbHlzU21HTEdwaGd6NENpX25SOGxscmV6NENHWnFQY1Q3dFEySGd3MTVkdUJ0TkQ?oc=5"
+  },
+  {
+    "id": "news-hyh0s5",
+    "t": "2026-11-24T23:33:00",
+    "type": "news",
+    "auto": true,
+    "title": "Major Update On Sharks Offer For Simon Edvinsson",
+    "body": "",
+    "src": "NHL Trade Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONTBjcjhVUURQTVFiSXptXy1aM0VyVVVfZ055ZzF1WWFlWktuSHp2a2xwdnZBV3MtaHhSYXh4b2pzR1VEZEkyQW9CSXhjTWNWWTA0U21BZzVfR3hoVmFJOTlKVjU1TmE2aTRubjlVNUxxbXBYNHJSR1ctRDlXcG9zRFd2YTg0V0hV?oc=5"
+  },
+  {
+    "id": "news-1p5hyhg",
+    "t": "2026-11-24T22:00:00",
+    "type": "rumor",
+    "auto": true,
+    "title": "Blackhawks & Canucks Emerging As Potential Trade Partners",
+    "body": "",
+    "src": "NHL Trade Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTFI0N0FZS2dQRDlJOHZPRFdBS3IyUzR2MHlZY1c1RHBObDZHWnRfSmt5VVBBZktxMk10X1dzYmxQMHl4VXFEYlVWYVRqVFhWWHdzazFvYkhKZFVHY2h1ckJUQzIzSUlQX0JyaU8zV0hEVTJjeHNaclB3Y0hxY1RHTGZZZjlTdElVbXl5YnBXaFRfYWl5TDFoVTg3WU9UMHpyRnc?oc=5"
+  },
+  {
     "id": "news-1htzr31",
     "t": "2026-11-24T21:58:28",
     "type": "news",
@@ -10,6 +70,18 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUW00R3FoTzdYbGxYV1JCdzFOeXVNQW9jTEl3Tk9GUU1ELTFJendMSDhrUkFoOVR0NHpwWDhxNTZjVDFIWVk1RGJucno2VnYtQTZkU1NXTklfYmtOMHAxdll5Zkg2UXREMmxDbkRfS1BKOGNyRHNETWh6YkczZGhKYnhuaVVRbVRWWFR0U1FzanZ0ZWQxT0hTYl9fZzZLUHdrQ21xQnhINGY5TEVMWEtjMjNBbw?oc=5"
+  },
+  {
+    "id": "news-6b8osn",
+    "t": "2026-11-24T21:00:00",
+    "type": "news",
+    "auto": true,
+    "title": "Injuries can\u2019t be the excuse for the Panthers this time",
+    "body": "",
+    "src": "Daily Faceoff",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNd2FCclF1c2JTRjMwRmZiTlR3SWZXMUNUZGZQYjlEOHZRRE14b1QxZEhCQTR5c3hfVzV3YUloT3M4U0FjYUdqTHVnaTJPc3dCYWxKc0x0a0VlWlpzdm5wazE5MURpR241eE9iRFVkeW84TFdReUdBcXozNnJDb0R4dVJQc3AzcmpDdWVMUmFrcV9FU3QyRzJNMmVwWQ?oc=5"
   },
   {
     "id": "news-phdvjw",
@@ -276,6 +348,18 @@
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaklyV0VrVUE4M1BGLW1uOFY5anNTSGlsc21qX080ZV9LVmlKZmp6TWZJdWVjbDJEVmVfQ213MHhYVnhzdU9STHFZMkhKQWREaUQ3N2lsaHJoZm9YVXRzVmlrQ2E0N0ZXeW1lWmRtS0Y4SkF5SkZreTF4aVhwSVpUdllsWV9SUmhKSGR3WA?oc=5"
   },
   {
+    "id": "news-wu2032",
+    "t": "2026-11-22T19:11:00",
+    "type": "news",
+    "auto": true,
+    "title": "Alex Ovechkin Hits Unthinkable Low In Final NHL Season",
+    "body": "",
+    "src": "NHL Trade Rumors",
+    "out": "",
+    "players": [],
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSFJUendYZnNXaFF4alFmWE85YkNfLUxocU8zM2V3T0pDTHNnWi1ieUtxX25Rdzg3MjNrY2lhZmRMUFF6am5kV1dmODBzVHQ3ajB4ZlB2M2NYWi0zSDQzUjdYcXVDOG9Ed1Q0VHM0NEN6Q3pKQUxnWHpPYXgzV2tNaHE2Z1lpNDVYc1VkRlJBRmN1d19hLWVUOQ?oc=5"
+  },
+  {
     "id": "news-1vnzglw",
     "t": "2026-11-22T19:03:04",
     "type": "news",
@@ -394,90 +478,6 @@
     "out": "",
     "players": [],
     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUjloVHM5M3Z4RG5aNjE2OVJLNjlQYjFqVVczcGE3WW5JWmxuUVA0eHBEMmQwLTZOcHZ3aWF0cFFxUXA4a2N6cWhXX1RmZjRNRVMyNmNCMFdUVGhCcXAzclVWVzRxWEFkclhQeFJ5Smo4TFhXRm1zdk1LdEdfUmxvcVBhRG4zWDVNTkE?oc=5"
-  },
-  {
-    "id": "news-sqkz65",
-    "t": "2026-11-22T13:24:59",
-    "type": "news",
-    "auto": true,
-    "title": "The Hurricanes finish the weekend with a major division clash in New York City",
-    "body": "",
-    "src": "Cardiac Cane",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYk96bnZHV1V3c1BfSHRlMWlJYTdhcEpweDFxT01iLU1jdGJQYzREWUlEcmEzUlBiNXlialFHR0hWM2pqUXNmYWlCWlpSRTlvbmg5SnF0Rno1UU5zdmpQZ1FZRkdTMTE2TDVNUTRRakJETnowN0Z5WlFYN0U3S2I0SUE0bTBfV3hrRTM3NjJHTUdYWmNmNWlB?oc=5"
-  },
-  {
-    "id": "news-119zg83",
-    "t": "2026-11-22T07:27:12",
-    "type": "news",
-    "auto": true,
-    "title": "Best on Best? Canes host Edmonton and Win 7-4",
-    "body": "",
-    "src": "99.9 The Fan",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZEhkb1BrZjlqRWR0bjdFbHVhRWVmY1hrZXJGTEJ4aXBBVVBabWFESUNfSUxvRVUzWDRsSFFlcGZpUlZDaXdVTVltREpRYWJCMTVFd1ZNSTNaNlhSMEFFNkp6dml1X0pMeFlTQVZDUy1TdEUxckkxazRPUUp3RUdWUFZlSmEtdzFNS1VCdzZxeXFvUm5oOHZlODNraDRvY2s?oc=5"
-  },
-  {
-    "id": "news-15xse3o",
-    "t": "2026-11-22T04:39:51",
-    "type": "news",
-    "auto": true,
-    "title": "Nathan MacKinnon Out Three Months; Cale Makar Out Two Weeks",
-    "body": "",
-    "src": "Pro Hockey Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNWdGdzE0bTBvc0plbEZhVlhJdm1TN3lZb2swRWZ1ODBpU2RLV2dwWFlkNGZuZWxZaVU2ZXMyT1paaUNidG5Ed2NHclNYdkgzTDB3OU1wYXNYUjNaSGxlZE93YlVocjJFcEVFdmVGc3Y0N3ZVem5kRnpRRjdJSzhjVHFEWFRqZHFLT2hrOFhIU2J4bC1jWjZjMXBfREYyX1d0bTJfUHRLX1UtVVJSU0lVeA?oc=5"
-  },
-  {
-    "id": "news-1hyd7tl",
-    "t": "2026-11-22T04:06:46",
-    "type": "news",
-    "auto": true,
-    "title": "Ducks\u2019 Leo Carlsson Exits With Upper-Body Injury",
-    "body": "",
-    "src": "Pro Hockey Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMzhiWUhqM0JfcE1sbzdUVW1rcUFSd2tac0N3Z2dBMWU0N19rRjZPdkRiUHpOVHNsOG1nTG43RFA5UVd0aFAtUkd3aHRrTDFkWnRXMUszdlU4WDdhQXdYTUpIYmNabDg1SUhPNmhKcjZORHJybkJyMGdrYlpwdDEwNkF1MUJtYzdPVVB4TFpSMkl4RlZaZFhN?oc=5"
-  },
-  {
-    "id": "news-1udgxzq",
-    "t": "2026-11-22T03:10:17",
-    "type": "news",
-    "auto": true,
-    "title": "Canucks' Elias Pettersson Out With Upper-Body Injury",
-    "body": "",
-    "src": "Pro Hockey Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWTVNMEtTMjk5X2ljU3V1STVIWDVLNVdERnJxdU8zVGlLcHg2bFB4S0dsdTdZS2FxSHdUX0llSEg1cldTZnpMR0I0TVVMeUYtVi1pcWQwWjVnOGpuc00xN0VkcEg5X0dTc3I1aktLT3EtTmt0cktDR1Izd3psTGt3MWs4ZVBqLTJkMlBXY2JQemh4TDFEeXd6Sk9RbHQ?oc=5"
-  },
-  {
-    "id": "news-1iuokwk",
-    "t": "2026-11-22T01:54:29",
-    "type": "rumor",
-    "auto": true,
-    "title": "Sentators Interested In Rickard Rakell",
-    "body": "",
-    "src": "Pro Hockey Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSkJaQ0E4eXl5d1FaWkxhcTJTQnFieWpPdmZhUWJlYmdwbmR1WlpMRWE4SVMwY3lVenAzc2hZazYzU09zanZLTVluUVNoZU5HdjFmN00zZ3FDbEp2eTh2cWE4ZURZeFFFZFpXcVk5Zm51bThNeFRDVHJRclVUQ3ROMERraVY4WTNoTHlR?oc=5"
-  },
-  {
-    "id": "news-18sqjko",
-    "t": "2026-11-22T01:54:29",
-    "type": "rumor",
-    "auto": true,
-    "title": "Senators Interested In Rickard Rakell",
-    "body": "",
-    "src": "Pro Hockey Rumors",
-    "out": "",
-    "players": [],
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSkJaQ0E4eXl5d1FaWkxhcTJTQnFieWpPdmZhUWJlYmdwbmR1WlpMRWE4SVMwY3lVenAzc2hZazYzU09zanZLTVluUVNoZU5HdjFmN00zZ3FDbEp2eTh2cWE4ZURZeFFFZFpXcVk5Zm51bThNeFRDVHJRclVUQ3ROMERraVY4WTNoTHlR?oc=5"
   },
   {
     "id": "auto-rem-8476422-20261114",
